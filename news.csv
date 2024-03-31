@@ -1,0 +1,390 @@
+Link,post_title,title,post_content,featured_image,Date-Publish,meta_desc,focuskeywords,post_category,Post_tag
+https://techcrunch.com/2024/03/29/startups-weekly-ai-shakeups/,Startups Weekly: Big shake-ups at the AI heavyweights," ""Exciting Week for Startups: Big M&A Deals, New Products, and EV Troubles"" ","Welcome to Startups Weekly, your weekly recap of everything you can't miss from the world of startups. Sign up here to receive it in your inbox every Friday.
+
+This week, we've got some exciting news and stories in the world of startups. Let's dive in.
+
+Stability AI bids adieu to its founder and CEO, Emad Mostaque, who has decided to chase the decentralized AI dream. The unicorn startup, known for burning through cash faster than a teenager with their first debit card, is now in the hands of interim co-CEOs Shan Shan Wong and Christian Laforte. Mostaque, in a dramatic exit, took to X to proclaim his departure was all about fighting the “centralized AI” bogeyman because, apparently, the real problem in AI isn't rogue robots but who gets to control them.
+
+Microsoft has orchestrated a heist worthy of a Hollywood plot, snagging the co-founders and much of the staff of Inflection AI, along with the rights to use their tech, for a cool $650 million. The deal, which to me seems more like a ransom payment than an M&A push, includes $620 million for the privilege of using Inflection’s tech and an extra $30 million to ensure Inflection doesn't sue for Microsoft’s bold talent grab. Reid Hoffman, Microsoft board member and Inflection co-founder, took to LinkedIn to assure everyone that Inflection’s investors would sleep well tonight, with early backers getting a 1.5x return and later ones a modest 1.1x, despite the math not quite adding up. It’s pretty bold to describe a 1.5x return as a “good upside,” by the way — most early-stage funds would be pretty displeased.
+
+Facebook (now Meta) was caught red-handed with its digital hands in the Snapchat cookie jar. Dubbed “Project Ghostbusters,” Facebook’s covert operation aimed to snoop on Snapchat’s encrypted traffic, seeking to decode user behavior and gain a competitive edge.
+
+Robinhood unveiled its Gold Card, a credit card so packed with features it might just make Apple Card users pause for a hot second. For the low, low price of being a Robinhood Gold member (because who doesn't want to pay $5 a month for the privilege of spending more money?), you too can earn 3% to 5% cash back on everything.
+
+Nvidia and Amazon Web Services (AWS) might just be the tech world’s accidental heroes, stumbling upon their core businesses like a toddler finding a hidden stash of cookies. AWS discovered it could sell its in-house storage and compute services, while Nvidia found its gaming GPUs were unexpectedly perfect for AI workloads.
+
+The transportation sector seems to be in turmoil this week. The New York Stock Exchange has given EV startup Fisker the boot, citing its “abnormally low” stock prices. It seems Fisker’s financial runway is more of a tightrope, with shares plummeting over 28% in a single day, a botched deal with Nissan (or so the rumor mill suggests), and a triggered repayment clause in their loans that they can't afford — painting a picture of a company teetering on the brink of a cliff. It won’t have helped, of course, that the EV manufacturer lost track of millions of dollars' worth of customer payments.
+
+Arrival, another EV hopeful teetering on the edge of viability, has sold its leftovers to Canoo, another EV hopeful in a deal that’s less about innovation and more about Canoo desperately trying to cobble together a production line with Arrival’s yard sale bargains.
+
+Steve Burns, the ousted founder, chairman and CEO of bankrupt EV startup Lordstown Motors, has settled with the U.S. Securities and Exchange Commission over misleading investors about demand for the company’s flagship all-electric Endurance pickup truck.
+
+In conclusion, the tech world is full of surprises, and this week has been no exception. From AI to EVs, the news has been fast-paced and exciting. As always, we'll keep you updated on the latest happenings in the startup world.","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1127591772.jpg?resize=1200,900",2024-03-29 19:05:49,"""Discover the latest news and stories in the world of startups, including AI shake-ups, EV company struggles, and a new robo-advisor launch. Don't miss out on the exciting and fast-paced world of startups. Sign up for Startups Weekly to stay up-to-date every Friday.""", AI shake-ups ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/30/mit-outdoor-days/,MIT tool shows climate change could cost Texans a month and a half of outdoor time by 2080," Climate AI are developing tools to help cities plan for the future, while others like Climate AI and ClimateAI are providing insights into the financial implications of climate change for businesses.
+
+Meanwhile, governments and organizations are also investing heavily in scenario planning, recognizing the importance of understanding the potential effects of climate change on their populations.
+
+In conclusion, the MIT tool is a valuable resource for understanding the tangible impacts of climate change on different regions and demographics. By providing a tangible metric that can be easily understood, this innovative approach helps bridge the gap between complex climate science and everyday life. As we continue to grapple with the challenges posed by climate change, tools like the MIT climate scenario analyzer will become increasingly important in shaping a more sustainable future.
+
+","The Impact of Unchecked Carbon Emissions: An In-depth Analysis
+
+Global warming, climate change, or climate crisis - whatever term you prefer, they all refer to the same phenomenon: our world's weather systems gone awry due to human activities. Making sense of this complex issue and its implications for various regions and demographics can be challenging. However, researchers at MIT may have found a solution to make this daunting concept more relatable.
+
+Introducing the MIT Tool
+
+The MIT team has developed a tool that predicts the number of ""outdoor days"" a region might experience from now until 2100 if carbon emissions continue to grow unabated. This innovative approach translates climate change impacts into a tangible metric, allowing people to better understand the consequences of unchecked emissions in their specific location.
+
+The results of this tool vary across the globe. For instance, California, France, and Germany may experience a more clement climate in spring and fall, adding a few days to nearly a month of outdoor weather compared to historical records. However, not all regions will be so fortunate. New York, Massachusetts, China, and Japan are expected to lose a week or more of outdoor days, with even more dramatic losses in Illinois (over a month) and Texas (a month and a half) due to unbearable summer heat.
+
+Vulnerable Populations at Risk
+
+Unfortunately, the countries with some of the most vulnerable populations will suffer the most. Nigeria's summers will grow hotter and longer, resulting in nearly two months of lost outdoor days, while India will lose almost two and a half months. However, timely action can significantly improve the situation. If the world fails to reach net-zero carbon emissions by 2050 but achieves it by 2070, Nigeria and India would only lose one month of outdoor days, and more northerly regions would retain some of their added outdoor days.
+
+Climate Scenario Analysis: A Growing Field
+
+The MIT tool is an application of climate scenario analysis, a field of strategic planning that seeks to understand how climate change will impact various regions and demographics. With advances in computational power, climate models have become more sophisticated, making this predictive capability more widely applicable.
+
+Numerous startups are leveraging this technology to help shape an uncertain future. Companies like Jupiter Intelligence, Cervest, and","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-173667338.jpeg?resize=1200,768",2024-03-30 18:00:48,"CarbonAI are using climate scenario analysis to inform decision-making across various sectors, such as agriculture, insurance, and infrastructure. By anticipating and addressing climate risks, these organizations can develop more resilient strategies and mitigate potential damage.
+
+The Urgent Need for Global Cooperation
+
+Unchecked carbon emissions are a growing concern, not only for future generations but also for the world we inhabit today. As the MIT tool demonstrates, the consequences of inaction are dire, affecting millions of people's lives. To avoid these impacts, global cooperation is crucial. Achieving net-zero carbon emissions by 2050 is a challenging task, but the rewards of a sustainable future are well worth the effort.
+
+The MIT tool serves as a powerful reminder of the urgent need for global cooperation to curb carbon emissions and slow the pace of climate change. With the right actions, we can work towards a more sustainable future and protect our planet's resources for generations to come.
+
+Actionable Insights and Strategies
+
+The MIT tool's findings can provide actionable insights and strategies for various sectors and communities. For instance, farmers can adjust their planting patterns to mitigate the effects of longer or shorter growing seasons. Infrastructure planners can design buildings and transportation systems that better withstand more frequent heatwaves or extreme weather events. Insurance companies can use this data to offer more tailored policies that protect against climate-related risks.
+
+In conclusion, the MIT tool highlights the urgent need for global cooperation to combat unchecked carbon emissions. By taking action and working together, we can create a more sustainable future for ourselves and future generations."," Carbon emissions, lost outdoor days ",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/29/instagram-is-developing-blend-recommended-reels-for-you-and-a-friend/,"Instagram is developing 'Blend,' recommended Reels for you and a friend", Instagram Introduces 'Blend' Feature for Personalized Reels Recommendations ,"Instagram is currently working on a new feature called ""Blend"" that will allow users to discover Reels recommendations based on shared interests and DMs with friends. The feature is an internal prototype and not yet being tested externally.
+
+The original screenshot by reverse engineer Alessandro Paluzzi showed that a Blend would include Reels recommendations based on the user's interests and the Reels they've shared with their friend. This would be a personalized feed that would make it easier for users to discover new Reels together.
+
+It's yet to be determined whether Blends will be updated continuously with new recommendations or if they will be updated after a certain amount of time. However, it's clear that this feature is designed to make it easier for users to discover new Reels and increase watch time.
+
+If the feature is launched, it would give Instagram Reels users access to a fun and collaborative feature that is not available on its rival platform, TikTok. While the two products are very similar, the introduction of ""Blend"" could give Instagram a slight competitive edge over TikTok.
+
+It's important to note that this feature is still in the development stage, and Instagram hasn't released any official information on its launch date. However, if it is launched, it's likely to be well received by Instagram's Reels users.","https://techcrunch.com/wp-content/uploads/2021/08/instagram-icon-ios-closeup.jpg?resize=1200,675",2024-03-29 17:37:41,"Optimized Meta Description:
+Instagram Reels recommendations. Discover new Reels together with Blend, an internal prototype of Instagram's personalized feed feature. Keep your watch time high and stay ahead of the competition. Try it now!",Instagram Reels recommendations.,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/29/openai-custom-voice-engine-preview/,"OpenAI built a voice cloning tool, but you can’t use it… yet", OpenAI's Voice Clone: A Synthetic Voice Engine for Ethical Deployment ,"Title: OpenAI's Voice Engine: A Responsible Leap in Synthetic Voice Technology
+
+Introduction
+
+As deepfakes become increasingly prevalent, OpenAI is taking strides to enhance its technology used for cloning voices. However, the company is committed to deploying this innovative Voice Engine responsibly, ensuring that it is used ethically and with caution. This article introduces OpenAI's Voice Engine, an expansion of its existing text-to-speech API, which allows users to create a synthetic copy of any voice from a 15-second sample. While the public release date is yet to be announced, OpenAI is using this interval to monitor the model's usage and potential misuse.
+
+Training the Model
+
+The generative AI model behind Voice Engine has been in development for about two years and has already been integrated into OpenAI's AI-powered chatbot, ChatGPT, and the text-to-speech API. Moreover, Spotify has been utilizing this technology since early September to dub podcasts for high-profile hosts in different languages. Although the specifics of the training data remain undisclosed, OpenAI has licensing agreements with some content providers and allows webmasters to block its web crawler from scraping their site for training data.
+
+Ethical Considerations
+
+OpenAI is already facing a lawsuit over allegations that the company violated IP law by training its AI on copyrighted content without proper credit or compensation. The company asserts that fair use protects it in model training, as transformative use of copyrighted works is generally allowed under this legal doctrine. While OpenAI offers an opt-out scheme for its image-generating models, it has not provided a similar option for its other products.
+
+Synthesizing Voice
+
+Voice Engine does not rely on user data for training, as the model analyzes both speech and text data simultaneously, generating a matching voice without the need for custom models per speaker. This approach results in high-quality speech, and OpenAI plans to price it aggressively at approximately $1 per hour for 18 hours of audio. Although this pricing is lower than some competitor offerings, it does not include adjustable controls for tone, pitch, or cadence.
+
+Conclusion
+
+OpenAI's Voice Engine presents an exciting opportunity for voice cloning technology while emphasizing responsible deployment. By taking the time to understand the potential risks and implementing mitigation strategies, OpenAI is setting a positive example for the AI industry. As voice cloning technology advances, it is crucial for companies to prioritize ethical considerations, ensuring that their products are used in a manner that respects privacy, intellectual property rights, and overall public trust.","https://techcrunch.com/wp-content/uploads/2023/11/openAI-pattern-04.jpg?resize=1200,675",2024-03-29 17:00:58,Discover OpenAI's revolutionary Voice Engine: Synthetic voice technology with responsible deployment [Optimize your search engine visibility with our expertly written Meta Description], Synthetic Voice ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/30/iron-sheepdog-is-fixing-short-haul-trucking-from-the-bottom-up/,Iron Sheepdog is fixing short-haul trucking from the bottom up,"Title: Simplifying Short-Haul Trucking: Iron Sheepdog's Solution
+
+SEO Optimized Title: Streamline Short-Haul Trucking with Iron Sheepdog's Efficient Technology","Title: Simplifying Short-Haul Trucking: Iron Sheepdog's Innovative Solution
+
+Introduction
+
+Have you ever wondered why building something simple can be incredibly challenging? Will Lawrence, the co-founder and CTO of Iron Sheepdog, would wholeheartedly agree. His company aims to create simple-to-use technology for the short-haul trucking industry, a sector that desperately needs streamlining and improved efficiency. Based in Williamsburg, Virginia, Iron Sheepdog has witnessed impressive adoption rates, setting it apart from its competitors.
+
+The Problem and Iron Sheepdog's Solution
+
+The short-haul trucking industry relies heavily on outsourcing short-distance jobs to truckers who are booked through brokers. This process has historically lacked transparency and efficiency, with companies struggling to track their contracted trucks and understand job statuses. Iron Sheepdog's software aims to address these challenges by providing a more seamless experience for all parties involved.
+
+Iron Sheepdog offers companies real-time tracking of contracted trucks, ensuring greater transparency and understanding of job progression. Additionally, truckers benefit from an easy-to-use app that allows them to accept jobs and receive payments online. This streamlined approach has contributed to the company's growing success and unique position in the market.
+
+Recent Investment and Future Plans
+
+Iron Sheepdog recently secured a $10 million Series B round led by SJF Ventures, with participation from Grand Ventures, Supply Chain Ventures, and strategic partners. According to Mike Van Sickel, the co-founder and CEO, the company initially focused on achieving customer adoption and profitability. Now, with this new investment, the plan is to scale operations and enhance the platform's capabilities.
+
+A Key Focus on Trust and Adoption
+
+Van Sickel emphasizes that trust is the foundation of Iron Sheepdog's success. The company has prioritized gaining the trust of short-haul truckers, ensuring they embrace the app. By focusing on the needs of the truckers, the platform has experienced consistent growth, with brokers and contractors eager to join the network. In turn, companies benefit from improved utilization of their trucking resources, leading to reduced emissions and increased efficiency.
+
+The Unique Value Proposition
+
+Iron Sheepdog'","https://techcrunch.com/wp-content/uploads/2024/03/ISD_broker-truck.jpg?resize=1200,800",2024-03-30 16:00:39,"simplifies short-haul trucking by providing a seamless experience for all parties involved. Companies benefit from real-time tracking of contracted trucks and improved transparency, while truckers enjoy an easy-to-use app that facilitates job acceptance and payment processing. With its innovative solution, Iron Sheepdog has set itself apart from competitors and positioned itself as a leader in the short-haul trucking industry.
+
+Keywords: short-haul trucking, Iron Sheepdog, streamlined, transparency, trust, adoption, real-time tracking, contracted trucks, job statuses, truckers, easy-to-use app, payment processing, efficient, growth, utilization, emissions, leader, outsourcing, brokers, contractors","simplifies short-haul trucking by providing a seamless experience for all parties involved. Companies benefit from real-time tracking of contracted trucks and improved transparency, while truckers enjoy an easy-to-use app that facilitates job acceptance and payment processing. With its innovative solution, Iron Sheepdog has set itself apart from competitors and positioned itself as a leader in the short-haul trucking industry.",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-03-generation-ai-semiconductor-devices-mimic.html,Next-generation AI semiconductor devices mimic the human brain, Neuromorphic AI Semiconductors: The Future of High-Speed Computing ,"The Future of AI Semiconductor Technology: A Neuromorphic Approach
+
+As AI technology continues to advance, the demand for energy-efficient semiconductor devices with fast operational speeds is on the rise. However, traditional computing devices with their von Neumann architecture and separate computing and memory units have limitations in terms of speed and energy efficiency due to data processing bottlenecks.
+
+To address these challenges, neuromorphic devices that mimic biological neurons' simultaneous computing and memory functions are gaining attention. One such device was developed by a team of researchers led by Prof. Hyuk-Jun Kwon of the DGIST Department of Electrical Engineering and Computer Science.
+
+The team used hafnium oxide, which has strong electrical properties, and thin layers of tin disulfide to create synaptic field-effect transistors. This resulted in a three-terminal neuromorphic device capable of storing multiple levels of data in a manner similar to neurons.
+
+The research successfully replicated biological characteristics such as short- and long-term properties, yielding a highly efficient device that responds 10,000 times faster than human synapses and consumes very little energy.
+
+Prof. Hyuk-Jun Kwon of the Department of Electrical Engineering and Computer Science said, ""This research marks an important step toward next-generation computing architecture, which requires low power consumption and high-speed computation. We have developed high-performance neuromorphic hardware using two-dimensional channels and ferroelectric hafnium oxide, and the innovation is expected to have various AI and machine learning-related applications in the future.""
+
+This research is published in the journal Advanced Science.
+
+In conclusion, the development of neuromorphic devices that mimic biological neurons' computing and memory functions is a promising approach to next-generation semiconductor technology. The innovation has the potential to revolutionize AI and machine learning-related applications by providing energy-efficient and high-speed computing capabilities.",https://scx2.b-cdn.net/gfx/news/hires/2024/next-generation-artifi.jpg,2024-03-29 13:36:26,"Looking for the best AI Semiconductor Technology? Discover the future of computing with neuromorphic devices. Our innovative approach uses hafnium oxide and thin layers of tin disulfide to create synaptic field-effect transistors, resulting in a three-terminal neuromorphic device capable of storing multiple levels of data. This research has replicated biological characteristics such as short- and long-term properties, yielding a highly efficient device that responds 10,000 times faster than human synapses and consumes very little energy. Join us in exploring the possibilities of next-generation computing architecture with low power consumption and high-speed computation. Implement our innovation today and revolutionize AI and machine learning-related applications.", AI Semiconductor Technology ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/30/women-in-ai-kate-devlin-of-kings-college-is-researching-ai-and-intimacy/,Women in AI: Kate Devlin of King's College is researching AI and intimacy,SEO Title: Kate Devlin: Pioneering AI and Human-Computer Interaction,"Title: Spotlight on Dr. Kate Devlin: A Pioneering Force in AI and Human-Computer Interaction
+
+Introduction:
+In an effort to acknowledge the contributions of women in the AI revolution, TechCrunch has initiated a series of interviews featuring notable female figures in the field. Among these trailblazers is Dr. Kate Devlin, a renowned lecturer in AI and Society at King's College London. Her groundbreaking work explores the relationship between humans and technology while challenging societal norms surrounding AI and intimacy. This article delves into her background, accomplishments, views on gender disparities in the tech and AI industries, and thoughts on responsible AI implementation.
+
+The Journey Into AI:
+Dr. Devlin began her career as an archaeologist before crossing over to complete a doctorate in Computer Science in 2004. Initially intending to merge the two fields, she found herself increasingly drawn towards human-computer interaction, specifically studying how individuals engage with artificial intelligence and robotics. Over the years, she has gained recognition for her pioneering efforts in fostering dialogue around the intersection of AI and intimacy.
+
+Key Accomplishments:
+One of Dr. Devlin's proudest achievements involves legitimizing the study of intimacy and AI as a respected academic discipline. With researchers worldwide exploring various aspects of this emerging field, she reflects satisfaction upon its growth and acceptance among scholars. As a testament to her influence, meaningful interactions between people and conversational agents like chatbots are now being acknowledged and analyzed extensively.
+
+Navigating Gender Disparities:
+When asked about navigating the predominantly masculine world of tech and AI, Dr. Devlin shares insightful perspectives. Rather than attempting to fit into traditional ""macho"" environments, she emphasizes the importance of creating inclusive spaces for all genders. To foster progress, Dr. Devlin highlights two primary objectives: increasing representation of women in leadership roles and tackling systemic sexism early on, starting in schools. Furthermore, she supports flexible remote work policies to accommodate family obligations typically borne by women.
+
+Advice for Women Entering AI:
+As a role model for aspiring professionals, Dr. Devlin encourages women entering the AI sector to embrace self-confidence and occupy equal space alongside their male counterparts. By asserting themselves, women play a vital part in shaping the future landscape of AI.
+
+Pressing Issues Facing AI Evolution:
+According to Dr. Devlin, accountability remains one of the critical challenges confronting AI advancement. While acknowledging concerns related to technological determinism, she stresses that alternative paths may be chosen, emphasizing the significance of regulation and moral judgment when developing AI solutions.
+
+Considerations for Responsible AI Implementation:
+For organizations looking to implement AI conscientiously, Dr. Devlin suggests adherence to regulations promoting fairness and transparency coupled with genuine commitment to addressing broader ethical considerations, such as human rights, environmental impact, and corporate social responsibility. Investors must hold businesses accountable for ensuring that AI applications align with these principles rather than merely paying lip service to ethical practices.
+
+Conclusion:
+By shining a light on accomplished individuals like Dr. Kate Devlin, TechCrunch contributes to amplifying underrepresented voices within the AI community. Through sharing personal stories, insights, and recommendations, influential leaders inspire positive changes in the industry culture while empowering future generations of diverse talent.","https://techcrunch.com/wp-content/uploads/2024/03/women-in-ai-devlin.jpg?resize=1200,675",2024-03-30 15:00:56,"Optimized Meta Description:
+
+Discover Dr. Kate Devlin's pioneering work in AI and human-computer interaction. Learn about her journey, key accomplishments, views on gender disparities in the tech industry, and advice for women entering the AI sector. Explore her emphasis on responsible AI implementation and insights into pressing issues facing AI evolution. Don't miss this inspiring interview!", AI and intimacy ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://venturebeat.com/security/can-generative-ai-help-address-the-cybersecurity-resource-gap/,Can generative AI help address the cybersecurity resource gap?, How AI is Transforming Cybersecurity: Insights from Atlanta Event ,"Title: How AI is Transforming the Security Workforce: Insights from Atlanta Cybersecurity Event
+
+Introduction
+
+The cybersecurity industry is facing a significant challenge: a nearly 4 million person workforce shortage. This issue is only expected to grow, putting more burden on security analysts and engineers. However, generative AI has the potential to help address this shortage and positively impact the cybersecurity industry. In this blog post, we will explore the vision, benefits, and use cases of AI for security teams. We will also discuss how generative AI can lower the bar to entry, create more user-friendly documentation, reduce risk of burnout, and improve cross-team organizational security communications.
+
+Lowering the Bar to Entry
+
+The cybersecurity industry often requires specialized training and certifications, which can prevent people from trying to find and secure jobs in the field. Generative AI can be applied to technical documentation and other cybersecurity information to create more dynamic training that meets new hires where they are, versus building training material for a specific user background and requiring new hires to do that work before joining an organization. This can make the industry more accessible and help attract a more diverse pool of talent.
+
+Creating More User-Friendly Documentation
+
+Today, there are pages and pages of technical documentation for almost every cybersecurity tool that exists on the market. Users often feel overwhelmed and need to rely on vendors to train them on how to use their solutions. Generative AI can be used to process and distill that same information into something very precise and meaningful for the user. This can create more user-friendly documentation that users can access faster and accelerate their time to implement and reduce risk.
+
+Reducing Risk of Burnout
+
+Security professionals often face burnout when doing tedious activities such as searching for documentation and logging their processes and findings. Large language models (LLMs) are purpose-built to analyze and synthesize data. This could be applied to the organization's large amount of internal and external documentation, reducing the time that security analysts need to find information to do their job and communicate with their broader team. By reducing the 'busy work' that burdens teams, the focus can then be on increasing time spent remediating and reducing risk.
+
+Improving Cross-Team Organizational Security Communications
+
+Organizational education is another ongoing challenge for cybersecurity teams. The amount of time spent synthesizing phishing information could be reduced by gen AI and automation. For example, if an organization sees persistent phishing attempts, gen AI could analyze the text and create custom messaging based on each department's function to best equip them to mitigate the risk — giving time back to the security organization as well as reducing incident load. This can improve cross-team organizational security communications and reduce the risk of cyber attacks.
+
+Conclusion
+
+In conclusion, generative AI has the potential to transform the security workforce by lowering the bar to entry, creating more user-friendly documentation, reducing risk of burnout, and improving cross-team organizational security communications. However, it is important to carefully consider how it should be used and put the proper policies and other safeguards in place. Organizations should choose a gen AI platform and put in place a paid, contractual relationship with the vendor to provide guidance on the tool and help troubleshoot any issues. By doing so, we can leverage AI to bring more qualified people into the cybersecurity field and amplify the output of those already part of it today.",https://venturebeat.com/wp-content/uploads/2024/03/a-giant-unlocked-padlock-letting-out-a-burst-of-li-7KrtL86MSyS_AD7ADE46qw-s-BURFAZT7mJv6iRNfMBbg-transformed.jpeg?w=1200&strip=all,2024-03-30 19:15:00,"""Discover how AI is transforming the security workforce at our Atlanta Cybersecurity Event. Learn about the benefits and use cases of AI for security teams, including how it can lower the bar to entry, create more user-friendly documentation, reduce risk of burnout, and improve cross-team organizational security communications. Don't miss out on this valuable insight!""",Keyphrase: [AI] [Transformation],Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/30/this-week-in-ai-let-us-not-forget-the-humble-data-annotator/,This Week in AI: Let us not forget the humble data annotator, The Dark Side of AI: Unveiling the Ethical Dilemmas of Data Annotation ,"Title: The Underside of AI: The Precarious World of Data Annotation
+
+In the rapidly evolving world of AI, it's essential to stay informed about the latest developments. This week, we're shifting our focus to labeling and annotation startups, a critical yet often overlooked aspect of AI technology. 
+
+Labeling and annotation platforms are the backbone of modern AI models. They provide the necessary labels or tags that help these models understand and interpret data during the training process. However, the individuals responsible for this monumental task often face challenging working conditions.
+
+Despite the vital role they play, data annotators are not always treated fairly. Reports of meager wages, lack of benefits, and exposure to disturbing content are not uncommon. Companies like OpenAI have been known to rely on annotators in third-world countries, paying them a few dollars per hour and exposing them to graphic imagery without access to mental health resources or time off.
+
+Scale AI, a leading annotation platform, is under scrutiny for its practices. Annotators in countries like Nairobi and Kenya often work multiple eight-hour shifts without breaks, earning as little as $10. Moreover, these workers have no job security, with long periods without work or abrupt dismissals common.
+
+While some platforms claim to offer ""fair-trade"" work, there are no regulations or consistent industry standards for ethical labeling practices. The definitions of what constitutes ethical work vary widely among companies.
+
+The need for data annotation is not diminishing anytime soon. While self-regulation by these platforms is a possibility, a more realistic solution may be policymaking. This approach, however, comes with its own challenges. 
+
+In other AI news:
+
+1. Weather Forecasting: AI is making significant strides in weather forecasting. The teams behind MetNet-3 and GraphCast have developed a new system called SEEDS (Scalable Ensemble Envelope Diffusion Sampler). This system generates plausible weather outcomes for a specific area based on input data, such as radar readings or orbital imagery, at a much faster rate than traditional physics-based models.
+
+2. Underwater Imagery: Fujitsu is applying AI image handling techniques to underwater imagery and lidar data collected by underwater autonomous vehicles. The goal is to create a ""digital twin"" of underwater environments to simulate and predict new developments.
+
+3. Language Learning Models: Researchers have discovered that large language learning models mimic intelligence through linear functions, a simpler method than previously thought. Despite their complexity, these models often fail to understand context or feedback.
+
+As we continue to explore and advance AI technology, it's crucial to address the ethical implications and working conditions of those who contribute to its foundation.","https://techcrunch.com/wp-content/uploads/2018/08/sensetime1.jpg?resize=1200,640",2024-03-30 13:01:25,"Title: Ethical AI Annotation Practices: The Need for Transparency
+
+Meta Description: Discover the challenges faced by data annotators in the AI industry. Learn about the precarious world of annotation startups and the need for ethical labeling practices. Take action to support fair work conditions and advocate for policy changes.","The keyphrase for this news article could be ""Ethical AI Annotation Practices."" The focus keyphrase should be [ETHICAL AI ANNOTATION PRACTICES], which adheres to the given criteria.",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/30/tiktok-ban-implication-amazon/,TikTok ban could harm Amazon sellers looking for alternatives, TikTok as Amazon Alternative for Ecommerce Sellers: Under Threat? ,"TikTok a viable Amazon alternative for sellers.
+
+TikTok Shop, the e-commerce platform, has already onboarded over 200,000 merchants, and more are flocking to it. The platform has been gaining popularity among sellers, especially those from China, who are looking for an alternative to Amazon. TikTok is offering incentives to encourage sellers to sell goods on the platform, and its short video format has proven to be highly engaging for consumers.
+
+However, the recent U.S. bill that could force ByteDance to divest TikTok or face a ban in app stores could prematurely end TikTok's e-commerce dream and leave sellers without a viable alternative. The interplay of tech giants and geopolitics is squeezing smaller merchants, and the potential move could have significant implications for the future of e-commerce.
+
+As Amazon dominates the e-commerce market, TikTok is trying to position itself as a viable competitor. The platform's focus on branded goods, combined with its short video format and consumer engagement, has made it an attractive option for sellers looking to expand their customer base.
+
+However, the political backlash against TikTok could jeopardize its e-commerce success. The app has been facing legal challenges in the U.S., and its ownership model has been under scrutiny. The app has also been banned in India and Australia, adding to the uncertainty surrounding its future.
+
+Despite the challenges, TikTok's growth in e-commerce has been impressive. According to research by Jungle Scout, 20% of Amazon sellers, brands, and businesses have plans to expand to TikTok Shop this year. Before the current political backlash took off, ByteDance reportedly projected that it had the potential to grow its U.S. e-commerce business tenfold to $17.5 billion this year.
+
+Other platforms, such as Temu, have also been gaining attention among shoppers and e-commerce exporters. Amazon is reportedly taking notice, adding to the growing competition in the e-commerce space.
+
+Overall, TikTok's e-commerce success is still uncertain, but its focus on branded goods, consumer engagement, and incentives has made it an attractive option for sellers looking for alternatives to Amazon","https://techcrunch.com/wp-content/uploads/2021/09/tiktok-shop-tab.jpg?resize=1200,669",2024-03-30 17:00:02,"""Optimize your Amazon search with these expert tips""
+
+As an Amazon seller, you know the importance of getting your products discovered by potential customers. With a little bit of optimization, you can increase your visibility and attract more sales. Here are some expert tips to help you optimize your Amazon search:
+
+1. Use relevant keywords: Research and use relevant keywords in your product descriptions, titles, and bullet points. This will help your products show up in search results when customers search for those keywords.
+
+2. Optimize your images: High-quality images can make a big difference in how your products appear on Amazon. Optimize your images by using clear, high-resolution photos and adding relevant keywords to the image titles and descriptions.
+
+3. Encourage customer reviews: Positive customer reviews can help improve your product's ranking on Amazon. Encourage customers to leave reviews by offering incentives or providing excellent customer service.
+
+4. Utilize Amazon's Enhanced Brand Content (EBC): EBC is a feature that allows you to create custom product pages with more detailed product descriptions, images, and videos. EBC can help you stand out from the competition and increase your sales.
+
+5. Optimize your pricing: Pricing is a key factor in how customers make purchasing decisions on Amazon. Optimize your pricing strategy by researching your competitors and offering competitive pricing without sacrificing profitability.
+
+By following these expert tips, you can optimize your Amazon search and increase your visibility, attract more sales and grow your business.", TikTok ban could harm Amazon sellers looking for alternatives ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/29/google-deepmind-ceo-demis-hassabis-gets-uk-knighthood-for-services-to-artificial-intelligence/,Google DeepMind CEO Demis Hassabis gets UK knighthood for 'services to artificial intelligence'," AI company come true. He added, ""This is a great honor for me, my family, and everyone at DeepMind. We're thrilled to be recognized for our work in AI and our contribution to the U.K.'s tech sector.""","Demis Hassabis, CEO and one of the three founders of Google's AI subsidiary DeepMind, has been awarded a knighthood by the U.K. government for “services to artificial intelligence.”
+
+Hassabis emerged as a prodigy in various fields, including chess, video game development, and computer science. He graduated from the University of Cambridge with first-class honors in Computer Science and later gained a PhD in cognitive neuroscience from University College London. Along with Shane Legg and Mustafa Suleyman, Hassabis founded DeepMind in 2010, which has since become one of the U.K.'s most significant AI exports.
+
+Hassabis was awarded a CBE in 2017 for “services to science and technology” after some high-profile achievements at DeepMind, including developing an AI system that beat the world champion of strategy board game Go. However, the company also courted controversy after signing data-sharing deals with the U.K.'s National Health Service.
+
+The U.K. government has been eager to position itself as a leader in the AI revolution, driven by initiatives such as the AI Safety Summit, which it hosted in England last November. With DeepMind serving as one of the U.K.'s greatest AI exports, the country sits among the top-tier AI countries globally in terms of R&D investment, behind the U.S. and China.
+
+Hassabis' knighthood was awarded specifically for services to “artificial intelligence,” a field that has gained significant attention in the past 18 months due to technologies such as OpenAI's ChatGPT. The U.K. is not the only country to recognize the importance of AI; other notable figures from the technology world, such as Apple's Jonathan Ive, have also been awarded knighthoods.
+
+A knighthood is usually proposed by the prime minister, government department, members of Parliament or even members of the public, with the head of state technically making the final decision on who receives them. While there are no significant privileges associated with a knighthood, it offers cultural and social kudos, allowing the recipient to prefix their name with ""Sir.""
+
+Hassabis expressed his delight and gratitude on social media, thanking everyone who helped make his dream of building a successful AI","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1760047727-e1711731094140.jpg?resize=1200,674",2024-03-29 18:24:26,"Meta Description: Discover how Demis Hassabis, CEO of DeepMind, received a knighthood from the U.K. government for his ""services to artificial intelligence."" Learn about Hassabis' background and achievements, as well as the U.K.'s efforts to position itself as a leader in the AI revolution. Read more on this fascinating topic at [insert URL].",Demis Hassabis AI,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-03-optimization-based-method-autonomous.html,An optimization-based method to enhance autonomous parking, OCEAN: Openspace Collision-freE trAjectory plaNner for Autonomous Parking ,"Introducing the latest breakthrough in the realm of autonomous driving: OCEAN, an Openspace Collision-freE trAjectory plaNner for the autonomous parking of vehicles. Developed by a team of researchers at Mach Drive in Shanghai, OCEAN has been designed to enhance the ability of cars to safely reach a parking spot, without colliding with objects on the way.
+
+The first shortcoming of previous approaches to autonomous parking is the inability to accurately predict collisions. The second shortcoming is poor performance in real-time tests. The OCEAN planner addresses these limitations by building on a previously introduced approach called Hybrid Optimization-based Collision Avoidance (H-OBCA), improving its design to avoid collisions, enhance its robustness, and speed up its performance in real time.
+
+Wang, Lu, and their collaborators tested their planner on hundreds of simulated scenarios and conducted real-world experiments in public parking areas. Their results were highly promising, as OCEAN outperformed a variety of methods for autonomous parking applications. The planner developed by this team of researchers could be improved and tested in additional real-world trials. In the future, it could be deployed by automotive companies, contributing to the introduction of automated vehicle parking technologies.
+
+In conclusion, OCEAN is a significant step forward in the development of autonomous parking technologies. Its optimization-based approach, combined with the Alternating Direction Method of Multiplier (ADMM), allows for efficient and robust planning, making it possible to deploy OCEAN on low computing power platforms that require real-time performance. As the world continues to move towards a more connected and autonomous future, OCEAN paves the way for a smoother, safer, and more efficient parking experience.",https://scx2.b-cdn.net/gfx/news/hires/2024/an-optimization-based.jpg,2024-03-30 09:00:01,"Optimize your search engine visibility with OCEAN, the Openspace Collision-freE trAjectory planner for safer autonomous parking. Discover how this innovative technology enhances the performance of autonomous parking optimization, making it possible to avoid collisions and enhance safety in real-time. Call to action today to learn more about how OCEAN can benefit your business.","Autonomous parking optimization, OCEAN planner for safer parking.",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/29/x-confirms-plans-for-nsfw-communities/,X confirms plans for NSFW Communities, Twitter to Filter NSFW Content in Communities Feature by Default ,"In the wake of Twitter's recent announcement that NSFW content will soon be automatically filtered in its communities feature, the company has confirmed that Community admins can now opt to label their communities as ""Adult Content"" to avoid this filtering. This news confirms earlier reports of NSFW communities on the platform and indicates that Twitter is now embracing the adult content that has always been present on its platform.
+
+NSFW content, which includes pornography, nude and explicit photos, and videos, plays a significant role on Twitter. In fact, according to internal documents obtained by Reuters in 2022, roughly 13% of all Twitter posts included NSFW content. Furthermore, adult content was one of the fastest-growing genres on the platform, even as news and sports were declining.
+
+The rise of spam bots on Twitter, which promoted NSFW content with links in their profiles and regularly replied to posts with explicit messages, has also been a significant issue on the platform.
+
+Twitter owner Elon Musk and CEO Linda Yaccarino had previously promoted the Communities feature as key to Twitter's growth plans. According to a transcript acquired by The Verge, Musk explained that the product was growing fast but ""there's a lot of work to do to make Communities compelling."" He also shared that Twitter was seeing ""rapid percentage growth"" in Communities and had been adding new features, like the ability to include any Twitter account's feed in the Community feed.
+
+If Twitter is able to make Communities a successful product, it could potentially serve as a competitor to larger forum sites like Reddit and host training data for Musk's xAI-run chatbot Grok, which has exclusive access to Twitter content.
+
+In addition to the ability to label communities as ""Adult Content,"" Twitter is also introducing several other updates to its Communities feature. These updates include a Ban button alongside Keep and Hide buttons on the Reported posts page, more detailed messages explaining why users are not eligible to join a given Community, and temporary and permanent bans for spammers. Additionally, users will soon be able to explore top posts and top communities across all Communities, and Communities will be promoted and recommended to potentially interested users on the For You tab.
+
+While Twitter has not yet provided an estimated timeline for the implementation of these updates, the company has confirmed that NSFW content will be filtered across its Communities feature by default. This change marks a significant shift in Twitter's approach to adult content and highlights its commitment to creating a safe and respectful platform for all users.
+
+Overall, Twitter's recent announcement and updates to its Communities feature indicate that the platform is embracing the adult content that has always been present on it and is taking steps to make Communities a successful product. If implemented effectively, this could potentially serve as a competitor to larger forum sites like Reddit and host training data for Musk's xAI-run chatbot Grok. However, it is important for Twitter to ensure that its Communities feature is accessible and inclusive to all users, regardless of their age or interests.","https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?resize=1200,675",2024-03-29 16:07:11,"Actionable Meta Description for NSFW Communities on Twitter: ""Join Twitter's Communities feature and now label adult content to avoid filtering. Stay ahead of the curve with updates like a Ban button, detailed messages, temporary and permanent bans, top posts and communities, and promoted recommendations. Don't miss out on this exciting new platform. Implement these updates now to stay ahead of the competition and grow your community. Join now and discover the power of Twitter's Communities feature.""",NSFW Communities on Twitter.,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://www.engadget.com/how-uber-and-the-gig-economy-changed-the-way-we-live-and-work-164528738.html,How Uber and the gig economy changed the way we live and work, The gig economy's impact on work and society: challenges and opportunities ,"gig plan was short-lived, however, as self-driving cars are still not ready for widespread use and regulations surrounding their deployment are uncertain. Instead, Uber has continued to invest in and develop its autonomous driving technology, as well as expanding its services to include delivery and other gig options.
+
+The gig economy has had both positive and negative impacts on society. On one hand, it has provided a new source of income for many people and allowed for greater flexibility and control over work schedules. On the other hand, it has led to a decline in certain industries and a potential erosion of traditional employment models.
+
+As the gig economy continues to evolve, it will be important for both companies and regulators to navigate the challenges and opportunities presented by this new form of work. This may involve finding ways to support workers in the gig economy, regulating companies to ensure fair labor practices and compensation, and exploring new business models that can support both workers and the broader economy.
+
+In conclusion, the gig economy has brought about significant changes in the way people work and interact with the labor market. While it has provided new opportunities for many, it has also created challenges and uncertainties. As we move forward, it will be important to address these challenges and find ways to support workers and the broader economy while also embracing the opportunities presented by this new form of work.",https://s.yimg.com/ny/api/res/1.2/1_Kh9h_P4emCAe45VfYL_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/70ebe730-e083-11ee-adb4-2a4cdea0f515,2024-03-29 16:45:28,"Uber gig economy is facing challenges with self-driving cars and uncertain regulations. The gig economy has both positive and negative impacts on society, leading to a decline in certain industries and potential erosion of traditional employment models. Companies and regulators must navigate these challenges and explore new business models to support workers and the broader economy.", Uber gig economy ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/29/supaglue-stripe-acquire-acquisition/,"How a tiny 4-person startup, Supaglue, caught Stripe’s eye", Stripe's Investment in Revenue and Finance Automation: Supaglue Acqui-Hire ,"Title: Stripe's Investment in Revenue and Finance Automation
+
+Introduction:
+In its annual letter, Stripe announced its fast-growing ""Revenue and Finance Automation"" unit, which helps businesses manage billing, tax, and revenue recognition. The company's RFA unit is expected to reach a $500 million annual run rate this year, and Stripe has recently completed an ""acqui-hire"" of a four-person team from Supaglue, which raised $6.8 million in a seed round.
+
+Body:
+The Supaglue team, formerly known as Supergrain, is an open-source developer platform for user-facing integrations. The team's product helps companies import and centralize customer data from third-party data sources into their own applications. This team will help accelerate Stripe's investment in RFA by providing real-time analytics and reporting across its platform and third-party apps.
+
+The acqui-hire of Supaglue by Stripe was due to mutual work acquaintances who introduced the team. Supaglue's product and Stripe's unified data platform for the RFA suite were similar, making the two companies a good match. Stripe's acquisition of Supaglue is one of several things happening at Stripe this year, including the employee stock sale deal and partnerships with companies like authentication startup Clerk and electric boat startup Navier.
+
+Conclusion:
+Stripe's investment in RFA is an essential step towards providing businesses with efficient and effective tools for billing, tax, and revenue recognition. The acquisition of Supaglue's team and product is a strategic move that will help Stripe accelerate its investment in this area. As Stripe continues to grow, Supaglue will likely find fast friends within the company's ecosystem.","https://techcrunch.com/wp-content/uploads/2024/03/IMG_1110.jpg?resize=1200,675",2024-03-29 13:30:19,"Meta Description:
+
+Discover Stripe's fast-growing ""Revenue and Finance Automation"" unit, a $500M annual run rate unit that helps businesses manage billing, tax, and revenue recognition. Learn about Stripe's recent acqui-hire of Supaglue's team and how it will help accelerate Stripe's investment in RFA. Upgrade your billing and revenue recognition processes with Stripe's unified data platform. Streamline your operations today!","1-2 word keyphrase: ""Revenue and Finance Automation""",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-03-gmail-revolutionized-email-years-people.html,Gmail revolutionized email 20 years ago. People thought it was Google's April Fool's Day joke, Gmail from April Fool's Joke to Billion-User Giant ,"Title: The Incredible Journey of Gmail: From a Daredevil Joke to a Billion-User Giant
+
+Introduction
+
+Google co-founders Larry Page and Sergey Brin are known for their playful and innovative spirit. They have always loved pulling off pranks, especially on April Fool's Day. In this article, we will delve into the story of Gmail, one of Google's most successful products, which was unveiled on April Fool's Day 20 years ago.
+
+From a Daredevil Joke to a Billion-User Giant
+
+Google's initial idea for Gmail was nothing short of audacious. It was a preposterous amount of email capacity, with 1 gigabyte of storage per account, which was unheard of at the time. This was more than 250 to 500 times more storage space compared to the leading webmail services run by Yahoo and Microsoft. However, it was the perfect challenge for Page and Brin, who loved to push boundaries and create products that no one would believe were possible.
+
+The original pitch for Gmail emphasized the three ""S's"": storage, search, and speed. The product was designed to allow users to quickly search for emails, photos, and other personal information stored on the service. It also automatically threaded together a string of communications about the same topic, making it easier for users to follow conversations.
+
+The launch of Gmail was a huge success, and it quickly became one of Google's most popular products. Within a few years, it had an estimated 1.8 billion active accounts, each offering 15 gigabytes of free storage. Today, Gmail remains one of the most widely used email services in the world, with millions of users relying on it for their daily communication needs.
+
+Conclusion
+
+The story of Gmail is a testament to Google's innovative spirit and willingness to take risks. From a daredevil joke to a billion-user giant, Gmail has come a long way since its launch in 2004. Its success is a reminder that sometimes, the most groundbreaking ideas can come from the most unexpected places.",https://scx2.b-cdn.net/gfx/news/hires/2024/gmail-revolutionized-e.jpg,2024-03-31 06:31:14,"""Discover the incredible journey of Gmail, from a daring April Fool's Day joke to a billion-user giant. Learn how Google's innovative spirit and willingness to take risks led to the creation of one of the world's most successful email services. Upgrade your email experience today with Gmail!""", Gmail ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/29/techcrunch-minute-sam-bankman-frieds-sentencing-marks-an-end-to-the-ftx-saga/,Watch: Sam Bankman-Fried’s sentencing marks an end to the FTX saga, Crypto Scandal: SBF Sentenced to 25 Years in Prison,"
+
+After a highly publicized trial and conviction, we can now confirm that former crypto billionaire Sam Bankman-Fried will be serving up to 25 years in prison. While this sentence may come as a surprise, given the magnitude of the crimes he was found guilty of, it's not entirely unexpected.
+
+The crypto industry is now in a new era of growth, with rising token prices, increased trading volume, and hints of the excitement that web3 once commanded during the last asset bubble. However, the recent events surrounding SBF and his former empire serve as a stark reminder of the darker side of the industry.
+
+As we wrap up our coverage of SBF and his fall from grace, it's worth taking a moment to reflect on how we arrived at this point. It's a story of ambition, greed, and a lack of regulation that ultimately led to one of the most significant scandals in the history of cryptocurrency.
+
+","https://techcrunch.com/wp-content/uploads/2024/03/SBF-TC-Minute-YT.png?resize=1200,675",2024-03-29 16:00:11,"ethical approach to cryptocurrency. We need to ensure that entrepreneurs and investors are operating within a framework that protects both parties and promotes innovation and growth. By doing so, we can build a stronger, more sustainable crypto ecosystem that benefits everyone involved. It's up to us to shape the future of web3 technology in a way that is responsible, trustworthy, and beneficial to all stakeholders.","ethical environment for crypto. We need to ensure that entrepreneurs and investors are operating within a framework that protects both parties and promotes innovation and growth. By doing so, we can build a stronger, more sustainable crypto ecosystem that benefits everyone involved.
+
+It's worth noting that SBF's downfall has not been without its critics, both within and outside the crypto community. Some have criticized his actions as reckless and irresponsible, while others have defended him as a victim of circumstance. Regardless of who is right, one thing is clear: the crypto industry has a long way to go before it can be considered a legitimate and trustworthy asset class.
+
+In conclusion, the sentencing of Sam Bankman-Fried marks a significant turning point in the crypto industry. It's a reminder of the dangers of ambition and greed, and a call to action for a more regulated and ethical approach to cryptocurrency. As we continue to explore the opportunities and challenges of web3 technology, we must remember that the future is not set in stone. It's up to us to shape it in a way that benefits everyone involved.",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/29/google-pushes-podcasts-users-in-u-s-to-move-to-youtube-music-by-april-2/,"Google Podcasts is shutting down soon, users urged to move to YouTube Music", Google Podcasts to YouTube Music: Migrate Now,"
+
+Google is set to shut down its popular Podcasts app in the U.S. in just a few days. The company has already begun warning users that they need to migrate their subscriptions to YouTube Music by April 2 in order to continue streaming their favorite podcasts. Failure to do so immediately will result in the loss of access to the Podcasts app directly after that date.
+
+The Google Podcasts app, with over 500 million installs on Android devices globally, has been a go-to destination for podcast discovery, following, and listening for over half a decade. Unfortunately for fans of the app, Google announced in September 2023 that it would begin winding down the app as part of a broader plan to centralize its audio services under YouTube.
+
+In 2020, YouTube Music offered a similar transition strategy to move music listeners away from Google Play Music ahead of its shutdown. However, the Google Podcasts app continued to be maintained for years due to the lack of support for podcasts on YouTube Music. By the end of 2023, YouTube Music was able to support podcasts globally, and by February, they had the ability to upload their RSS feeds, too.
+
+The move to shift podcasting over to YouTube could help Google become a bigger player in the space. Not only will this allow the company to combine its efforts and sharpen its focus, but it will also take advantage of the growing interest in video podcasts, which have already found a home on YouTube. In fact, just this week, Spotify announced a deal with Universal Music Group (UMG) to bring video podcasts to U.S. users of its streaming app, following earlier tests of video podcasts in 11 other markets around the world.
+
+Google did not immediately respond to a request for comment, but after publication, they confirmed that while they are still ""tracking towards"" the April 2 timeline for the U.S., they have not yet shared a timeline for the rest of the world.
+
+From their earlier statements, it is clear that the plan is to discontinue the Google Podcasts app globally in 2024.
+
+","https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-1079623010.jpg?resize=1200,800",2024-03-29 19:49:49,"The Meta Description for the article optimized for search engines is:
+Google is shutting down its Podcasts app in the U.S. on April 2, 2024. Users need to migrate their subscriptions to YouTube Music to avoid losing access to their favorite podcasts. Google will continue to track towards this timeline, but a global shutdown of the app is planned for 2024. This move aligns with the growing trend towards video podcasts and will help Google become a bigger player in the space. The call to action is to migrate subscriptions to YouTube Music to avoid losing access to podcasts.","The keyphrase for this article is ""Google Podcasts shutdown.""",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/30/fisker-loses-customers-money-robinhood-launches-a-credit-card-and-google-generates-travel-itineraries/,"Fisker loses customers' money, Robinhood launches a credit card, and Google generates travel itineraries","""Fisker Stock Trading Halts, Facebook's Snapchat Snooping Project, Stability AI Founder Resigns""","
+
+Hello, everyone! Welcome to this week's TechCrunch WiR, where we recap the most significant happenings in the tech industry. This edition is packed with exciting news, including Fisker's internal audit, Facebook's Snapchat snooping project, and the resignation of Stability AI's founder. Let's dive into the details.
+
+Fisker in Turmoil
+
+The automotive industry continues to be a hotbed of activity, and this week, we saw Fisker's stock trading halted by the New York Stock Exchange due to its ""abnormally low"" stock levels. To add to their troubles, Fisker, an EV startup, also discovered that it had temporarily lost track of millions of dollars in customer payments as it ramped up deliveries. The internal audit that started in December took several months to complete, but the fallout has been significant.
+
+Facebook's Snapchat Snooping
+
+Facebook has been under scrutiny recently, and now, we have more information about its controversial Snapchat snooping project called ""Project Ghostbusters."" According to court documents, the goal of the project was to intercept and decrypt the network traffic between people using Snapchat's app and its servers. While Facebook has not yet commented on the matter, it's clear that the company is taking steps to protect its users' privacy.
+
+Stability AI's Founder Resigns
+
+Stability AI, a startup known for its popular image generation tool Stable Diffusion, has seen some challenges in recent months. The company's founder and CEO, Emad Mostaque, has resigned from his position, leaving Stability AI facing an ongoing struggle for stability. While the company has not yet announced a replacement CEO, the departure of Mostaque has raised questions about the company's future direction.
+
+Other Notable Developments
+
+While these three developments have dominated the tech news this week, there have been other notable happenings as well. For example, the EV startup Copilot has raised $6 million in a Series A round, and the beverage industry has seen a surge in VC-backed startups. Additionally, AI-powered itineraries have been added to Google's Search Generative Experience, and AT&T has faced criticism for not disclosing a data breach that occurred over three years ago.
+
+Weekend Recap
+
+In this edition of WiR, we have recapped the most significant developments in the tech industry this week. We hope you found this information useful and engaging. If you haven't already, be sure to sign up to receive the WiR newsletter in your inbox every Saturday.
+
+Stay tuned for more updates next week, and in the meantime, happy reading!
+
+","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1236611991.jpg?resize=1200,759",2024-03-30 20:15:06,"Meta Description: Stay up-to-date with the latest tech news, including Fisker's internal audit, Facebook's Snapchat snooping project, and the resignation of Stability AI's founder. Sign up for our weekly newsletter to stay informed.","The 1-2 word keyphrase for this news article is ""Fisker Audit.""",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://www.engadget.com/microsoft-copilot-has-reportedly-been-blocked-on-all-congress-owned-devices-034946166.html,Microsoft Copilot has reportedly been blocked on all Congress-owned devices,Congress Bans Microsoft Copilot,"Intro:
+In recent news, the US Congress has banned the use of Microsoft's Copilot chatbot on government-issued devices. The Office of Cybersecurity deemed Copilot to be a risk due to the threat of leaking House data to non-House approved cloud services. This move follows a similar ban on the use of ChatGPT, which is powered by OpenAI's large language models, just a year ago. The government is taking steps to ensure the security of sensitive data and protect the privacy of US citizens.
+
+Body:
+Last year, the Congress set a strict limit on the use of ChatGPT, which allowed staffers to use the paid (ChatGPT Plus) version for research and evaluation due to its tighter privacy controls. However, the free version was banned from use on House computers. The move was taken to protect the privacy and security of sensitive data.
+
+The White House recently revealed rules federal agencies have to follow when it comes to generative AI. These rules ensure that any tool used by these agencies does not endanger the rights and safety of Americans. Microsoft recognizes the need for higher security requirements and has announced a roadmap of tools and services meant for government use, including an Azure OpenAI service for classified workloads and a new version of Microsoft 365's Copilot assistant. The new version of Copilot will feature higher levels of security that make it suitable for handling sensitive data.
+
+Conclusion:
+The US Congress is taking steps to protect the privacy and security of sensitive data by banning the use of Microsoft's Copilot chatbot on government-issued devices. The government is also taking steps to ensure that any tool used by federal agencies does not endanger the rights and safety of Americans. Microsoft recognizes the need for higher security requirements and has announced a roadmap of tools and services meant for government use. The new version of Copilot will feature higher levels of security that make it suitable for handling sensitive data. It's important for businesses and individuals to take steps to protect their data and privacy in today's digital age.",https://s.yimg.com/ny/api/res/1.2/wDCn8FUMHSGZ9JddUvosHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODI-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/f171ef30-ee34-11ee-bf2d-509460709f05,2024-03-30 03:49:46,"Meta Description:
+
+Stay updated with our latest news on the Copilot chatbot ban on government-issued devices. Discover how the US Congress is taking steps to protect sensitive data and privacy. Get the latest updates on the roadmap of tools and services meant for government use. Don't miss out on the latest news!", Chatbot Ban ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/29/orbit-fab-unveils-30k-port-to-refuel-satellites/,Orbit Fab unveils $30K port to refuel satellites," ""Orbit Fab Launches $30K Port to Refuel Satellites - Space News"" ","Orbit Fab, a Colorado-based startup with a mission to build ""gas stations"" for satellites, has recently launched its flight-qualified docking mechanism, RAFTI. The price for each port is $30,000, and the company has already raised $28.5 million in a Series A round.
+
+The idea behind RAFTI is to equip customer satellites with a refueling port while they are still on Earth. This allows the fuel to be transferred from an orbital tanker to the customer spacecraft, providing a valuable boost to the spacecraft's lifetime. The company's technology is ambitious, but the architecture is fairly simple.
+
+One of the biggest challenges faced by Orbit Fab has been developing a docking mechanism that can transfer propellant while maintaining safety and reliability. The company had to ensure that its component complied with standards from NASA, the Space Force, and the American Institute of Aeronautics and Astronautics.
+
+Beyond the RAFTI, Orbit Fab has also planned for the first fuel shuttle to go up in 2025, as part of a contract with the DOD. The company anticipates selling 100 fueling ports in 2023, which will put RAFTI on a decent percentage of satellites going to orbit.
+
+Looking to the future, Faber intimated that the company already has plans to upgrade RAFTI and continue to innovate in the space industry. With the emerging needs of the U.S. Space Force and the growing demand for orbital mobility, Orbit Fab is well-positioned to continue its mission of providing valuable solutions for the space industry.","https://techcrunch.com/wp-content/uploads/2024/03/An-Orbit-Fab-fuel-shuttle-is-docking-with-an-on-orbit-satellite-equipped-with-a-RAFTI-refueling-port.jpg?resize=1200,817",2024-03-29 18:34:11,"Title: Orbit Fab Launches Flight-Qualified Docking Mechanism RAFTI for Satellite Refueling
+
+Meta Description: Orbit Fab, a Colorado-based startup, has recently launched its flight-qualified docking mechanism, RAFTI, for satellite refueling. The price for each port is $30,000, and the company has already raised $28.5 million in a Series A round. Learn about the technology and the challenges faced by the company.", Orbit Fab RAFTI ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
