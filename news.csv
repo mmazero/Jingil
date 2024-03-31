@@ -1,0 +1,329 @@
+Link,post_title,title,post_content,featured_image,Date-Publish,meta_desc,focuskeywords,post_category,Post_tag
+https://techcrunch.com/2024/03/30/mit-outdoor-days/,MIT tool shows climate change could cost Texans a month and a half of outdoor time by 2080, Understanding Climate Change: MIT Tool Predicts Outdoor Days Lost ,"Cleaned and Revised Content
+
+Climate change is a complex and difficult concept to explain, but a new tool developed by researchers at MIT may have just made it a little easier to understand. The tool allows people to see how many “outdoor days” their region might experience from now through 2100 if carbon emissions growth remains unchecked.
+
+For people in some regions, the results of this tool might be alarming, as they could lose up to a month or more of outdoor days. For example, California, France, and Germany could see a little bit more clement weather in the spring and fall, adding anywhere from a few days to nearly a month of outdoor weather compared with historical records. However, some temperate places like New York, Massachusetts, China, and Japan could lose a week or more of outdoor days.
+
+Meanwhile, the countries with some of the most vulnerable populations could suffer the most. Nigeria’s summers could grow even hotter and longer, lopping off nearly two months of outdoor days. India could lose almost two and a half months.
+
+However, it’s not all bad news. Even if the world fails to reach net zero carbon emissions by 2050, but still manages to by 2070, the situation will improve dramatically. Both Nigeria and India would only lose one month of outdoor days, and more northerly regions would retain some of their added outdoor days.
+
+The MIT tool is a relatable application of a field of study known as climate scenario analysis, which seeks to understand how climate change will impact various regions and demographics. A range of startups are using this relatively newfound predictive capability to help give shape to an uncertain future.
+
+Investors and insurers are among the customers of these startups, as they are concerned about how climate change will affect their assets and supply chains. Startups like Jupiter Intelligence, Cervest, and One Concern focus on providing customers with dashboards and data feeds that they can tailor to regions or even assets of interest. These startups also determine the risk of flood, wildfire, and drought and deliver reports detailing risk to assets and supply chains. They can also crank out regulatory disclosures, highlighting relevant climate risks.
+
+Other markets exposed to the outdoors are also in need of solutions. ClimateAI is targeting agriculture, including agribusiness, l","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-173667338.jpeg?resize=1200,768",2024-03-30 18:00:48,"Take control of your carbon footprint and influence the future with this informative tool! Learn how many ""outdoor days"" your region may lose if carbon emissions growth remains unchecked. Get the facts about the impact of climate change on your area and how to mitigate the risks. Start today and make a positive difference! Action now, for a better tomorrow.", Climate change impact ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/29/instagram-is-developing-blend-recommended-reels-for-you-and-a-friend/,"Instagram is developing 'Blend,' recommended Reels for you and a friend"," Instagram introduces Blend, personalized Reels for two users ","Instagram is developing a new feature called ""Blend"" that creates a private feed of Reels recommended for two users based on their interests and the Reels they've shared with each other. The feature was first discovered by reverse engineer Alessandro Paluzzi, who regularly finds social media features in development before they're officially launched.
+
+According to Paluzzi, Blend would generate personalized Reels recommendations for the two users, similar to Spotify's ""Blend"" feature that launched in 2021 and allows two people to combine their favorite songs into one shared playlist. The screenshot Paluzzi posted shows that Blends would be private between the two users and that they could leave a Blend at any time.
+
+Instagram hasn't shared any specific details about Blend, such as whether it will continuously update with new recommendations or if it will be updated after a certain amount of time. However, the feature is designed to make it easy for users to discover new Reels together, which could help boost Reels' discovery and watch time.
+
+Since people already send each other Reels via DMs, Instagram could now proactively recommend and display Reels that it believes users would enjoy. If released, Blend would give Instagram Reels users access to a fun and collaborative feature that isn't currently available on its rival platform, TikTok.
+
+While the two products are quite similar, the introduction of Blend could give Instagram a slight competitive edge over TikTok, albeit a small one. TikTok still largely dominates the short-form video market.","https://techcrunch.com/wp-content/uploads/2021/08/instagram-icon-ios-closeup.jpg?resize=1200,675",2024-03-29 17:37:41,"Instagram is developing ""Blend,"" a new feature that recommends personalized Reels for two users based on their interests and the Reels they've shared with each other. The feature is designed to make it easy for users to discover new Reels together, boosting Reels' discovery and watch time. Instagram could proactively recommend and display Reels that it believes users would enjoy, giving users access to a fun and collaborative feature that's not currently available on TikTok. Blend is a great way to discover new Reels and collaborate with friends on Instagram.", Instagram Reels ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/29/openai-custom-voice-engine-preview/,"OpenAI built a voice cloning tool, but you can’t use it… yet", Synthesizing Voices Responsibly: OpenAI Voice Engine ,"Title: OpenAI Launches Voice Engine: Synthesizing Voices Responsibly
+
+Are you tired of hearing the same voice over and over again in advertisements and videos? OpenAI has got you covered! The tech giant has recently launched its Voice Engine, an extension of its existing text-to-speech API that allows users to upload any 15-second voice sample to generate a synthetic copy of that voice.
+
+But be aware that this technology has the potential to be used for malicious purposes. That's why OpenAI is taking a responsible approach and working to mitigate any risks associated with the use of this technology.
+
+Training the Model
+
+The model powering Voice Engine is a generative AI model that has already been used in other OpenAI products, such as ChatGPT and the text-to-speech API. The training data used to create this model comes from a mix of licensed and publicly available sources, including speech recordings. While OpenAI has licensing agreements with some content providers, it does not offer an opt-out scheme for all of its products.
+
+OpenAI has been accused of violating IP law by training its AI on copyrighted content without providing credit or pay to the creators or owners. However, the company argues that fair use protects it from any legal issues related to model training.
+
+Synthesizing Voice
+
+Voice Engine is not trained or fine-tuned on user data. Instead, it uses a combination of a diffusion process and transformer to generate realistic speech that matches the original speaker. The audio that is used is dropped after the request is complete. This approach delivers higher-quality speech than some of its competitors.
+
+Voice Engine is priced aggressively, with the cost ranging from $15 per one million characters to $30 per one million characters. This pricing allows for a significant amount of audio to be generated at an affordable rate.
+
+Conclusion
+
+OpenAI is taking a responsible approach to the use of its Voice Engine technology. While there are risks associated with the use of this technology, OpenAI is working to mitigate those risks and ensure that its product is used for good purposes. With its aggressive pricing and high-quality speech synthesis, Voice Engine has the potential to revolutionize the way we experience voice in media and advertising.","https://techcrunch.com/wp-content/uploads/2023/11/openAI-pattern-04.jpg?resize=1200,675",2024-03-29 17:00:58,"Title: OpenAI Launches Voice Engine: Synthesizing Voices Responsibly
+
+OpenAI has launched its Voice Engine, allowing users to upload a 15-second voice sample to generate a synthetic copy of the voice. But be aware that this technology has the potential for malicious use. OpenAI is taking a responsible approach, mitigating risks and ensuring its product is used ethically. The model is trained with licensing agreements and fair use protects it from IP law issues. Voice Engine generates high-quality speech and is priced aggressively. With its affordable rate, it has the potential to revolutionize the way we experience voice in media and advertising. Try it out today!", Synthetic Voice ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-03-deepmind-safe-ai-based-app.html,"DeepMind develops SAFE, an AI-based app that can fact-check LLMs", DeepMind's AI-based SAFE fact-checks LLMs' inaccuracies. ,"Introduction:
+
+In the age of artificial intelligence, large language models (LLMs) have become a fascinating topic of discussion. LLMs like ChatGPT have the ability to write papers, answer questions, and even solve math problems. However, they suffer from a major flaw: accuracy. Every result obtained by an LLM must be manually checked to ensure it's correct, which reduces their value. In a recent effort, a team of artificial intelligence specialists at Google's DeepMind developed an AI-based system called SAFE that can check the results of answers given by LLMs and point out inaccuracies automatically. In this article, we'll explore the SAFE system, its performance, and how it can help improve the accuracy of LLMs.
+
+Body:
+
+A team of researchers at DeepMind have created an AI system called SAFE that can fact-check the results of answers given by LLMs and point out inaccuracies automatically. The system breaks down claims or facts in an answer provided by the original LLM and then uses Google Search to find sites that could be used for verification. The system compares the two answers to determine accuracy.
+
+To test the system, the researchers used it to verify approximately 16,000 facts contained in answers given by several LLMs. They compared their results against human (crowdsourced) fact-checkers and found that SAFE matched the findings of the humans 72% of the time. When testing disagreements between SAFE and the human checkers, the researchers found SAFE to be the one that was correct 76% of the time.
+
+The SAFE system is open-source, which means anyone can use it. The code for SAFE is available on GitHub, making it easy for anyone to take advantage of its capabilities.
+
+Conclusion:
+
+The development of the SAFE system by the team at DeepMind is a significant step in improving the accuracy of LLMs. By automatically fact-checking the results of answers given by LLMs, SAFE can save time and effort for both the users and the developers of LLMs. The system's ability to match the findings of human fact-checkers 72% of the time is a remarkable achievement, and its accuracy in resolving disagreements between SAFE and human checkers is even more impressive. With the SAFE system now available for anyone to use, we can expect",https://scx2.b-cdn.net/gfx/news/hires/2020/google.jpg,2024-03-29 09:32:00,"Improve the accuracy of LLMs with AI-based fact-checking system SAFE. [AI-based fact-checking system SAFE has been developed by Google's DeepMind team. The system can automatically check the results of answers given by LLMs and point out inaccuracies. It has been tested on 16,000 facts and matched the findings of human fact-checkers 72%. The system's accuracy in resolving disagreements between SAFE and human checkers is even more impressive. The SAFE system is open-source and available for anyone to use.]", AI-based fact-checking ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/30/iron-sheepdog-is-fixing-short-haul-trucking-from-the-bottom-up/,Iron Sheepdog is fixing short-haul trucking from the bottom up, Iron Sheepdog simplifies short-haul trucking with software solutions. ,"
+
+Iron Sheepdog, a Williamsburg, Virginia-based company, has been working to simplify the short-haul trucking industry by providing software solutions for companies and truckers. The software enables companies to track their contracted trucks and gives truckers an easy-to-use app for accepting jobs and getting paid online. Iron Sheepdog's approach has resulted in a level of adoption that its competitors have not seen.
+
+The company recently announced that it had raised $10 million in a Series B round led by SJF Ventures, with participation from Grand Ventures, Supply Chain Ventures, and strategic partners. Iron Sheepdog co-founder and CEO Mike Van Sickel shared with TechCrunch that the company has been focused on getting customer adoption and reaching profitability in its first few years. Now, with a substantial number of brokers and truckers on the platform, companies can better utilize them to reduce the number of trucks needed.
+
+Iron Sheepdog's software solution is unique in that it starts with the short-haul truck drivers themselves, rather than focusing on the contractors to drive adoption. The company chose to look at the problem from the bottom up, creating a simple app for the subhauler and tying it to 24-hour pay. This approach has resulted in double growth for the company each year since its founding.
+
+The software solution has also enabled Iron Sheepdog to tackle a problem that has long been overlooked in the trucking industry: coordinating the trucks to get the job done efficiently. The company's focus on adoption and ease of use has helped it stand out from other technology solutions in the industry.
+
+Investment in construction tech startups has grown in recent years, but the coordination of trucks to get the job done has largely been overlooked. Innovation around trucking has largely focused on autonomous vehicles and last-mile freight, but there is still much work to be done in the areas of dump trucks and other equipment. Iron Sheepdog's approach to solving this problem has made it stand out as a venture-backed startup in an industry that is often slow to adopt new technology.
+
+Iron Sheepdog's focus on adoption is also notable, as it understands that technology solutions must be built with the end-user in mind. The company recognizes that new technology is only effective if it is being used, and it has taken a crawl, walk, run approach to ensure that its software solutions are easy to use and well-received by the short-haul trucking industry.
+
+Overall, Iron Sheepdog's software solution is a welcome addition to the construction tech industry. Its focus on adoption, ease of use, and innovation has set it apart from its competitors and positioned it for continued growth in the future.
+
+","https://techcrunch.com/wp-content/uploads/2024/03/ISD_broker-truck.jpg?resize=1200,800",2024-03-30 16:00:39,Simplify Short-Haul Trucking with Iron Sheepdog's Software Solutions - Streamline Your Contracted Trucks and Ease Payment Processes,short-haul trucking software solutions,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://venturebeat.com/business/biatech-joins-nvidia-inception/,BiaTech Joins NVIDIA Inception,BiaTech Joins NVIDIA Inception to Revolutionize Industries,"
+
+Tampa, FL–March 29, 2024–
+
+BiaTech Corporation, a multisensory AI fusion startup, announced its participation in NVIDIA Inception, a program that supports startups developing groundbreaking technologies. The company aims to revolutionize industries by combining sensors replicating sight, hearing, and smell to create semi-sentient infrastructure and provide an immersive experience for interacting with assets in real-time.
+
+BiaTech utilizes AI computer vision, multi-sensory AI fusion, and generative AI large language models and a text to speech interface. Early products targeted asset protection from wildfires and live monitoring of energy flow in a 3D visual environment for geothermal and utilities. The company is currently developing an AI solution for geothermal pipeline flow measurement supported by a U.S. Department of Energy grant and AI utility solutions for fire detection and vegetation management with computer vision.
+
+Joining NVIDIA Inception is a significant milestone for BiaTech as it pivots from ideation to building a business that the world needs. The program will provide the company with resources such as product developer training, preferred pricing on NVIDIA hardware and software, cloud credits, and access to NVIDIA's investor network. BiaTech will also collaborate with industry-leading experts and other AI-driven organizations.
+
+“We are excited to join NVIDIA Inception and leverage its resources to accelerate our product development from prototype to commercial readiness,” said Nathaniel Hartwig, Founder and CEO of BiaTech Corporation.
+
+NVIDIA Inception supports startups during critical stages of product development, prototyping, and deployment. Each member receives a custom set of ongoing benefits, such as NVIDIA Deep Learning Institute credits, preferred pricing on NVIDIA hardware and software, and technology assistance, which provide startups with the fundamental tools to help them grow.
+
+BiaTech Corporation helps clients increase productivity and extend asset life by using its innovative AI toolkit. The company plans to collaborate with NVIDIA to help clients create the trillion-dollar industries of tomorrow.
+
+About BiaTech Corporation
+BiaTech Corporation is a multisensory AI fusion startup for Energy and Natural Resource infrastructure immersion. The company is revolutionizing industries by combining sensors replicating sight, hearing, and smell to create semi-sentient infrastructure and provide an immersive experience for interacting with assets in real-time. BiaTech is a pre-seed funded startup based in Tampa, FL.
+
+Contact
+BiaTech Corporation
+Robert Alford
+ralford@BiaTech.com
++1(713)818-4483
+
+",https://venturebeat.com/wp-content/uploads/2015/10/BusinessWire_FeaturedImage.jpg?w=1200&strip=all,2024-03-29 16:25:56,"infrastructure and providing an immersive experience for interacting with assets in real-time. With the support of NVIDIA Inception, BiaTech Corporation is well-positioned to take its technological advancements to the next level and help clients create the trillion-dollar industries of tomorrow. Join BiaTech Corporation today and be a part of the future!","immersive infrastructure and providing an immersive experience for interacting with assets in real-time. With the support of NVIDIA Inception, BiaTech Corporation is well-positioned to take its technological advancements to the next level and help clients create the trillion-dollar industries of tomorrow.",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-03-generation-ai-semiconductor-devices-mimic.html,Next-generation AI semiconductor devices mimic the human brain,"""Next-generation AI semiconductor devices mimic human brain efficiency""","
+
+Ferroelectric HZO Film Characteristics
+
+Researchers at DGIST's Department of Electrical Engineering and Computer Science have developed a next-generation AI semiconductor technology that mimics the human brain's efficiency in AI and neuromorphic systems.
+
+The demand for energy-efficient semiconductor technology with fast operational speed has surged with the advancement of AI. However, traditional computing devices, with their von Neumann architecture and separate computing and memory units, have speed and energy efficiency issues associated with data processing bottlenecks. As a result, neuromorphic devices that mimic biological neurons' simultaneous computing and memory functions have gained attention.
+
+Prof. Hyuk-Jun Kwon's team developed synaptic field-effect transistors using hafnium oxide, which has strong electrical properties, and thin layers of tin disulfide. This resulted in a three-terminal neuromorphic device capable of storing multiple levels of data in a manner similar to neurons.
+
+The device replicated biological characteristics such as short- and long-term properties, yielding a highly efficient device that responds 10,000 times faster than human synapses and consumes very little energy.
+
+Prof. Hyuk-Jun Kwon of the Department of Electrical Engineering and Computer Science said, ""This research marks an important step toward next-generation computing architecture, which requires low power consumption and high-speed computation. We have developed high-performance neuromorphic hardware using two-dimensional channels and ferroelectric hafnium oxide, and the innovation is expected to have various AI and machine learning-related applications in the future.""
+
+The research was published in the journal Advanced Science.
+
+Characteristics of the Synthetic 2D SnS2 Synaptic FET
+
+Researchers at DGIST's Department of Electrical Engineering and Computer Science have successfully developed a synthetic 2D SnS2 synaptic FET that mimics the human brain's efficiency in AI and neuromorphic systems.
+
+This next-generation semiconductor technology addresses the energy efficiency and speed issues associated with traditional computing devices, which have separate computing and memory units and data processing bottlenecks.
+
+The team developed a three-terminal neuromorphic device capable of storing multiple levels of data in a manner similar to neurons. The device replicated biological characteristics such as short- and long-term properties, yielding a highly efficient device that responds 10,000 times faster than human synapses and consumes very little energy.
+
+The innovation is expected to have various AI and machine learning-related applications in the future.
+
+Conclusion
+
+The development of a synthetic 2D SnS2 synaptic FET marks an important step toward next-generation computing architecture, which requires low power consumption and high-speed computation. The innovation addresses the energy efficiency and speed issues associated with traditional computing devices and sets the stage for various AI and machine learning-related applications.
+
+",https://scx2.b-cdn.net/gfx/news/hires/2024/next-generation-artifi.jpg,2024-03-29 13:36:26,"Optimized Meta Description:
+
+Discover the latest breakthrough in AI semiconductor technology! DGIST researchers developed a 2D SnS2 synaptic FET that mimics the human brain's efficiency in AI and neuromorphic systems. With its energy efficiency and high-speed computation, this innovation sets the stage for various AI and machine learning-related applications.",2D SnS2 Synaptic FET AI efficiency.,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/30/women-in-ai-kate-devlin-of-kings-college-is-researching-ai-and-intimacy/,Women in AI: Kate Devlin of King's College is researching AI and intimacy,"""Kate Devlin of King's College: Pioneering AI and Intimacy"" (50 characters)","
+
+In a world where AI is rapidly transforming everything, it's essential to highlight the remarkable women who have contributed to this revolution. That's why TechCrunch is launching a series of interviews featuring these trailblazers. In this piece, we'll introduce you to Kate Devlin, a lecturer in AI and society at King's College London, who is dedicated to exploring the ethical and social implications of technology and intimacy.
+
+Kate's work focuses on how people interact with and react to technologies, both past and future. She is the author of ""Turned On: Science, Sex and Robots,"" which examines the ethical and social implications of tech and intimacy. Kate also directs advocacy and engagement for the Trusted Autonomous Systems Hub, a collaborative platform that supports the development of ""socially beneficial"" robotics and AI systems.
+
+In addition to her work with the Trusted Autonomous Systems Hub, Kate is a board member of the Open Rights Group, an organization that works to preserve digital rights and freedoms. She has also run the U.K.'s first sex tech hackathon and has become a leading voice in the field of intimacy and AI.
+
+In our interview with Kate, we delved into her experiences in the AI industry and how she navigates the challenges of working in a male-dominated field. Kate shared her thoughts on the importance of having more women in visible, top positions, and the need for systemic change to address the ""leaky pipeline"" that prevents women from achieving their full potential.
+
+Kate also discussed some of the most pressing issues facing AI as it evolves, including responsibility and accountability. She emphasized the need for regulation and conscience when building AI and advised investors to prioritize ethical considerations in their AI supply chains.
+
+When it comes to AI users, Kate recommended checking provenance, or the origin of the data. She encouraged users to consider the ethics and social responsibility of the provider before using their AI technology.
+
+In conclusion, Kate Devlin is a trailblazer in the field of AI and society, dedicated to exploring the ethical and social implications of technology and intimacy. Her work with the Trusted Autonomous Systems Hub and the Open Rights Group, as well as her experience running the U.K.'s first sex tech hackathon, have made her a leading voice in the industry. Kate's insights on responsibility, accountability, and ethical considerations when building AI are essential for anyone interested in this rapidly evolving field. ","https://techcrunch.com/wp-content/uploads/2024/03/women-in-ai-devlin.jpg?resize=1200,675",2024-03-30 15:00:56,"The world of AI is rapidly transforming, and it's essential to understand the ethical and social implications of technology and intimacy. Kate Devlin, a lecturer in AI and society at King's College London, is dedicated to exploring these issues. In our interview, we delved into her experiences in the industry and discussed some of the most pressing issues facing AI. Kate emphasized the need for regulation, conscience, and provenance when building AI, making her a leading voice in the field. Don't miss out on her insights!",AI and intimacy,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/29/databricks-gpt-rival-and-whos-investing-in-underdog-founders/,Databricks' GPT rival and who's investing in 'underdog' founders," ""Exploring tech industry trends: From FTX trial to unicorn founders"" ","Welcome to Equity, the podcast that dives into the business of startups and unpacks the numbers behind the headlines. This is our Friday episode, and we're taking a closer look at the most significant stories and themes of the week.
+
+As the week comes to a close, one of the most critical stories to emerge was the trial of former FTX CEO Sam Bankman-Fried, who is heading to prison for 25 years. However, there were many other important developments that we couldn't ignore.
+
+In this episode, Kirsten Korosec, Mary Ann Azevedo, and Alex Wilhelm joined hosts Mary Ann Azevedo and Alex Wilhelm to discuss several topics that are shaping the tech industry. We examined Robinhood's new credit card and what it reveals about the strategy of major tech companies. We also explored Fisker's latest struggles and Databricks' new AI model, which was spun up with $10 million in funding.
+
+But that wasn't all. We also examined two companies that are creating startups focused on kids. One is working to help children learn how to produce music, while the other is trying to reduce waste and help parents care for their children on a budget.
+
+To wrap up the episode, we took a closer look at who unicorn founders really are and a new $100 million fund aimed at backing climate tech.
+
+Equity is TechCrunch's flagship podcast and posts every Monday, Wednesday, and Friday. You can subscribe to us on Apple Podcasts, Overcast, Spotify, and all major podcast platforms.
+
+To read the full interview transcript, head over to Simplecast. And be sure to follow Equity on X and Threads at @EquityPod.",https://techcrunch.com/wp-content/uploads/2022/12/equity-podcast-2019-phone.webp?w=680,2024-03-29 14:05:26,"""Join Equity, the premier podcast for the business of startups, as we unpack the numbers behind the headlines. From the trial of former FTX CEO Sam Bankman-Fried to new developments in the tech industry, we cover it all. Discussing Robinhood's new credit card, Fisker's struggles, and Databricks' new AI model, we also examine startups focused on kids and unicorn founders. Don't miss our analysis of a new $100 million fund aimed at backing climate tech. Subscribe to Equity on Apple Podcasts, Overcast, Spotify, and all major podcast platforms. Follow Equity on X and Threads at @EquityPod.""", Databricks' GPT rival ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/30/tiktok-ban-implication-amazon/,TikTok ban could harm Amazon sellers looking for alternatives,TikTok's E-commerce Rise Amidst Amazon Dominance,"
+
+ByteDance's e-commerce experiment
+
+ByteDance's attempt to expand its e-commerce market share in the US has been met with a potential ban, but the TikTok Shop has already attracted sellers looking for new channels beyond Amazon.
+
+In recent months, TikTok has been trying to boost its e-commerce business by attracting branded goods and offering subsidies to merchants. The app's short video platform generates massive engagement, with nearly 70% of sellers reporting an increase in sales year-over-year. However, the interplay of tech giants and geopolitics is squeezing smaller merchants, and a potential TikTok ban could end the app's e-commerce dream.
+
+According to research from Jungle Scout, nearly 20% of Amazon sellers, brands, and businesses plan to expand to TikTok Shop this year. Before the current political backlash took off, ByteDance reportedly projected that it had the potential to grow its U.S. e-commerce business tenfold to $17.5 billion this year. While TikTok is not the only platform on the list for merchants looking for more channels, Amazon is reportedly taking notice, signaling that alternatives are picking up traction.
+
+TikTok's heavy concentration of young shoppers gives it the opportunity to reshape how America's younger generations shop online. However, the potential ban could prematurely end TikTok's e-commerce dream and hit sellers seeking new channels.
+
+The future of e-commerce is uncertain, but one thing is clear: TikTok's rise is part of a bigger shift around alternative marketplaces. As Amazon continues to dominate the scene, smaller merchants are looking for new ways to expand their customer bases and grow their businesses. TikTok's success is a testament to the power of innovation and the willingness to take risks in the world of e-commerce.
+
+In conclusion, TikTok's e-commerce experiment is an exciting development in the world of online shopping. While the potential ban could have a significant impact on the app's growth, its success is a testament to the power of innovation and the willingness to take risks in the world of e-commerce. With Amazon continuing to dominate the scene, smaller merchants will continue to look for new ways to expand their customer bases and grow their businesses. TikTok is well-positioned to capitalize on this trend, and its success could have a significant impact on the future of e-commerce.
+
+","https://techcrunch.com/wp-content/uploads/2021/09/tiktok-shop-tab.jpg?resize=1200,669",2024-03-30 17:00:02,"TikTok's e-commerce experiment has been met with a potential ban. However, the TikTok Shop has already attracted sellers looking for new channels beyond Amazon. The app's short video platform generates massive engagement, with nearly 70% of sellers reporting an increase in sales year-over-year. Merchants see TikTok as an opportunity to reshape how America's younger generations shop online. Amazon is reportedly taking notice, signaling that alternatives are picking up traction. TikTok's success is a testament to the power of innovation and the willingness to take risks in the world of e-commerce.",TikTok e-commerce ban,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/29/nine-crypto-vcs-weigh-in-on-why-q1-investments-were-so-hot-and-how-it-compares-to-the-previous-bull-market/,Nine crypto VCs on why Q1 investments were so hot and how it compares to previous bull market, $2.52B raised in Q1 2024: Why Crypto VCs invested so much and what it means for the industry. ,"The first quarter of 2024 has seen a significant surge in investments in the crypto and blockchain sectors, with a total of $2.52 billion raised across various stages. This represents an increase of about 25% compared to the fourth quarter of 2023.
+
+The crypto venture landscape has been characterized by an influx of deals, with over 690 deals transpiring during Q1 2024. This represents a 30 to 40% increase compared to the lows in 2023.
+
+The reasons behind this surge in activity are varied, but one key factor is the positive impact of legal wins by companies like Ripple and Grayscale, as well as the growing popularity of decentralized finance (DeFi) on the Solana network. There is also increasing demand for Bitcoin following SEC spot bitcoin ETF approvals in the US.
+
+Another factor that has contributed to the market's resurgence is the fact that the crypto market did not die as expected after the collapse of several high-profile companies.
+
+The crypto venture capital funding landscape is expected to continue heating up on the back of a bullish macro backdrop fueled by the launch of crypto ETF products, the Bitcoin halving, projected rate cuts in the US ahead of the upcoming presidential election, and institutional interest converting into real budgets and products.
+
+In terms of deal flow, the crypto startup landscape has been particularly active in areas such as DeFi, SocialFi, and Bitcoin layer-2 growth. There has been an uptick in both new companies coming to market and existing companies revisiting fundraising.
+
+SocialFi, which refers to decentralized social media in the web3 world, is currently very hot, with Bi.social and Mask Network being notable examples. Web3 gaming is also rapidly expanding, with hundreds of new games expected to go to market this year.
+
+Crypto and AI, blockchains, and anything zero-knowledge related are also currently red-hot topics in the industry. Modular and AI-integrated blockchains, like 0G labs, are attracting the attention of venture capitalists.
+
+The competitive environment among VCs is creating an environment in which founders have greater leverage in fundraising. Founders now have optionality and the ability to set terms, with competitive rounds filling out before investors have time for intensive due diligence. However, the power hasn't really shifted from investors to founders but is ""perfectly balanced.""
+
+In conclusion, the first quarter of 2024 has seen a significant surge in investments in the crypto and blockchain sectors, with a total of $2.52 billion raised across various stages. The reasons behind this surge in activity are varied, but one key factor is the positive impact of legal wins by companies like Ripple and Grayscale, as well as the growing popularity of decentralized finance (DeFi) on the Solana network. The crypto venture capital funding landscape is expected to continue heating up on the back of a bullish macro backdrop fueled by several factors.","https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1072593766.jpg?resize=1200,801",2024-03-29 18:28:35,"""Invest in the Future of Blockchain: A $2.52 Billion Surge in Crypto Venture Capital Funding in Q1 2024""
+
+Discover the latest trends in the crypto and blockchain sectors, with a total of $2.52 billion raised across various stages. Find out why this surge in activity is happening and what the future holds for crypto venture capital funding.",1-2 word keyphrase: crypto venture capital,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/29/google-deepmind-ceo-demis-hassabis-gets-uk-knighthood-for-services-to-artificial-intelligence/,Google DeepMind CEO Demis Hassabis gets UK knighthood for 'services to artificial intelligence',"""AI Pioneer Demis Hassabis Gets UK Knighthood""","Demis Hassabis, a British computer scientist and the CEO of DeepMind, has been awarded a knighthood by Queen Elizabeth II for his services to artificial intelligence. Hassabis, who was born in London in 1976 and started out in the gaming industry, founded DeepMind in 2010 alongside Shane Legg and Mustafa Suleyman. In recent years, DeepMind has made headlines for its groundbreaking AI work, including beating the world champion at the game of Go in 2016. Hassabis received his knighthood in recognition of his contributions to the field of AI and his role in positioning the UK as a leader in the global AI ecosystem.","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1760047727-e1711731094140.jpg?resize=1200,674",2024-03-29 18:24:26,Discover the groundbreaking AI innovation of Demis Hassabis and his team at DeepMind. Learn how they're revolutionizing AI and positioning the UK as a global leader. Visit our website to learn more and get involved., AI innovation ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-03-optimization-based-method-autonomous.html,An optimization-based method to enhance autonomous parking,Optimization-based ADMM planner for autonomous parking revolutionizes the way we park.,"
+
+Are you tired of the hassle of finding a parking spot? Imagine a world where your car can drive itself to the nearest available space. While self-driving cars are still in their early stages, researchers at Mach Drive in Shanghai have developed a new technology that could revolutionize the way we park.
+
+OCEAN, or Openspace Collision-freE trAjectory plaNner for the autonomous parking of vehicles, is an optimization-based trajectory planner that improves the accuracy and safety of self-driving parking. Developed with the help of Alternating Direction Method of Multiplier (ADMM), OCEAN is an efficient and robust planner that can be used in all scenarios with few dynamic obstacles.
+
+The OCEAN planner builds on a previously introduced approach called Hybrid Optimization-based Collision Avoidance (H-OBCA), addressing its primary limitations. Its improved design enhances its ability to avoid collisions, along with its robustness and speed in real-time.
+
+Using OCEAN, researchers tested hundreds of simulated scenarios and conducted real-world experiments in public parking areas. The results were highly promising, with OCEAN outperforming a variety of methods for autonomous parking applications.
+
+This planner could be further improved and tested in real-world trials, and could eventually be deployed by automotive companies to introduce automated vehicle parking technologies. Imagine a world where parking is no longer a hassle, and your car can park itself safely and efficiently.
+
+More information about OCEAN can be found in the pre-printed paper on arXiv. The paper is titled ""OCEAN: An Openspace Collision-free Trajectory Planner for Autonomous Parking Based on ADMM"" and can be accessed at <https://arxiv.org/abs/2403.05090>.
+
+",https://scx2.b-cdn.net/gfx/news/hires/2024/an-optimization-based.jpg,2024-03-30 09:00:01,"Improve your parking experience with autonomous parking technology
+
+Tired of searching for a parking spot? Imagine a world where your car can drive itself to the nearest available space. Mach Drive in Shanghai has developed OCEAN, an optimization-based trajectory planner that improves the accuracy and safety of self-driving parking. The OCEAN planner uses Alternating Direction Method of Multiplier (ADMM) to build on a previously introduced approach called Hybrid Optimization-based Collision Avoidance (H-OBCA) and enhances its ability to avoid collisions, along with its robustness and speed in real-time. Researchers have tested hundreds of simulated scenarios and conducted real-world experiments in public parking areas, and the results were highly promising. OCEAN could be further improved and tested in real-world trials and eventually deployed by automotive companies to introduce automated vehicle parking technologies. More information about OCEAN can be found in the pre-printed paper on arXiv. The paper is titled ""OCEAN: An Openspace Collision-free Trajectory Planner for Autonomous Parking Based on ADMM"" and can be accessed at <https://arxiv.org/abs/2403.05090>. Parking will no longer be a hassle with autonomous parking technology.","The keyphrase for this article is ""Autonomous Parking"".",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-03-unleashing-disordered-rocksalt-oxides-cathodes.html,Unleashing disordered rocksalt oxides as cathodes for rechargeable magnesium batteries, Magnesium Battery Revolution with Tohoku University's Rocksalt Oxide Cathode Material ,"Are you looking for a cost-effective and sustainable alternative to lithium-ion batteries? Magnesium batteries might just be the answer. Researchers at Tohoku University have developed a novel cathode material for rechargeable magnesium batteries (RMBs) that enables efficient charging and discharging even at low temperatures, making it an ideal choice for various applications.
+
+The new material, which leverages an enhanced rock-salt structure, promises to usher in a new era of energy storage solutions. The material is abundant in stable cation vacancies, facilitating easier magnesium insertion and extraction. This represents the first utilization of rocksalt oxide as a cathode material for RMBs.
+
+The high-entropy strategy employed by the researchers allowed the cation defects to activate the rocksalt oxide cathode, addressing a key limitation of RMBs—the difficulty of magnesium transport within solid materials. Until now, high temperatures were necessary to enhance magnesium mobility in conventional cathode materials, such as those with a spinel structure. However, the material unveiled by Tohoku University researchers operates efficiently at just 90°C, demonstrating a significant reduction in the required operating temperature.
+
+Tomoya Kawaguchi, a professor at Tohoku University's Institute for Materials Research (IMR), notes the broader implications of the study. ""Lithium is scarce and unevenly distributed, whereas magnesium is abundantly available, offering a more sustainable and cost-effective alternative for lithium-ion batteries.""
+
+""Magnesium batteries, featuring the newly developed cathode material, are poised to play a pivotal role in various applications, including grid storage, electric vehicles, and portable electronic devices, contributing to the global shift towards renewable energy and reduced carbon footprints,"" said Kawaguchi.
+
+The breakthrough is a major step forward in the quest for efficient, eco-friendly energy storage solutions. By harnessing the intrinsic benefits of magnesium and overcoming previous material limitations, this research paves the way for the next generation of batteries, promising significant impacts on technology, the environment, and society.
+
+Magnesium batteries, featuring the newly developed cathode material, are poised to play a pivotal role in various applications, including grid storage, electric",https://scx2.b-cdn.net/gfx/news/2024/unleashing-disordered.jpg,2024-03-29 09:40:03," Efficient, Cost-Effective, and Sustainable: Magnesium Batteries as the Future of Energy Storage ", Magnesium Battery ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/29/x-confirms-plans-for-nsfw-communities/,X confirms plans for NSFW Communities, X Confirms Plans for NSFW Communities: Grows Inclusive Platform ,"Hey there, fellow internet dwellers! Today, we're diving into the latest updates and improvements for X's Communities feature. 🎉 If you're not already familiar with Communities, it's a smaller group within X that allows users to connect with others who share similar interests or goals.
+
+One of the most exciting changes to Communities is the addition of an ""Adult Content"" label that admins can now add to their communities. This will prevent NSFW content from being automatically filtered out. This means that communities focused on adult content can now designate themselves as such, allowing for a more open and inclusive platform.
+
+This news comes after earlier tests of NSFW communities were spotted by researchers and reverse engineers. It also confirms that X is now embracing the adult content that has always been present on the platform.
+
+NSFW content plays a significant role on X, which has long been a primary advertising venue for sex workers and home to a plethora of adult content-focused bots and spam. In fact, internal documents obtained by Reuters in 2022 revealed that roughly 13% of all Twitter posts included NSFW content. What's more, the documents indicated that adult content was one of the fastest-growing genres on the platform, even as news and sports were declining.
+
+Recent reports by New York Intelligencer also detailed the rise of spam bots on the platform, promoting NSFW content with links in their profiles and regularly replying to posts with explicit messages.
+
+The changes to Communities were posted on X by an engineer and were reshared by Musk, who commented, ""Many upgrades to X Communities!""
+
+Communities are a key part of X's growth plans, as promoted by owner Elon Musk and CEO Linda Yaccarino during an all-hands meeting last fall. If X can make Communities a successful product, it could potentially serve as a competitor to larger forum sites like Reddit and host training data for Musk's xAI-run chatbot Grok, which has exclusive access to X content.
+
+The list of changes coming to Communities is extensive, with users soon being able to explore top posts and top communities across all Communities. Communities will also be promoted and recommended to potentially interested users on the For You tab, allowing them to grow more of a following. Mods","https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?resize=1200,675",2024-03-29 16:07:11,"Optimize this Meta Description to improve search engine visibility:
+
+Discover the latest updates and improvements for X's Communities feature, including the addition of an ""Adult Content"" label for nsfw communities. Learn how X is embracing adult content and growing its growth plans with key product developments. Get the latest news on nsfw content on twitter. Join X today!", adult content ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/29/the-ai-world-needs-more-data-transparency-and-web3-startup-space-and-time-says-it-can-help/,The AI world needs more data transparency and web3 startup Space and Time says it can help, Data Transparency in AI: Space and Time's Verifiable Computing Layer ,"In the AI-driven world, data transparency and verifiability have become critical issues. Space and Time, a web3 startup, believes that it can provide a solution through its verifiable computing layer. The startup aims to index data both off-chain and on-chain, and its co-founder and CTO, Scott Dykstra, believes that the solution can be expanded beyond the industry.
+
+Dykstra highlights the need for transparency in the financial industry, where financial institutions manipulate records to their advantage. However, this problem extends beyond the financial sector and can be seen in other industries. Incentives for bad actors to manipulate data, prices, books, finances, or more, can be addressed through zero-knowledge proofs (ZK proofs).
+
+ZK proofs are cryptographic actions that prove something about a piece of information without revealing the origin data itself. For example, a ZK proof can confirm that someone's credit score is above 700 without disclosing the exact number. Space and Time aims to be the verifiable computing layer for web3, indexing data both off-chain and on-chain, but Dykstra sees its potential beyond the industry.
+
+Dykstra's most recent concern is the lack of verifiability in AI data. He believes that there needs to be a decentralized, globally available database that can be created through blockchains, which can be accessed by everyone. This database should be uncensorable and operated by the community.
+
+Dykstra's vision for the future of AI and blockchain technology is to have a decentralized database that is owned and operated by the community. This database should be readily available and uncensorable, and it should be used to verify AI data and large language models (LLMs). He believes that this approach will ensure the integrity and transparency of data and prevent bad actors from manipulating it.
+
+In conclusion, Space and Time's verifiable computing layer can be a solution to the data transparency and verifiability issues in the AI-driven world. Its potential can be expanded beyond the industry, and its decentralized database can be a model for the future of AI and blockchain technology. The need for transparency and verifiability in data is critical, and Space and Time's solution can help prevent bad actors from manipulating it.","https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1828490321.jpg?resize=1200,800",2024-03-29 17:00:55,Space and Time's Verifiable Computing Layer: A Solution to Data Transparency and Verifiability Issues in the AI-Driven World, web3 verifiable computing layer ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://www.engadget.com/how-uber-and-the-gig-economy-changed-the-way-we-live-and-work-164528738.html,How Uber and the gig economy changed the way we live and work, How Uber transformed the gig economy and its impact on workers. ,"The gig economy, born from a confluence of technological advancement and financial anxiety, has transformed the way people work and live. Companies like Uber, which became infamous for their corporate ne'er-do-well behavior, have capitalized on this shift. While self-employment may seem liberating, companies like Uber effectively turned traditional employee-based industries into contractor-based ones. This has had a profound impact on the taxi industry and medallion holders, with many struggling to pay off enormous loans.
+
+Despite efforts to offset the collapse in medallion value, taxpayers and riders have borne the brunt of the impact. The Federal Trade Commission and New York state have taken legal action against Uber and Lyft for wage theft, with the latter agreeing to pay $328 million in settlements. Many rideshare drivers have also sought recognition as employees, with the Department of Labor issuing a final rule that aims to make it more difficult for gig economy companies to classify workers as independent contractors.
+
+While Uber's grand vision of a self-driving taxi was never realized, the company's influence on the gig economy has been significant. The rise of the gig economy has led to a blurring of the lines between work and leisure, with the internet transforming the way we work and live. As we move forward, it will be important to continue to explore the implications of this shift and navigate the challenges and opportunities it presents.",https://s.yimg.com/ny/api/res/1.2/1_Kh9h_P4emCAe45VfYL_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/70ebe730-e083-11ee-adb4-2a4cdea0f515,2024-03-29 16:45:28,"The gig economy has transformed the way people work and live, but it has also had a profound impact on traditional industries. Companies like Uber have capitalized on this shift, but their actions have led to wage theft and legal action. The gig economy has blurred the lines between work and leisure, and it will be important to explore its implications and navigate the challenges and opportunities it presents.", Gig economy ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/29/supaglue-stripe-acquire-acquisition/,"How a tiny 4-person startup, Supaglue, caught Stripe’s eye"," ""Stripe Acquires Supaglue for Revenue and Finance Automation"" ","Stripe's Annual Letter: Focusing on Fast-Growing Areas
+
+Stripe's annual letter highlights several fast-growing areas, one of them being the ""Revenue and Finance Automation"" unit. These tools are designed to help businesses manage billing, tax, and revenue recognition. Stripe's RFA unit is expected to reach a $500 million annual run rate this year, the company announced.
+
+As part of its investment in RFA, Stripe has completed an ""acqui-hire"" of a four-person team from Supaglue, for an undisclosed sum. Supaglue raised a $6.8 million seed round in November 2021, led by Benchmark general partner Chetan Puttagunta. Puttagunta did not respond to TechCrunch's request for comment.
+
+Supaglue, formerly known as Supergrain, is an open-source developer platform for user-facing integrations. Stripe has been working on real-time analytics and reporting across its platform and third-party apps for the RFA suite. The team from Supaglue will help accelerate this effort, a Stripe spokesperson told TechCrunch.
+
+George Xing and Thomas Chen founded Supaglue in 2021 after working on the data teams at Lyft and Uber. They realized that managing data and business metrics across teams was inconsistent and fragmented, which led to bad decisions and worse business outcomes. So, they built a product that helps companies import and centralize customer data from third-party data sources like Salesforce or other customer relationship management systems into their own applications.
+
+The tiny four-person startup caught the attention of mighty Stripe, thanks to mutual work acquaintances who introduced them. Xing and Chen describe meeting Stripe as ""pretty serendipitous."" After folks in their extended network made the introduction, and because Supaglue was also doing integration work, the two companies began having conversations. When Stripe offered to buy them, they accepted.
+
+The Supaglue acqui-hire is one of many things happening at Stripe so far this year. The company has also completed an employee stock sale deal and secured partnerships with companies like authentication startup Clerk and a fun one with electric boat startup Navier. Given the growth Stripe alluded to in its annual letter, Supaglue will likely quickly find fast friends within Stripe's ecosystem.","https://techcrunch.com/wp-content/uploads/2024/03/IMG_1110.jpg?resize=1200,675",2024-03-29 13:30:19,"Stripe's Revenue and Finance Automation unit is expected to reach a $500 million annual run rate, and the company has acquired a four-person team from Supaglue to accelerate its efforts. Supaglue, an open-source developer platform for user-facing integrations, has been working with Stripe on real-time analytics and reporting across its platform and third-party apps. Stripe has also completed an employee stock sale deal and secured partnerships with companies like Clerk and Navier.", revenue automation ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/29/techcrunch-minute-sam-bankman-frieds-sentencing-marks-an-end-to-the-ftx-saga/,Watch: Sam Bankman-Fried’s sentencing marks an end to the FTX saga,Sam Bankman-Fried Sentenced to Up to 25 Years in Prison: Lessons Learned from the FTX Saga,"
+
+After a long and highly publicized trial, we can now say how long former crypto magnate Sam Bankman-Fried will be spending behind bars: up to 25 years. While some may see this as a hefty punishment for the scale of his crimes, it's not entirely surprising given the gravity of his offenses.
+
+The crypto industry has undoubtedly moved on from the dark days of the last crypto winter, with token prices on the rise, trading volumes increasing, and hints of the excitement that web3 once commanded during the asset bubble. However, it's worth taking a moment to reflect on how we got here, and to remember the lessons we've learned from the downfall of one of the industry's most prominent figures.
+
+So let's take a trip down memory lane and examine how we arrived at this point, where a former venture and political darling now finds himself behind bars. ","https://techcrunch.com/wp-content/uploads/2024/03/SBF-TC-Minute-YT.png?resize=1200,675",2024-03-29 16:00:11,"Explore the Rise and Fall of Crypto Mogul Sam Bankman-Fried
+
+Sam Bankman-Fried's sentencing marks the end of the FTX saga, but it's just the latest chapter in the story of one of the crypto industry's most prominent figures. By examining the events that led to his downfall, we can gain insights into the risks and rewards of the crypto world and the lessons we can learn from its ups and downs. So, come join us as we delve deeper into the world of crypto and the fascinating journey of the man who brought both excitement and controversy to the industry.
+
+Don't miss out on this exclusive analysis of Sam Bankman-Fried's sentencing and the lessons we can take from his rise and fall in the world of cryptocurrency. Follow us for more news, insights, and actionable tips on how to navigate the ever-changing crypto landscape.", Crypto Sentencing ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/30/fisker-loses-customers-money-robinhood-launches-a-credit-card-and-google-generates-travel-itineraries/,"Fisker loses customers' money, Robinhood launches a credit card, and Google generates travel itineraries"," Fisker's Money Woes, Facebook's Project Ghostbusters, AI Shakeup, and Weekly Tech Developments ","Welcome to This Week in Review, where we summarize the most significant events in the world of technology that occurred in the past few days.
+
+Fisker's Rocky Road
+
+TechCrunch's automotive reporter, Sean O'Kane, exposed how electric vehicle (EV) startup Fisker momentarily misplaced millions of dollars in client payments while scaling up deliveries. An internal audit was initiated in December and lasted several months, ultimately discovering that the funds were merely delayed due to administrative errors. Despite these challenges, Fisker remains optimistic about its future prospects.
+
+Facebook vs. Snapchat: Project Ghostbusters
+
+In an eyebrow-raising revelation, Lorenzo Franceschi-Bicchierai disclosed that Facebook had been surreptitiously tracking user activity on Snapchat through a top-secret initiative called ""Project Ghostbusters."" By intercepting and attempting to decode encrypted network traffic between Snapchat's app and its servers, Facebook aimed to glean insights into its competitor's operations. However, their attempts proved futile when they failed to crack Snapchat's robust encryption methods.
+
+Stability AI Shaken Amid Executive Turmoil
+
+The artificial intelligence sector witnessed another shakeup with the sudden resignation of Stability AI founder and CEO Emad Mostaque. Struggling to maintain equilibrium since October 2023, the firm allegedly splurged approximately $8 million per month with negligible income generated. Following Mostaque's exit, questions regarding the company's leadership and sustainability linger.
+
+Additional Noteworthy Developments
+
+ Fisker's tumultuous week culminated in a suspension of its stock trading following abnormally low share prices.
+ Google rolled out a feature enabling users to request tailored travel itineraries via its search engine utilizing AI capabilities.
+ Robinhood introduced its revamped Gold Card, boasting numerous enticing features reminiscent of those offered by Apple Card.
+ Personal data belonging to roughly 73 million AT&T clients surfaced online; however, the telecom giant declined to reveal further details surrounding the breach.
+
+Financing Breakdown
+
+Copilot, the burgeoning budgeting application, secured $6 million in a Series A funding round headed by Nico Wittenborn's investment firm, Adjacent. Meanwhile, canned water supplier Liquid Death amassed $67 million in a financing round—its third such instance in just under two years—amounting to a staggering $267 million in total funding. Additionally, PipeDreams, a recently established outfit targeting small-scale heating, ventilation, and air conditioning businesses, procured $25 million to expand its digital footprint.
+
+Final Thoughts
+
+As always, our team strives to keep you informed with captivating stories unfolding across various domains. To ensure you never miss an update, subscribe to our weekly newsletter delivered directly to your inbox each Saturday. Until then, stay curious!","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1236611991.jpg?resize=1200,759",2024-03-30 20:15:06,"Meta Description: ""Stay up-to-date with the latest tech news, including Fisker's financial woes, Facebook's Project Ghostbusters, and Stability AI's leadership changes. Follow our weekly newsletter for more captivating stories in the tech industry."""," Fisker loses customers' money
+",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://www.engadget.com/microsoft-copilot-has-reportedly-been-blocked-on-all-congress-owned-devices-034946166.html,Microsoft Copilot has reportedly been blocked on all Congress-owned devices, Microsoft Copilot Blocked on Congress-Owned Devices ,"In recent developments, the US Congress has banned the use of Microsoft's Copilot AI chatbot on government-issued devices. House Chief Administrative Officer Catherine Szpindor sent a memo stating that Copilot is now officially prohibited due to the potential threat of leaking House data to non-House approved cloud services. Although it is still permissible to use Copilot on personal phones and laptops, it will no longer be accessible on all Windows devices owned by Congress members.
+
+This move comes after the Congress set a strict limit on the use of ChatGPT, another AI chatbot powered by OpenAI's large language models, almost a year ago. Staffers were allowed to use the paid version (ChatGPT Plus) for research and evaluation, but the free version was banned from use on House computers. The White House also recently disclosed rules that federal agencies must follow when using generative AI, to ensure that any tool they use does not compromise the rights and safety of Americans.
+
+Microsoft has recognized the need for government users to have higher security requirements, and has developed a range of tools and services specifically for this purpose. These include an Azure OpenAI service for classified workloads and a new version of Microsoft 365's Copilot assistant. According to Axios, Szpindor's office will evaluate the government version of Copilot when it becomes available before deciding if it can be used on House devices.
+
+Overall, this development highlights the importance of maintaining the security of sensitive data, especially in the government sector. It is crucial that organizations take the necessary precautions to protect their data and their users from potential threats.",https://s.yimg.com/ny/api/res/1.2/wDCn8FUMHSGZ9JddUvosHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODI-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/f171ef30-ee34-11ee-bf2d-509460709f05,2024-03-30 03:49:46,"Microsoft Copilot banned on government-issued devices due to potential data leak risk. This move from the US Congress highlights the importance of maintaining the security of sensitive data, especially in the government sector. Organizations must take necessary precautions to protect their data and users from potential threats. [Actionable] [Unique] [FOCUS KEYPHRASE: Microsoft Copilot banned on government-issued devices]", Microsoft Copilot Ban ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
