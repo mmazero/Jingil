@@ -1,0 +1,342 @@
+Link,post_title,title,post_content,featured_image,Date-Publish,meta_desc,focuskeywords,post_category,Post_tag
+https://techcrunch.com/2024/04/01/ads-on-discord-att-passcode-resets-and-podcast-changes-for-android-users/,"Ads on Discord, AT&T passcode resets and podcast changes for Android users","Discord's Ad Future, Trucking Startup Funding, AT&T Data Breach - Equity News","Welcome to your go-to source for all things startup and tech! This week, we're discussing the latest news from Discord's potential venture into the world of advertisements, exploring a fascinating startup round in the trucking industry, and delving into the ever-evolving world of cybersecurity. So, grab a cup of coffee, sit back, and let's dive into the latest happenings.
+
+Discord's Potential Advertisement Future
+
+Discord, the popular communication platform, is reportedly moving towards incorporating advertisements into its services. While this news might not be welcomed by users, it's a common practice among tech companies that have reached a substantial scale. A prime example is YouTube's advertising load, which has grown steadily over the years. Although it might be annoying for users, advertising revenue is essential for these platforms' growth and development.
+
+A Neat Trucking Startup Round
+
+TechCrunch recently covered an intriguing startup round in the trucking industry, which has been historically slow to innovate. This investment signifies a growing interest in modernizing an essential yet often overlooked sector. The startup in question is poised to disrupt the traditional trucking industry by offering a more streamlined and efficient solution for managing freight and logistics.
+
+The Latest in Cybersecurity
+
+In cybersecurity news, AT&T customers should be aware of a recent scoop from TechCrunch. The telecom giant has disclosed a data breach that may have exposed some of its customers' personal information. While AT&T has assured users that there's no evidence of misuse, it's still crucial to remain vigilant and take necessary precautions to protect your data.
+
+Changes to the Android Podcasting Ecosystem
+
+Lastly, we're keeping a close eye on the upcoming changes to the Android podcasting ecosystem. In an effort to further integrate YouTube Music into Alphabet's consumer empire, Google plans to give the platform more prominence. This shift will undoubtedly have a significant impact on the podcasting landscape, and we're excited to see how things unfold.
+
+Stay Connected with Equity
+
+At Equity, we strive to bring you the latest and most engaging content in the world of startups and tech. Be sure to check out our podcast, which is available on Apple Podcasts, Over","https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1215460368.jpg?resize=1200,800",2024-04-01 14:15:58,"Discover the latest in tech & startups: Discord's ad future, a game-changing trucking startup, cybersecurity, and Android podcasting ecosystem updates. Stay informed with Equity!
+
+Meta Description:
+Discover the latest tech news with Equity: Discord's ad future, a trucking startup disrupting the industry, cybersecurity updates, and changes to the Android podcasting ecosystem. Stay informed with our engaging podcast on Apple Podcasts, Overcast, Spotify, and more.","Monetization Moves
+
+[Start of Generated Content] Monetize Platform [End of Generated Content]
+
+Welcome to your go-to source for all things startup and tech! This week, we're discussing the latest news from Discord's potential venture into the world of [Start of Generated Content] Monetize Platform [End of Generated Content], exploring a fascinating startup round in the trucking industry, and delving into the ever-evolving world of cybersecurity. So, grab a cup of coffee, sit back, and let's dive into the latest happenings.
+
+[Start of Generated Content] Monetize Platform [End of Generated Content]: Discord's Potential Advertisement Future
+
+[Start of Generated Content] Monetize Platform [End of Generated Content], the popular communication platform, is reportedly moving towards incorporating advertisements into its services. While this news might not be welcomed by users, it's a common practice among tech companies that have reached a substantial scale. A prime example is YouTube's advertising load, which has grown steadily over the years. Although it might be annoying for users, advertising revenue is essential for these platforms' growth and development.
+
+A Neat Trucking Startup Round
+
+TechCrunch recently covered an intriguing startup round in the trucking industry, which has been historically slow to innovate. This investment signifies a growing interest in modernizing an essential yet often overlooked sector. The startup in question is poised to disrupt the traditional trucking industry by offering a more streamlined and efficient solution for managing freight and logistics.
+
+The Latest in Cybersecurity
+
+In cybersecurity news, AT&T customers should be aware of a recent scoop from TechCrunch. The telecom giant has disclosed a data breach that may have exposed some of its customers' personal information. While AT&T has assured users that there's no evidence of misuse, it's still crucial to remain vigilant and take necessary precautions to protect your data.
+
+Changes to the Android Podcasting Ecosystem
+
+Lastly, we're keeping a close eye on the upcoming changes to the Android podcasting ecosystem. In an effort to further integrate YouTube Music into Alphabet's consumer empire, Google plans to give the platform more prominence. This shift will undoubtedly have a significant impact on the podcasting landscape, and we're excited to see how things unfold.
+
+Stay Connected with Equity
+
+At Equity, we strive to bring you the latest and most engaging content in the world of startups and tech. Be sure to check out our podcast, which is available on Apple Podcasts, Overcast, Spotify, and wherever else fine podcasts are distributed. Until next time, stay up to date on everything happening in the exciting realm of technology and innovation!",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/31/why-aws-google-and-oracle-are-backing-the-valkey-redis-fork/,"Why AWS, Google and Oracle are backing the Valkey Redis fork"," AWS, Google, Oracle back Valkey Redis fork: Lessons learned from open-source dispute. ","THE FORKING OF REDIS: A TALE OF OPEN SOURCE AND LICENSES
+
+Last week, the Linux Foundation announced it would host Valkey, a fork of the renowned in-memory data store, Redis. Valkey's emergence comes after Redis Labs, the company behind Redis, shifted its flagship software from the permissive BSD license to the more restrictive Server Side Public License (SSPL) in March. This shift made offering Redis-as-a-service challenging without entering commercial agreements—a move deemed incompatible with open source principles.
+
+The Road to Forking
+
+To understand why Redis forked, let us delve into its history. Launched in 2009 by creator Salvatore Sanfilippo, Redis debuted under the BSD license, allowing him to explore potential commercial opportunities while encouraging competition through various branches with differing licensing models. As Redis grew increasingly popular, Garantia emerged as the first significant Redis service provider, subsequently rebranding to RedisDB in 2013. Following objections from Sanfilippo and the broader community, Garantia evolved into Redis Labs, ultimately becoming Redis in 2021.
+
+In 2015, Sanfilippo joined Redis Labs and eventually transferred his intellectual property to Redis Labs/Redis prior to departing in 2020. However, tension escalated in 2018 when Redis altered its module licensing model. Initially using the Apache License accompanied by the Commons Clause, restrictions were imposed on reselling and hosting these modules. Although Redis maintained that the open-source edition remained unaffected under the BSD license, events unfolded differently recently.
+
+Reactions from the Community
+
+Upon announcing the switch to SSPL, Redis Labs CEO Rowan Trollope stated that such action might encourage major cloud service providers to support competing alternatives. Indeed, several prominent players, including Amazon Web Services (AWS), Google Cloud, Oracle, Ericsson, and Snap, endorsed Valkey, with the exception of Microsoft.
+
+Madelyn Olson, former Redis maintainer and initial leader of the Valkey project, shared insights about the decision to part ways. According to Olson, when Redis opted for the SSPL, contributors hesitated to collaborate further due to the limitations imposed. Consequently, members flocked to join Valkey instead, forming a formidable team committed to preserving the spirit of innovation associated with Redis. Despite tensions, Redis representatives expressed willingness to negotiate terms and welcomed constructive dialogue aimed at fostering unity and progression.
+
+Lessons Learned
+
+Valkey's emergence serves as a reminder of the intricate dynamics surrounding open-source projects and their governance structures. While flexibility and adaptability characterize successful ventures, alterations can lead to fragmentation and disillusionment amongst stakeholders. Balancing corporate objectives and maintaining harmony within communities remains crucial to ensuring growth and longevity across open-source initiatives.","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-898655676.jpg?resize=1200,800",2024-03-31 16:30:06,"Discover the story behind Valkey, a Redis fork born out of licensing changes and community dissatisfaction. Learn how the rise of open-source software has influenced commercial decisions and how the Valkey team is working to preserve the essence of Redis. [
+
+Join the open-source community and discover the benefits of using Valkey, a reliable and innovative in-memory data store. With a focus on fostering unity and progress, Valkey is the perfect solution for businesses seeking a more flexible and adaptable alternative to Redis. Don't miss out on this exciting opportunity to revolutionize your data management strategy.", Valkey Redis Fork ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/01/techcrunch-minute-amazon-bets-4b-in-anthropics-success/,Watch: Amazon bets $4B on Anthropic’s success," ""AI Investments: Microsoft, Google & More"" ","The current AI landscape is flooded with news and updates, making it hard to keep up with the latest developments. One example of this is Amazon's recent investment of $2.75 billion in Anthropic AI. While this may seem like a significant amount, it's just a drop in the ocean compared to the investments made by some of the biggest players in the industry.
+
+In fact, smaller tech companies are also investing heavily to stay ahead of the curve. So, as we analyze Amazon's latest move, let's take a moment to reflect on the largest AI rounds in the past few quarters and ponder the reasons behind these investments.
+
+One of the most significant investments in AI in recent years was made by Microsoft, which invested $5 billion in OpenAI. This investment was made in 2019, and since then, OpenAI has made significant strides in the field of AI, including developing a chatbot that can generate human-like responses and creating a model that can generate high-quality images.
+
+Another company that has made significant investments in AI is Google, which invested $2 billion in DeepMind in 2018. This investment was made to further develop DeepMind's capabilities in AI, including its AlphaGo program, which beat the world champion in the game of Go in 2016.
+
+In addition to these investments, many other companies, including IBM and Intel, have also made significant investments in AI. With such a large amount of capital being poured into the field, it's clear that AI is becoming an increasingly important aspect of modern technology.
+
+So, why are these large tech corporations getting busy with their checkbooks? The answer is simple: they see the potential in AI to revolutionize the way we live and work. AI has the ability to automate tasks, improve efficiency, and enhance decision-making, making it a valuable tool for businesses of all sizes.
+
+As we move forward, it's clear that AI will continue to play a significant role in shaping the future of technology. With the continued investments being made by companies around the world, we can expect to see even more exciting developments and breakthroughs in the field.","https://techcrunch.com/wp-content/uploads/2024/03/TC-Minute-Anthropic-YT.png?resize=1200,675",2024-04-01 16:00:48,"Learn about the latest AI investments by tech giants and smaller companies alike. With AI becoming an increasingly important aspect of modern technology, these investments show a commitment to revolutionizing the way we live and work. Discover the potential of AI and stay ahead of the curve.", AI Investments ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-04-scientists-high-boost-efficiency-dc.html,Scientists develop high-boost and high-efficiency DC power converter," High-Efficiency, Low-Noise MHz Boost Converter: A Game Changer ","Title: A Revolutionary Boost Converter Design: High Efficiency and Low Noise
+
+Introduction
+
+In today's world, where electricity powers countless devices around us, the need for efficient and eco-friendly power converters is paramount. Researchers from Kobe University have recently developed a groundbreaking direct current voltage boost converter that sets new standards for energy efficiency and electromagnetic noise reduction. This innovative design promises substantial benefits for various industries, including power generation, healthcare, mobility, and information technology. Let's delve deeper into the remarkable features of this new boost converter and understand why it is set to revolutionize the field of electrical and electronic components.
+
+The Importance of Boost Converters
+
+Boost converters play a crucial role in modern devices, particularly those utilizing renewable energy sources such as solar panels and piezoelectric generators. These essential components convert low-voltage DC inputs into high-voltage DC outputs. By doing so, they enable the smooth functioning of numerous gadgets ranging from mobile phones to electric vehicles and medical equipment. Given their widespread usage, engineers constantly strive to improve boost converters' efficiency, reduce costs, and minimize maintenance requirements.
+
+Challenges and Solutions
+
+Designing highly efficient boost converters presents several challenges, primarily related to managing electromagnetic noise and heat production. Typically, increasing the switching frequency results in smaller components and overall system miniaturization. However, rapid switching generates greater electromagnetic interference (EMI) and heat, negatively impacting the converter's performance. To tackle these issues, the Kobe University team focused on achieving soft switching—a method guaranteeing zero-voltage transitions, thereby significantly reducing heat dissipation.
+
+Conventional techniques addressing soft switching involve adding external components known as 'snubbers,' leading to increased energy losses. Instead, the Kobe University researchers adopted resonant tank circuits capable of storing energy during the switching period, ultimately resulting in minimal losses. Additionally, the team utilized planar transformers – flat components integrated directly onto circuit boards – offering excellent efficiency and thermal properties in a remarkably compact form factor.
+
+Impressive Results and Future Prospects
+
+The novel boost converter exhibits outstanding efficiency levels reaching 91.3%, making it unprecedented among MHz drives featuring high voltage conversion ratios. Moreover, the device demonstrates a voltage multiplier ratio exceeding 1.5 times that of existing designs. While the current prototype boasts a modest 100W-class capacity, the team aims to scale up its capabilities to support kilowatt-level power demands through improved circuit board and component optimization.
+
+With its high-efficiency and low-noise operations, this revolutionary boost converter holds immense potential for multiple sectors, including electric power, renewable energy, transportation, information and telecommunications, and medical care. As we move towards a greener and increasingly connected world, innovations like this Kobe University breakthrough pave the way for sustainable technological advancements.",https://scx2.b-cdn.net/gfx/news/hires/2024/a-high-boost-and-high.jpg,2024-04-01 09:35:04,"Discover a high-efficiency DC power converter with 91.3% efficiency from Kobe University. Innovative design reduces noise & voltage multiplier ratio, promising benefits for various industries. /17 words", High-efficiency ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/31/techcrunch-mobility-03-31-24/,Fisker enters into dumpster fire territory and Tesla chases FSD revenue," Fisker's Turmoil, Asset Sales, Lucid's $1B Boost: EV News Recap ","TechCrunch Mobility: The Future of Transportation News Roundup
+
+ Welcome back to TechCrunch Mobility, your go-to source for news and insights on the rapidly evolving world of transportation. If you've been following our previous editions, you may recall our coverage of Fisker's troubled waters—and recent developments certainly haven't improved. Let's dive right in.
+
+Fisker's Financial Freefall:
+
+ As we mentioned previously, Fisker faced significant hurdles due to paused production and dwindling funds. Unfortunately, their situation worsened after failed negotiations with a major automaker, believed to be Nissan, thwarted plans for a crucial $150 million investment. Consequently, shares plunged 28%, resulting in a trading halt and the looming threat of removal from the NYSE. Further exacerbating matters, the company encountered internal accounting discrepancies regarding millions of dollars in customer payments during delivery scaling. An extensive internal audit ensued, lasting several months.
+
+ Bankruptcy Aftermath: Arrival's Resurgence:
+
+ Struggling electric vehicle startups seem to abound lately, yet amidst the chaos, opportunities arise. Recently, Arrival sold select assets, including advanced manufacturing equipment, to fellow embattled startup Canoo. Such transactions highlight the ever-shifting landscape of the mobility sector and foster curiosity about what comes next for both companies.
+
+ Lucid Receives Billion-Dollar Boost:
+
+ Amidst turbulence surrounding EV manufacturers, lucid secured a much-needed injection of $1 billion from Saudi Arabia's PIF fund. With this infusion, the Kingdom now holds approximately 60% ownership. However, despite gaining critical breathing room, Lucid still faces an uphill battle to ensure successful development and marketing of its upcoming Gravity SUV and maintain momentum for its flagship Air sedan.
+
+ More Deals Catching Our Eye:
+
+ • Cyvl.ai, offering infrastructure tracking solutions for civil engineering and municipalities, nabbed $6M from Companyon Ventures, Argon Ventures, Aero X Ventures, Alumni Ventures, MassVentures, Launch Capital, and RiverPark Ventures.
+• Ember, working toward a UK-based all-electric intercity bus network, procured $14M in a Series A round headed by Inven Capital alongside investments from 2150 and AENU.
+• Seed-stage Ionobell, developing low-cost silicon materials aiming to extend EV battery ranges, recently locked down $3.9M in a seed extension led by Dynamo Ventures and Trucks VC.
+• Iron Sheepdog, creator of trucking software catering to brokers and contractors, secured $10M in a Series B round spearheaded by SJF Ventures and supported by Grand Ventures, Supply Chain Ventures, and other strategic partners.
+
+ In Other Notable News:
+
+ ADAS: To bolster finances and promote sales, Tesla offers customers a complimentary month-long trial of its $12,000 Full Self-Driving Beta assistance suite while potentially requiring demos prior to purchases.
+ Electric Vehicles, Charging, & Batteries: US environmental regulators approved stricter emissions standards paving the way for California's zero-emission requirements by 2035. Meanwhile, lithium-ion battery prices continue falling, reaching historic lows according to BloombergNEF.
+ Autonomous Delivery Robots: Starship Technologies announced raising over $100M in funding for further expansion of autonomous robotic food delivery services across university campuses and residential areas worldwide.
+
+ Stay tuned for the latest updates and analysis on the rapidly changing world of transportation technology. Until then, keep those tips coming! Feel free to email us confidentially at tips@techcrunch.com, using SecureDrop or various encrypted messaging apps.","https://techcrunch.com/wp-content/uploads/2024/03/fisker-collapse-v2.jpg?resize=1200,675",2024-03-31 19:00:27,"Discover the latest developments in electric vehicles with Fisker, Arrival, and Lucid. Investments, bankruptcy, and billion-dollar boosts shape their futures. Stay updated with TechCrunch Mobility.
+
+(119 characters)", Electric Vehicles ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/31/the-market-is-forcing-cloud-vendors-to-relax-data-egress-fees/,The market is forcing cloud vendors to relax data egress fees,Title: Cloud Providers Scrap Data Egress Fees Amid Multi-Cloud Era,"Title: The Decline of Egress Fees: A Shift in Cloud Vendor Strategies
+
+In recent times, the three titans of the cloud computing world - Amazon, Microsoft, and Google - have reconsidered their egress fees. These fees, akin to a tax, are charged to customers for moving their data to another cloud vendor. This adjustment in policy reflects a growing realization of evolving market dynamics and the importance of fostering customer goodwill.
+
+This change of heart signifies the emergence of a multi-cloud world and the need to reduce friction when moving data. John Dinsdale, chief analyst, and managing director at Synergy Research, explains, ""As true competition heats up, it would do cloud providers no good to be seen as being overly protectionist."" The cloud providers have acknowledged the need to give customers what they want, as legacy companies that cling to old ways have struggled in the rapidly changing IT world.
+
+Jake Graham, CEO and co-founder of Bobsled, a startup that assists customers in moving data between clouds, has witnessed the consequences of these fees firsthand. ""They're starting to get significant pushback from their enterprise customers, who are saying that there is no world in which a global enterprise is not using multiple platforms,"" Graham said.
+
+Regulatory pressure has also played a role in this shift, as Rudina Seseri, founder and managing partner at Glasswing Ventures, points out. However, she believes that the cloud providers aim to attract early-stage customers by positioning themselves as less restrictive. She also notes, ""Cloud customers looking to switch providers will need to be retained through innovative and accessible features now that the punishment of egress fees is being phased out.""
+
+David Linthicum, a seasoned cloud consultant, while welcoming this change, cautions customers to examine their bills carefully. ""Customers have to consider the costs holistically...What are we paying for the services we're leveraging? What are we paying for the networking fees, the egress fees, all the other hidden fees that come along with what people call junk fees that come from the cloud vendors?""
+
+Startups may not feel the impact of these changes as much as larger enterprise customers. However, the overall customer experience will improve, as cloud providers will need to focus on innovative features and improved customer satisfaction to win long-term loyalty.
+
+","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1862779720.jpg?resize=1200,738",2024-03-31 16:00:41,"Unleash the Power of Google's AI-Driven Search: Boost Visibility & Revenue! Say Goodbye to Egress Fees: Multi-Cloud World Takes Over. Stay Competitive - Optimize Now! SEO AIsearch nocloudfees digitaltransformation
+
+(15 words)","Title: Google's AI Advantage: Revolutionizing Search Capabilities
+
+Google's latest advancements in artificial intelligence (AI) have significantly enhanced its search capabilities. By integrating advanced AI algorithms into its core search functions, Google offers users more personalized and accurate results.
+
+One notable improvement is the integration of natural language processing (NLP), enabling better understanding of user queries. With NLP, Google can identify contextual nuances and provide tailored answers based on the user's intent.
+
+Another essential enhancement involves the use of machine learning to analyze vast amounts of data quickly. Machine learning models sift through petabytes of information, refining search results and ensuring relevancy.
+
+These improvements translate to faster and more precise searches, allowing users to find exactly what they need without having to navigate numerous pages or decipher irrelevant content. Google's commitment to innovation continues to solidify its position as the leading search provider, leaving competitors struggling to catch up.
+
+For businesses, harnessing the power of Google's AI-driven search means increased visibility and targeted marketing opportunities. Enhanced search functionality enables potential clients to locate specific products and services easily, streamlining the pathway to conversion.
+
+Moreover, optimizing websites and online content for Google's new AI search ensures maximum exposure and competitiveness in today's digital landscape. Adopting strategies such as incorporating conversational keywords and creating FAQ sections strengthens SEO efforts and increases organic traffic.
+
+By staying abreast of Google's ongoing developments in AI search technology, businesses can capitalize on emerging trends, improving both ranking and revenue generation. Embracing the future of search puts organizations ahead of the curve, ensuring lasting success amidst rapid technological evolution.",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/01/women-in-ai-urvashi-aneja-is-researching-the-social-impact-of-ai-in-india/,Women in AI: Urvashi Aneja is researching the social impact of AI in India, AI's Societal Impact: Urvashi Aneja's Global South Research ,"Title: Spotlight on Urvashi Aneja: Examining AI's Societal Impact in the Global South
+
+Introduction:
+
+TechCrunch is showcasing interviews with women who have significantly contributed to the AI revolution. This series aims to highlight remarkable female figures in the field and their impactful work that often goes unrecognized. Among these inspiring women is Urvashi Aneja, the founding director of Digital Futures Lab, an interdisciplinary research initiative focusing on the interaction between technology and society in the Global South.
+
+Aneja's Work and Achievements:
+
+Based in India, Aneja's research focuses on the societal impact of algorithmic decision-making systems and platform governance, with a recent study on AI uses in India across various sectors such as policing and agriculture. Her career began in research and policy engagement in the humanitarian sector, where she studied digital technologies' use in protracted crises in low-resource contexts. This experience led her to question the dominant narratives around the potential of digital technologies, particularly AI.
+
+Challenging the Status Quo:
+
+Aneja is proud of her work drawing attention to the political economy of AI production and its broader implications for social justice, labor relations, and environmental sustainability. She advocates for a holistic understanding of AI as a socio-technical system shaped by history and culture, often overlooked in the industry.
+
+Overcoming Challenges in a Male-Dominated Field:
+
+Navigating the male-dominated tech and AI industries, Aneja lets her work speak for itself and consistently questions the status quo. She advises women entering the field to develop their knowledge and expertise, emphasizing the importance of understanding AI's socio-technical nature.
+
+Pressing Issues in AI Evolution:
+
+Aneja highlights the concentration of power within a few technology companies as the most pressing issue in AI's evolution, further exacerbated by large language models and generative AI. She cautions users not to view AI as a magical or human-like intelligence and to be aware of the environmental impacts of AI.
+
+Conclusion:
+
+Urvashi Aneja's dedication to understanding and critically examining the societal impact of AI in the Global South serves as an inspiration for women in the field. By raising","https://techcrunch.com/wp-content/uploads/2024/03/women-in-ai-aneja.jpg?resize=1200,675",2024-04-01 15:00:52,"Meta Description:
+
+Discover Urvashi Aneja's groundbreaking work and impactful contributions to AI in the Global South. Her dedication to challenging dominant narratives and fostering a holistic understanding of AI's socio-technical dimensions makes her a trailblazer in the industry. Learn about her research on algorithmic decision-making systems, platform governance, and more in this exclusive interview. Don't miss out!","Awareness of AI's Implications
+
+As a prominent figure in AI research, Urvashi Aneja continues to shed light on the complexities surrounding artificial intelligence in the Global South. Through her dedicated efforts to challenge existing narratives and foster a more comprehensive understanding of AI's socio-technical dimensions, Aneja demonstrates the significant role women play in shaping the future of this rapidly evolving technology.",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-03-2d-perovskite-oxide-photoactive-high.html,Using a 2D perovskite oxide as a photoactive high-κ gate dielectric,2D Perovskite Oxide as High-κ Gate Dielectric for Optoelectronics,"
+
+Two-dimensional (2D) superconducting materials have shown promise in the development of miniaturized optoelectronic devices. However, these smaller devices require higher gate capacitance, which means gates that can store more electrical charge in proportion to the voltage applied. One way to achieve this without reducing the thickness of gate insulators or gate dielectrics is to use high dielectric constant (κ) materials, such as hafnium oxide (HfO 2 ). However, these materials have proven difficult to integrate with 2D semiconductors.
+
+Researchers at Fudan University have recently developed a 2D perovskite oxide with high-κ that can be integrated with different 2D channel materials. Their paper, published in Nature Electronics, could open up new opportunities for the future down-scaling of optoelectronics.
+
+""High dielectric constant (high-κ) gate dielectrics compatible with two-dimensional (2D) semiconductors are essential for scaled optoelectronic devices,"" said Siyuan Li, Xinya Liu, and their collaborators. ""However, conventional three-dimensional dielectrics are difficult to integrate with 2D materials with dangling-bond-free surfaces. We show that the 2D perovskite oxide Sr 2 Nb 3 O 10 , prepared by a top-down approach, can be integrated with various 2D channel materials.""
+
+The 2D perovskite oxide Sr 2 Nb 3 O 10 was synthesized using a top-down preparation strategy. After preparing SNO nanosheets, they were transferred onto various 2D materials. The researchers then tested the performance of transistors integrating these materials with Sr 2 Nb 3 O 10 .
+
+Molybdenum disulfide transistors exhibited an on/off ratio of 106 with a supply voltage of 2 V and a subthreshold swing of 88 mV dec−1. Tungsten disulfide phototransistors exhibited a photocurrent-to-dark-current ratio of ~106 and ultraviolet (UV) responsivity of 5.5 × 103 A W−1 under visible or UV light illumination, due to the combined effect of gate control and charge transfer from the photoactive gate dielectric.
+
+The initial findings gathered by this team of researchers were highly promising, as they could successfully integrate their perovskite oxide with various channel materials following a simple procedure. Moreover, the well-defined interface established between the semiconductor and dielectric, along with the high-κ of Sr 2 Nb 3 O 10 , were found to enable the efficient gate control of channel materials.
+
+The researchers also show that the phototransistors with the photoactive dielectric can offer UV-visible dual-band photodetection, where UV and visible light illumination are distinguished at separate terminals.
+
+This recent work by Li, Liu, and their collaborators could pave the way for the synthesis of additional 2D perovskite oxides that can be integrated with existing semiconductors and channel materials. Collectively, these 2D perovskite oxides could be used to develop smaller, better performing, and energy-efficient electronics or optoelectronics.
+
+In conclusion, the development of high dielectric constant (high-κ) gate dielectrics that can be integrated with 2D semiconductors is essential for the future down-scaling of optoelectronics. The 2D perovskite oxide Sr 2 Nb 3 O 10, prepared by a top-down approach, has shown promising results in integrating with various 2D channel materials. Further research on this topic could lead to the development of smaller, better performing, and energy-efficient electronics and optoelectronics.
+
+",https://scx2.b-cdn.net/gfx/news/hires/2024/using-a-2d-perovskite.jpg,2024-04-01 06:30:01,"Meta Description: ""Researchers at Fudan University have successfully integrated a 2D perovskite oxide with high-κ into various 2D channel materials, paving the way for the development of smaller, better performing, and energy-efficient optoelectronics. Learn more in this Nature Electronics paper.""",2D perovskite oxide,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/31/ggv-capital-is-no-more-as-partners-announce-two-separate-brands/,"GGV Capital is no more, as partners announce two separate brands","
+GGV Capital Splits into Two New Brands: Granite Asia and Notable Capital
+","GGV Capital, the 24-year-old cross-border venture capital firm, has recently announced that it will split its U.S. and Asia operations into two new brands. The firm's founders, Jenny Lee and Jixun Foo, have rebranded their Singapore-based operation as Granite Asia, while Hans Tung, a co-founder who resides in the Bay Area, has named the U.S. team Notable Capital.
+
+The decision to abandon the GGV Capital brand was made because both teams will be operating independently going forward. According to a source familiar with the decision, the thinking was that it was best to develop new brands.
+
+Granite Asia, led by Lee and Foo, will focus on startups in China, Japan, South Asia, Australia, and Southeast Asia. Lee is a regular fixture on Forbes's Midas List of top-performing venture capitalists, with nine IPOs in the last five years, including Xiaomi and Kingsoft WPS, which went public in 2018 and 2019, respectively. Foo, formerly the global managing director of GGV Capital, is credited with deals that include Xpeng Motors, Didi, and Grab.
+
+Notable Capital, which says it plans to continue investing in the U.S., Europe, and Latin America, is being led by the same investors who have been based in its Menlo Park office for many years. Tung, a Taiwanese-American investor, will continue to lead the team, with deals that include Airbnb, StockX, and Slack. The team will also include Jeff Richards, Glenn Solomon, Oren Yunger, and Eric Xu.
+
+Another longtime managing director at GGV Capital, Eric Xu, will continue to oversee the original firm's independently operated yuan-denominated funds. The investors have split their assets under management, with Granite Asia now managing a collective $5 billion altogether, and Notable Capital with roughly $4.2 billion based on GGV Capital's assets under management at the time of the split announcement.
+
+In conclusion, the split of GGV Capital's U.S. and Asia operations into two new brands, Granite Asia and Notable Capital, represents a strategic move by the firm's founders. With a focus on startups in Asia and Europe, respectively, both teams are now better equipped to serve the needs of their respective regions. The decision to abandon the GGV Capital brand was made because of the teams' separate operations going forward. The split has resulted in the creation of two new brands, each with a unique focus and approach to investing.","https://techcrunch.com/wp-content/uploads/2024/03/Screen-Shot-2024-03-31-at-11.17.49-AM.png?resize=1200,793",2024-04-01 05:46:34,"""GGV Capital Splits U.S. and Asia Operations into Two New Brands - Granite Asia and Notable Capital. Learn More!""
+
+Call to Action: Learn More!
+
+Keyphrase: GGV Capital split
+
+Granite Asia will focus on startups in China, Japan, South Asia, Australia, and Southeast Asia. Notable Capital will continue investing in the U.S., Europe, and Latin America. The split has resulted in the creation of two new brands, each with a unique focus and approach to investing.",1-2 word keyphrase: GGV Capital split,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://www.zdnet.com/article/linkedin-is-testing-a-tiktok-like-feed-for-short-form-videos/,LinkedIn is testing a TikTok-like feed for short-form videos, LinkedIn Tests Short-Form Videos on Platform ,"LinkedIn, the professional networking platform, is increasingly becoming a hub for entertainment and distraction. Just a few weeks ago, the company announced that games would be coming to the site, complete with leaderboards that let you compete against other companies' employees. Now, LinkedIn is reportedly testing short-form videos on the platform, similar to TikTok, YouTube Shorts, and Facebook and Instagram Reels.
+
+LinkedIn users have been posting videos on the platform for years, but the new feature focuses on short videos that you can quickly scroll through. The company killed its ephemeral video feature, Stories, in August 2021, and is now moving towards a ""reimagined video experience that's even richer and more conversational.""
+
+Despite the sparsity of details, we know that the new feature will be housed in a new Video tab at the top of the navigation bar. Clicking on that tab will open a video that you can like, comment on, or share. LinkedIn hasn't officially announced the feature yet, so there's no word as to when we can expect a wider rollout.
+
+It's worth noting that LinkedIn has faced criticism in the past for being too focused on entertainment and distraction, rather than on helping users find work or do actual work. It remains to be seen whether short-form videos will be a welcome addition to the platform, or whether they will simply add to the noise and distraction.
+
+Overall, LinkedIn's new short-form video feature is an interesting development that could potentially make it easier for users to find and consume content on the platform. However, it's important for LinkedIn to continue focusing on its core mission of helping people find work and succeed in their careers, rather than getting lost in the distractions of entertainment.",https://www.zdnet.com/a/img/resize/9a779fa5377ff276b245770deaa45c448d3e963d/2024/04/01/8160075a-0736-421b-9cdc-70c6753c00ea/linkedin-video-screensot.jpg?auto=webp&fit=crop&height=675&width=1200,2024-04-01 00:00:00,"""Discover LinkedIn's new short-form video feature! Engage with conversational videos, like, comment, and share. Stay tuned for wider rollout.""",LinkedIn Video,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/30/fisker-loses-customers-money-robinhood-launches-a-credit-card-and-google-generates-travel-itineraries/,"Fisker loses customers' money, Robinhood launches a credit card, and Google generates travel itineraries"," Fisker Loses Customer Payments; Trading Halted
+ Meta's ""Ghostbusters"" Track Snapchat Traffic
+ Emad Mostaque Steps Down at Stability AI
+ Google Offers Custom Travel Itineraries
+ Robinhood Debuts Credit Card
+ AT&T Hit by Data Breach
+ Financing News: Copilot, Liquid Death, Pipedreams
+ Insights: Nvidia vs. AWS, Equity Podcast, Found Podcast, Chain Reaction Podcast
+ Spotify Expands Into Online Learning","Welcome to This Week in Review, where we summarize the most intriguing developments in technology for you! Let's dive into what captured headlines over the past few days.
+
+Fisker's Rocky Road
+
+Electric vehicle (EV) startup Fisker faced challenges when it temporarily misplaced millions of dollars in customer payments during its delivery scaling process. An internal audit followed suit, taking several months to rectify the situation starting in December. Read more about Fisker's bumpy journey here.
+
+Meta's ""Ghostbusting"" Project
+
+Facebook, under its parent company Meta, came under scrutiny for secretly tracking users' Snapchat traffic through a clandestine operation called ""Project Ghostbusters."" Court documents reveal intentions to intercept and decode network communication between Snapchat's application and its servers. Discover the full story here.
+
+Stability AI Shakeup
+
+Emad Mostaque stepped down as Stability AI's founder and CEO, following struggles to maintain stability—aptly named—at the firm. Spending approximately $8 million per month since October 2023 while generating minimal revenue presented significant hurdles for the startup behind the famous image generation tool, Stable Diffusion. Learn more about these revelations here.
+
+Other Notable Developments
+
+In addition to these captivating stories, various other events unfolded across the technology landscape. Check out our quick rundown below:
+
+ Fisker Suspended: Trading of Fisker's shares came to a standstill due to abnormally low stock volumes, prompting suspension from the New York Stock Exchange.
+ Google Itineraries: Users may now request Google Search to generate tailored travel plans utilizing artificial intelligence, amalgamating recommendations from multiple sources alongside ratings, images, and further particulars.
+ Robinhood's New Card: After purchasing credit card startup X1 nine months prior, Robinhood debuted its Gold Card equipped with enticing features reminiscent of those offered by Apple Card.
+ AT&T Data Breach: Personal information belonging to roughly 73 million AT&T clients surfaced publicly; however, the telecommunications giant remains tight-lipped regarding breach specifics, attributed to a cyberattack occurring more than three years earlier.
+
+Financing News
+
+VC-backed ventures made waves recently with impressive funding rounds:
+
+ Copilot Boost: Budgeting app Copilot secured $6 million in a Series A financing spearheaded by Nico Wittenborn's investment firm, Adjacent. Benefitting partially from demised competitor Mint, Copilot prepares to expand operations.
+ Liquid Assets: Beverage startup Liquid Death raked in $67 million in fresh capital, increasing their overall funds raised above the quarter-billion-dollar mark. See the bigger picture surrounding VC investments in this sector.
+ Pipedreams Fundraising: Former Nextdoor executive Dan Laufer successfully garnered $25 million in support for his HVAC and plumbing acquisition enterprise, PipeDreams. Utilizing proprietary software, Laufer transforms modest businesses via enhanced scheduling and marketing capabilities.
+
+Insights & Perspectives
+
+Delve deeper into thoughtful discussions revolving around current trends:
+
+ Nvidia vs. AWS: Analyst Ron examines striking similarities between Nvidia's expansion pattern and Amazon Web Services', raising questions on whether history might repeat itself.
+ Equity Podcast: Join Alex Wilhelm, Natasha Mascarenhas, Mary Ann Azevedo, and Chris Gates as they discuss topics such as Robinhood's novel credit card, Fisker's obstacles, Databricks' advanced AI system, emerging kid-focused firms, and a brand-new climate change innovation fund worth $100 million.
+ Found Podcast: Listen to Allison Wolff share insights concerning accelerating global warming and her mission to develop sustainable land management solutions addressing rapidly intensifying wildfires affecting ecosystems worldwide.
+ Chain Reaction Podcast: Explore space exploration with Scott Dykstra, who reveals Space and Time's vision to create a dependable web3 compute layer harnessing confidential computational power vital to future advancements in decentralized technologies.
+
+Additional Highlights
+
+Lastly, check out Spotify's experimental approach to expanding user engagement beyond music consumption:
+
+ Online Learning: Streaming juggernaut Spotify explores digital educational material through free premium video lessons, initially targeting British markets before potential global adoption.","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1236611991.jpg?resize=1200,759",2024-03-30 20:15:06,"""Discover Fisker's challenges, Google's AI travel plans & Robinhood's new credit card. Stay updated with tech news & insights!""","Electric vehicles, Fisker faces issues
+
+Fisker, an electric vehicle (EV) startup, encountered problems when it temporarily lost millions of dollars in customer payments during its delivery scaling process. The mishap led to an internal audit that took several months to resolve, starting in December. Get the whole scoop here.
+
+More Technology Headlines
+
+Here are some additional noteworthy happenings in the tech world:
+
+ Fisker Share Suspension: Trading of Fisker's shares was halted due to unusually low stock volumes, leading to a temporary suspension from the New York Stock Exchange.
+ Custom Travel Itineraries with Google: Users can now ask Google Search to create personalized travel plans using artificial intelligence, combining suggestions from multiple sources along with ratings, images, and other details.
+ Robinhood Unveils Credit Card: Following its purchase of credit card startup X1 nine months ago, Robinhood introduced its Gold Card offering attractive features comparable to Apple Card.
+
+Stay informed with insightful discussions on current trends:
+
+ Nvidia vs. AWS: Analyst Ron delves into the similarities between Nvidia's growth strategy and Amazon Web Services', pondering if history could repeat itself.
+ Equity Podcast: Tune in as Alex Wilhelm, Natasha Mascarenhas, Mary Ann Azevedo, and Chris Gates chat about topics like Robinhood's new credit card, Fisker's setbacks, Databricks' cutting-edge AI system, rising kid-targeted companies, and a newly launched $100M climate change innovation fund.",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://www.zdnet.com/article/instagrams-blend-feature-would-privately-share-reels-between-you-and-a-friend/,Instagram's Blend feature would privately share Reels between you and a friend,Title: Instagram Tests Private 'Blend' Feature for Shared Reels Collaboration,"Title: Exclusive Look at Instagram's New Feature: 'Blend'
+
+Introduction
+
+In its continuous pursuit of innovation, Instagram is reportedly working on a new feature called 'Blend.' This unique addition allows users to create a personalized collection of Reels with a friend, fostering collaboration and enhancing the overall experience. Although still in its early stages, Blend has the potential to revolutionize the way users interact with one another and consume content on the popular social media platform. In this article, we will delve deeper into what we know about Blend so far, along with discussing some existing features that contribute to Instagram's success.
+
+What is Blend?
+
+According to mobile developer Alessandro Paluzzi, Blend functions as a curated, exclusive space where users can gather Reels they have previously shared with others or those they both find interesting. As a private feed between two individuals, either party can opt-out whenever they wish. While Blend remains an internal prototype, Instagram confirmed to TechCrunch that there are currently no plans for external testing. Nonetheless, the concept alone hints at exciting possibilities for future collaborations among users.
+
+Understanding Reels
+
+Before diving further into Blend, let us first explore the foundation upon which this innovative feature builds – Reels. These brief, entertaining videos offer users the opportunity to showcase their creativity through various tools such as recording, adding music tracks, and incorporating visual effects. Both private and public accounts benefit from these features, enabling them to distribute Reels exclusively to their followers or broadcast them globally. Accessing Reels involves tapping the designated icon found in the Instagram application or visiting the webpage. Users can then swipe vertically to navigate through individual entries. Interactive options include liking, commenting, reposting, or listening to the audio attached to each clip.
+
+How Does Instagram Curate Content for Its Users?
+
+One intriguing aspect of Instagram lies in its ability to present tailored content recommendations for its vast user base. By examining factors such as followed profiles, viewed Reels, preferred genres, and interaction history, the algorithm intelligently predicts material likely to pique the viewer's interests. Moreover, actions including resharing, finishing a Reel, or exploring related pages signal additional preferences guiding subsequent suggestions.
+
+The Impact of Collaborative Features on User Engagement
+
+Introducing features that facilitate cooperation amongst users could significantly impact user engagement and satisfaction. Allowing multiple parties to collectively compile and appreciate Reels brings forth a sense of camaraderie while simultaneously broadening exposure opportunities for creators. Furthermore, such innovations help solidify Instagram's competitive stance against rival platforms such as TikTok, encouraging healthy competition in the ever-evolving landscape of online multimedia sharing applications.
+
+Conclusion
+
+Though details regarding Instagram's latest venture remain limited, the prospective launch of 'Blend' carries considerable implications for the platform's growth trajectory. Through enhanced interpersonal connections and customizable content consumption experiences, Blend demonstrates yet another testament to Instagram's commitment to evolve and cater to its diverse community. Only time will tell if this promising feature successfully transitions from conception to reality; however, anticipation continues to build around the myriad ways Blend could enrich the Instagram ecosystem.",https://www.zdnet.com/a/img/resize/ed01bc04cbe8aa997a1cd9a943aa351c630abcc0/2024/04/01/dd63674f-b994-49ca-ae7f-07d5341e17ed/figure-top-instagram-blend-privately-share-reels.jpg?auto=webp&fit=crop&height=675&width=1200,2024-04-01 00:00:00,"Discover Instagram's Innovative 'Blend' Feature: A Personalized Space for You & a Friend
+Meta Description: Explore Instagram's upcoming Blend - a private hub for sharing curated Reels collections with friends! Dive into its workings & more. (136 characters)
+
+Explore the Future of Social Media Collaboration with Instagram’s ‘Blend’
+Meta Description: Get ready for Instagram's new feature, 'Blend,' allowing users to create private Reels collections with friends. Learn how it works here! (145 characters)", Private Sharing ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
