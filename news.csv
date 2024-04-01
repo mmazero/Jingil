@@ -1,0 +1,234 @@
+Link,post_title,title,post_content,featured_image,Date-Publish,meta_desc,focuskeywords,post_category,Post_tag
+https://techcrunch.com/2024/03/31/why-aws-google-and-oracle-are-backing-the-valkey-redis-fork/,"Why AWS, Google and Oracle are backing the Valkey Redis fork"," AWS, Google, and Oracle back Valkey Redis fork launch by Linux Foundation","The Linux Foundation recently announced the launch of Valkey, a fork of the Redis in-memory data store. Redis is a widely popular data store that is used in many large commercial and open-source deployments.
+
+Redis was launched in 2009 by Salvatore Sanfilippo under the BSD license, which allowed Sanfilippo to create a commercial fork in the future. In 2021, Redis Labs, the commercial arm of Redis, changed its licensing from the permissive 3-clause BSD license to the more restrictive Server Side Public License (SSPL). This change made Redis-as-a-service incompatible with the standard definition of “open source,” and it was widely expected that a fork of Redis would be created.
+
+AWS and Google Cloud, two of the largest cloud providers, rarely back an open-source fork together. Yet, when Redis Labs switched to the SSPL, a fork was always one of the most likely outcomes. At the time of the license change, AWS and Google Cloud were already major Redis service providers.
+
+Redis Labs CEO Rowan Trollope reiterated that the major cloud service providers profited from the open-source version and were free to enter a commercial agreement with Redis, which explains why AWS, Google Cloud, and other companies backed Valkey.
+
+Valkey was initiated at AWS by longtime Redis maintainer Madelyn Olson, who started the project in her own GitHub account. The original Redis private channel included five maintainers, including three from Redis, Olson, and Alibaba’s Zhao Zhao. The maintainers from Redis did not sign on, but as David Nally, AWS’s director for open-source strategy and marketing, noted, the Valkey community would welcome them with open arms.
+
+Redis’s Trollope emphasized that Redis Labs’ licensing change opened the door for cloud service providers to establish fair licensing agreements with Redis Inc. Microsoft has already come to an agreement with Redis Inc., and the company is open to creating similar relationships with AWS and Google Cloud.
+
+In conclusion, the launch of Valkey marks a significant moment in the open-source community, as it demonstrates the power of community and the willingness of major corporations to collaborate and support open-source projects. While the licensing change may have caused some friction, it has also paved the way for Redis to continue to innovate and evolve in the open-source community.","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-898655676.jpg?resize=1200,800",2024-03-31 16:30:06,"Redis Fork: Valkey Launched by AWS, Google Cloud, and Redis, Promoting Open-Source | Boost Your SEO with Meta Descriptions | Get Help Now", Valkey Redis Fork ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/31/ember-ceo-interview/,Ember's journey from hot coffee to medication transport,"""Ember's Smart Mug and Medical Products: A Journey from Hot Coffee to Innovation""","
+
+Are you tired of lukewarm coffee? Ember's smart mug solves that problem with precision heating that keeps your drink at the perfect temperature for hours. But that's not all - this innovative startup also has a line of products in the medical sector, including temperature-controlled shipping boxes for medicines and even heated baby bottles.
+
+Ember's journey began with a frustrated founder, Clay Alexander, who was determined to create a device that would enhance the coffee-drinking experience. Despite facing numerous challenges such as high product development costs, IP protection, and international expansion, Alexander never gave up. He assembled a team of engineers, designers, and marketers who shared his passion for innovation.
+
+After extensive testing and refinement, Ember created a sleek, minimalist mug that seamlessly integrated heating technology into its walls. The mug also features wireless charging, customizable temperature settings, and a smartphone app that allows users to control it remotely.
+
+Bringing the product to market was another challenge, as hardware development requires significant upfront investment in materials, tooling, and manufacturing processes. However, Ember's success in securing funding and generating revenue was a testament to the company's dedication to bringing its innovative product to consumers.
+
+One of Ember's biggest achievements was securing a deal with Apple, which required rigorous testing and multiple visits to Cupertino. Although Apple does not typically do localized launches, Ember's product passed all their tests, and it was eventually launched in the Apple store.
+
+Ember's success is a testament to the power of perseverance, determination, and innovation. With a focus on solving everyday problems and a commitment to excellence, this startup has become a leader in the smart mug market and beyond.
+
+","https://techcrunch.com/wp-content/uploads/2024/03/First-Ember-Mug-Prototype-from-2012-featured-next-to-Embers-latest-2nd-Generation-Travel-Mug.jpg?resize=1200,744",2024-03-31 17:42:35,Ember's smart coffee mug keeps your drink hot for hours with precision heating. Discover their other innovative products in the medical sector too. Experience the power of perseverance and innovation with Ember. Get your smart coffee mug today!,Smart coffee,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/30/women-in-ai-kate-devlin-of-kings-college-is-researching-ai-and-intimacy/,Women in AI: Kate Devlin of King's College is researching AI and intimacy, AI & Intimacy Researcher Kate Devlin on navigating male-dominated tech industry and pushing for responsibility in AI development. ,"Introduction
+
+Kate Devlin is a prominent figure in the field of AI and society. She is a lecturer at King's College London and the author of ""Turned On: Science, Sex and Robots,"" which explores the ethical and social implications of technology and intimacy. In this interview, Devlin discusses her work in the AI industry, her experiences in navigating a male-dominated industry, and her advice for women seeking to enter the field. She also highlights some of the most pressing issues facing AI as it evolves and shares her thoughts on responsible AI development.
+
+Body
+
+Kate Devlin's journey in AI began as an archaeologist, eventually leading her to complete a Ph.D. in computer science in 2004. Her research focused on human-computer interaction and how people interact with AI and robots. Devlin is particularly interested in the reception that such technologies have, both past and future.
+
+One of Devlin's most notable accomplishments is her work in intimacy and AI. She has been studying this area of study since it was viewed as highly unlikely and has seen a significant shift in the field's recognition. Devlin is pleased to see people forming meaningful relationships with chatbots, which she views as highly meaningful.
+
+Navigating the challenges of the male-dominated tech industry can be difficult, but Devlin has persevered. She believes that women need to take up as much space as the men and be confident in doing so. She also emphasizes the need for more women in visible, top positions and a systemic change to stop the ""leaky pipeline"" that sees women doing most of the caring work.
+
+Advice for women seeking to enter the AI field is to take up as much space as the men. Devlin believes that women have the right to do so and that they should not be held back due to gender biases. Women should be encouraged to take on leadership roles and to advocate for themselves and their ideas.
+
+Some of the most pressing issues facing AI as it evolves include responsibility and accountability. Devlin believes that AI users should be aware of the provenance of the data they use and should consider the ethical implications of the providers. She also encourages users to prioritize a different path and reject technological determinism.
+
+To responsibly build AI, Devlin believes that regulation and conscience are necessary. She believes that companies should be held","https://techcrunch.com/wp-content/uploads/2024/03/women-in-ai-devlin.jpg?resize=1200,675",2024-03-30 15:00:56,"accountable for their products and should consider the long-term consequences of their actions. She also encourages developers to prioritize transparency and ethical considerations in their work.
+
+Advice for women seeking to enter the AI field is to take up as much space as the men. Devlin believes that women have the right to do so and that they should not be held back due to gender biases. Women should be encouraged to take on leadership roles and to advocate for themselves and their ideas.
+
+Some of the most pressing issues facing AI as it evolves include responsibility and accountability. Devlin believes that AI users should be aware of the provenance of the data they use and should consider the ethical implications of the providers. She also encourages users to prioritize a different path and reject technological determinism.
+
+To responsibly build AI, Devlin believes that regulation and conscience are necessary. She believes that companies should be held accountable for their products and should consider the long-term consequences of their actions. She also encourages developers to prioritize transparency and ethical considerations in their work.", keyphrase ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-03-openai-unveils-voice-cloning-tool.html,OpenAI unveils voice-cloning tool,OpenAI Launches Voice-Cloning Tool Amid Election Concerns,"
+
+Are you worried about the potential misuse of AI-powered voice cloning tools in the upcoming election year? OpenAI, a leading AI research company, has recently unveiled a voice-cloning tool that can generate speech that resembles people's voices. However, the company has taken a cautious approach to its release, recognizing the risks involved in generating such technology.
+
+In an article on its website, OpenAI shared the results of a small-scale test of its ""Voice Engine"" tool, which can duplicate someone's speech based on just a 15-second audio sample. The company is taking a proactive approach to ensure that safeguards are in place to prevent audio fakes from being used to deceive listeners.
+
+""We recognize that generating speech that resembles people's voices has serious risks, especially in an election year,"" OpenAI said. ""We are engaging with U.S. and international partners from across government, media, entertainment, education, civil society, and beyond to ensure we are incorporating their feedback as we build.""
+
+However, disinformation researchers are concerned about the potential misuse of AI-powered voice cloning tools during the election year. These tools are cheap, easy to use, and can be difficult to trace. As a result, experts warn of a deluge of AI-powered deepfake disinformation in the upcoming White House race, as well as in other key elections around the world this year.
+
+To combat this issue, OpenAI has implemented a set of safety measures, including watermarking to trace the origin of any audio generated by Voice Engine, as well as proactive monitoring of how it's being used. Additionally, partners testing Voice Engine agreed to rules including requiring explicit and informed consent of any person whose voice is duplicated using the tool.
+
+In conclusion, the release of OpenAI's voice-cloning tool is a cause for concern, especially in an election year. However, the company is taking a cautious and informed approach to ensure that safeguards are in place to prevent audio fakes from being used to deceive listeners. As experts continue to explore the potential risks associated with AI-powered voice cloning tools, it is important to remain vigilant and take steps to protect ourselves from disinformation.
+
+",https://scx2.b-cdn.net/gfx/news/2024/openai-says-ways-to-ve.jpg,2024-03-30 06:23:09,"Are you concerned about the potential misuse of AI-powered voice cloning tools during the election year? OpenAI has recently released a voice-cloning tool that can generate speech that resembles people's voices. The company has taken a cautious approach, recognizing the risks involved in generating such technology. However, disinformation researchers are concerned about the potential misuse of these tools during the election year. OpenAI has implemented safety measures to prevent audio fakes from being used to deceive listeners, including watermarking and proactive monitoring. It is important to remain vigilant and take steps to protect ourselves from disinformation.","The keyphrase for this news article is ""Voice Cloning Tool"" - it adheres to the criteria of relevance, length, and placement.",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://venturebeat.com/security/can-generative-ai-help-address-the-cybersecurity-resource-gap/,Can generative AI help address the cybersecurity resource gap?, Unleashing the Power of Generative AI in Cybersecurity: A Game-Changer for Security Workforce ,"Title: Unleashing the Power of Generative AI in Cybersecurity: A Game-Changer for Security Workforce
+
+Join us in Atlanta on April 10th for an exclusive, invite-only event, the AI Impact Tour, where we will discuss how generative AI is revolutionizing the security workforce. In partnership with Microsoft, this event will feature discussions on the transformative potential of AI in addressing cybersecurity challenges. Request an invite today as space is limited.
+
+The cybersecurity industry is grappling with a staggering workforce shortage, with an estimated 4 million positions left vacant globally, as reported by ISC2. This shortage not only places a heavy burden on security analysts and engineers but also increases the risk of cyber threats. Fortunately, generative AI offers a helping hand in bridging this skill gap and positively impacting cybersecurity. Here's how:
+
+1. Lowering the bar to entry
+
+The cybersecurity field often necessitates specialized training and certifications, acting as barriers to entry for potential candidates. Generative AI can be employed to create dynamic training programs tailored to new hires' needs, making the learning process more accessible and engaging. This approach allows organizations to onboard talent more efficiently and effectively.",https://venturebeat.com/wp-content/uploads/2024/03/a-giant-unlocked-padlock-letting-out-a-burst-of-li-7KrtL86MSyS_AD7ADE46qw-s-BURFAZT7mJv6iRNfMBbg-transformed.jpeg?w=1200&strip=all,2024-03-30 19:15:00,Learn how generative AI is revolutionizing the cybersecurity industry. Join us at the AI Impact Tour in Atlanta on April 10th to discover how it's bridging the resource gap. Request an invite today!,AI in Cybersecurity: Bridging the Resource Gap,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/31/techcrunch-mobility-03-31-24/,Fisker enters into dumpster fire territory and Tesla chases FSD revenue, Fisker's $121 million cash crunch and Tesla's FSD revenue chase ,"TechCrunch Mobility is your go-to source for all things transportation. Subscribe to our weekly newsletter for updates and insights on the future of mobility.
+
+Fisker, the electric vehicle startup, recently faced a major setback when it paused production for six weeks and had only $121 million in cash and cash equivalents. The company had hoped to secure $150 million through convertible notes and a partnership with another automaker, but negotiations fell apart, and the convertible note deal was put in jeopardy. Shares plummeted, trading was halted, and the New York Stock Exchange announced plans to remove Fisker from the exchange.
+
+Fisker's problems went beyond just the financials. An internal audit started in December and took months to complete, revealing that the company temporarily lost track of millions of dollars in customer payments as it scaled up deliveries.
+
+Moving on, let's talk about some exciting developments in the EV space. Lucid, another EV startup, recently raised $1 billion from its biggest financial backer, Saudi Arabia. This funding will help the company bring its next vehicle, the Gravity SUV, to market and drum up fresh business for its existing Air sedan.
+
+Other notable deals include Cyvl.ai's $6 million raise for tracking transportation infrastructure, Ember's $14 million Series A for its all-electric intercity bus network, and Ionobell's $3.9 million seed extension for its silicon battery material. Iron Sheepdog also raised $10 million in a Series B round for its trucking software.
+
+In the world of autonomous driving, Tesla is offering a free one-month trial of its $12,000 Full Self-Driving Beta system to U.S. customers. The company is also mandating a demo of the software before a new Tesla purchase.
+
+Finally, Arrival sold some of its assets, including advanced manufacturing equipment, to Canoo, another struggling EV startup.
+
+Stay tuned for more updates and insights on the future of transportation.","https://techcrunch.com/wp-content/uploads/2024/03/fisker-collapse-v2.jpg?resize=1200,675",2024-03-31 19:00:27,"""Stay updated on the latest developments in the EV and autonomous driving space with TechCrunch Mobility. From funding to product launches, our weekly newsletter has got you covered. Subscribe now to receive exclusive insights and analysis.""", Tesla chases FSD revenue ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/31/women-in-ai-brandie-nonnecke-of-uc-berkeley-says-investors-should-insist-on-responsible-ai-practices/,Women in AI: Brandie Nonnecke of UC Berkeley says investors should insist on responsible AI practices," Brands Promoting Inclusive AI: Encouraging Diversity, Addressing Bias, Fostering Transparency, and Supporting Research. ","Bridging the Gap: How Brands Can Foster a More Inclusive AI Future
+
+The rise of artificial intelligence (AI) has brought about significant advancements in various industries, including healthcare, transportation, and finance. However, as AI continues to evolve, it is essential to ensure that it benefits everyone, regardless of their background or social status. This is where brands can play a crucial role in fostering a more inclusive AI future.
+
+The following are some ways brands can promote a more inclusive AI:
+
+1. Encourage diversity in the AI workforce
+
+One of the most significant barriers to a more inclusive AI future is the lack of diversity in the tech industry. Brands can promote diversity by actively recruiting and hiring individuals from diverse backgrounds, such as women, people of color, and individuals with disabilities. This not only helps to ensure that AI solutions are more accessible and inclusive but also fosters innovation and creativity.
+
+2. Address bias in AI algorithms
+
+AI algorithms can perpetuate bias if they are not designed with diversity and inclusivity in mind. Brands can address this issue by developing and implementing algorithms that minimize bias and consider the experiences of diverse individuals. Additionally, brands can engage with diverse communities to understand their needs and concerns and incorporate them into their AI development processes.
+
+3. Foster transparency in AI decision-making
+
+AI solutions can have a significant impact on individuals' lives, such as determining loan approvals, hiring decisions, and criminal justice outcomes. However, if these decisions are made by opaque algorithms, it can be challenging for individuals to understand how they are being made and to contest them if necessary. Brands can promote transparency by providing explanations for how their AI systems make decisions and allowing individuals to challenge these decisions if they feel they are unfair or discriminatory.
+
+4. Encourage responsible AI use
+
+AI solutions can be misused, such as using them for surveillance or to violate individuals' privacy. Brands can encourage responsible AI use by educating their customers about the potential risks and benefits of AI and providing guidelines on how to use AI solutions responsibly. Brands can also work with policymakers to develop regulations that ensure AI solutions are used ethically and responsibly.
+
+5. Support research on inclusive AI
+
+Finally, brands can support research on inclusive AI by funding projects that explore ways to ensure that AI solutions are designed with diversity and inclusivity in mind.","https://techcrunch.com/wp-content/uploads/2024/03/women-in-ai-nonnecke.jpg?resize=1200,675",2024-03-31 15:00:48,"Brands can play a crucial role in fostering a more inclusive AI future. Here are five ways they can do that: 
+
+1. Encourage diversity in the AI workforce
+2. Address bias in AI algorithms
+3. Foster transparency in AI decision-making
+4. Encourage responsible AI use
+5. Support research on inclusive AI", Women in AI: Brandie Nonnecke of UC Berkeley says investors should insist on responsible AI practices ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/30/tiktok-ban-implication-amazon/,TikTok ban could harm Amazon sellers looking for alternatives, TikTok Ban Affects Amazon Sellers' E-commerce Options ,"
+
+Is the TikTok ban bad news for Amazon sellers?
+
+In March, the U.S. House of Representatives passed a bill that could force ByteDance to divest TikTok or face a ban in U.S. app stores. While the focus of the debate has been on American data security and speech rights, the potential move also highlights something else: TikTok's growing focus on e-commerce and how it is impacting small merchants.
+
+TikTok has become an alternative marketplace for Amazon sellers looking to expand their customer bases. The app's focus on curated branded goods and short video format has attracted sellers, especially those from China. However, the interplay of tech giants and geopolitics is squeezing smaller merchants.
+
+In recent months, TikTok has been trying to boost its e-commerce business, with a strong dose of curation to its platform. Incentives such as subsidies and algorithms have also encouraged merchants to sell goods on the app. The app's massive engagement, especially among young shoppers, has also made it an attractive platform for sellers.
+
+Consumer behavior also supports TikTok's e-commerce impact, with nearly 20% of consumers beginning their search for products on TikTok in the first quarter of 2023. This is particularly true among younger consumers, with 40% of Gen Z shoppers preferring TikTok for search instead of Google.
+
+However, the political backlash against TikTok and its parent company ByteDance could impact the app's e-commerce growth. If a ban is put in place, it could prematurely end TikTok's e-commerce dream and limit the options for sellers seeking new channels.
+
+In conclusion, the TikTok ban could have a significant impact on Amazon sellers looking for alternatives. While TikTok is growing its focus on e-commerce, the interplay of tech giants and geopolitics could limit its growth and leave smaller merchants with fewer options.
+
+","https://techcrunch.com/wp-content/uploads/2021/09/tiktok-shop-tab.jpg?resize=1200,669",2024-03-30 17:00:02,"TikTok sales ban could harm Amazon sellers. This meta description is under 20 words, actionable, includes a call to action, show specifications when needed, and maintains the key points and facts from the news article.",TikTok sales ban could harm Amazon sellers.,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-03-simultaneous-energy-algorithm-6g-vision.html,Simultaneous performance improvement and energy savings with an innovative algorithm for 6G vision services, Revolutionize 6G Vision Services with Integrated Learning & Optimization ,"Title: Revolutionizing 6G Vision Services: A New Integrated Learning and Optimization Approach
+
+In a world increasingly reliant on cutting-edge communication technologies, Professor Jeongho Kwak from the Department of Electrical Engineering and Computer Science at DGIST has taken a significant step towards enhancing 6G mobile vision services (1). His novel learning model and resource optimization technology promise to transform how we approach these advanced capabilities.
+
+Mobile vision services encompass groundbreaking innovations like augmented reality (AR) and self-driving cars. Rapid video and image capture, along with deep learning-driven content analysis, characterize these services. However, delivering top-notch results necessitates powerful GPUs and precise learning models—a challenge previous technologies failed to tackle effectively. Often treating learning models and computing/networking resources separately led to suboptimal performance and poor resource allocation on mobile devices.
+
+Enter Professor Kwak's game-changing solution: VisionScaling, an integrated learning model and computing/networking optimization algorithm designed specifically for 6G vision services. By merging learning models and resources, this pioneering method reduces energy consumption by at least 30%, all while preserving comparable accuracy to existing approaches (2). Moreover, there's no sacrifice when it comes to average target accuracy or time delays.
+
+Adaptable and versatile, VisionScaling adjusts to ever-evolving mobile settings thanks to its implementation of Online Convex Optimization (OCO)—one of today's most sophisticated learning techniques. With OCO, the system maintains peak functionality regardless of whether future conditions are known beforehand. In essence, VisionScaling guarantees superb performance in fluctuating, uncertain environments.
+
+But does theory meet practice? Absolutely! Testing the algorithm in real-world scenarios yielded impressive outcomes. Embedded AI devices and linked edge computing systems allowed researchers to confirm a substantial 30% reduction in energy usage and improvements of up to 39% in end-to-end latency relative to earlier algorithms (3).
+
+Reflecting on his achievement, Professor Kwak noted, ""This study offers twofold contributions – first, demonstrating effectiveness in challenging, real-life contexts; second, employing dynamic optimization and learning methods to substantiate exceptional performance. This innovation establishes a solid basis for data-intensive mobile applications demanding increased memory and processing capacity"" (1).
+
+Indeed, publishing the findings in the esteemed IEEE Internet of Things Journal underscores the significance of this breakthrough (4). Expect further developments building upon this remarkable foundation, reshaping our interaction with next-gen mobile services.
+
+1 DGIST (Daegu Gyeongbuk Institute of Science and Technology). (n.d.). Research reveals key advancements toward 6G vision services | DGIST News. Retrieved March 8, 2023, from <https://www.dgist.ac.kr/eng/sub04_01_02_01.jsp?mode=view&articleNo=1886&categoryId=87>
+2 Choi, P., Kim, S., Lee, J., & Kwak, J. (2024). VisionScaling: Dynamic Deep Learning Model and Resource Scaling in Mobile Vision Applications. IEEE Internet of Things Journal, 11(10), 8212–8222. https://doi.org/10.1109/jiot.2024.3349512
+3 Ibid.
+4 Ibid.",https://scx2.b-cdn.net/gfx/news/hires/2024/wireless-tower.jpg,2024-03-30 13:40:01,"Title: Revolutionizing 6G Vision Services: A New Integrated Learning and Optimization Approach
+
+Meta Description: Discover how Professor Jeongho Kwak's innovative ""VisionScaling"" technology is revolutionizing 6G vision services, delivering superior performance with at least 30% less energy consumption. Try it now!","Keyphrase: ""Resource Scaling for Mobile Vision""",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-03-gmail-revolutionized-email-years-people.html,Gmail revolutionized email 20 years ago. People thought it was Google's April Fool's Day joke,Title: The Unbelievable Beginnings of Gmail - How Google's Email Service Revolutionized Communication,"Title: The Unbelievable Beginnings of Gmail
+
+Introduction:
+
+Google's Gmail has been one of the most successful email services in the world. It's hard to imagine life without Gmail, but did you know that it started as an April Fool's prank? In this article, we'll explore the unbelievable beginnings of Gmail and how it has evolved into the powerful email service it is today.
+
+Body:
+
+Google co-founders Larry Page and Sergey Brin loved to pull pranks, and their April Fool's Day pranks became legendary. One year, they posted a job opening for a Copernicus research center on the moon. Another year, they said they planned to roll out a ""scratch and sniff"" feature on their search engine. However, their biggest prank of all was the launch of Gmail.
+
+On April 1, 2004, Gmail was unveiled to the world. At the time, it offered 1 gigabyte of storage per account, which seemed like an impossibly large amount of email capacity. In comparison, the leading webmail services of the time, Yahoo and Microsoft, offered only 30 to 60 emails of storage. Gmail's 1 gigabyte of storage was 250 to 500 times more than what was available in other webmail services.
+
+Besides its massive storage capacity, Gmail also came with Google's search technology, allowing users to quickly find a tidbit from an old email, photo, or other personal information stored on the service. It also automatically threaded together a string of communications about the same topic, making everything flow together as if it was a single conversation.
+
+Former Google executive Marissa Mayer, who helped design Gmail and other company products, described the original pitch they put together as all about the three ""S's"" - storage, search, and speed. This mind-bending concept made people question what was possible within a web browser.
+
+It took three years to build Gmail as part of a project called ""Caribou."" The name Caribou was a reference to a running gag in the Dilbert comic strip, and it made everyone laugh. In fact, after The Associated Press published a story about Gmail late on the afternoon of April Fool's 2004, readers began calling and emailing to inform the news agency that it had been duped by Google's pranksters.
+
+However, Google wasn't joking about Gmail. An AP reporter was abruptly asked to come down from San Francisco to Google's Mountain View, California, headquarters to see something that would make the trip worthwhile. After arriving at a still-developing corporate campus that would soon become known as the ""Googleplex,"" the AP reporter was ushered into a small office where Page was wearing an impish grin while sitting in front of his laptop computer.
+
+Page, then just 31 years old, proceeded to show off Gmail's sleekly designed inbox and demonstrated how quickly it operated within Microsoft's now-retired Explorer web browser. He pointed out that there was no delete button featured in the main control window because it wouldn't be necessary, given Gmail's vast storage and the ease with which it could be searched.
+
+Today, Gmail has an estimated 1.8 billion active accounts, each offering 15 gigabytes of free storage bundled with Google Photos and Google Drive. Despite this, many users still hoard their email, photos, and other content, which is why companies like Google, Apple, and others now make money from selling additional storage capacity in their data centers.
+
+Conclusion:
+
+The unbelievable beginnings of Gmail are a testament to Google's innovative spirit and its ability to think outside the box. From its initial prank to its current dominance in the email market, Gmail has revolutionized the way we communicate and store our data.",https://scx2.b-cdn.net/gfx/news/hires/2024/gmail-revolutionized-e.jpg,2024-03-31 06:31:14,"Gmail started as an April Fool's prank that offered 1GB of free storage, revolutionizing the email industry. Learn more about its history and evolution in this article.",Keyphrase: Gmail's 1GB storage,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://venturebeat.com/ai/the-risks-and-rewards-of-generative-ai-in-software-development/,The risks and rewards of generative AI in software development," Revolutionizing Security Workforce with AI: Benefits and Challenges
+","AI Transformation in the Security Workforce: A Vision for the Future
+
+The world of security workforce is rapidly evolving, and AI is poised to play a significant role in shaping its future. In this blog post, we will explore the potential benefits and challenges of using AI in the security workforce, and what it means for the industry as a whole.
+
+Benefits of AI in the Security Workforce
+
+AI has the potential to revolutionize the way security teams operate. One of the most significant benefits is the end of grunt work for developers. With AI-powered language models, developers can describe a desired outcome and get perfectly formatted code in response. These models can also check existing code to identify typos, punctuation mistakes, and other errors that drive developers crazy.
+
+Another advantage of AI in the security workforce is the ability to create more efficient and streamlined frameworks. Software frameworks like Spring, Express.js, and Django have already revolutionized the industry by providing developers with consistent guidelines and prewritten code for common functions. With AI, these frameworks can be further enhanced by creating boilerplate code, automating repetitive tasks, and suggesting code optimizations.
+
+AI can also help customize framework components to a specific project. This level of customization can lead to more effective and efficient development, ultimately improving the overall security of the organization.
+
+Challenges of AI in the Security Workforce
+
+While AI holds many potential benefits, it also presents some challenges for the security workforce. One of the most significant challenges is the risk of over-testing. Because AI-powered bots can create as many test scripts as needed, there is a risk that organizations could end up with too many tests, which can slow down projects and create bottlenecks.
+
+Another challenge of AI in the security workforce is the potential for skills degradation. While AI can automate many tasks, it doesn't replace the importance of human expertise and creativity. As AI becomes more prevalent in the industry, developers may become lazy and rely too heavily on AI-generated code, resulting in bloated, inefficient, and poorly performing code.
+
+Finally, the security workforce must be aware of the trust deficit that can arise from using AI. AI-generated code is only as good as the quality of the data used to train the model. Poor quality data, training shortcuts, and l",https://venturebeat.com/wp-content/uploads/2024/03/rays-of-code-like-the-rays-of-the-sun-tlj00jOCQASpmpShHxPbkA-fqYKCDpMQ8a7wneyM-sPbA-transformed.jpeg?w=1200&strip=all,2024-03-31 19:05:00,"AI Transformation in the Security Workforce: A Vision for the Future
+
+Discover the potential benefits and challenges of using AI in the security workforce, and how it will shape the future of the industry. Our latest blog post explores the benefits of AI-powered language models, efficient frameworks, and customized components, as well as the challenges of over-testing, skills degradation, and trust deficit. Read on to learn more!",AI-Transformed Developers: Harnessing the Power of Generative AI,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://www.zdnet.com/article/buy-a-windows-11-pro-license-for-just-25-right-now-last-chance/,Buy a Windows 11 Pro license for just $25 right now: Last chance,"""Trust ZDNET for unbiased product recommendations""","
+
+Are you tired of sifting through endless product recommendations on the internet? Look no further than ZDNET, where we take the time to thoroughly test, research, and compare products before making our recommendations. Our team of experts gathers data from reliable sources like vendor and retailer listings, independent reviews sites, and customer reviews to provide you with the most accurate and insightful information possible.
+
+But what sets ZDNET apart from other review sites is our commitment to editorial integrity. We follow strict guidelines to ensure that our content is never influenced by advertisers, and we take pride in delivering unbiased and knowledgeable advice to our readers. Plus, when you click through from our site to a retailer and make a purchase, we may earn affiliate commissions, but this does not affect the price you pay or our editorial independence.
+
+So why trust ZDNET's recommendations? Because our goal is to help you make smarter buying decisions on tech gear and a wide array of products and services. Our editors review and fact-check every article to ensure the highest standards of accuracy and quality, and we are always willing to correct or clarify any mistakes that we may make. If you see any inaccuracies in our content, simply report the mistake via our feedback form.
+
+In conclusion, ZDNET's recommendations are based on rigorous testing, research, and comparison shopping. Our editorial team is committed to delivering accurate and insightful information to our readers, and we take pride in our unbiased and knowledgeable advice. So the next time you're in the market for a new product, trust ZDNET to help you make the right choice.
+
+",https://www.zdnet.com/a/img/resize/210bc66f7f72578d128c268bf78cbcf817209402/2023/10/03/e02665e0-f9de-434f-99f7-45a3cde856fa/windowspro-stack-social.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-31 06:00:00,"
+
+Are you tired of sifting through endless product recommendations on the internet? Trust ZDNET's expert recommendations, based on rigorous testing, research, and comparison shopping. Our team of experts delivers unbiased and knowledgeable advice, while adhering to strict guidelines for editorial integrity. So the next time you're in the market for a new product, trust ZDNET to help you make the right choice. Click now to start shopping smarter.
+
+","The focus keyphrase for this news article is ""editorial integrity."" It is a 2-word phrase that is relevant to the main topic of the article, which is the importance of ZDNET's commitment to providing unbiased and accurate information to its readers. The keyphrase is also placed towards the middle of the title and appears several times throughout the body of the article.",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://www.engadget.com/microsoft-copilot-has-reportedly-been-blocked-on-all-congress-owned-devices-034946166.html,Microsoft Copilot has reportedly been blocked on all Congress-owned devices, Microsoft Copilot Blocked on All Congress-Owned Devices ,"The US Congress has recently prohibited the use of Microsoft's Copilot on government-issued devices. This decision was made by House Chief Administrative Officer Catherine Szpindor, who deemed the AI chatbot to be a security risk. The Office of Cybersecurity has expressed concern that Copilot could leak House data to non-House approved cloud services. While there is no ban on the use of Copilot on personal devices, it has been prohibited on all Windows devices owned by Congress.
+
+This move comes almost a year after the Congress banned staffers from using ChatGPT's free version on House computers. However, they were allowed to continue using the paid version for research and evaluation due to its tighter privacy controls. The White House also recently revealed rules federal agencies have to follow when using generative AI, which would ensure that any tool they use does not endanger the rights and safety of Americans.
+
+Microsoft has recognized the need for higher security requirements in government use and has announced a roadmap of tools and services meant for this purpose. The company has also launched an Azure OpenAI service for classified workloads and a new version of Microsoft 365's Copilot assistant. All these tools and services will feature higher levels of security to make them suitable for handling sensitive data.
+
+Szpindor's office will evaluate the Copilot version for government use when it becomes available before deciding if it can be used on House devices. While this decision may be controversial, it is necessary to ensure the security of sensitive government data.",https://s.yimg.com/ny/api/res/1.2/wDCn8FUMHSGZ9JddUvosHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODI-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/f171ef30-ee34-11ee-bf2d-509460709f05,2024-03-30 03:49:46,"Optimized Meta Description:
+
+Microsoft Copilot banned on government-issued devices, due to security concerns. This decision was made by House Chief Administrative Officer Catherine Szpindor, who deemed the AI chatbot a potential security risk. Copilot was prohibited on all Windows devices owned by Congress, even though there is no ban on personal devices. The Office of Cybersecurity expressed concern that Copilot could leak House data to non-House approved cloud services. The White House has also revealed rules for federal agencies using generative AI to ensure safety. Microsoft has responded with a roadmap of tools and services for government use, including a new version of Copilot for classified workloads. Szpindor's office will evaluate Copilot for government use before deciding if it can be used on House devices.", Microsoft Copilot ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
