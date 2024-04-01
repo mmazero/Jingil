@@ -1,0 +1,191 @@
+Link,post_title,title,post_content,featured_image,Date-Publish,meta_desc,focuskeywords,post_category,Post_tag
+https://techcrunch.com/2024/03/30/mit-outdoor-days/,MIT tool shows climate change could cost Texans a month and a half of outdoor time by 2080," ""Climate change could cost Texans up to 1.5 months of outdoor time by 2080"" ","The Earth's climate is a complex and multifaceted aspect of our world, with many different ways to describe its effects. Researchers at MIT have developed a tool that allows people to see how many ""outdoor days"" their region might experience from now through 2100 if carbon emissions growth remains unchecked. The results of this tool might be alarming or comforting, depending on where you live.
+
+In California, France, and Germany, the climate will be slightly more clement in the spring and fall, adding anywhere from a few days to nearly a month of outdoor weather compared with historical records. The UK will be even better off, gaining 40 outdoor days by the end of the century. However, some temperate places like New York, Massachusetts, China, and Japan will lose a week or more of outdoor days. Additionally, the picture looks even more dire for countries with vulnerable populations, such as Nigeria and India, who will lose nearly two months and almost two and a half months of outdoor days, respectively.
+
+These predictions are based on a field of study known as climate scenario analysis, which seeks to understand how climate change will impact various regions and demographics. The MIT tool is a relatable application of this field of study and has the potential to help shape an uncertain future.
+
+Many startups in the space are using this relatively newfound predictive capability to help give shape to an uncertain future. Jupiter Intelligence, Cervest, and One Concern all focus on providing customers with dashboards and data feeds that they can tailor to regions or even assets of interest. These startups determine the risk of flood, wildfire, and drought and deliver reports detailing risk to assets and supply chains. They can also crank out regulatory disclosures, highlighting relevant climate risks.
+
+Investors and insurers are sufficiently worried about how climate change will affect assets and supply chains that these startups have attracted some real cash. Jupiter Intelligence has raised $97 million, while Cervest has raised $43 million, and One Concern has brought in $152 million.
+
+Other markets exposed to the outdoors are also in need of solutions. ClimateAI is targeting agriculture, including agribusiness, lenders, and food and beverage companies, all of which have watched as droughts, floods, and storms have decimated crops. As a result, water risk assessment is a key feature of ClimateAI's forecasts. The startup has raised $37 million so far. Sensible Weather is working on markets that are a little closer to home for most of us. It provides insurance for people embarking on outdoor events and activities, from live concerts to camping and golfing. It works with campgrounds, golf courses, live event operators, and more, allowing them to give customers an option to insure their outing against inclement weather. The startup has landed the startup $22 million in funding.
+
+As more businesses and consumers become aware of how climate change is affecting their lives, their demand for certainty will create a wealth of new markets that will offer these startups and their peers ample opportunity to expand. Climate scenario analysis, once a niche limited to academic labs and insurance companies, appears poised to enter the mainstream.","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-173667338.jpeg?resize=1200,768",2024-03-30 18:00:48,"""Discover how many 'outdoor days' your region may experience from now until 2100 with MIT's climate scenario analysis tool. Learn how climate change impacts various regions and demographics, and how startups use predictive capability to shape an uncertain future. Invest in climate-related solutions and prepare for the future with actionable insights.""", Climate change impact ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/31/why-aws-google-and-oracle-are-backing-the-valkey-redis-fork/,"Why AWS, Google and Oracle are backing the Valkey Redis fork"," AWS, Redis Fork Valkey, Backed by Google, Oracle, and More - Linux Foundation Hosts ","The Linux Foundation recently announced that it will host Valkey, a fork of the Redis in-memory data store. This announcement comes after Redis Labs switched Redis away from the permissive 3-clause BSD license and adopted the more restrictive Server Side Public License (SSPL) in March 2021. The new license requires commercial agreements to offer Redis-as-a-service, making it incompatible with the standard definition of “open source.” Valkey is backed by AWS, Google Cloud, Oracle, Ericsson, and Snap.
+
+Now, let's take a few steps back to understand how we got to this point. Redis, a popular data store, has seen several licensing disputes throughout its lifetime. In 2009, Redis founder Salvatore Sanfilippo launched the project under the BSD license, which allowed for commercial forks. In 2013, Garantia, the first major Redis service provider, rebranded to RedisDB, prompting Sanfilippo and the community to push back. After some time, Garantia eventually changed its name to Redis Labs and then, in 2021, to Redis.
+
+In 2015, Sanfilippo joined Redis Labs, and in 2020, he transferred his IP to Redis Labs/Redis before stepping down from the company. In the meantime, Redis changed how it licenses its Redis Modules, which include visualization tools, a client SDK, and more. Initially, Redis went with the Apache License with the added Commons Clause that restricted others from selling and hosting these modules. However, in 2021, Redis announced that it had changed its licensing to the Server Side Public License (SSPL), which required commercial agreements to offer Redis-as-a-service.
+
+Redis Labs' CEO Rowan Trollope reiterated that the large cloud vendors profited from the open-source version and were free to enter a commercial agreement with Redis. However, the current reality is that the big cloud vendors, with the notable exception of Microsoft, quickly rallied behind Valkey. The Valkey fork originated at AWS, where longtime Redis maintainer Madelyn Olson started the project in her own GitHub account. Olson noted that she always knew that this change was a possibility and within the rights of the BSD license.
+
+In conclusion, the creation of Valkey, a fork of Redis, is a response to Redis Labs' decision to adopt the Server Side Public License (SSPL) in March 2021. Valkey is backed by AWS, Google Cloud, Oracle, Ericsson, and Snap, and it's already been embraced by many Redis maintainers, including AWS's longtime Redis maintainer, Madelyn Olson. Redis Labs' decision to switch to the SSPL has opened the door for commercial forks of the project, and it's unlikely that Valkey will be the last one to emerge.","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-898655676.jpg?resize=1200,800",2024-03-31 16:30:06,"""React Native: A Beginner's Guide to Building Native Mobile Apps"" - Learn how to build native mobile apps with React Native, a popular open-source framework for cross-platform development. Get started with this step-by-step guide today!", Redis Fork ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/30/iron-sheepdog-is-fixing-short-haul-trucking-from-the-bottom-up/,Iron Sheepdog is fixing short-haul trucking from the bottom up, Revolutionizing Short-Haul Trucking with Iron Sheepdog's Innovative Solution ,"Title: Streamlining Short-Haul Trucking: An Examination of Iron Sheepdog's Innovative Solution
+
+Introduction
+
+Simplicity, often mistaken for ease, can prove to be quite challenging to achieve. Will Lawrence, Co-Founder and CTO of Iron Sheepdog, understands this concept all too well. With a mission to revolutionize the short-haul trucking industry, Iron Sheepdog focuses on developing user-friendly technology. Despite facing fierce competition, the company prides itself on achieving a level of adoption that remains elusive to many others in the sector. Headquartered in Williamsburg, Virginia, Iron Sheepdog provides software designed to optimize and bring efficiency to the fragmented world of short-haul trucking. By enabling businesses to monitor their contracted fleet while providing truckers with an intuitive app, the firm aims to create greater transparency and streamline operations.
+
+A Promising Investment & Adoption Strategy
+
+Recently, Iron Sheepdog secured a $10 million Series B funding round led by SJF Ventures, with additional backing from Grand Ventures, Supply Chain Ventures, and strategic partners. According to Mike Van Sickel, Iron Sheepdog's Co-Founder and CEO, the past few years were dedicated to attaining customer traction and ensuring profitability. Having achieved success in these areas, the time has come for expansion. To foster trust among short-haul operators—dubbed ""subhaulers""—the primary challenge lies in encouraging widespread usage of the application. As Van Sickel aptly notes, ""Trust is the most crucial aspect; we must convince the subhauler to genuinely employ the app.""
+
+Born Out Of Experience And Frustration
+
+What sets Iron Sheepdog apart stems from the personal experiences of its founders. Although none had driven short-haul trucks themselves, they shared frustrations stemming from their previous employment involving managing such services. They noticed a significant gap in available software catering specifically to short-haul truck management compared to other facets of their business. In response, they created Iron Sheepdog to simplify the laborious processes faced by both short-haul drivers and the firms utilizing their services. Since its establishment, Iron Sheepdog has witnessed consistent annual growth, doubling in size each year thanks to its unique, ground-up strategy.
+
+An Unconventional Approach To Success
+
+Rather than concentrating efforts solely on winning over contractors, Iron Sheepdog took a different route. It began by directly addressing the needs of short-haul truckers. Recognizing that simplicity leads to higher acceptance rates, the team focused on crafting an accessible, straightforward mobile app linked to prompt payment processing. By successfully attracting thousands of subhaulers onto the platform, a ripple effect ensued. Brokers followed suit due to increased demand from truckers, and subsequently, interested contractors joined as well, lured by the prospect of tapping into a vast pool of skilled professionals.
+
+Optimization Opportunities Abound
+
+As Iron Sheepdog continues to grow its broker and trucker base, further opportunities arise to maximize the potential of these connections. Businesses may begin allocating tasks more efficiently, assigning multiple jobs to individual trucks or consolidating delivery locations. Such strategies hold the potential to reduce overall transportation costs and minimize environmental impact via decreased fuel consumption. Furthermore, the data gathered throughout this interconnected ecosystem offers valuable insights for future improvements in operational efficiencies.
+
+Why Iron Sheepdog Matters
+
+Several factors contribute to Iron Sheepdog's significance within today's market landscape. First, investments in construction technology startups continue to rise, yet innovations surrounding transport logistics receive comparatively limited attention. Second, while several companies strive towards automating heavy machinery and improving urban distribution systems, fewer focus explicitly on enhancing medium and light-duty vehicle performance. Finally, Iron Sheepdog distinguishes itself by emphasizing adoption above all else—a vital component often neglected when designing enterprise software solutions. Ultimately, successful integration hinges upon the end users embracing novel technologies wholeheartedly. Otherwise, even the most sophisticated tools risk becoming obsolete before realizing their full potential.","https://techcrunch.com/wp-content/uploads/2024/03/ISD_broker-truck.jpg?resize=1200,800",2024-03-30 16:00:39,"Iron Sheepdog's short-haul trucking software simplifies operations and fosters trust in the fragmented industry. As the company grows and wins over contractors, it provides an accessible app for short-haul drivers. By focusing on adoption and optimizing the network, Iron Sheepdog reduces transportation costs and minimizes environmental impact. Its success stems from its unique ground-up approach and emphasis on simplicity.", short-haul trucking software ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-03-strategy-fabricating-high-density-vertical.html,A new strategy for fabricating high-density vertical organic electrochemical transistor arrays, High-Density OECTs Fabrication using eBL: A Northwestern Study ,"Transistors have been a fundamental component of electronics for decades, and with the advent of organic electrochemical transistors (OECTs), they are now being used in a variety of applications, including brain-inspired and wearable technologies. However, despite their promising amplification and sensing capabilities, OECTs have their limitations, such as limited stability and slow redox processes, which can impair their performance.
+
+Recently, researchers at Northwestern University have introduced a new strategy to fabricate high-density and mechanically flexible OECTs using electron-beam exposure (eBL). This method allows for the micropatterning of organic semiconductors without using masks or chemical solvents, which can damage the materials. The patterned films resulting from this process are ultra-small and high-density, with well-defined, conducting channel regions. Moreover, the eBL strategy enables the effective multilayer integration of OECT structures into arrays and circuits.
+
+The researchers successfully used their fabrication strategy to create various vertically stacked logic circuits based on their OECTs, including NOT, NAND, and NOR gates. These circuits performed remarkably well while maintaining excellent operational stability.
+
+This study highlights the potential of e-beam exposure as a scalable fabrication method for OECTs, contributing to their integration into electronic devices. The approach could inform the development of similar strategies to boost the stability and performance of OECT circuits.",https://scx2.b-cdn.net/gfx/news/hires/2024/high-density-vertical.jpg,2024-03-31 09:00:01,Discover the potential of e-beam exposure in fabricating high-density OECTs for brain-inspired and wearable technologies. Learn how Northwestern University researchers successfully fabricated vertically stacked logic circuits using OECTs with excellent stability., OECTs ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/31/ember-ceo-interview/,Ember's journey from hot coffee to medication transport,"""Ember's Success Story: From Smart Mug to Medical Devices""","
+
+Ember's Story: From Indiegogo to a Growing Empire
+
+In 2015, Ember launched its first Indiegogo campaign for its flagship product, a smart mug that keeps coffee at the perfect temperature. Despite initial skepticism, the idea resonated with consumers, and the company has since expanded into the medical sector and beyond.
+
+TechCrunch recently interviewed Clay Alexander, Ember's founder and chairman, to discuss the company's history and future plans. The interview sheds light on the challenges faced by the startup in bringing its products to market, from product development to intellectual property protection.
+
+Beyond the Smart Mug
+
+While the smart mug remains Ember's most well-known product, the company has also made forays into the medical sector. The Ember Cube, a shipping box for temperature-controlled items such as medicines, has been successful, as has the Ember Baby Bottle.
+
+The Power of Perseverance
+
+When Alexander launched Ember, he was told by many that he was crazy to think that a $100 electronic coffee mug would ever sell. However, he had a gut instinct that overpowered logic and perseverance that paid off. Today, the company has sold over 3 million smart mugs and is nearing a million units per year.
+
+The Challenges of Hardware Development
+
+Ember faced numerous challenges during its journey to becoming a successful hardware startup. From the high costs of product development and manufacturing to the complex world of intellectual property protection, Alexander and his team had to overcome many obstacles.
+
+Bringing the Product to Market
+
+Bringing a hardware product to market requires significant investment in materials, tooling, and manufacturing processes. Ember had to secure funding and generate revenue as quickly as possible to stay afloat.
+
+Intellectual Property Protection
+
+Safeguarding innovations is critical to long-term success, but securing patents and trademarks can be time-consuming and expensive. Ember found success in expanding into the Apple store, but the company had to navigate the complex world of IP protection to do so.
+
+Expansion into the Medical Sector
+
+Ember's expansion into the medical sector was a logical next step for the company. The Ember Cube and Baby Bottle have been successful, and the company plans to continue growing its presence in this sector.
+
+Conclusion
+
+Ember's story is one of perseverance, innovation, and success. Despite facing numerous challenges, the company has grown exponentially since its launch in 2015. With a focus on quality and innovation, Ember continues to push the boundaries of what is possible in consumer technology and is well-positioned for continued growth in the years to come.
+
+","https://techcrunch.com/wp-content/uploads/2024/03/First-Ember-Mug-Prototype-from-2012-featured-next-to-Embers-latest-2nd-Generation-Travel-Mug.jpg?resize=1200,744",2024-03-31 17:42:35, The Story of Ember: From Hot Coffee to a Medical Empire , Ember's Story: From Indiegogo to a Growing Empire ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/30/women-in-ai-kate-devlin-of-kings-college-is-researching-ai-and-intimacy/,Women in AI: Kate Devlin of King's College is researching AI and intimacy, Kate Devlin's Ethical AI Research: AI and Intimacy ,"In today's fast-paced technological world, it's easy to get lost in the sea of innovative ideas and groundbreaking inventions. But one area that is often overlooked is the ethical and social implications of AI technology. In this context, Kate Devlin, a lecturer in AI and society at King's College London, is working tirelessly to bring attention to this important issue.
+
+Devlin's work focuses on how people interact with and react to AI technologies, both past and future. She is the author of ""Turned On: Science, Sex and Robots,"" which explores the ethical and social implications of tech and intimacy. Devlin is also the founder of the Trusted Autonomous Systems Hub, a collaborative platform that supports the development of ""socially beneficial"" robotics and AI systems.
+
+In addition to her work at the Trusted Autonomous Systems Hub, Devlin is also a board member of the Open Rights Group, an organization that works to preserve digital rights and freedoms. She has also run the U.K.'s first sex tech hackathon, highlighting the importance of advocacy and engagement in the AI industry.
+
+When asked about her start in AI, Devlin shared how she began as an archaeologist and eventually moved across disciplines to complete a Ph.D. in computer science. Her initial focus was on human-computer interaction, but she soon found herself drawn to the intersection of AI and robotics, particularly as it relates to intimacy and human connection.
+
+One of the most pressing issues facing AI as it evolves is the issue of responsibility and accountability. As AI technology continues to grow in complexity and scale, it becomes increasingly important to ensure that these systems are designed and implemented in a way that prioritizes human rights, labor, sustainability, and social impact.
+
+Devlin also emphasized the importance of transparency and provenance when it comes to AI technology. Users should be aware of where their data is coming from and whether the provider has a good track record of social responsibility. This information can help users make more informed decisions about the AI technologies they use and the companies they support.
+
+Overall, Devlin believes that responsible AI is the key to building a more ethical and sustainable future. She encourages investors to push for responsible AI by holding companies accountable for considering human rights, labor, sustainability, and social impact in their AI supply chain.
+
+In conclusion, Kate Devlin's work in the field of AI and society is critical to ensuring that this technology is developed and used in a way that benefits all of society. Her focus on transparency, accountability, and ethical considerations is vital for building a future that is both sustainable and equitable. As the AI industry continues to grow, it is important for individuals and organizations to work together to create a more responsible and ethical approach to this technology.","https://techcrunch.com/wp-content/uploads/2024/03/women-in-ai-devlin.jpg?resize=1200,675",2024-03-30 15:00:56,"Meta Description: Learn how Kate Devlin, a lecturer in AI and society at King's College London, is working to raise awareness about the ethical and social implications of AI technology. Devlin is the author of ""Turned On: Science, Sex and Robots"" and founder of the Trusted Autonomous Systems Hub. She is also a board member of the Open Rights Group and has run the U.K.'s first sex tech hackathon. Devlin believes that responsible AI is the key to building a more ethical and sustainable future.", Ethical AI ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/31/robinhoods-new-gold-card-baas-challenges-and-the-tiny-startup-that-caught-stripes-eye/,"Robinhood's new Gold Card, BaaS challenges and the tiny startup that caught Stripe's eye"," New Gold Card, Challenges in BaaS, and Stripe's Pick: TechCrunch Fintech Weekly","Welcome to TechCrunch Fintech! This week, we're delving into the latest news and trends in the fintech space. We'll be exploring Robinhood's new Gold Card, analyzing the challenges facing the banking-as-a-service (BaaS) industry, and investigating a tiny startup that caught Stripe's eye.
+To stay up-to-date with TechCrunch's biggest and most important fintech stories, subscribe here to receive our weekly newsletter delivered to your inbox every Sunday at 7:30 a.m. PT.
+The Big News
+Robinhood recently released its new Gold Card, which has quickly gained popularity due to its impressive features. The card offers 3% cash back, the ability to invest that cash back via the company's brokerage account, and the option to put it into Robinhood's savings account, which offers 5% APY. We're excited to see how this new card will impact Robinhood's bottom line and what impact this technology acquisition will have on the company's future.
+Analyzing the Week
+The BaaS space is facing challenges, with several VC-backed companies resorting to layoffs to conserve cash in the past year. Treasury Prime, Synapse, and Figure have all experienced layoffs, while the FDIC has issued consent orders against Sutton Bank and Piermont Bank, warning them to keep a closer eye on their fintechs' compliance with the Bank Secrecy Act and money laundering rules.
+Dollars and Cents
+PayPal Ventures has invested in Qoala, an Indonesian startup that provides personal insurance products covering a variety of risks, including accidents and phone screen damage. MassMutual Ventures also participated in Qoala's new $47 million round of funding. New Retirement, a Mill Valley-based company building software to help people create financial retirement plans, has raised $20 million in a tranche of funding. Zaver, a Swedish B2C buy-now-pay-later (BNPL) provider in Europe, has closed a $10 million extension to its Series A funding round, bringing its total Series A to $20 million.
+What Else We're Writing
+We recently took a closer look at Supaglue, a tiny four-person startup that caught Stripe's eye. Supaglue, formerly known as Supergrain, is an open-source developer platform for user-facing integrations. The team will be working with Stripe on real-time analytics and reporting across its platform and third-party apps for its Revenue and Finance Automation suite.
+Maju Kuruvilla, the former CEO of one-click checkout company Bolt, has stepped down and been replaced by Justin Grooms, Bolt's global head of sales, who is now interim CEO. Kuruvilla, an Amazon executive, took over as CEO in January 2022 after founder Ryan Breslow stepped down.
+High-Interest Headlines
+We dive into the challenges facing Mercury, a fintech hero that has recently come under scrutiny from the feds. We also explore RealPage and Plaid's partnership to curb rental fraud, and Rippling's progress in the HR software battle against Deel. Lastly, we examine the readiness of Chime for an IPO and the bold claims made by a fintech startup CEO covered by TechCrunch previously.
+Cloverleaf has raised $7.3 million in a Series A extension, while Abrigo has acquired TPG Software.
+In Other News
+Don't forget to check out our latest blog post, which investigates a tiny startup that caught Stripe's eye. Supaglue, formerly known as Supergrain, is an open-source developer platform for user-facing integrations. The team has been working with Stripe on real-time analytics and reporting across its platform and third-party apps for its Revenue and Finance Automation suite.
+In addition, Maju Kuruvilla, the former CEO of one-click checkout company Bolt, has stepped down and been replaced by Justin Grooms, Bolt's global head of sales, who is now interim CEO. Kuruvilla, an Amazon executive, took over as CEO in January 2022 after founder Ryan Breslow stepped down. The Information has more about Bolt's woes here.
+As always, we'd love to hear your thoughts on these stories. If you have any tips or feedback, feel free to reach out to us at [maryann@techcrunch.com](mailto:maryann@techcrunch.com) or sign up for our newsletter to stay up-","https://techcrunch.com/wp-content/uploads/2024/03/2.-New-Gold-Card-App_-Features-Preview-1.jpg?resize=1200,675",2024-03-31 14:15:22,"Meta Description: ""Stay up-to-date with TechCrunch Fintech's latest news and trends, including Robinhood's new Gold Card, the challenges facing the banking-as-a-service (BaaS) industry, and a tiny startup that caught Stripe's eye. Subscribe to our weekly newsletter to receive our biggest and most important fintech stories delivered every Sunday at 7:30 a.m. PT."""," Keyphrase: TechCrunch Fintech
+",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://venturebeat.com/security/can-generative-ai-help-address-the-cybersecurity-resource-gap/,Can generative AI help address the cybersecurity resource gap?," ""AI-powered cybersecurity solutions: How generative AI can address the resource gap"" ","Exploring the Power of AI in Security Teams
+
+Are you tired of struggling to find, hire, and maintain a team of cybersecurity professionals? The industry is facing a nearly 4 million person workforce shortage, and that number is only growing. But there's hope on the horizon: generative AI can help address this shortage and have a positive impact on cybersecurity.
+
+Gen AI can be applied to technical documentation and other cybersecurity information to create more dynamic training that meets new hires where they are, versus building training material for a specific user background and requiring new hires to do that work before joining an organization. It can also be used to process and distill information into something very precise and meaningful for the user, reducing the time that security analysts need to find information to do their job and communicate with their broader team.
+
+Gen AI can create more user-friendly documentation, reducing the amount of time spent combing through technical documentation and allowing users to access information faster. Large language models (LLMs) can be used to analyze and synthesize data, reducing the time that security analysts need to find information to do their job and communicate with their broader team.
+
+Gen AI can also be used to reduce the risk of burnout for security professionals by automating tedious activities such as searching for documentation and logging processes and findings. By reducing the ""busy work"" that burdens teams, the focus can be on increasing time spent remediating and reducing risk.
+
+One area that would benefit greatly from gen AI is continual education. As cybersecurity threats, attack vectors, and bad actors are constantly changing, it's essential that security professionals have access to the latest information. Gen AI can be used to gather and distill information pertinent to an industry vertical from an organization's trusted sources, from favorite trade publications and industry associations to other preferred research and resource sites.
+
+Gen AI can also be used to improve cross-team organizational security communications. For example, if an organization sees persistent phishing attempts, gen AI can analyze the text and create custom messaging based on each department's function to best equip them to mitigate the risk.
+
+But with all cutting-edge technology, we must carefully consider how it should be used and put the proper policies and other safeguards in place. For example, we recommend that organizations choose a gen AI platform and put in place a paid, contractual relationship with the vendor to",https://venturebeat.com/wp-content/uploads/2024/03/a-giant-unlocked-padlock-letting-out-a-burst-of-li-7KrtL86MSyS_AD7ADE46qw-s-BURFAZT7mJv6iRNfMBbg-transformed.jpeg?w=1200&strip=all,2024-03-30 19:15:00,"Keep your cybersecurity team running smoothly with AI. Reduce the time spent searching for information and on tedious activities. Our generative AI technology can help you:
+
+- Create more dynamic training for new hires
+- Distill information into something precise and meaningful
+- Improve cross-team organizational security communications
+- Automate tedious activities to reduce burnout
+- Gather and distill information relevant to your industry vertical
+
+Don't let the shortage of cybersecurity professionals hold your organization back. Contact us today to learn how our AI technology can help you streamline your team's operations and improve cybersecurity.", Cybersecurity AI ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/30/this-week-in-ai-let-us-not-forget-the-humble-data-annotator/,This Week in AI: Let us not forget the humble data annotator," ""Revolutionizing AI: Exploring NLP, Generative Models, and Ethics"" ","AI assistant like Alexa or Siri can sometimes misinterpret what you're saying or give you incorrect information. This is because they rely on natural language processing (NLP) algorithms that aren't quite perfect yet.
+
+There's a lot of research being done to improve NLP algorithms and make them more accurate. For example, researchers at MIT have recently developed a new algorithm called BERT that can understand the nuances of language much better than previous NLP algorithms.
+
+BERT works by breaking down sentences into smaller pieces called subwords and training a model on a massive corpus of text. This allows the model to understand the relationships between words and phrases in a sentence, which is crucial for understanding the meaning of the text.
+
+Another exciting development in the world of AI is the rise of generative models. These models can create new data based on existing data, which has a lot of potential applications in fields like image and video processing.
+
+One example of a generative model is OpenAI's Sora, which can generate realistic images and videos based on text descriptions. Sora works by learning the patterns in the data and using those patterns to generate new data.
+
+Despite these exciting developments, there are still many challenges to overcome in the world of AI. One of the biggest challenges is ensuring that AI systems are fair and unbiased. For example, if an AI system is trained on data that contains biases, it may perpetuate those biases in its outputs.
+
+Another challenge is ensuring that AI systems are safe and secure. As AI systems become more advanced, they may be able to perform tasks that are dangerous or harmful if not used properly.
+
+Despite these challenges, the potential benefits of AI are enormous. With continued research and development, AI has the potential to revolutionize many industries, from healthcare to transportation to finance.
+
+In conclusion, AI is a rapidly evolving field with exciting potential applications and challenges. As AI systems become more advanced, it's important to ensure that they are developed and used in a safe, ethical, and responsible way. With continued research and development, the future of AI is bright.","https://techcrunch.com/wp-content/uploads/2018/08/sensetime1.jpg?resize=1200,640",2024-03-30 13:01:25,"""Discover the latest advancements in AI and NLP, including BERT and generative models. Learn how these tools are revolutionizing industries and challenging us to develop and use them in a responsible and ethical way. Improve your understanding of AI today.""", NLP ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/31/the-market-is-forcing-cloud-vendors-to-relax-data-egress-fees/,The market is forcing cloud vendors to relax data egress fees, Relaxing Cloud Egress Fees: A Natural Progression of the Market,"FOR CLEANING INSTRUCTIONS
+
+In recent months, the big three cloud vendors — Amazon, Microsoft and Google — have relaxed their egress fees, which are a tax of sorts that the cloud companies charge customers to move their data to another vendor.
+
+It’s a way to keep existing customers in the fold, but it’s kind of a ham-handed way to do it, and doesn’t exactly foster goodwill.
+
+As a number of factors come into play, like the reality of a multi-cloud world, a stricter regulatory environment and consumer backlash, these companies are beginning to see the error in their ways by easing these fees, albeit with lots of caveats and a bit of friction involved.
+
+For example, there are limits to the kind of data you can move, and each requires you to contact the vendor and open a request to get your own data out of the cloud.
+
+But it’s a start at least.
+
+This change of heart is really an acknowledgement of changing market dynamics, says John Dinsdale, chief analyst and managing director at Synergy Research, a firm that tracks the cloud infrastructure market.
+
+“I think this is a natural progression of the market. As true competition heats up, it would do cloud providers no good to be seen as being overly protectionist,” Dinsdale told TechCrunch.
+
+“Giving customers what they want is just the right business strategy. In the IT world of the last few years, legacy companies that have tried to hang on to the old ways of doing things have not done well,” he said.
+
+It’s also clear that we are moving into a multi-cloud world where it’s more important than ever to remove friction around moving data, says Jake Graham, CEO and co-founder at Bobsled, a startup that helps customers move data between clouds.
+
+His role puts him on the front lines of this issue.
+
+“In the original cloud world, the three major cloud vendors were really fighting to try to build what felt like walled gardens, and as long as you built on top of them, everything was great. But going across them was really challenging,” Graham said.
+
+“They’re starting to get significant pushback from their enterprise customers, who are saying that there is no world in which a global enterprise is not using multiple platforms.” He says that charging","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1862779720.jpg?resize=1200,738",2024-03-31 16:00:41, Easing cloud egress fees , Cloud egress fees ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
