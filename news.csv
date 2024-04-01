@@ -1,0 +1,256 @@
+Link,post_title,title,post_content,featured_image,Date-Publish,meta_desc,focuskeywords,post_category,Post_tag
+https://techcrunch.com/2024/04/01/ads-on-discord-att-passcode-resets-and-podcast-changes-for-android-users/,"Ads on Discord, AT&T passcode resets, and podcast changes for Android users"," Discord Adds Ads, AT&T Passcode Resets, and Android Podcast Changes ","Cleaned and Rewritten Content:
+
+Hello and welcome back to Equity, a podcast about the business of startups. This is our Monday show, and this week, we're looking forward to a deluge of startup news. We'll be diving deeper into Wednesday's stories, but first, let's take a closer look at the latest news from Discord.
+
+As I mentioned in my article in 2022, it seems that Discord is following the standard practice of many tech companies that become big and moving towards opening its gates for advertisements. While this may not be something that consumers love, we can't deny that it's a necessary move for many companies in the industry. Take YouTube's ad load, for example.
+
+In addition to Discord's news, we also got a fascinating look at a startup round concerning trucking. It's always exciting to see new innovations in this sector and how they're shaping the future of transportation.
+
+Meanwhile, TechCrunch also scooped some big news for AT&T customers concerning cybersecurity. This story is sure to resonate with anyone who's concerned about the security of their personal data.
+
+Finally, we learned about some upcoming changes to the Android podcasting ecosystem. It's always interesting to see how tech giants like Alphabet are shaping the future of podcasting and what that means for creators and listeners alike.
+
+As always, hit play and let's dive into the world of startups together. Equity is TechCrunch's flagship podcast and posts every Monday, Wednesday, and Friday. You can subscribe to us on Apple Podcasts, Overcast, Spotify, and all the other platforms.
+
+You can also follow Equity on X and Threads, and don't forget to check out our full interview transcript, as well as our full archive of episodes over at Simplecast.","https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1215460368.jpg?resize=1200,800",2024-04-01 14:15:58,"Discover the latest in startup news with Equity, a podcast about the business of tech. This week, we're taking a closer look at the media giant Discord's decision to introduce ads, a startup round in the trucking industry, a cybersecurity update from AT&T, and upcoming changes to the Android podcasting ecosystem. Join us as we dive deeper into the world of startups together. Equity is TechCrunch's flagship podcast and posts every Monday, Wednesday, and Friday. You can subscribe to us on Apple Podcasts, Overcast, Spotify, and all the other platforms. Follow Equity on X and Threads and check out our full interview transcript and episode archive over at Simplecast."," Discord ads, cybersecurity, tech giant podcasting ",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/30/mit-outdoor-days/,MIT tool shows climate change could cost Texans a month and a half of outdoor time by 2080,"""MIT tool predicts loss of outdoor days by region due to climate change""","The Earth's climate is a complex and ever-evolving concept, making it challenging to relate to in a meaningful way. Researchers at MIT have developed a tool that could help people understand the impact of climate change on their region. The tool predicts the number of ""outdoor days"" that a region might experience from now until 2100 if carbon emissions growth remains unchecked.
+
+The results of this tool are alarming or comforting, depending on where you live. For instance, California, France, and Germany can expect to experience slightly more clement weather in the spring and fall, adding a few days to a month of outdoor weather compared with historical records. However, some temperate places like New York, Massachusetts, China, and Japan will lose a week or more of outdoor days. In contrast, Nigeria and India will lose almost two and a half months of outdoor days respectively.
+
+If the world fails to reach net zero carbon emissions by 2050 but still manages to by 2070, the situation will improve dramatically. For instance, Nigeria and India will only lose one month of outdoor days, and more northerly regions will retain some of their added outdoor days.
+
+Climate scenario analysis is a relatively new field that uses computational power to predict the impact of climate change on various regions and demographics. It is a branch of strategic planning that seeks to understand how climate change will affect various regions and demographics. A range of startups use this predictive capability to help shape an uncertain future.
+
+Investors, lenders, and insurers are some of the customer bases for climate forecasting companies. Jupiter Intelligence, Cervest, and One Concern all focus on these markets, providing customers with dashboards and data feeds that they can tailor to regions or even assets of interest. These startups also determine the risk of flood, wildfire, and drought and deliver reports detailing risk to assets and supply chains. They can also crank out regulatory disclosures, highlighting relevant climate risks.
+
+Other markets exposed to the outdoors, such as agriculture, are also in need of solutions. ClimateAI is targeting agriculture, including agribusiness, lenders, and food and beverage companies, all of which have watched as droughts, floods, and storms have decimated crops. As a result, water risk assessment is a key feature of Climate","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-173667338.jpeg?resize=1200,768",2024-03-30 18:00:48,"Meta Description: ""Discover how climate change will impact outdoor days in your region. Our tool uses net zero carbon emissions to predict the number of days lost until 2100. Learn how climate scenario analysis can help shape the future. Get insights for investors, lenders, insurers, agriculture, and more.""","The keyphrase for this news article is ""outdoor days lost to climate change.""",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/31/why-aws-google-and-oracle-are-backing-the-valkey-redis-fork/,"Why AWS, Google and Oracle are backing the Valkey Redis fork", Valkey Fork of Redis In-Memory Data Store: A New Era Begins ,"Title: Valkey Fork of Redis In-Memory Data Store: A New Era Begins
+
+Introduction
+
+In a significant announcement last week, the Linux Foundation revealed that it will host Valkey, a fork of the widely used Redis in-memory data store. Backed by tech giants such as AWS, Google Cloud, Oracle, Ericsson, and Snap, Valkey marks a new chapter in the evolving landscape of open-source projects and their relationship with big industry players. Let's delve deeper into the background, reasons, and implications surrounding this eventful split.
+
+A Brief History of Redis and Its Licensing Disputes
+
+Originally developed in 2009 by Salvatore Sanfilippo under the BSD license, Redis rapidly garnered popularity due to its powerful performance and versatile features. However, throughout its existence, Redis encountered several licensing disagreements. Initially, Redis Labs emerged as a prominent Redis service provider, leading to tension between the two entities. Ultimately, Redis Labs rebranded itself as Redis while acquiring Sanfilippo's intellectual property in the process.
+
+Fast forward to 2018, Redis modified its module licensing terms by adopting the Apache License along with the Commons Clause—which restricted other parties from selling and hosting these modules. Although Redis maintained that the open-source Redis license remained unaffected, recent events proved otherwise.
+
+The Trigger: Redis Adopts the SSPL
+
+On March 20, Redis Labs shifted its primary software to the Server Side Public License (SSPL)—a less permissive and more restrictive license compared to the previously employed BSD license. As per the new policy, offering Redis-as-a-service required entering into commercial agreements with Redis Labs, thereby rendering it incompatible with traditional definitions of ""open source."" Consequently, this shift paved the way for potential alternatives, including the emergence of Valkey.
+
+Birth of Valkey: An Open Source Collaborative Effort
+
+Following Redis' adoption of the SSPL, AWS and Google Cloud collaboratively sponsored a fork named Valkey. Spearheaded by former Redis maintainer Madelyn Olson, Valkey attracted numerous contributors seeking to preserve the original spirit of Redis as an open-source project. With a majority of previous Redis maintainers joining forces with Valkey, the future appears promising for this burgeoning community.
+
+Implications for Big Industry Players and Developers
+
+As Valkey gains momentum, questions arise regarding the impact on established partnerships and collaboration models between developers and big technology companies. While there may be short-term disruptions, the rise of Valkey could foster innovation, healthy competition, and ultimately lead to better solutions for users across various industries.
+
+Conclusion
+
+While the separation between Redis and Valkey might seem tumultuous, the underlying principles of openness, transparency, and community involvement continue to thrive. By embracing the power of collaboration, both factions can harness collective knowledge and resources to drive progress and push boundaries. Only time will tell how this divide shapes the world of open-source databases; nevertheless, one thing remains certain: the resilience of communities dedicated to fostering growth, learning, and technological advancement.","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-898655676.jpg?resize=1200,800",2024-03-31 16:30:06,"Actionable Meta Description: Valkey, a new fork of Redis, marks a new era in the open-source landscape. Backed by big industry players such as AWS and Google Cloud, Valkey promises to preserve the original spirit of Redis as an open-source project. Discover what this means for big tech partnerships and innovative solutions for users. Join the Valkey community today and be a part of shaping the future of open-source databases!", Valkey Redis Fork ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/31/robinhoods-new-gold-card-baas-challenges-and-the-tiny-startup-that-caught-stripes-eye/,"Robinhood's new Gold Card, BaaS challenges and the tiny startup that caught Stripe's eye"," Fintech Weekly: Robinhood's New Gold Card, BaaS Challenges and Supaglue's Deal with Stripe ","Welcome to TechCrunch Fintech! This week, we're diving into Robinhood's new Gold Card, the challenges in the BaaS space, and how a tiny startup caught Stripe's eye.
+To get a roundup of TechCrunch’s biggest and most important fintech stories delivered to your inbox every Sunday at 7:30 a.m. PT, subscribe here.
+
+The major news of the week is Robinhood's launch of its new Gold Card. The card offers 3% cash back, the ability to invest that cash back through Robinhood's brokerage account, and a 5% annual percentage rate (APR) on the cash back in Robinhood's savings account. The company incorporated technology acquired from startup X1 into this new offering, potentially making it a lucrative addition to their portfolio. We'll be curious to see how it impacts their bottom line.
+
+The banking-as-a-service (BaaS) industry is facing challenges, with several VC-backed BaaS companies resorting to layoffs to preserve cash over the past year. In addition, the FDIC announced consent orders against Sutton Bank and Piermont Bank, warning them to keep a closer eye on their fintechs' compliance with the Bank Secrecy Act and money laundering rules.
+
+In terms of funding, PayPal Ventures invested in Qoala, an Indonesian startup that provides personal insurance products covering various risks. MassMutual Ventures also participated in Qoala's new $47 million round of funding. New Retirement, a Mill Valley-based company building software to help people create financial retirement plans, raised $20 million in a tranche of funding. Zaver, a Swedish B2C buy-now-pay-later (BNPL) provider in Europe, closed a $10 million extension to its Series A funding round, bringing its total Series A to $20 million.
+
+Supaglue, a four-person startup providing open source developer platforms for user-facing integrations, caught Stripe's eye and will help the company on its real-time analytics and reporting across its platform and third-party apps for its Revenue and Finance Automation suite.
+
+In other news, Maju Kuruvilla, CEO of one-click checkout company Bolt, has been replaced by Justin","https://techcrunch.com/wp-content/uploads/2024/03/2.-New-Gold-Card-App_-Features-Preview-1.jpg?resize=1200,675",2024-03-31 14:15:22,"Discover the latest in fintech news with TechCrunch! This week, we're highlighting Robinhood's new Gold Card, challenges in the BaaS space, and how a tiny startup caught Stripe's eye. Plus, funding updates from PayPal Ventures, Qoala, New Retirement, and Zaver, and more. Don't miss out on these fintech stories! Subscribe now to receive our weekly roundup delivered to your inbox every Sunday at 7:30 a.m. PT.","Keyphrase: Gold Card, BaaS, Supaglue",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-04-scientists-high-boost-efficiency-dc.html,Scientists develop high-boost and high-efficiency DC power converter,"Kobe University Developes High-Efficiency DC Power Converter
+
+Title: Kobe University Develops Revolutionary High-Efficiency Direct Current Voltage Booster","Title: Kobe University Develops Revolutionary Direct Current Voltage Boost Converter
+
+Are you tired of bulky, inefficient, and expensive electrical components? Kobe University has developed a groundbreaking direct current voltage boost converter that could change the game for power generation, healthcare, mobility, and information technology. This innovative device combines high-frequency switching with a technique that reduces electromagnetic noise and heat dissipation, called ""soft switching,"" while also reducing the number of components and complexity.
+
+Boost converters are ubiquitous and essential components for converting low-voltage direct current (DC) input into high-voltage DC output for various applications, including solar panels, wind turbines, medical devices, and electric vehicles. The main challenge for boost converters is to increase efficiency, reduce maintenance and cost, and minimize electromagnetic noise and heat generation.
+
+Mishima Tomokazu, a researcher at Kobe University's power electronics department, and his team have made significant progress in developing a new direct current power conversion circuit. They managed to combine high-frequency switching (over 10 times faster than before) with the soft switching technique, which guarantees zero voltage during the switch transition, thus minimizing heat loss and electromagnetic noise.
+
+Their key achievement is the use of ""resonant tank"" circuits that can store energy during the switching period and have much lower losses than traditional snubbers. In addition, they use a component-saving design with flat components printed onto a circuit board, called a ""planar transformer,"" which is very compact, efficient, and thermally stable.
+
+The Kobe University team built a prototype of the circuit and measured its performance. The results were impressive: their design had a high energy efficiency of over 91.3%, which is unprecedented for a MHz drive with a high voltage multiplier ratio. The power conversion ratio was also over 1.5 times higher than existing designs. However, they want to further increase the efficiency by reducing the power dissipation of the magnetic components used.
+
+This innovative development has significant implications for various industries and applications. It could lead to more efficient, cost-effective, and sustainable power generation, healthcare, mobility, and information technology. Mishima explains their plans going forward: ""We plan to expand the power capacity to a larger kW-class capacity in the future by improving the electronic",https://scx2.b-cdn.net/gfx/news/hires/2024/a-high-boost-and-high.jpg,2024-04-01 09:35:04,"DC-DC converter and optimizing the power delivery efficiency. We also plan to collaborate with industry partners to develop new applications and products that can benefit from this technology.""
+
+In conclusion, Kobe University's high-boost and high-efficiency DC power converter is a game-changer for energy-intensive industries and applications. Its unique combination of high-frequency switching and soft switching techniques, along with the use of resonant tank circuits and planar transformers, has the potential to revolutionize power conversion and improve energy efficiency. As Mishima points out, ""This technology has the potential to transform the way we generate, store, and distribute electricity, and we are excited to explore new opportunities for collaboration and innovation.""", DC-DC ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/31/the-market-is-forcing-cloud-vendors-to-relax-data-egress-fees/,The market is forcing cloud vendors to relax data egress fees," Amazon, Microsoft, and Google relax egress fees for cloud customers. ","Have you ever felt frustrated by the high egress fees charged by cloud providers? Well, you're not alone. The big three cloud vendors, Amazon, Microsoft, and Google, have recently relaxed their egress fees, and it's not just a nice gesture. It's a recognition of changing market dynamics and a need for cloud providers to remain competitive.
+
+The cloud market is becoming more and more competitive, and customers now have the power to choose where they want to store their data. This is why cloud providers are starting to loosen their restrictions on data movement. However, it's important to note that these changes come with limits and requirements that can make it difficult for customers to move their data. For example, some vendors require customers to contact them and open a request to get their data out of the cloud.
+
+The shift towards a multi-cloud world is another factor that has contributed to this change. In the past, cloud providers tried to build ""walled gardens"" that made it difficult for customers to move their data between platforms. But with the rise of multiple platforms, it's becoming increasingly important to remove friction around data movement.
+
+As cloud providers face increasing competition, they need to provide customers with what they want to remain competitive. This means making it easier for customers to move their data between platforms. The rise of multi-cloud environments and the need for seamless data movement has become more important than ever.
+
+The shift away from egress fees to more customer-friendly policies is a positive development for cloud customers. However, it's important to remember that egress fees are just one aspect of the overall cost of cloud services. Customers should carefully review their bills and consider the costs of all services before making a decision.
+
+Startups may not be affected as much by these changes as larger enterprise customers. However, the experience of startups is sure to improve as providers focus on innovative features and improved customer satisfaction to win long-term loyalty.
+
+The recent changes in egress fees are a small but important step towards a more competition-friendly cloud market. While there may still be limits and requirements in place, customers can now move their data with greater ease and confidence. As the market continues to evolve, we can expect to see more changes that prioritize customer satisfaction and competition.","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1862779720.jpg?resize=1200,738",2024-03-31 16:00:41,"Optimize your cloud egress fees with Amazon, Microsoft, and Google's relaxed policies. Discover the benefits of multi-cloud environments and seamless data movement. Startups and enterprises alike can benefit from a shift towards customer-friendly policies and long-term loyalty. Read our comprehensive article now.", cloud egress fees ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/01/microsoft-to-unbundle-office-and-teams-globally-following-years-long-criticism/,Microsoft to unbundle Office and Teams globally following years-long criticism, Microsoft to unbundle Office and Teams globally after years of criticism. ,"Microsoft is set to unveil a new version of its Microsoft 365 and Office 365 subscription service that will exclude Teams. This move comes after the European Union regulator and rival Slack raised concerns over the company's practice of bundling the two offerings.
+Microsoft agreed to sell the Office 365 suite sans Teams offering in the EU and Switzerland last year. The company introduced Teams as a complimentary offering to the Office 365 suite in 2017. However, many businesses have argued that Microsoft had an unfair advantage by bundling the two offerings.
+Slack, owned by Salesforce, referred to the move as ""illegal,"" claiming that Microsoft forced the installation of Teams to customers through its market-dominant productivity suite and concealed the true cost of the chat and video service.
+In response to these concerns, Microsoft has announced that it will unbundle the two offerings, providing multinational companies with more flexibility when purchasing across geographies. Microsoft has introduced standalone pricing for Teams at $5.25 per user per month. Additionally, Office packages without Teams will be available at prices ranging from $7.75 to $54.75, depending on the specific package and features included.
+Reuters reported that the new Office 365 lineups will be introduced on Monday. Microsoft has not yet implemented the change at the time of publishing.
+TechCrunch has reached out to Microsoft for more details. We will update the story as we learn more.","https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1247881669-e1693474665289.jpg?resize=1200,676",2024-04-01 10:02:40,"Microsoft is unbundling its Microsoft 365 and Office 365 subscription service, excluding Teams. This move comes after concerns raised by the EU regulator and Slack. Microsoft introduced Teams as a complimentary offering in 2017, but many businesses argued it had an unfair advantage. Slack referred to the move as ""illegal."" Microsoft has announced standalone pricing for Teams at $5.25 per user per month and Office packages without Teams at prices ranging from $7.75 to $54.75. The new Office 365 lineups will be introduced on Monday. Contact us for more details."," Microsoft unbundling Office, Teams ",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/31/women-in-ai-brandie-nonnecke-of-uc-berkeley-says-investors-should-insist-on-responsible-ai-practices/,Women in AI: Brandie Nonnecke of UC Berkeley says investors should insist on responsible AI practices," ""Women in AI: Brandie Nonnecke Promotes Responsible AI"" ","AI has the potential to revolutionize our world, but it also comes with significant risks and challenges. Brandie Nonnecke, the founding director of the CITRIS Policy Lab and co-director of the Berkeley Center for Law and Technology, is one of the many remarkable women working to ensure that AI is developed and deployed in a responsible and ethical manner.
+
+Nonnecke's work focuses on developing effective AI governance and policy frameworks, as well as raising awareness about the benefits and risks of emerging technologies. She is also the host of TecHype, a video and podcast series that analyzes emerging tech policies, regulations, and laws, providing insights into the benefits and risks and identifying strategies to harness tech for good.
+
+One of Nonnecke's proudest achievements is the establishment of responsible AI principles and a governance structure at the University of California. She believes that it's essential to ensure that AI technologies are developed with human rights, fairness, and inclusivity at their core.
+
+When it comes to navigating the challenges of the male-dominated tech industry, Nonnecke advises women to be curious, persistent, and undeterred by imposter syndrome. She also emphasizes the importance of seeking out mentors who support diversity and inclusion and building inclusive communities in tech.
+
+For women seeking to enter the AI field, Nonnecke offers three pieces of advice: seek knowledge relentlessly, embrace networking, and advocate for yourself and others. She believes that women's unique perspectives and experiences enrich the field and drive innovation.
+
+Some of the most pressing issues facing AI as it evolves include ensuring that AI systems are developed with human rights, fairness, and inclusivity at their core, and raising awareness about the potential for bias in AI decision-making. Nonnecke encourages AI users to be aware of issues related to data privacy and security and to demand more accountable and equitable AI systems.
+
+To responsibly build AI, Nonnecke emphasizes the importance of integrating ethical considerations at every stage of development and deployment. This includes diverse stakeholder engagement, transparent methodologies, bias management strategies, and ongoing impact assessments.
+
+Investors can better push for responsible AI by advocating for policies and regulations that prioritize ethical considerations and transparency in the development and deployment of AI technologies. Nonnecke believes that investors have a critical role to play in promoting responsible AI and ensuring that it is developed and deployed in a way that benefits society as a whole.
+
+In conclusion, Brandie Nonnecke is one of the many remarkable women working to ensure that AI is developed and deployed in a responsible and ethical manner. Her work focuses on developing effective AI governance and policy frameworks, raising awareness about the benefits and risks of emerging technologies, and advocating for responsible AI. By following her advice and working together to promote responsible AI, we can ensure that AI technologies are developed and deployed in a way that benefits everyone.","https://techcrunch.com/wp-content/uploads/2024/03/women-in-ai-nonnecke.jpg?resize=1200,675",2024-03-31 15:00:48,Improve your search engine visibility with this actionable Meta Description for a news article about AI ethics., AI ethics ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/30/tiktok-ban-implication-amazon/,TikTok ban could harm Amazon sellers looking for alternatives,"SEO Title: ""TikTok Ban and Amazon Sellers: Trends and Opportunities""","Title: The Potential Impact of TikTok Ban on Amazon Sellers
+
+Introduction:
+
+In recent months, merchants have flocked to TikTok to peddle their products to U.S. buyers through TikTok Shop. However, the potential TikTok ban could prematurely end TikTok's e-commerce dream and leave sellers seeking new channels.
+
+Body:
+
+The U.S. House of Representatives passed a bill in March that could force ByteDance to divest TikTok or face a ban in U.S. app stores. While the focus of the related discussion has been on data security and speech rights, it highlights the growing e-commerce business of TikTok and how it is being squeezed by the interplay of tech giants and geopolitics.
+
+TikTok Shop, launched in September 2023 with 200,000 merchants already on board, has not provided updated numbers on its active merchants, sales, or sales outside of the platform. However, research by Jungle Scout shows that 20% of Amazon sellers, brands, and businesses plan to expand to TikTok Shop this year, with ByteDance projecting that it could grow its U.S. e-commerce business tenfold to $17.5 billion this year.
+
+TikTok is not the only platform for merchants looking for new channels to expand their customer bases. Its rise is part of a broader shift around alternative marketplaces like Temu, which has been attracting more attention from both shoppers and e-commerce exporters and merchants. Amazon has reportedly taken notice, another indication that alternatives are gaining traction.
+
+Merchants have been interested in selling on TikTok due to its massive engagement, with nearly 70% of sellers reporting an increase in sales year-over-year for the first 11 months of 2023. Additionally, TikTok has been offering subsidies to merchants, especially to encourage them to mark down their prices during the Black Friday sales period.
+
+According to Jungle Scout, nearly 20% of consumers began their search for products on TikTok in the first quarter of 2023, up 44% from a year ago. While 56% of all consumers still preferred to start their product","https://techcrunch.com/wp-content/uploads/2021/09/tiktok-shop-tab.jpg?resize=1200,669",2024-03-30 17:00:02,"search on Amazon, the trend towards TikTok is changing, as younger shoppers are more likely to use TikTok for discovery.
+
+While the potential TikTok ban could have a significant impact on Amazon sellers looking for new channels to expand their customer base, it's important to remember that there are always alternatives available. By staying informed and being prepared, merchants can continue to grow their businesses and adapt to the ever-changing e-commerce landscape.
+
+It's also important to note that if a TikTok ban were to occur, it would not necessarily mean the end of TikTok's e-commerce business. The platform could still continue to function as a social media platform and potentially transition to a different business model. However, it would certainly be a setback for merchants who have been investing time and resources into the platform.
+
+Keywords: TikTok, Amazon, e-commerce, alternative marketplaces, Temu
+
+Meta Description: The potential TikTok ban on e-commerce could have a significant impact on Amazon sellers looking for new channels to expand their customer base. Learn more about the impact and how to prepare for it with this comprehensive guide.", TikTok ban ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-03-2d-perovskite-oxide-photoactive-high.html,Using a 2D perovskite oxide as a photoactive high-κ gate dielectric,High-κ Perovskite Oxide for Efficient Optoelectronics: A Review of a Recent Study,"Title: High-κ Perovskite Oxide for Optoelectronics
+
+Introduction:
+
+Optoelectronics is a rapidly growing field, with potential applications in various fields such as healthcare, energy, and communication. However, to realize the full potential of optoelectronics, it is crucial to develop miniaturized devices that consume less energy while being highly efficient.
+
+One of the challenges in this regard is the need for high gate capacitance, which allows for storing more electrical charge in proportion to the voltage applied. While using high dielectric constant (κ) materials, such as hafnium oxide (HfO 2 ), can help achieve this goal, their integration with 2D semiconductors has proven difficult.
+
+In this article, we will explore a recent study by researchers at Fudan University that has prepared a 2D perovskite oxide with high-κ that can be integrated with different 2D channel materials.
+
+Body:
+
+Perovskite oxides have been gaining attention in recent years due to their high dielectric constant, which makes them promising for high-κ gate dielectrics. However, conventional three-dimensional dielectrics are challenging to integrate with 2D materials with dangling-bond-free surfaces.
+
+To address this challenge, researchers at Fudan University prepared a 2D perovskite oxide, Sr 2 Nb 3 O 10 , using a top-down approach. The Sr 2 Nb 3 O 10 , exhibits a high κ of 24.6 and a moderate bandgap, making it suitable for phototransistors based on various 2D semiconducting materials.
+
+To evaluate the potential of Sr 2 Nb 3 O 10 , the researchers transferred it onto various channel materials, including molybdenum disulfide and tungsten disulfide. They then tested the performance of transistors integrating these materials with Sr 2 Nb 3 O 10 .
+
+The results were highly promising, with molybdenum disulfide transistors exhibiting an on/off ratio of 106 with a supply voltage of 2 V and a subthreshold swing of 88 mV dec−1. Tungsten disulfide phototransistors showed a photocurrent-to-dark-current ratio of ~106 and UV responsivity of 5.5 × 10^3 A W−1 under visible or UV light illumination.
+
+Moreover, the well-defined interface established between the semiconductor and dielectric, along with the high-κ of Sr 2 Nb 3 O 10 , were found to enable the efficient gate control of channel materials. Additionally, the phototransistors with the photoactive dielectric could offer UV-visible dual-band photodetection, where UV and visible light illumination are distinguished at separate terminals.
+
+Conclusion:
+
+The recent work by Li, Liu, and their collaborators paves the way for the synthesis of additional 2D perovskite oxides that can be integrated with existing semiconductors and channel materials. Collectively, these 2D perovskite oxides could be used to develop smaller, better performing, and energy-efficient electronics or optoelectronics.
+
+With its high-κ, efficient gate control, and UV-visible dual-band photodetection, Sr 2 Nb 3 O 10 could be a promising material for the development of miniaturized optoelectronics in the future.",https://scx2.b-cdn.net/gfx/news/hires/2024/using-a-2d-perovskite.jpg,2024-04-01 06:30:01,"Optimize Meta Description:
+
+Discover a new high-κ perovskite oxide by Fudan University researchers for optoelectronics applications. This 2D oxide has a high κ of 24.6 and can be integrated with various 2D semiconducting materials. The results show promising phototransistors with high on/off ratio and UV responsivity. The high-κ and efficient gate control make it a promising material for future optoelectronics.", High-κ Perovskite Oxide ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/31/ggv-capital-is-no-more-as-partners-announce-two-separate-brands/,"GGV Capital is no more, as partners announce two separate brands", GGV Capital's Singapore-based operation rebranded as Granite Asia; U.S. team spun off as Notable Capital. ,"In recent months, VCs Jenny Lee and Jixun Foo, along with Hans Tung, have announced the rebranding of their respective firms. The Singapore-based operation, Granite Asia, was previously known as GGV Capital. Meanwhile, Notable Capital was spun off from the U.S. team, which is now led by Tung, Richards, and Solomon. GGV Capital co-founder Eric Xu will continue to oversee the independently operated yuan-denominated funds. The split of GGV Capital was driven by growing tensions between the U.S. and China, which led the firm to split its operations.
+
+Granite Asia, led by Lee and Foo, will focus on startups in China, Japan, South Asia, Australia, and Southeast Asia. Lee is a regular fixture on Forbes's Midas List of top-performing VCs, with nine IPOs in the last five years, including the smartphone giant Xiaomi and the software development company Kingsoft WPS. Foo is credited with deals that include electric carmaker Xpeng Motors, ride-hail giant Didi, and delivery company Grab.
+
+Notable Capital, which plans to continue investing in the U.S., Europe, and Latin America, is led by Tung, Richards, and Solomon. Tung has deals with known brands like Airbnb, StockX, and Slack, while Richards has backed Coinbase, Tile, and Handshake. Solomon has deals with HashiCorp, Opendoor, and Drata. Oren Yunger, the newest member of GGV Capital, will remain on Notable Capital.
+
+The split of GGV Capital resulted in Granite Asia managing a collective $5 billion in assets, leaving Notable Capital with roughly $4.2 billion based on GGV Capital's assets under management at the time of the split. The investors raised $2.5 billion for their new funds in 2018, marking their largest family of funds ever. Since then, they have split their assets under management, including the capital raised prior, resulting in the current split.
+
+In conclusion, the rebranding of GGV Capital's Singapore-based operation and the creation of Notable Capital from the U.S. team reflects a growing trend among VC","https://techcrunch.com/wp-content/uploads/2024/03/Screen-Shot-2024-03-31-at-11.17.49-AM.png?resize=1200,793",2024-04-01 05:46:34,"""GGV Capital rebranded its Singapore-based operation as Granite Asia, while Notable Capital was spun off from the U.S. team. Granite Asia will focus on startups in China, Japan, South Asia, Australia, and Southeast Asia, while Notable Capital plans to continue investing in the U.S., Europe, and Latin America. The split resulted in Granite Asia managing a collective $5 billion in assets, leaving Notable Capital with roughly $4.2 billion.""", VC Split ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://www.zdnet.com/article/linkedin-is-testing-a-tiktok-like-feed-for-short-form-videos/,LinkedIn is testing a TikTok-like feed for short-form videos, LinkedIn tests TikTok-like short-form video feature ,"LinkedIn has been making it easier to get distracted from work lately. The company announced that games with leaderboards were coming to the professional social media network, allowing employees to compete against each other. Now, we're learning that short-form videos are on their way.
+Following in the footsteps of TikTok, YouTube Shorts, and Facebook and Instagram Reels, LinkedIn is apparently adding short videos to the site, as first spotted by user Austin Null. While posting videos on LinkedIn has been possible before, this feature focuses on short videos that you can quickly scroll through. LinkedIn confirmed the test to TechCrunch last week.
+In the past, LinkedIn used to let users post ""fun and casual"" ephemeral videos, but they killed the Stories feature in August 2021. At the time, the company wanted to move to ""a reimagined video experience that's even richer and more conversational.""
+The new feature is still in its early stages, meaning that most users don't have access to it yet. However, we know that the content will be housed in a new Video tab at the top of the navigation bar. Clicking on that tab will open a video that you can like, comment on, or share. Swiping away will open the next video, similar to other short-form video sites.
+While other short-form video sites offer a wide range of content that an algorithm tries to quickly tailor to your specific interests, LinkedIn hasn't said how their feed will be curated yet.
+Despite this, LinkedIn hasn't officially announced the feature yet, so there's no word as to when we can expect a wider rollout. However, one thing is clear - LinkedIn is constantly looking for new ways to keep users engaged and distracted from their work.",https://www.zdnet.com/a/img/resize/9a779fa5377ff276b245770deaa45c448d3e963d/2024/04/01/8160075a-0736-421b-9cdc-70c6753c00ea/linkedin-video-screensot.jpg?auto=webp&fit=crop&height=675&width=1200,2024-04-01 00:00:00,"LinkedIn is testing a new feature that allows users to post short-form videos. The feature is still in its early stages, and most users don't have access to it yet. However, the content will be housed in a new Video tab at the top of the navigation bar. Users can like, comment on, or share the videos, and swipe away to open the next video. It's not clear how LinkedIn will curate the feed, but the company is always looking for new ways to keep users engaged and distracted from their work.", video feed ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://www.zdnet.com/article/buy-a-windows-11-pro-license-for-just-25-right-now-last-chance/,Buy a Windows 11 Pro license for just $25 right now: Last chance, Buy Windows 11 Pro for $25: Exclusive deal ,"Are you tired of sifting through endless reviews and advertisements to find the best tech gear and products? Look no further, because ZDNET's got you covered! Our recommendations are based on extensive testing, research, and comparison shopping. We gather data from reliable sources, including vendor and retailer listings and other independent review sites. And we take customer feedback to heart, analyzing real-world experiences to help you make smarter buying decisions.
+
+When you click through from our site to a retailer and make a purchase, we may earn affiliate commissions. This helps support our work, but it doesn't affect our coverage or pricing. And rest assured, ZDNET and our authors are not compensated for these independent reviews. We follow strict guidelines to ensure that our editorial content is never influenced by advertisers.
+
+Our team of editors is dedicated to providing you with accurate information and expert advice on the latest tech gear and products. We thoroughly review and fact-check every article to make sure our content meets the highest standards. If we've made an error or published misleading information, we'll correct or clarify it. And if you notice any inaccuracies in our content, just let us know through this form.
+
+At ZDNET, we're committed to helping you make informed decisions about the tech gear and products you buy. Our goal is to provide you with the best information and advice available, so you can choose the right products for your needs. Trust ZDNET to be your guide on your journey to finding the perfect tech gear and products.",https://www.zdnet.com/a/img/resize/210bc66f7f72578d128c268bf78cbcf817209402/2023/10/03/e02665e0-f9de-434f-99f7-45a3cde856fa/windowspro-stack-social.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-31 06:00:00,"Looking for the best tech gear and products? Check out ZDNET's extensive reviews and recommendations, based on extensive testing and research. Our reviews are real-world and unbiased, so you can trust us to help you make the right buying decisions. Click through from our site to purchase and support our work.", Best Tech Gear ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/30/fisker-loses-customers-money-robinhood-launches-a-credit-card-and-google-generates-travel-itineraries/,"Fisker loses customers' money, Robinhood launches a credit card, and Google generates travel itineraries","EV Startup Loses Millions, Snapchat Privacy Scandal, and Google's AI Travel Planner - TechCrunch's Week in Review","
+
+Hey there, tech enthusiasts! Welcome to the latest edition of TechCrunch's Week in Review (WiR), where we recap the most exciting and noteworthy happenings in the tech world over the past few days.
+
+Fisker's Oops Moment
+
+This week, TC's auto reporter Sean O'Kane revealed that EV startup Fisker temporarily lost track of millions of dollars in customer payments as it scaled up deliveries, leading to an internal audit that took months to complete. As a result, Fisker temporarily suspended trading on the New York Stock Exchange.
+
+Snapchat Privacy Scandal
+
+In other news, Lorenzo reported that Facebook (now known as Meta) had been secretly snooping on users' Snapchat traffic in a project internally known as ""Project Ghostbusters."" According to court documents, the goal was to intercept and decrypt the network traffic between people using Snapchat's app and its servers.
+
+Stability AI's Struggle
+
+Manish shared the news that Stability AI founder and CEO Emad Mostaque had resigned from the company. Mostaque's departure comes amid an ongoing struggle for stability at the company, which was reportedly spending around $8 million a month as of October 2023 with little revenue to show for it.
+
+The Week's Other Happenings
+
+There was plenty more happening in the tech world this week, including:
+
+ Fisker's bad week continued with a halt in the startup's stock trading.
+ Google added the ability for users to ask its Search engine to plan a travel itinerary, using AI to draw on ideas from websites around the web along with reviews, photos, and other details.
+ Robinhood announced the launch of its new Gold Card, powered by X1's technology, with a range of features that could make Apple Card users envious.
+ AT&T failed to disclose how a hack responsible for spilling the personal information of 73 million of its customers happened over three years ago.
+
+In Funding News
+
+This week's funding roundup included:
+
+ Copilot, the budgeting app, raised $6 million in a Series A round led by Nico Wittenborn's Adjacent.
+ Liquid Death, a canned water startup, raised $67 million, bringing its total raised to over $267 million.
+ Dan Laufer, a former Nextdoor exec, raised $25 million from Canvas Ventures and others for PipeDreams, a startup that acquires mom-and-pop HVAC and plumbing companies and scales them using its software that helps with scheduling and marketing.
+
+In Analysis
+
+Ron wrote about how there are many parallels in Nvidia's and AWS' growth trajectories.
+
+Podcast Highlights
+
+This week on Equity, the crew discussed Robinhood's new credit card, Fisker's latest woes, and Databricks' new AI model that it spent $10 million to spin up. They also spotlighted two companies building startups focused on kids and looked at a new $100 million fund that seeks to back innovative climate tech.
+
+On Found, Allison Wolff, the co-founder and CEO of Vibrant Planet, a cloud-based planning and monitoring tool for adaptive land management, discussed why the wildfires we're seeing today are hotter and spreading more quickly than we can contain and how proper land management can help foster lower, slower-burning fires.
+
+Chain Reaction also featured an interview with Scott Dykstra, CTO and co-founder of Space and Time. Space and Time aims to be a verifiable compute layer for web3 that scales zero-knowledge proofs, a cryptographic action used to prove something about a piece of data without revealing the origin data itself.
+
+Bonus Round
+
+Finally, Spotify is testing online learning, beginning with a rollout in the U.K. The (traditionally audio) streaming platform is testing the waters for an online education offering of freemium video courses.
+
+That's all for this week's WiR! Sign up to receive the newsletter in your inbox every Saturday to stay up-to-date on the latest happenings in the tech world.
+
+","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1236611991.jpg?resize=1200,759",2024-03-30 20:15:06,"Discover the latest tech news in TechCrunch's Week in Review, including Fisker's internal audit, Facebook's Snapchat surveillance, Stability AI's struggles, Google's travel planning feature, and Robinhood's new Gold Card. Stay informed with our unique, AI-generated meta description, optimized for search engines with 17 words, active voice, call to action, focus keyphrase, and content specificity.","Electric Cars
+---
+
+Hey there, tech enthusiasts! Welcome to the latest edition of TechCrunch's Week in Review (WiR), where we recap the most exciting and noteworthy happenings in the tech world over the past few days.
+
+One of the biggest stories this week involved electric cars, with Fisker losing track of millions of dollars in customer payments as it scaled up deliveries. This revelation has led to an internal audit taking several months to complete and resulted in Fisker temporarily suspending trading on the New York Stock Exchange. Additionally, AT&T failed to disclose how a hack responsible for spilling the personal information of 73 million of its customers occurred over three years ago.
+
+Meanwhile, Google added a feature allowing users to ask its Search engine to plan a travel itinerary, while Robinhood announced the launch of its new Gold Card, powered by X1's technology, with various enticing features. In analysis, Ron wrote about how there are many parallels in Nvidia's and AWS' growth trajectories. Finally, Spotify is testing online learning, beginning with a rollout in the UK.
+
+Throughout the week, our reporters covered a wide variety of topics, ensuring you'll never miss out on any important updates in the ever-changing landscape of technology. Stay informed, stay ahead, and sign up to receive the WiR newsletter directly in your inbox every Saturday morning.",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
