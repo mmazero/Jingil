@@ -1,0 +1,302 @@
+Link,post_title,title,post_content,featured_image,Date-Publish,meta_desc,focuskeywords,post_category,Post_tag
+https://techcrunch.com/2024/03/30/mit-outdoor-days/,MIT tool shows climate change could cost Texans a month and a half of outdoor time by 2080," ""Outdoor Days in 2100: Who Loses the Most?"" ","Introduction
+
+The Earth's climate is a complex and ever-changing system that affects every aspect of our lives. From heatwaves to droughts and storms, the climate is becoming increasingly unpredictable and challenging to navigate. However, a recent development from researchers at MIT may offer some insight into what the future holds.
+
+Outdoor Days
+
+The MIT tool allows people to see how many ""outdoor days"" their region might experience from now through 2100 if carbon emissions growth remains unchecked. Outdoor days refer to the number of days each year that a person can spend outdoors without it being too hot or too cold. The results of the study are alarming, with some areas experiencing a significant loss of outdoor days due to rising temperatures.
+
+For people in California, France, Germany, and the UK, the climate will be slightly more clement, with an added few days to nearly a month of outdoor weather compared with historical records. However, some temperate places like New York, Massachusetts, China, and Japan will lose a week or more of outdoor days. Elsewhere, the picture looks even more dire. Illinois and Texas will lose a month and a half each for the same reason.
+
+The countries with the most vulnerable populations will suffer the most, with Nigeria's summers growing even hotter and longer, lopping off nearly two months of outdoor days. India will lose almost two and a half months, and other regions in Africa and Asia will also experience significant reductions in outdoor days.
+
+Assessing Risk
+
+The MIT tool is a relatable application of a field of study known as climate scenario analysis. This branch of strategic planning seeks to understand how climate change will impact various regions and demographics. The tool helps assess the risk of different climate scenarios and their impact on different regions and populations.
+
+Other startups are also using this predictive capability to help give shape to an uncertain future. Many of these startups are focused on providing solutions for investors, lenders, and insurers. Jupiter Intelligence, Cervest, and One Concern all focus on these markets, supplying customers with dashboards and data feeds that they can tailor to regions or even assets of interest. These startups also determine the risk of flood, wildfire, and drought and deliver reports detailing risk to assets and supply chains. They can also crank out regulatory disclosures, highlighting relevant climate","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-173667338.jpeg?resize=1200,768",2024-03-30 18:00:48,"Meta Description: ""Predict the future of outdoor days with the MIT tool. Discover which areas will experience significant reductions in outdoor days due to rising temperatures. Assess the risk of different climate scenarios with other startups that focus on providing solutions for investors, lenders, and insurers. Contact us for more information on how we can help you prepare for the future. Call us today.""", Climate Impact ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/31/why-aws-google-and-oracle-are-backing-the-valkey-redis-fork/,"Why AWS, Google and Oracle are backing the Valkey Redis fork"," AWS, Google, Oracle back Valkey Redis fork: Positive development for open-source community ","The Linux Foundation recently announced that it will host Valkey, a fork of the Redis in-memory data store. Valkey is backed by AWS, Google Cloud, Oracle, Ericsson, and Snap. This comes as a result of Redis Labs switching Redis away from the permissive 3-clause BSD license and adopting the more restrictive Server Side Public License (SSPL) in March. The new license requires commercial agreements to offer Redis-as-a-service, making it incompatible with the standard definition of “open source.”
+
+Redis is a popular data store that is at the core of many large commercial and open-source deployments. Its history with the open-source community has been turbulent, with licensing disputes and changes in the licensing model. In 2021, Redis Labs changed how it licenses its Redis Modules, which included visualization tools, a client SDK, and more. The change restricted others from selling and hosting these modules, despite Redis Labs stating that the license for open-source Redis remained BSD.
+
+The recent change to the licensing model has opened the door for cloud service providers (CSPs) to establish fair licensing agreements with Redis Inc. AWS, Google Cloud, and other large cloud vendors have rallied behind Valkey, a fork of Redis that is backed by these companies. The community of Redis maintainers, including Olson and Zhao, have also joined the project.
+
+The Valkey community will welcome the maintainers from Redis with open arms, despite their initial reluctance to contribute to the new license. The change has been met with disappointment and frustration from the community, but Redis Inc. is well within its rights to make this change.
+
+Valkey is a viable option for organizations that want to continue using Redis while avoiding the restrictive licensing model. AWS, Google Cloud, and other cloud vendors have recognized the need for a more flexible licensing model that aligns with the needs of the open-source community. Valkey will provide a platform for innovation and collaboration, while still maintaining the core principles of the original Redis project.
+
+In conclusion, the creation of Valkey is a positive development for the Redis community and the open-source movement. It provides a viable option for organizations that want to continue using Redis while avoiding the restrictive licensing model. The Valkey","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-898655676.jpg?resize=1200,800",2024-03-31 16:30:06,"Join the Valkey community and continue using Redis with a more flexible licensing model backed by AWS, Google Cloud, and other leading cloud service providers.","Fork of Redis backed by AWS, Google Cloud, Oracle, and other CSPs",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/30/iron-sheepdog-is-fixing-short-haul-trucking-from-the-bottom-up/,Iron Sheepdog is fixing short-haul trucking from the bottom up, Streamline Short-haul Trucking with Iron Sheepdog's Software ,"The short-haul trucking industry is a critical part of the logistics industry, and companies like Iron Sheepdog are working to make it more efficient and streamlined. Iron Sheepdog's software is designed to help companies track their contracted trucks, giving them more transparency into where trucks are, how long a job takes, and how much to pay. The truckers themselves get an easy-to-use app that helps them accept jobs and get paid online.
+
+Iron Sheepdog recently announced a $10 million Series B round led by SJF Ventures, with participation from Grand Ventures, Supply Chain Ventures, and strategic partners. Mike Van Sickel, Iron Sheepdog's co-founder and CEO, told TechCrunch that the company spent its first few years making sure it could get customer adoption and reach profitability. Now it's looking to scale.
+
+Van Sickel emphasized the importance of trust in the short-haul trucking industry, stating that the company had to make sure that subhaulers, who are the short-haul truckers, would use the app. The company approached the problem from the bottom up, starting with the subhaulers themselves, which has helped them achieve double-digit growth each year since they were founded.
+
+Iron Sheepdog's focus on adoption is notable, as it seems obvious that companies should build products that the organizations they are targeting will actually use. However, many industries remain behind technology-wise due to a disconnect between software solutions and a willingness by individuals to embrace them.
+
+Overall, Iron Sheepdog's software is an innovative solution that aims to streamline the short-haul trucking industry, making it more efficient and cost-effective for both companies and truckers. As the company continues to grow and scale, it will undoubtedly have a significant impact on the industry as a whole.","https://techcrunch.com/wp-content/uploads/2024/03/ISD_broker-truck.jpg?resize=1200,800",2024-03-30 16:00:39,Track and manage short-haul trucks with Iron Sheepdog's software. Streamline your logistics operations and increase transparency for both companies and truckers. Join the growing number of satisfied customers and achieve double-digit growth each year. Try Iron Sheepdog today., Short-haul trucking software ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-03-strategy-fabricating-high-density-vertical.html,A new strategy for fabricating high-density vertical organic electrochemical transistor arrays, High-Density OECT Arrays Fabricated by eBL: A Scalable Approach to Enhance Stability and Performance,"Cleaned Instructions:
+
+The text provided is a scientific article that discusses the development of high-density monolithically integrated vOECT arrays fabricated by e-beam exposure. The text is written in technical language and includes diagrams and figures to illustrate the process.
+
+Rewritten Instructions:
+
+The world of electronics is constantly evolving, and organic electrochemical transistors (OECTs) are no exception. These transistors are an emerging class of transistors that are made from organic superconducting materials and have the ability to modulate electrical current in response to small changes in the voltage applied to their gate electrode. OECTs have several advantages, including promising amplification and sensing capabilities, low driving voltages, and a versatile structure.
+
+However, despite these advantages, most conventional OECTs developed so far have been found to exhibit various limitations, including limited stability and slow redox processes, which can significantly impair their performance. To address these limitations, researchers at Northwestern University have developed a new strategy to fabricate high-density and mechanically flexible OECTs.
+
+Their proposed approach was used to create various electronic components based on OECT arrays and circuits. The researchers used electron-beam lithography (eBL) to pattern both p- and n-channel organic semiconductor films, resulting in ultra-small and high-density well-defined conducting channel regions. The eBL strategy employed by the researchers enabled the effective multilayer integration of OECT structures into arrays and circuits.
+
+The resulting p- and n-type vertical OECT active-matrix arrays exhibited transconductances of 0.08–1.7 S and transient times of less than 100 μs, with stable switching properties of more than 100,000 cycles. Furthermore, the researchers successfully used their fabrication strategy to create various vertically stacked logic circuits, including NOT, NAND, and NOR gates, which performed remarkably well and maintained excellent operational stability.
+
+In conclusion, this recent study highlights the potential of eBL in enhancing the stability and performance of OECT circuits. The scalable fabrication of OECTs facilitated by this approach could contribute to their integration into electronic devices, paving the way for the development of various brain-inspired and wearable technologies.",https://scx2.b-cdn.net/gfx/news/hires/2024/high-density-vertical.jpg,2024-03-31 09:00:01,"High-density and flexible OECT circuits fabricated by eBL: A promising approach for enhancing stability and performance. This study showcases the potential of eBL in creating p- and n-type vertical OECT active-matrix arrays with transconductances of 0.08-1.7 S and transient times of less than 100 μs, with stable switching properties of >100,000 cycles. The scalable fabrication of OECTs facilitated by this approach could contribute to their integration into electronic devices, paving the way for the development of brain-inspired and wearable technologies. 
+
+Call to Action: Read the full article to learn more about the potential of eBL in enhancing the stability and performance of OECT circuits and their integration into electronic devices.", OECTs ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/31/ember-ceo-interview/,Ember's journey from hot coffee to medication transport," ""Ember's Journey: From Coffee to Medication Transport"" ","Ember, the company behind the popular smart mug, has come a long way from its humble beginnings. The company's founder, Clay Alexander, shares the story of how a frustrated coffee drinker's desire for a perfect cup of coffee led him to create a technology that could maintain the temperature of a beverage for hours. Despite numerous challenges, including high product development and manufacturing costs, intellectual property protection, and international expansion, Ember persevered and became a leading player in the temperature-controlled beverage market. Today, Ember offers not only the iconic smart mug but also products for the medical sector, including the Ember Cube and heated baby bottles. With a focus on innovation and a commitment to creating products that enhance the user experience, Ember continues to push the boundaries of what is possible in consumer technology.","https://techcrunch.com/wp-content/uploads/2024/03/First-Ember-Mug-Prototype-from-2012-featured-next-to-Embers-latest-2nd-Generation-Travel-Mug.jpg?resize=1200,744",2024-03-31 17:42:35,Ember's journey from hot coffee to medication transport: Learn about the company's journey from a frustrated coffee drinker's desire for a perfect cup to its expansion into the medical sector. Discover the challenges and milestones along the way. Join us on this exciting journey and find out what's next for Ember. Read the full story now!, Ember's journey from hot coffee to medication transport ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/30/women-in-ai-kate-devlin-of-kings-college-is-researching-ai-and-intimacy/,Women in AI: Kate Devlin of King's College is researching AI and intimacy," Kate Devlin, AI Researcher at King's College, Discusses Socially Responsible AI and Challenges in Tech Industry ","As AI continues to revolutionize various industries, women academics and professionals are making significant contributions to this field. One such individual is Kate Devlin, a lecturer in AI and society at King's College London. Devlin's research explores how people interact with and react to AI and robotic technologies, both in the past and present.
+
+Devlin's work includes directing advocacy and engagement for the Trusted Autonomous Systems Hub, a collaborative platform designed to support the development of ""socially beneficial"" robotics and AI systems. She is also a board member of the Open Rights Group, an organization that works to preserve digital rights and freedoms.
+
+In a recent Q&A, Devlin shared her thoughts on navigating the challenges of the male-dominated tech industry, the importance of responsibility and accountability in AI, and advice for women seeking to enter the field. She also touched on some of the most pressing issues facing AI as it evolves and some of the key considerations for building responsible AI.
+
+Devlin's work is a testament to the essential contributions women are making in the AI field. As more women enter the industry, it is crucial to create an environment that is inclusive and supportive of their contributions. It is also important to prioritize the development of AI that is socially responsible and ethical, ensuring that its impact on society is positive and beneficial for all.","https://techcrunch.com/wp-content/uploads/2024/03/women-in-ai-devlin.jpg?resize=1200,675",2024-03-30 15:00:56,"Explore the latest AI advancements and the role of women in the field with Kate Devlin, a lecturer in AI and society at King's College London. Learn about her research, advocacy, and engagement efforts in the Trusted Autonomous Systems Hub and Open Rights Group. Get insights into navigating the challenges of the tech industry, the importance of responsibility and accountability in AI, and tips for women looking to enter the field. Discover how Devlin's work is shaping the future of AI and the need for socially responsible and ethical AI.",AI and Women: Kate Devlin's Research,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/31/robinhoods-new-gold-card-baas-challenges-and-the-tiny-startup-that-caught-stripes-eye/,"Robinhood's new Gold Card, BaaS challenges and the tiny startup that caught Stripe's eye","""Robinhood's Gold Card, BaaS Challenges, and Supaglue's Success""","
+
+Welcome to TechCrunch Fintech (formerly The Interchange)! This week, we're diving into the latest developments in the world of fintech. From the launch of Robinhood's new Gold Card to the challenges facing the banking-as-a-service (BaaS) space, we're bringing you the biggest and most important stories in the industry.
+
+To get a deeper understanding of the latest trends and innovations in fintech, subscribe to our weekly newsletter and receive a roundup of the most important stories delivered to your inbox every Sunday at 7:30 a.m. PT.
+
+The main focus of this week's edition is Robinhood's new Gold Card, which was launched last week to much fanfare. The card offers a range of impressive features, including 3% cash back, the ability to invest that cash back, and a 5% APY savings account. We're eager to see how this new offering will impact Robinhood's bottom line and how the company incorporated the technology it acquired when buying startup X1 last summer into the card.
+
+In addition to the latest developments in the fintech space, we also explore the challenges facing BaaS startups. Companies like Synctera, Treasury Prime, and Figure have all experienced layoffs in recent months, while the FDIC has issued consent orders against Sutton Bank and Piermont Bank, warning them to keep a closer eye on their fintechs' compliance with anti-money laundering rules.
+
+As always, we also bring you the latest news from the world of fintech funding. PayPal Ventures has invested in Qoala, an Indonesian startup that provides personal insurance products, while New Retirement has raised $20 million to help people create financial retirement plans. We also provide an update on Zaver, a B2C buy-now-pay-later (BNPL) provider in Europe, which has raised a $10 million extension to its Series A funding round.
+
+We also feature an in-depth look at how a tiny four-person startup, Supaglue, caught Stripe's eye. Supaglue is an open source developer platform for user-facing integrations, and the team is now working to help Stripe on real-time analytics and reporting across its platform and third-party apps.
+
+As always, we also bring you a range of high-interest headlines from the world of fintech. From investigations into fintech companies to the latest developments in HR software, there's no shortage of exciting stories to explore.
+
+In addition to our regular coverage, we also feature interviews with industry leaders and experts, as well as in-depth analysis of the latest trends and innovations in fintech. We're committed to providing you with the most up-to-date and accurate information on the latest developments in the world of fintech, so be sure to subscribe to our newsletter to stay informed.
+
+Thank you for reading TechCrunch Fintech (formerly The Interchange). We look forward to bringing you the latest news and insights on the world of fintech.
+
+","https://techcrunch.com/wp-content/uploads/2024/03/2.-New-Gold-Card-App_-Features-Preview-1.jpg?resize=1200,675",2024-03-31 14:15:22,"Stay updated on the latest developments in the fintech industry with TechCrunch Fintech (formerly The Interchange)! From Robinhood's new Gold Card to the challenges facing BaaS startups, we bring you the biggest and most important stories in the industry. Subscribe to our weekly newsletter for a roundup of the most important stories delivered to your inbox every Sunday at 7:30 a.m. PT. Don't miss out on the latest innovations and trends in fintech!","Robinhood's Gold Card, BaaS challenges and the tiny startup that caught Stripe's eye.",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-03-openai-unveils-voice-cloning-tool.html,OpenAI unveils voice-cloning tool, OpenAI unveils voice-cloning tool: How to prevent misuse and safeguard democracy. ,"Blog-Friendly Format:
+
+Introduction:
+In an era where deepfake technology has become more accessible, there's a growing concern about the potential misuse of AI-powered voice cloning tools. OpenAI, a leading AI research company, has taken a cautious approach to the deployment of its voice cloning tool, Voice Engine. This article will explore the risks of voice cloning, the measures taken by OpenAI to prevent its misuse, and the concerns of experts in the field.
+
+Body:
+OpenAI's Voice Engine is a model that can essentially duplicate someone's speech based on a 15-second audio sample. While the technology has great potential for various applications, its misuse can have serious consequences, especially in an election year. The tool can be used to create deepfakes that impersonate prominent people and spread disinformation. This has led to concerns among experts that AI-powered deepfake disinformation could be used in the 2024 White House race as well as in other key elections around the globe this year.
+
+To prevent the misuse of Voice Engine, OpenAI has implemented a set of safety measures. These include requiring explicit and informed consent of any person whose voice is duplicated using the tool and making it clear to audiences when they are hearing AI-generated voices. OpenAI also plans to keep the tool tightly controlled until safeguards are in place to thwart audio fakes meant to dupe listeners.
+
+Despite these measures, experts in the field are concerned about the potential for widespread misuse of voice cloning tools. Disinformation researchers fear that the proliferation of these tools could be used to create deepfakes that impersonate politicians, celebrities, and other public figures. This could lead to the spread of false information and harm to individuals and organizations.
+
+Conclusion:
+In conclusion, OpenAI's Voice Engine has the potential to revolutionize the way we create and use synthetic voices. However, its misuse could have serious consequences, especially in an election year. OpenAI has taken a cautious approach to the deployment of the tool and implemented safety measures to prevent its misuse. While experts in the field are concerned about the potential for widespread misuse, OpenAI's voice cloning tool represents a significant advancement in the field of AI.
+
+Transition Words:
+Moreover, the proliferation of voice cloning tools could be exploited by politicians and other individuals with malicious intentions to spread disinformation. Additionally, the ease with which these tools can be used and the difficulty of tracing their origin make them a significant concern for experts in the field. Furthermore, the potential for deepfakes to impersonate prominent people and spread false information is a serious threat to democracy and the individuals involved.",https://scx2.b-cdn.net/gfx/news/2024/openai-says-ways-to-ve.jpg,2024-03-30 06:23:09,"Title: The Risks and Measures of Voice Cloning AI: A Cautionary Tale
+
+Meta Description:
+OpenAI's Voice Engine has the potential to revolutionize the way we create and use synthetic voices, but its misuse could have serious consequences, especially in an election year. Learn about the risks, measures taken by OpenAI to prevent misuse, and expert concerns about the proliferation of voice cloning tools.", Voice Cloning AI ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://venturebeat.com/security/can-generative-ai-help-address-the-cybersecurity-resource-gap/,Can generative AI help address the cybersecurity resource gap?,"How Generative AI Can Boost Cybersecurity Efficiency and Productivity
+
+Introduction:
+
+The cybersecurity industry is facing a significant resource gap, with an estimated 4 million person shortfall. To address this challenge, organizations need to focus on leveraging innovative technologies like generative AI to enhance their workforce's capabilities.
+
+Body:
+
+Generative AI can revolutionize the cybersecurity landscape by automating repetitive tasks, simplifying technical documentation, and reducing the risk of burnout. By using generative AI, organizations can:
+
+Lowering the Bar to Entry
+
+Generative AI can be applied to technical documentation and cybersecurity information to create more dynamic training that meets new hires' needs. This can help attract and retain top talent and reduce the time and resources required for training.
+
+Creating More User-Friendly Documentation
+
+Generative AI can process and distill complex technical information into something more precise and meaningful for users. This can help reduce the time and complexity of implementing new cybersecurity solutions, allowing organizations to focus on reducing risk.
+
+Reducing the Risk of Burnout
+
+Security professionals often face burnout when performing tedious activities such as searching for documentation and logging their processes and findings. Generative AI can automate these tasks, freeing up security analysts' time to focus on more critical tasks, such as remediation and risk reduction.
+
+Improving Cross-Team Organizational Security Communications
+
+Generative AI can also be used to improve organizational education by creating more user-friendly and accessible cybersecurity training materials. This can help ensure that security professionals have the knowledge and skills they need to stay up-to-date with the latest threats and best practices.
+
+Conclusion:
+
+In conclusion, generative AI has the potential to transform the cybersecurity industry by improving efficiency, productivity, and resource management. By leveraging this technology, organizations can attract and retain top talent, reduce risk, and streamline their security operations.","Title: How Generative AI Can Unlock the Potential of Your Cybersecurity Workforce
+
+Introduction:
+
+Attracting and retaining talent has always been a challenge in the cybersecurity industry. With an estimated 4 million person workforce shortage and counting, it's time to rethink our approach to building and managing a robust security workforce. One technology that has the potential to bridge the gap is generative AI.
+
+Body:
+
+Generative AI is a game-changer in the cybersecurity landscape. Its ability to automate tedious tasks, simplify technical documentation, and reduce the risk of burnout makes it a valuable tool in the fight against cyber threats. Let's explore some of the ways generative AI can be used to unlock the potential of your cybersecurity workforce.
+
+Lowering the Bar to Entry
+
+The cybersecurity industry often requires specialized training and certifications, which can be a barrier to entry for new hires. Generative AI can be applied to technical documentation and other cybersecurity information to create more dynamic training that meets new hires where they are, versus building training material for a specific user background and requiring new hires to do that work before joining an organization.
+
+Creating More User-Friendly Documentation
+
+Today, there are pages and pages of technical documentation for almost every cybersecurity tool that exists on the market. Users often feel overwhelmed and need to rely on vendors to train them on how to use their solutions. Generative AI can be used to process and distill that same information into something very precise and meaningful for the user. This can help organizations create more user-friendly documentation so customers can access information faster and accelerate their time to implement and reduce risk.
+
+Reducing the Risk of Burnout
+
+Security professionals often face burnout when doing tedious activities such as searching for documentation and logging their processes and findings. Large language models (LLMs) are purpose-built to analyze and synthesize data. This could be applied to the organization's large amount of internal and external documentation, reducing the time that security analysts need to find information to do their job and communicate with their broader team. By reducing the 'busy work' that burdens teams, the focus can then be on increasing time spent remediating and reducing risk.
+
+Improving Cross-Team Organizational Security Communications
+
+Organizational education is another ongoing challenge for",https://venturebeat.com/wp-content/uploads/2024/03/a-giant-unlocked-padlock-letting-out-a-burst-of-li-7KrtL86MSyS_AD7ADE46qw-s-BURFAZT7mJv6iRNfMBbg-transformed.jpeg?w=1200&strip=all,2024-03-30 19:15:00,"Meta Description:
+
+Discover how generative AI can transform the cybersecurity landscape by simplifying technical documentation, reducing burnout, and improving cross-team communications. Learn how this technology can unlock the potential of your cybersecurity workforce.
+
+Introduction:
+
+Attracting and retaining talent has always been a challenge in the cybersecurity industry. With a shortage of 4 million skilled workers and counting, it's time to rethink our approach to building and managing a robust security workforce. One technology that has the potential to bridge the gap is generative AI.
+
+Body:
+
+Generative AI is a game-changer in the cybersecurity landscape. It can automate tedious tasks, simplify technical documentation, and reduce burnout, making it a valuable tool in the fight against cyber threats. Let's explore some of the ways generative AI can be used to unlock the potential of your cybersecurity workforce.
+
+ Lowering the Bar to Entry
+
+The cybersecurity industry often requires specialized training and certifications, making it a barrier to entry for new hires. Generative AI can be applied to technical documentation and other cybersecurity information to create more dynamic training that meets new hires where they are, versus building training material for a specific user background and requiring new hires to do that work before joining an organization.
+
+Creating More User-Friendly Documentation
+
+Today, there are pages and pages of technical documentation for almost every cybersecurity tool that exists on the market. Users often feel overwhelmed and need to rely on vendors to train them on how to use their solutions. Generative AI can be used to process and distill that same information into something very precise and meaningful for the user. This can help organizations create more user-friendly documentation so customers can access information faster and accelerate their time to implement and reduce risk.
+
+Reducing the Risk of Burnout
+
+Security professionals often face burnout when doing tedious activities such as searching for documentation and logging their processes and findings. Large language models (LLMs) are purpose-built to analyze and synthesize data. This could be applied to the organization's large amount of internal and external documentation, reducing the time that security analysts need to find information to do their job and communicate with their broader team. By reducing the 'busy work' that burdens teams, the focus can then be on increasing time spent remediating and reducing risk.
+
+Improving Cross-Team Organizational Security Communications
+
+Organizational education is another ongoing challenge for security teams. Generative AI can be used to simplify technical documentation and improve cross-team communications by creating a more dynamic and user-friendly approach to training and education. This can help security teams to identify and address issues faster and more effectively, ultimately reducing the risk of cyber threats.
+
+Conclusion:
+
+Generative AI has the potential to unlock the full potential of your cybersecurity workforce. By simplifying technical documentation, reducing burnout, and improving cross-team communications, this technology can help bridge the gap in the cybersecurity industry and help organizations build and manage a robust security workforce. Don't miss out on this opportunity to transform your cybersecurity landscape.", Cybersecurity ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/30/this-week-in-ai-let-us-not-forget-the-humble-data-annotator/,This Week in AI: Let us not forget the humble data annotator,"""Labeling and Annotation: Essential for Modern AI, but Ethical Concerns Persist""","
+
+In the world of AI, keeping up with the latest developments can be a daunting task. With so much happening in the field, it's essential to stay informed and up-to-date. This week, we will turn the spotlight on labeling and annotation startups, which play a vital role in the training of modern AI models.
+
+Labeling and annotation platforms are often overlooked, but they are essential for the development of AI. These platforms help in labeling the data that many models train on, allowing them to understand and interpret data during the training process. For example, labels for image recognition models may take the form of bounding boxes or captions around objects, places, or people in an image.
+
+The accuracy and quality of labels have a significant impact on the performance and reliability of the trained models. Annotation is a massive undertaking that requires thousands to millions of labels for larger and more sophisticated data sets.
+
+However, the treatment of data annotators is often poor, with many being paid low wages and denied basic benefits. An excellent piece in NY Mag highlights the challenges faced by Scale AI, which recruits annotators in countries such as Nairobi and Kenya. The platform pays as little as $10 per hour and requires workers to complete multiple eight-hour workdays with no breaks.
+
+The need to annotate and label data for AI training is not going away. While self-regulation by the platforms is a possibility, policymaking may be the only viable solution to improving the working conditions of data annotators. Policymaking is a complex task, but it is necessary to ensure that the ethical labeling of data is a priority.
+
+Aside from labeling and annotation, there are other AI stories worth noting. For example, SEEDS, a new system developed by MetNet-3 and GraphCast teams, uses diffusion to generate ensembles of plausible weather outcomes for an area. This technology is more efficient than physics-based models and can cover more edge cases.
+
+Fujitsu is also making strides in better understanding the natural world by applying AI image handling techniques to underwater imagery and lidar data collected by underwater autonomous vehicles. This technology can help build a ""digital twin"" of waters that can simulate and predict new developments.
+
+Finally, researchers have found that linear functions can mimic intelligence in LLMs, even though these models are complex and hard to understand. This discovery highlights the simplicity of some mechanisms working within these models. However, these models can still fail if they do not understand context or feedback.
+
+In conclusion, labeling and annotation startups play a vital role in the development of modern AI models. While these platforms are often overlooked, they are essential for the accuracy and reliability of the trained models. Policymaking is necessary to ensure that the ethical labeling of data is a priority. Aside from labeling and annotation, there are other AI stories worth noting, such as SEEDS and Fujitsu's technology for understanding the natural world. With these developments, the future of AI is promising, and we can expect to see many more exciting advancements in the days to come.
+
+","https://techcrunch.com/wp-content/uploads/2018/08/sensetime1.jpg?resize=1200,640",2024-03-30 13:01:25,Boost Your AI Performance with Data Labeling and Annotation Platforms,Data annotation startups,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/31/the-market-is-forcing-cloud-vendors-to-relax-data-egress-fees/,The market is forcing cloud vendors to relax data egress fees," ""Cloud Vendors Ease Egress Fees Amid Regulatory Pressure""; ","The cloud computing industry has recently seen a shift in egress fees, with major vendors such as Amazon, Microsoft, and Google relaxing their policies. This change is a response to changing market dynamics, including the reality of a multi-cloud world, a stricter regulatory environment, and consumer backlash. These companies are beginning to see the error in their ways by easing these fees, albeit with some caveats and friction involved.
+
+The change of heart is an acknowledgement of changing market dynamics, says John Dinsdale, chief analyst and managing director at Synergy Research, a firm that tracks the cloud infrastructure market. “I think this is a natural progression of the market. As true competition heats up, it would do cloud providers no good to be seen as being overly protectionist,” Dinsdale told TechCrunch.
+
+The shift is partly due to regulatory pressure, but it’s also about the optics of preemptively making a language switch and how Google has used it as a marketing tool against Azure, says Rudina Seseri, founder and managing partner at Glasswing Ventures. “Metaphorically, the market dynamic is moving away from the stick and back towards the carrot. Cloud customers looking to switch providers will need to be retained through innovative and accessible features now that the punishment of egress fees is being phased out,” Seseri said.
+
+David Linthicum, a longtime cloud consultant, warns that while these recent announcements are a pleasant PR move, customers have to consider the costs holistically. He advises reviewing bills carefully because egress fees aren’t the only problem. “In other words, what are we paying for the services we’re leveraging? What are we paying for the networking fees, the egress fees, all the other hidden fees that come along with what people call junk fees that come from the cloud vendors?”
+
+The experience of startups will certainly improve as providers now must lean further into innovative features and improved customer satisfaction to win long-term loyalty. However, larger enterprise customers may face more moving parts in a cloud ecosystem than just storage, such as services required for scaling and security.
+
+Graham, whose primary business is helping move data, sees his whole business model affected by these fees. He says the recent changes are a small but important step, but he also sees a future where it’s increasingly difficult to determine what is an egress fee and what’s not, which could lead to the ultimate demise of these fees. That’s because migrations take a long time and the original cloud vendor is working hard to get the customer to change their minds and come back.
+
+The shift towards a more open and less restrictive cloud environment is a positive development for customers looking to switch providers. It’s important to carefully review bills and consider the costs holistically when choosing a cloud provider. However, the experience of startups will certainly improve, and larger enterprise customers will need to adapt to a more complex cloud ecosystem.","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1862779720.jpg?resize=1200,738",2024-03-31 16:00:41,"Looking to switch cloud providers? This news article highlights recent changes in egress fees by major vendors such as Amazon, Microsoft, and Google, which is a positive development for customers. However, it's important to closely review bills and consider the costs holistically when making a decision. The experience of startups will improve, while larger enterprise customers will need to adapt to a more complex cloud ecosystem. Read on to learn more.", cloud egress fees ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/31/women-in-ai-brandie-nonnecke-of-uc-berkeley-says-investors-should-insist-on-responsible-ai-practices/,Women in AI: Brandie Nonnecke of UC Berkeley says investors should insist on responsible AI practices, Brandie Nonnecke on Responsible AI Development and Governance. ,"The Rise of AI: A Journey Through the Successes and Challenges
+
+As the world becomes increasingly reliant on technology, the development of artificial intelligence (AI) has emerged as a vital area of focus. AI is the ability of a machine to mimic or replicate human intelligence, and it has the potential to revolutionize the way we live and work. But with great power comes great responsibility, and as we continue to advance this technology, we must also ensure that it is developed in a responsible and ethical manner.
+
+One of the key figures driving the responsible development of AI is Brandie Nonnecke. Nonnecke is the founding director of the CITRIS Policy Lab at UC Berkeley, where she supports interdisciplinary research to address questions around the role of regulation in promoting innovation. She is also the co-director of the Berkeley Center for Law and Technology, where she leads projects on AI, platforms and society, and the UC Berkeley AI Policy Hub, an initiative to train researchers to develop effective AI governance and policy frameworks.
+
+Nonnecke's work in responsible AI governance began nearly a decade ago, driven by her training in technology, public policy, and their intersection with societal impacts. She is passionate about using her skills to meaningfully contribute to society's ability to harness AI for good rather than standing on the sidelines.
+
+One of Nonnecke's proudest accomplishments is the establishment of responsible AI principles and a governance structure at the University of California, which was the first university to do so. She also co-chaired the UC Presidential Working Group on AI and its subsequent permanent AI Council, where she gained firsthand experience thinking through how to best operationalize responsible AI principles in order to safeguard the university's faculty, staff, students, and the broader communities it serves.
+
+Another area of focus for Nonnecke is public understanding of emerging technologies and their real benefits and risks. She launched TecHype, a video and podcast series that demystifies emerging technologies and provides guidance on effective technical and policy interventions.
+
+ Navigating the Challenges of the Male-Dominated Tech Industry
+
+As a woman in a male-dominated field like tech, Nonnecke has faced her share of challenges. However, she has found success by being curious, persistent, and undeterred by imposter syndrome. She has also sought out mentors who support diversity and inclusion and offered the same support to others entering the field. Building inclusive communities in tech has been a powerful way to share experiences, advice, and encouragement.
+
+Advice for Women Entering the AI Field
+
+Nonnecke has some advice for women entering the AI field. She encourages them to seek knowledge relentlessly, embrace networking, and advocate for themselves and others. She reminds them that their unique perspectives and experiences enrich the field and drive innovation.
+
+Pressing Issues Facing AI
+
+The development of AI presents several pressing issues that must be addressed in order to ensure its responsible and ethical use. One of the most pressing issues is to not get hung up on the latest hype cycles. While new technologies like generative AI present significant advancements, we must also focus on how and where machine learning is being applied regardless of its technological prowess.
+
+Another issue that AI users should be aware of is data privacy and security, as well as potential bias in AI decision-making. It is important for users to understand these issues in order to demand more accountable and equitable AI systems.
+
+Responsible AI Development
+
+Responsible AI development involves integrating ethical considerations at every stage of development and deployment. This includes diverse stakeholder engagement, transparent methodologies, bias management strategies, and ongoing impact assessments. Prioritizing the public good and ensuring AI technologies are developed with human rights, fairness, and inclusivity at their core are fundamental.
+
+Investors can also play a role in pushing for responsible AI by demanding transparency and accountability from companies developing AI technologies. They can also support initiatives and organizations that prioritize responsible AI development and governance.
+
+Conclusion
+
+The development of AI presents both opportunities and challenges, and it is up to us to ensure that it is developed in a responsible and ethical manner. Brandie Nonnecke is a shining example of a leader who is committed to this cause, and we can all learn from her insights and experiences. By working together to promote responsible AI development and governance, we can ensure that this technology is used to benefit society as a whole.","https://techcrunch.com/wp-content/uploads/2024/03/women-in-ai-nonnecke.jpg?resize=1200,675",2024-03-31 15:00:48,"Brandie Nonnecke is a leader in responsible AI governance, advocating for interdisciplinary research and ethically responsible development of AI. With her expertise in technology, public policy, and societal impacts, Nonnecke has established responsible AI principles and governance structures at the University of California and co-chaired the UC Presidential Working Group on AI. She also launched TecHype, a video and podcast series that demystifies emerging technologies and provides guidance on technical and policy interventions. Nonnecke's advice for women entering the AI field includes seeking knowledge relentlessly, embracing networking, and advocating for themselves and others. The development of AI presents several pressing issues, including the importance of transparent methodologies, bias management strategies, and ongoing impact assessments. Investors can also play a role in pushing for responsible AI development by demanding transparency and accountability from companies. Together, we can promote responsible AI development and governance to ensure that this technology is developed with human rights, fairness, and inclusivity at its core.", Women in AI: Brandie Nonnecke ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/30/tiktok-ban-implication-amazon/,TikTok ban could harm Amazon sellers looking for alternatives, TikTok: A viable Amazon alternative for sellers? ,"TikTok a viable Amazon alternative for sellers. Despite the political tensions and the threat of a ban, the app has become an attractive marketplace for merchants, especially those from China. The rise of TikTok Shop has added another channel to the already crowded e-commerce space.
+
+TikTok’s focus on curation and branded goods sets it apart from other alternatives like Temu. The app has a strong engagement rate, with 70% of sellers reporting an increase in sales year-over-year for the first 11 months of 2023. TikTok’s ability to attract younger consumers, with 40% of the Gen Z demographic preferitas thetheitems","https://techcrunch.com/wp-content/uploads/2021/09/tiktok-shop-tab.jpg?resize=1200,669",2024-03-30 17:00:02,"""Unleash your brand's potential on TikTok with our new Shop feature. Join the growing community of sellers and reach younger consumers. Start selling today on TikTok Shop!""","The keyphrase for this news article is ""TikTok Shop"".",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/03/30/att-reset-account-passcodes-customer-data/,AT&T resets account passcodes after millions of customer records leak online,AT&T Resets Millions of Passcodes After Data Leak; 7.6 Million Records Reset,"The recent data breach involving AT&T has caused the giant phone company to reset millions of customer account passcodes, following the leak of encrypted data containing AT&T customer records. The encryption of the passcodes is easy to decipher, and AT&T has initiated a robust investigation to determine the source of the leak. The data set, which contains personal information such as names, home addresses, phone numbers, dates of birth, and Social Security numbers, has affected approximately 7.6 million current AT&T account holders and 65.4 million former account holders. While there is no evidence of unauthorized access to AT&T's systems resulting in the exfiltration of the data set, it is not yet known whether the data in those fields originated from AT&T or one of its vendors.
+
+The data includes AT&T customer names, home addresses, phone numbers, dates of birth, and Social Security numbers. A security researcher who analyzed the leaked data found that each record in the leaked data also contains the AT&T customer's account passcode in an encrypted format. The researcher was able to reverse-engineer which encrypted values matched which plaintext passcode by correlating encrypted account passcodes to surrounding account data such as customer dates of birth, house numbers, and partial Social Security numbers and phone numbers. The insufficient randomness of the encrypted data means it is possible to guess the customer's four-digit account passcode based on surrounding information in the leaked data set.
+
+The data breach is the first time that AT&T has acknowledged that the leaked data belongs to its customers, despite denying a breach of its systems in 2019. In 2021, a hacker claiming the AT&T breach posted only a small sample of records, making it difficult to check if the data was authentic. Earlier in March, a data seller published the full 73 million alleged AT&T records online on a known cybercrime forum, allowing for a more detailed analysis of the leaked records. AT&T customers have since confirmed that their leaked account data is accurate.
+
+AT&T said it will contact all of the 7.6 million existing customers whose passcodes it reset, as well as current and former customers whose personal information was compromised. The company has also provided a post on what customers can do to keep","https://techcrunch.com/wp-content/uploads/2024/03/att-store-nyc-times-square-breach.jpg?resize=1200,800",2024-03-30 14:10:39,their personal information protected and has announced that it will be offering free identity theft protection services to affected customers.,Keyphrase: AT&T data breach,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-03-optimization-based-method-autonomous.html,An optimization-based method to enhance autonomous parking,Optimized Autonomous Parking: OCEAN Planner by Mach Drive,"Title: The Revolutionary OCEAN Planner for Autonomous Parking
+
+Introduction:
+
+Autonomous vehicles have been a long-standing goal of both robotics research and the automotive industry. While several companies have been investing in these vehicles and testing them, they have been deployed in a limited number of settings. Recently, researchers have explored the possibility of ""automated valet parking"" (AVP), a function that would allow a car to drive itself from the entrance of a parking to a free parking spot. However, the realization of this autonomous driving application has proved challenging.
+
+Body:
+
+Recently, researchers at Mach Drive in Shanghai have developed OCEAN, an Openspace Collision-freE trAjectory plaNner for the autonomous parking of vehicles. This planner, introduced in a paper pre-published on arXiv, was found to significantly enhance the ability of cars to safely reach a parking spot, without colliding with objects on the way.
+
+""We propose an Openspace Collision-freE trAjectory plaNner (OCEAN) for autonomous parking,"" Dongxu Wang, Yanbin Lu, and their collaborators wrote in their paper. ""OCEAN is an optimization-based trajectory planner accelerated by Alternating Direction Method of Multiplier (ADMM) with enhanced computational efficiency and robustness, and is suitable for all scenes with few dynamic obstacles.""
+
+The new planner developed by the researchers was designed to overcome the two primary shortcomings of approaches presented in previous studies tackling autonomous parking. The first of these is the inability to accurately predict collisions, while the second entails poor performance in real-time tests.
+
+The OCEAN planner builds on a previously introduced approach called Hybrid Optimization-based Collision Avoidance (H-OBCA), addressing its primary limitations. Its improved design ultimately improves its ability to avoid collisions, along with its robustness and speed in real time.
+
+""Starting from a hierarchical optimization-based collision avoidance framework, the trajectory planning problem is first warm-started by a collision-free Hybrid A trajectory,"" Wang, Lu, and their collaborators wrote in their paper.
+
+""Then the collision avoidance trajectory planning problem is reformulated as a smooth and convex dual form and solved by ADMM in",https://scx2.b-cdn.net/gfx/news/hires/2024/an-optimization-based.jpg,2024-03-30 09:00:01,"""The OCEAN planner for autonomous parking is a revolutionary approach that addresses the two primary shortcomings of previous studies on this topic. With its optimization-based design and enhanced computational efficiency, it is suitable for all scenarios with few dynamic obstacles. This planner could have far-reaching implications for the future of autonomous driving, enabling more widespread deployment of these vehicles in various settings. Read on to learn more about this breakthrough in the field of autonomous parking.""","OCEAN planner for autonomous parking. The new planner developed by the researchers was designed to overcome the two primary shortcomings of approaches presented in previous studies tackling autonomous parking. The first of these is the inability to accurately predict collisions, while the second entails poor performance in real-time tests.
+
+""Starting from a hierarchical optimization-based collision avoidance framework, the trajectory planning problem is first warm-started by a collision-free Hybrid A trajectory,"" Wang, Lu, and their collaborators wrote in their paper.
+
+""Then the collision avoidance trajectory planning problem is reformulated as a smooth and convex dual form and solved by ADMM in OCEAN. The new planner demonstrated a significant improvement in the ability of cars to safely reach a parking spot, without colliding with objects on the way.
+
+""The OCEAN planner also achieves a more robust and efficient solution than other approaches presented in previous studies, making it suitable for all scenarios with few dynamic obstacles. Its improved design ultimately improves its ability to avoid collisions, along with its robustness and speed in real time.""
+
+CONCLUSION:
+
+The OCEAN planner for autonomous parking is a significant step forward in the development of autonomous driving applications. Its optimization-based approach provides a more robust and efficient solution than other approaches presented in previous studies, making it suitable for all scenarios with few dynamic obstacles. With further refinement and development, the OCEAN planner could have far-reaching implications for the future of autonomous driving, enabling more widespread deployment of these vehicles in various settings.",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://www.zdnet.com/article/buy-a-windows-11-pro-license-for-just-25-right-now-last-chance/,Buy a Windows 11 Pro license for just $25 right now: Last chance, Buy Windows 11 Pro for $25 - Don't Miss Out! ,"ZDNET is a technology news and product review website that provides comprehensive recommendations to its readers. Their recommendations are based on rigorous testing, research, and comparison shopping, and they gather data from multiple sources, including vendor and retailer listings and other relevant and independent reviews sites. ZDNET also collects customer reviews to understand the needs and expectations of real people who already own and use the products and services they assess.
+
+When you purchase a product or service through a link from ZDNET to a retailer, they may earn affiliate commissions. However, this does not influence their editorial content or the price you pay. ZDNET's editorial team is committed to delivering accurate and knowledgeable advice to their readers, and they follow strict guidelines to ensure that their content is never influenced by advertisers.
+
+In summary, ZDNET's recommendations are based on extensive research and testing to help you make informed purchasing decisions. Their editorial team strives to provide the most accurate and insightful information possible to their readers. If you have any concerns or feedback, please feel free to reach out to their support team.",https://www.zdnet.com/a/img/resize/210bc66f7f72578d128c268bf78cbcf817209402/2023/10/03/e02665e0-f9de-434f-99f7-45a3cde856fa/windowspro-stack-social.jpg?auto=webp&fit=crop&height=675&width=1200,2024-03-31 06:00:00,"Improved Meta Description:
+
+Get the latest Windows 11 Pro license at the best price! Our expert reviewers have tested and compared multiple retailers to help you make informed purchasing decisions. Start shopping now and save money with our exclusive recommendations. Buy Windows 11 Pro today!", Buy Windows 11 Pro ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
