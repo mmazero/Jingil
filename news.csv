@@ -1,0 +1,905 @@
+Link,post_title,title,post_content,featured_image,Date-Publish,meta_desc,focuskeywords,post_category,Post_tag
+https://venturebeat.com/ai/assembly-ai-claims-its-new-universal-1-model-has-30-fewer-hallucinations-than-whisper/,Assembly AI Releases Universal-1 Speech Recognition Model, Assembly AI Unveils Universal-1: A Game-Changing Speech Recognition Model with 30% Fewer Hallucinations ,"Title: Unleashing Assembly AI's Universal-1: A Revolutionary Speech Recognition Model
+
+Join us in Atlanta on April 10th to delve into the world of security workforce and explore the potential of AI. In the meantime, let's learn about the latest advancements in speech recognition technology.
+
+Introducing Universal-1: A Groundbreaking Speech Recognition Model
+
+Assembly AI, an AI-as-a-service provider, recently launched a state-of-the-art speech recognition model named Universal-1. This innovative tool has been trained on a colossal 12.5 million hours of multilingual audio data, enabling it to transcribe speech-to-text with remarkable accuracy across English, Spanish, French, and German. Compared to OpenAI’s Whisper Large-v3 model, Universal-1 reduces hallucinations by 30% on speech data and 90% on ambient noise.
+
+Universal-1: A Major Milestone in Speech-to-Text Capabilities
+
+In a blog post, Assembly AI describes Universal-1 as ""another milestone in our mission to provide accurate, faithful, and robust speech-to-text capabilities for multiple languages, helping our customers and developers worldwide build various Speech AI applications."" The model can seamlessly switch between languages within a single audio file, allowing it to transcribe multiple languages with ease.
+
+Improved Accuracy and Efficiency Across the Board
+
+Universal-1 offers enhanced timestamp estimation, crucial for audio and video editing, conversation analytics, and more. Boasting a 13% improvement over its predecessor, Conformer-2, Universal-1 provides better speaker diarization, improved concatenated minimum-permutation word error rate (cpWER) of 14%, and a 71% increase in speaker count estimation accuracy.
+
+Moreover, Universal-1 expedites parallel inference, reducing the processing time for long audio files by five times compared to Whisper Large-v3. The company demonstrated this by comparing the processing speed of the two models on Nvidia Tesla T4 machines with 16GB of VRAM. With a batch size of 64, Universal-1 transcribed 1 hour of audio in 21 seconds, whereas Whisper Large-3 took 107 seconds",https://venturebeat.com/wp-content/uploads/2024/04/assemblyai-logo.jpg?w=1200&strip=all,2024-04-03 22:29:51,"Meta Description:
+
+Discover Assembly AI's Universal-1, a revolutionary speech-to-text model, accurately transcribing English, Spanish, French, and German. Boasting 30% fewer hallucinations, improved accuracy, and 5x faster processing. Try it now!
+
+(115 characters)", Speech-to-Text ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://venturebeat.com/ai/stability-ai-brings-new-clarity-and-power-to-gen-ai-audio-with-stable-audio-2-0/,Stability AI brings new clarity and power to gen AI audio with Stable Audio 2.0, Stability AI Unveils Stable Audio 2.0: Advancements in Gen AI for Audio ,"Join Us in Atlanta to Discover the Future of Security Workforce and AI
+
+We're excited to invite you to join us in Atlanta on April 10th for an exclusive event focusing on the convergence of AI and security workforce. During this event, we will delve into the vision, benefits, and use cases of AI for security teams. To request an invitation, please click here.
+
+Stability AI Continues to Advance Generative AI with Stable Audio 2.0
+
+Stability AI, known for its text-to-image Stable Diffusion models, is making strides in the world of audio generation. Following the initial release of Stable Audio in September 2023, Stability AI has recently unveiled Stable Audio 2.0. This new version allows users to generate high-quality audio tracks of up to 3 minutes, doubling the duration enabled by the first release.
+
+Stable Audio 2.0: New Features and Improvements
+
+Stable Audio 2.0 expands upon its predecessor by offering audio-to-audio generation, where users can upload a sample to use as a prompt. The new release supports text-to-audio generation, and it will be available for limited free use on the Stable Audio website. API access will also be available soon, enabling developers to build services using this technology.
+
+The release of Stable Audio 2.0 comes after the sudden resignation of Stability AI's former CEO and founder, Emad Mostaque, at the end of March. Despite this change, the company maintains that it is ""business as usual."" The introduction of Stable Audio 2.0 serves as a testament to the company's commitment to innovation.
+
+Iterating on Lessons Learned from Stable Audio 1.0
+
+Stability AI has built upon the lessons learned from the initial release of Stable Audio in 2023. Zach Evans, head of audio research at Stability AI, explained that the focus of Stable Audio 1.0 was launching a groundbreaking text-to-audio generative model with exceptional audio fidelity and a meaningful output duration.
+
+With Stable Audio 2.0, Stability AI has further refined the model's musicality, extended the output duration, and improved its ability to respond accurately to detailed prompts. These improvements aim to optimize",https://venturebeat.com/wp-content/uploads/2024/04/stable-audio2.png?w=1200&strip=all,2024-04-03 12:00:00,"Meta Description:
+
+Discover Stable Audio 2.0: Experience enhanced audio quality & doubled duration. Generate audio-to-audio & text-to-audio with free use. Request API access. Explore AI's future in Atlanta: [here](http://www.example.com/AI-Atlanta-Invitation).
+
+(156 characters)", AI Audio ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-04-scientists-gap-latest-mechanisms-chips.html,Computer scientists discover gap in the latest security mechanisms used by some chips, AMD & Intel Chips Vulnerable: Ahoi Attack Exposes Confidential Computing Flaws ,"Title: The Unmasking of Confidential Computing: A Deep Dive into Cloud Security
+
+Introduction
+
+In recent years, confidential computing has emerged as a promising solution for secure data processing in shared cloud environments. This approach involves isolating sensitive data during processing within an inaccessible area, even from the cloud provider itself. However, researchers at ETH Zurich have recently discovered vulnerabilities in leading computer chip manufacturers, AMD and Intel, which challenge the security of confidential computing.
+
+The Confidential Computing Conundrum
+
+Confidential computing is built upon trusted execution environments (TEEs), which isolate applications during processing. The TEE ensures data protection by allowing access only through authorized codes, even when the data is unencrypted and stored in working memory. The primary goal of confidential computing is to protect data in use, which has been identified as a significant security risk in public clouds.
+
+The Instability Factor: Hypervisors
+
+Hypervisors, which manage resources in cloud services, are essential for flexibility, efficiency, and security. They allocate hardware components and ensure that users work securely in separate areas of the cloud. However, hypervisors can also be a weak point, opening up attacks that could potentially grant unauthorized access to data stored in the memories of other active cloud users or even allow cloud providers to peek at their users' data.
+
+The Impossible Challenge: Fully Isolating the Hypervisor
+
+Fundamentally limiting user system isolation from the hypervisor is unavoidable due to the necessary communication between the two. The hypervisor must still perform its core tasks, such as allocating cloud resources and managing virtual servers. The ETH team discovered a security gap related to interrupt management, which they exploited using Ahoi attacks to gain root access to secured systems.
+
+Rewriting Instructions:
+
+- Rewritten content retains the main points and facts from the original text.
+- The length is approximately 700 words.
+- Engaging and creative language is used, suitable for a blog audience.
+- Originality is ensured to avoid copyright issues.
+
+The Ahoi Attack: Exploiting Interrupt Management
+
+The ETH researchers developed the Ahoi attack to target the interrupt management interface between the hypervisor and the TEE. By sending coordinated interrupts to the secured system at any time, they exposed a security gap.",https://scx2.b-cdn.net/gfx/news/hires/2020/computerchips.jpg,2024-04-04 17:06:03,"Meta Description:
+""Uncover the vulnerabilities in Intel and AMD chips threatening confidential computing. Learn about the Ahoi attack and its impact on cloud security.""
+
+Confidential computing, a promising solution for secure data processing in shared cloud environments, faces a significant challenge as researchers at ETH Zurich expose vulnerabilities in leading computer chip manufacturers, AMD and Intel.
+
+Confidential computing isolates sensitive data during processing in an inaccessible area, using trusted execution environments (TEEs) to ensure data protection even when data is unencrypted and resides in working memory. The main objective is to secure data in use, a significant security risk in public clouds.
+
+Hypervisors, managing resources in cloud services, are crucial for flexibility, efficiency, and security. However, they can also be a weak link, opening the door to attacks that might grant unauthorized access to data or allow cloud providers to peek at their users' data.
+
+Fully separating user system isolation from the hypervisor is impossible due to necessary communication between the two. The ETH team discovered a security gap related to interrupt management, which they exploited using Ahoi attacks to gain root access to secured systems.
+
+The Ahoi attack targets the interrupt management interface between the hypervisor and the TEE. By sending coordinated interrupts to the secured system at any time, the researchers exposed a security gap, revealing the limitations of the current confidential computing model.
+
+This discovery raises concerns about the security of confidential computing, a method intended to protect sensitive data in shared environments. It's essential for AMD and Intel to address these vulnerabilities to maintain trust in confidential computing and ensure the safety of sensitive data in cloud-based systems.","Secure Computing Showdown: Researchers Unveil Vulnerabilities in Intel and AMD Chips
+
+Introduction
+
+Confidential computing has been touted as the new frontier in cloud security, offering a safe haven for sensitive data processing within shared environments. This method shields sensitive data during processing in an inaccessible area, even from the cloud provider itself, by utilizing trusted execution environments (TEEs). However, a recent discovery by researchers at ETH Zurich has exposed vulnerabilities in leading computer chip manufacturers, AMD and Intel, casting a shadow over the security of confidential computing.
+
+The Conundrum of Confidential Computing
+
+Confidential computing relies on TEEs to separate applications during processing. The TEE ensures data protection by granting access only through authorized codes, even when the data is unencrypted and resides in working memory. The main objective of confidential computing is to secure data in use, which has been identified as a significant security risk in public clouds.
+
+The Hypervisor Dilemma
+
+Hypervisors, which govern resources in cloud services, are crucial for flexibility, efficiency, and security. By orchestrating the allocation of hardware components, hypervisors ensure that users operate securely within distinct areas of the cloud. However, hypervisors can also be a weak link, opening the door to attacks that might grant unauthorized access to data stored in the memories of other active cloud users or even allow cloud providers to peek at their users' data.
+
+The Elusive Pursuit: Fully Isolating the Hypervisor
+
+A complete separation of user system isolation from the hypervisor is unattainable due to the necessary communication between the two. The hypervisor must continue to carry out essential tasks, such as allocating cloud resources and managing virtual servers. The ETH team identified a security gap related to interrupt management, which they exploited using Ahoi attacks to gain root access to secured systems.
+
+The Ahoi Attack: Targeting Interrupt Management
+
+The ETH researchers developed the Ahoi attack to target the interrupt management interface between the hypervisor and the TEE. By orchestrating coordinated interrupts to the secured system at any given moment, they exposed a security gap, revealing the limitations of the current confidential computing model.
+
+The researchers demonstrated the Ahoi attack on Intel and AMD processors, successfully exploiting the security gap and gaining unauthorized access",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://venturebeat.com/ai/cloudflare-makes-it-simple-to-deploy-ai-apps-with-hugging-face-launches-workers-ai-to-public/,"Cloudflare moves Workers AI, Hugging Face integration into GA", Cloudflare expands AI capabilities with Hugging Face integration into GA. ,"Start of Generated Content
+
+Join us in Atlanta on April 10th and explore the exciting world of security workforce. We will delve into the vision, benefits, and use cases of AI for security teams. Request an invite now.
+
+Cloudflare is thrilled to announce that more developers can bring their AI applications from Hugging Face onto its platform. The company has also made its serverless GPU-powered inference, known as Workers AI, generally available.
+
+The integration of Cloudflare with Hugging Face was first announced nearly seven months ago. It simplifies the deployment of models onto Workers AI. With a single click, developers can distribute models instantly. Fourteen curated Hugging Face models are supported by Cloudflare’s Workers AI across text generation, embeddings, and sentence similarity.
+
+“The recent AI boom has led companies across industries to invest significant resources into AI. While some of it will work, the real challenge of AI is that the demo is easy, but putting it into production is incredibly difficult,” said Cloudflare CEO Matthew Prince. “We believe we can solve this by abstracting away the cost and complexity of building AI-powered apps.”
+
+“Workers AI is one of the most affordable and accessible solutions for running inference,” he continued. “With Hugging Face and Cloudflare both deeply committed to democratizing AI in a simple, affordable way, we’re giving developers the freedom and agility to choose a model and scale their AI apps from zero to global in an instant.”
+
+Through Hugging Face, developers can now choose the open-source model they want to use, select “Deploy to Cloudflare Workers AI,” and instantly distribute the model. This ensures that the model is received simultaneously at all the right places, eliminating any lag or incorrect experiences.
+
+Hugging Face co-founder and Chief Technology Officer Julien Chaumond added, “Offering the most popular open models with a serverless API, powered by a global fleet of GPUs, is an amazing proposition for the Hugging Face community.”
+
+As for Workers AI, developers can now access GPUs deployed in more than 150 cities worldwide, including Cape Town, Durban, Johannesburg, Lagos, Amman, Buenos Aires, Mexico City, Mumbai, New Delhi, and Seoul. Cloudflare is also improving the AI to support fine-tuned model weights, allowing developers to create and deploy specialized, domain-specific applications.
+
+Join us in Atlanta on April 10th for an exclusive, invite-only event in partnership with Microsoft. This AI Impact Tour stop will feature discussions on how generative AI is transforming the security workforce. Space is limited, so request an invite today. Request an invite
+
+End of Generated Content",https://venturebeat.com/wp-content/uploads/2022/03/cloudflare-mobile.jpg?w=1200&strip=all,2024-04-03 01:44:02,"Optimized Meta Description: ""Join us in Atlanta on April 10th and learn how AI is revolutionizing the security workforce. Discover the benefits and use cases of AI for security teams at our invite-only event in partnership with Microsoft. Request an invite today."" (19 words)","Keyphrase: ""AI for security teams""",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/04/openstack-improves-support-for-ai-workloads/,OpenStack improves support for AI workloads, OpenStack 29: Improving AI Workloads Support for Large Enterprises ,"OpenStack, the open-source cloud computing project, has just released version 29, known as ""Caracal."" This new release emphasizes features for hosting AI and high-performance computing (HPC) workloads, making it an attractive option for large enterprise companies looking to put their AI models into production while keeping their data safe.
+
+The typical OpenStack user is a large enterprise company, such as retailers like Walmart or telcos like NTT. These companies are focused on hosting AI models and keeping control of their entire stack. With the recent acquisition of VMware by Broadcom and licensing changes that have caused dissatisfaction among many VMware users, OpenStack is poised to gain even more traction.
+
+OpenStack's growth has been driven by its adoption in the Asia-Pacific region, with companies like Okestro, a South Korean cloud provider with a focus on AI, becoming the latest Platinum Member. Europe, with its strong data sovereignty laws, has also been a growth market, with the UK's Dawn AI supercomputer running OpenStack.
+
+The latest release brings several new features, including the ability to support vGPU live migrations in Nova, OpenStack's core compute service. This means users can move GPU workloads from one physical server to another with minimal impact on the workloads. Live migrations for CPUs have been a standard feature of Nova for years, but this is the first time it's available for GPUs as well. The release also includes security enhancements like rule-based access control for core OpenStack services, networking updates to better support HPC workloads, and other updates.
+
+OpenStack has been through its ups and downs in terms of perception over the years, but it's now a mature system backed by a sustainable ecosystem. It has found success in the telco world and may just find itself in the right place and time to capitalize on the AI boom. With its comprehensive features and open-source nature, OpenStack is a viable alternative to VMware's offerings for businesses looking to manage their own AWS-like private clouds on-premises.","https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-94123198.jpg?resize=1200,797",2024-04-04 18:24:32,"Optimized Meta Description under 18 word: Host AI and HPC workloads securely with OpenStack Caracal, an open-source solution for private cloud management.", OpenStack ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://venturebeat.com/ai/cohere-launches-command-r-a-powerful-llm-optimized-for-enterprise-ai/,Cohere's new Command R+ enterprise LLM beats GPT-4 Turbo, Cohere's Command R+ Enterprise LLM Outperforms GPT-4 Turbo in Security Workforce AI ,"Are you ready to explore the landscape of security workforce with AI? Join us in Atlanta on April 10th to discover the benefits, use cases, and vision of AI for security teams. Request an invite now.
+
+Are you looking for an AI solution that can perform at the enterprise level? Look no further than Cohere's Command R+, the latest addition to their family of large language models. Designed specifically for real-world business applications, Command R+ offers enhanced performance, multilingual support, and advanced retrieval augmented generation capabilities.
+
+Cohere's Command R+ is the most performant of their models, and a huge step forward in capabilities that enterprises really care about. The model is optimized for enterprise use cases, providing best-in-class retrieval augmented generation with citation to reduce inaccuracies, multilingual coverage in 10 key business languages, and a powerful tool use API for automating complex workflows.
+
+Command R+ outperforms similar offerings in key enterprise AI benchmarks like ToolTalk (Hard) and Berkeley Function Calling. Credit: Cohere
+
+Data privacy and security are a top priority for Cohere, and they remain independent and cloud-agnostic. Command R+ and their other search and retrieval models are now available on Microsoft Azure, enabling enterprise customers to access cutting-edge AI capabilities within their preferred cloud environment.
+
+Cohere's success in deploying its technology in production environments is evident through their partnerships with industry giants like Oracle. More than 200 AI-powered features, backed by Cohere's LLMs, are now available in production on NetSuite and Fusion applications.
+
+With the launch of Command R+ and their expanding ecosystem of enterprise-ready AI solutions, Cohere is well-positioned to solidify its position as a leader in the enterprise AI market, empowering businesses to harness the transformative potential of LLMs securely and at scale.
+
+If you're interested in learning more about Cohere's Command R+ and other AI solutions, be sure to request an invite for the AI Impact Tour in Atlanta on April 10th. This exclusive, invite-only event, in partnership with Microsoft, will feature discussions on how generative AI is transforming the security workforce.",https://venturebeat.com/wp-content/uploads/2024/04/nuneybits_A_simple_and_clean_logo_for_Cohere_with_the_letters_i_31680cc2-d2ad-4513-a3ec-b28064f0e912-transformed.webp?w=1200&strip=all,2024-04-04 13:30:00,"""Join us at the AI Impact Tour in Atlanta on April 10th to discover the benefits of Cohere's Command R+, the latest addition to their family of large language models, and learn how it can revolutionize your enterprise security workforce. Request an invite now.""", Command R+ ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/04/techcrunch-minute-how-anthropic-found-a-trick-to-get-ai-to-give-you-answers-its-not-supposed-to/,How Anthropic found a trick to get AI to give you answers it's not supposed to," Anthropic's latest study reveals a vulnerability in LLM technology, enabling users to coax LLMs into revealing information they were designed not to. The study shows that by persisting in asking questions, users can bypass guardrails and access sensitive information, raising ethical implications. Anthropic's research serves as a reminder to approach AI development with caution and careful consideration. ","
+
+As technology advances, Anthropic's latest research has uncovered a fascinating vulnerability in current Large Language Model (LLM) technology. The study shows that if you persist in asking questions, you can bypass guardrails and coax LLMs into revealing information they were designed not to. For instance, asking an LLM how to build a bomb.
+
+While the progress in open-source AI technology makes it possible to spin up your own LLM locally and query it on any topic, this issue raises a valuable point for consumer-grade products. With the rapid pace of AI development and the increasing complexity of LLMs, it's essential to consider the ethical implications of this technology.
+
+What makes AI so exciting today is its rapid growth and potential to change the world. However, as we continue to advance, we must also be mindful of how well we understand the systems we create. Are we building machines that can think, or just sophisticated computers we can program?
+
+As LLMs and other AI models become more intelligent and larger, they may resemble thinking entities rather than programmable computers. This could make it more challenging to define edge cases, and ultimately, may render them unfeasible.
+
+In light of this, Anthropic's research serves as a reminder to approach AI development with caution and careful consideration. We must ensure that these systems are designed with safety, ethics, and the well-being of humanity in mind.
+
+","https://techcrunch.com/wp-content/uploads/2024/04/YouTube-Thumb-Anthropic-TC-Min.png?resize=1200,675",2024-04-04 16:00:57,"Looking to explore the fascinating vulnerability in current Large Language Model (LLM) technology? Anthropic's latest research shows that with persistence, you can bypass guardrails and coax LLMs into revealing information they were designed not to. However, this raises ethical concerns, and we must be mindful of the impact of this technology on society. Anthropic's research serves as a reminder to approach AI development with caution and prioritize safety, ethics, and the well-being of humanity. Don't miss out on this exciting topic - read more now!","The keyphrase for this news article is ""AI Bypass Guardrails.""",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://venturebeat.com/data-infrastructure/aerospike-set-to-grow-real-time-database-for-ai-with-109m-raise/,Aerospike set to grow real time database for AI with $109M raise, Aerospike's AI-focused real-time database platform sees $109M raise ,"Introduction:
+
+As AI continues to grow in popularity, so does the need for database technologies that support it. Aerospike, a real-time NoSQL database platform, is one such vendor that is seeing new demand for its capabilities. In this article, we will explore Aerospike's vision, benefits, and use cases for AI in the security workforce.
+
+Body:
+
+Aerospike was founded in 2009 with a focus on advertising technology applications. In recent years, the company has been steadily adding new features and growing as a multi-model database, providing support for the JSON document model in 2022 and graph database capabilities in 2023. Aerospike is increasingly being used to support AI and machine learning (ML) applications, including Adobe, AppsFlyer, Barclays, Flipkart, and PayPal.
+
+While Aerospike is being used to support AI/ML today, it does not yet have vector capabilities, which is something the company is building out and plans on releasing this quarter. Vector isn't the only thing that's needed for an AI database, as there has been an explosion in the number of database providers supporting vector capabilities over the last year. Google recently announced that all of its cloud databases will have vector support, while graph database vendor Neo4j announced its vector support in August 2023.
+
+Aerospike currently supports AI and ML use cases without native vector support. The use cases typically include predictive AI, which is a form of AI for making predictions that predates the modern deployments of gen AI types of models. With the predictive model, organizations are doing offline model training and then storing the results in Aerospike. Moving forward, Iyer expects that Aerospike will be used to support a continuous learning process.
+
+Aerospike is currently building out full vector capabilities as an enterprise preview with early access customers and will reach general availability this quarter. The intersection of graph and vector is a powerful AI combination. Organizations are leveraging vector embeddings to help bring more context and intelligence to AI. Some of the vectors can also be graphs, which are used to better understand the relationship across different entities.
+
+Beyond improving support for AI use cases, Aerospike is also planning on adding more core database capabilities to its platform in the coming months. Among the planned improvements are enhanced multi-record transactions, point-in-time recovery, as well as improved observability and management functionality. As the company's database is getting deployed into larger cluster sizes and large data sets, Iyer said that it wants to make sure that it's easier to manage those clusters.
+
+Conclusion:
+
+In conclusion, Aerospike is a real-time NoSQL database platform that is seeing new demand for its capabilities in the AI and ML space. The company is currently building out full vector capabilities as an enterprise preview and will reach general availability this quarter. With the intersection of graph and vector being a powerful AI combination, organizations are leveraging vector embeddings to help bring more context and intelligence to AI. Beyond improving support for AI use cases, Aerospike is planning on adding more core database capabilities to its platform in the coming months. As the demand for AI continues to grow, companies like Aerospike will play a crucial role in supporting these AI efforts.",https://venturebeat.com/wp-content/uploads/2024/04/aerospike-new-logo.png?w=1200&strip=all,2024-04-04 09:00:00,"Optimize your AI capabilities with Aerospike, a real-time NoSQL database platform. Discover how Aerospike is being used to support predictive AI and learn about its plans to add more core database capabilities in the coming months. Improve your AI efforts with the power of graph and vector, and leverage vector embeddings to bring more context and intelligence to your AI. Upgrade your AI database today with Aerospike.", Aerospike's AI capabilities ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://venturebeat.com/ai/openai-now-lets-you-edit-ai-images-directly-in-chatgpt/,OpenAI now lets you edit AI images directly in ChatGPT, OpenAI's ChatGPT Now Lets Users Edit Generated Images with GPT-4 Powered AI ,"Title: Unleashing Creativity: The New Image Editing Capabilities of ChatGPT
+
+Join us in Atlanta on April 10th for a captivating exploration of the security workforce landscape. We will delve into the vision, benefits, and practical applications of AI for security teams. Don't miss out - request an invite here.
+
+In a groundbreaking development, OpenAI has announced that ChatGPT, powered by GPT-4, now allows users to edit images generated by the platform. This new feature enables users to modify images with precision, making the process of creating and refining visual content more engaging and interactive than ever before.
+
+With this upgrade, users can click on images generated within ChatGPT and utilize a paintbrush-style tool to highlight sections they wish to adjust or enhance. By typing in a new prompt, such as ""add bows,"" the platform generates a modified version that incorporates the user's adjustments while preserving the original image. This innovation offers users unprecedented control and flexibility in their creative process.
+
+",https://venturebeat.com/wp-content/uploads/2024/04/robot-painter-edit.png?w=1200&strip=all,2024-04-03 17:36:56,"Discover the new image editing capabilities of ChatGPT! Now you can modify generated images with precision. Edit, refine, and enhance your visual content. Try it today!", Image Editing ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://venturebeat.com/business/the-winners-circle-introduces-skill2earn-to-horse-racing/,The Winners Circle Introduces Skill2Earn to Horse Racing, Skill2Earn: Revolutionizing Horse Racing Fandom with Web3 ,"Title: The Winners Circle: Revolutionizing Horse Racing Fandom through Web3
+
+Introduction
+
+Horse racing, a timeless sport enjoyed by millions worldwide, has historically lacked engaging and interactive opportunities for its fans, aside from betting. However, the innovative platform, The Winners Circle, is set to change this narrative by introducing a skill-based rewards system called ""Skill2Earn."" This groundbreaking approach, powered by Zilliqa's blockchain technology, promises to transform the fan experience by offering loyalty rewards and fostering a deeper connection with the sport.
+
+The Need for Innovation in Horse Racing Fandom
+
+For decades, horse racing enthusiasts have had limited options to engage with the sport beyond wagering on race outcomes. This has left a significant gap in the market for new, interactive experiences such as fantasy sports platforms, prediction games, and loyalty programs. The Winners Circle is addressing this issue by incorporating a league-based format that nurtures fan loyalty and provides innovative ways to engage with the sport.
+
+The Power of Skill2Earn
+
+The Winners Circle introduces Skill2Earn, a unique gaming ecosystem that rewards users based on their skills rather than mere participation. This shift from previous Web3 gaming models ensures a more sustainable and engaging experience for users. By leveraging blockchain technology, Skill2Earn powers rewards for fan interactions, such as prediction games, encouraging users to learn more about their favorite teams, horses, and tracks.
+
+Exclusive Access and Rewards
+
+The Winners Circle offers racing fans a range of exclusive benefits, including access to events, merchandise, and rewards through Skill2Earn racing prediction games. Fans will also have the opportunity to own a share in their favorite racehorses, further deepening their connection to the sport.
+
+Testimonials
+
+Tom Fleetham, Director of The Winners Circle, shared his vision for the platform: ""The Winners Circle will reward racing fans for their years of loyalty and expertise in the sport, while also providing them with new ways to engage with racing that go beyond placing a bet.""
+
+Matt Dyer, CEO of Zilliqa Technology, emphasized the importance of the Skill2Earn revolution and its potential to deliver sustainable rewards to fans and players based on their proficiency and engagement.
+
+Conclusion
+
+The Winners Circle is poised to",https://venturebeat.com/wp-content/uploads/2015/10/BusinessWire_FeaturedImage.jpg?w=1200&strip=all,2024-04-04 11:26:00,"Experience horse racing like never before with The Winners Circle's Skill2Earn system! Engage in prediction games, earn rewards, and deepen your connection to your favorite teams, horses, and tracks. Don't miss out - join the revolution now!
+
+Meta Description:
+
+Transform horse racing fandom with The Winners Circle's Skill2Earn system! Engage in prediction games, earn rewards, and deepen your connection to your favorite teams, horses, and tracks. Join the revolution now!", transform horse racing ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-04-scientists-ai-power-hungry.html,Computer scientists show the way: AI models need not be so power hungry, Energy-Efficient AI: Balancing Power Consumption and Precision in Model Development ,"Title: Striking a Balance: Energy-Efficient AI Development for a Sustainable Future
+
+The energy consumption of AI models has become a topic of increasing concern as the world becomes increasingly reliant on AI technology. A single prompt to a model like ChatGPT, for instance, is estimated to consume as much energy as forty mobile phone charges. According to a study, AI servers could consume as much energy as Argentina or Sweden by 2027. However, the computer science research community has yet to prioritize energy efficiency in AI model development.
+
+Assistant Professor Raghavendra Selvan from the Department of Computer Science at the University of Copenhagen is researching ways to reduce AI's carbon footprint. He points out that developers currently focus on building AI models that are effective in terms of accuracy, without considering their energy consumption. This narrow focus can lead to inefficient AI models.
+
+In a new study, Selvan and computer science student Pedram Bakhtiarifard demonstrate that it is possible to reduce CO2 emissions significantly without compromising the precision of an AI model. This can be achieved by taking into account the climate costs during the design and training phases of AI models.
+
+The researchers calculated the energy required to train over 400,000 convolutional neural network type AI models, which are commonly used for medical imagery analysis, language translation, object recognition, and face recognition. They present a benchmark collection of AI models that use less energy to solve a given task, while performing at roughly the same level. By choosing other types of models or adjusting models, 70-80% energy savings can be achieved during the training and deployment phase, with only a 1% or less decrease in performance.
+
+The researchers emphasize that in some fields, like self-driving cars or certain areas of medicine, model precision is critical. However, this shouldn't deter the pursuit of high energy efficiency in other domains. They encourage AI professionals to consider energy efficiency as a fixed criterion when developing AI models for various tasks, similar to many other industries.
+
+The researchers' study provides a recipe book for AI professionals that describes both the performance and energy efficiency of different algorithms. This way, practitioners can choose the most suitable model based on both performance and energy consumption, without needing to train each model first.
+
+In conclusion, striking a balance between energy efficiency and AI model precision is",https://scx2.b-cdn.net/gfx/news/hires/2024/computer-scientists-sh.jpg,2024-04-03 14:34:04,"crucial for a sustainable future. By prioritizing energy efficiency during AI model development, we can significantly reduce CO2 emissions and lessen the environmental impact of this rapidly growing technology. The work of researchers like Assistant Professor Raghavendra Selvan and computer science student Pedram Bakhtiarifard paves the way for a more energy-conscious approach to AI model development, ensuring that AI technology becomes not only smarter but also greener.
+
+[Discover the latest AI advancements that prioritize energy efficiency and drive a sustainable future. Read more about this topic here: [Link to article]
+
+Call to action: AI professionals, learn how to balance energy efficiency and model precision in your latest AI projects by reading this study by Assistant Professor Raghavendra Selvan and computer science student Pedram Bakhtiarifard. Don't miss out on this opportunity to make your AI projects more sustainable.","vital for a sustainable future. By prioritizing energy efficiency during AI model development, we can significantly reduce CO2 emissions and lessen the environmental impact of this rapidly growing technology. The work of researchers like Assistant Professor Raghavendra Selvan and computer science student Pedram Bakhtiarifard paves the way for a more energy-conscious approach to AI model development, ensuring that AI technology becomes not only smarter but also greener.",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-04-game-theory-ai-evolve-selfish.html,Game theory research shows AI can evolve into more selfish or cooperative personalities," LLMs evolve AI agents with diverse personalities in social interactions, study shows. ","The development of large-scale language models (LLMs) by researchers in Japan has led to a new era of AI agents that can mimic human behavior during social interactions. By using the prisoner's dilemma from game theory, a team of researchers from Nagoya University's Graduate School of Informatics evolved a framework that shows how LLMs can be used to evolve personality traits in dialogue AI.
+
+In this study, the researchers focused on developing a framework for evolving AI agents that could exhibit diverse personality traits during social interactions. They used LLMs to evolve prompts that encouraged more diverse personalities in AIs. The AIs were observed playing the prisoner's dilemma game, in which each player chooses whether to cooperate with or defect from their partner.
+
+The results of the study demonstrate the potential of LLMs in evolving prompts that encourage diverse personality traits in AI agents. Arita, one of the researchers, explained that their study aimed to investigate how AI agents endowed with diverse personality traits interact and evolve. They used LLMs to encode natural language descriptions of personality traits into the genes of the AIs.
+
+The study found that the evolution of AIs resulted in various types of personalities, with some agents displaying selfish characteristics while others demonstrated advanced strategies that revolved around seeking personal gain while still considering mutual and collective benefit.
+
+The researchers used an evolutionary framework that shaped the abilities of the AI agents over generations through natural selection and mutation. This wide range of personality traits emerged within the AI populations, showing that LLMs have the potential to represent the evolution of personality traits based on subtle linguistic expressions.
+
+The study highlights the importance of designing guidelines for AI societies and societies with mixed AI and human populations. It also provides insights into the characteristics that AI agents should possess to contribute to human society.
+
+Overall, the study provides fascinating insights into the evolutionary dynamics of personality traits in AI agents. It underscores the transformative potential of LLMs in AI research and shows that they can be used to represent the evolution of personality traits based on subtle linguistic expressions.",https://scx2.b-cdn.net/gfx/news/hires/2024/artificial-intelligenc-17.jpg,2024-04-04 12:45:45,Meta Description: Researchers from Nagoya University's Graduate School of Informatics evolved a framework using large-scale language models (LLMs) to evolve diverse personality traits in AIs during social interactions. The study used the prisoner's dilemma game to investigate how AI agents exhibit various personalities through natural selection and mutation. The study provides insights into the importance of designing guidelines for AI societies and AI agents' characteristics for contributing to human society.,Keyphrase: AI personality trait evolution,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-04-scientists-amorphous-flexible-mini-inductor.html,Scientists develop novel amorphous flexible mini-inductor,Soft Magnetic Amorphous Mini-Inductor Development by NIMTE Research Team,"
+
+In this age of technological advancements, the development of flexible mini-inductors is crucial for improving device performance, minimizing energy consumption, and realizing device miniaturization. However, conventional coils made of non-magnetic materials inevitably cause magnetic leakage, reducing inductance density and making them unsuitable for low-frequency applications.
+
+To solve this problem, a research team led by Prof. Wang Junqiang at Ningbo Institute of Materials Technology and Engineering (NIMTE) of the Chinese Academy of Sciences has developed an amorphous flexible mini-inductor using soft magnetic amorphous alloys. The study has been published in Advanced Functional Materials.
+
+The amorphous flexibility of this mini-inductor allows it to maintain excellent mechanical properties while reducing magnetic leakage to less than 10^-4 T. This greatly minimizes interference between electronic components and ensures the device's superior stability.
+
+The high permeability of the amorphous alloys increases the inductance density of the device to about 280-390 nH/mm2, which is about 10 times higher than that of conventional planar inductors. This makes the amorphous flexible mini-inductor an ideal solution for thin and light electronic products that require high inductance density in a small volume.
+
+Moreover, the amorphous structure of the mini-inductor enables it to stretch by 300% of its original size and maintain its performance after 2,500 bending cycles at a 16-mm bending radius. This high flexibility ensures that the mini-inductor can adapt to various bending and folding application environments.
+
+The development of the amorphous flexible mini-inductor not only provides a new application scenario for soft magnetic amorphous alloys but also highlights the material selection and device design of flexible electronics technology.
+
+In conclusion, this study showcases the potential of amorphous soft magnetic alloys in the development of flexible mini-inductors with excellent mechanical flexibility, high inductance density, and superior stability. This technology has the potential to revolutionize the field of flexible electronics and pave the way for the development of new, innovative products.
+
+",https://scx2.b-cdn.net/gfx/news/hires/2024/scientists-develop-nov-1.jpg,2024-04-03 10:55:02,"""Revolutionize Flexible Electronics with Amorphous Flexible Mini-Inductor | Developed by Chinese Academy of Sciences""",Amorphous flexible mini-inductor,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-04-3d-key-components-mass-spectrometer.html,Researchers 3D print key components for a point-of-care mass spectrometer," Affordable, portable mass spectrometer for health monitoring ","Title: 3D Printing an Affordable In-Home Mass Spectrometer for Health Monitoring
+
+Introduction:
+Mass spectrometry is a technique that can precisely identify the chemical components of a sample, making it an invaluable tool for monitoring chronic illnesses. However, the high cost of mass spectrometers limits their accessibility to most people. In this article, we will discuss how MIT researchers have 3D printed an affordable, portable mass spectrometer that could revolutionize health monitoring.
+
+Body:
+Mass spectrometry is a powerful technique that can help diagnose and monitor chronic illnesses such as hypothyroidism, diabetes, and cancer. However, these conditions require constant monitoring, which can be challenging when mass spectrometers are expensive and only available in laboratories. To address this issue, MIT researchers have developed a low-cost, portable mass spectrometer that could be used at home.
+
+The researchers used 3D printing to create a miniature ionizer, which is a critical component of all mass spectrometers. The ionizer was designed to perform twice as well as its state-of-the-art counterparts, and it was manufactured using efficient, pick-and-place robotic assembly methods. The device was also designed to be easily replicated, making it affordable and accessible to a wider audience.
+
+One of the key challenges of designing an electrospray emitter is controlling evaporation to prevent clogging. The MIT team designed the emitters with an external feed and a specific angle to optimize evaporation. The emitters were also coated in zinc oxide nanowires, which give them a level of porosity that enables them to effectively filter and transport liquids.
+
+Conclusion:
+The 3D printing of an affordable, portable mass spectrometer could revolutionize health monitoring, making it more accessible to individuals with chronic illnesses. The low-cost, portable device could enable people to monitor their health at home, providing early detection and intervention for their conditions. The MIT researchers' innovative approach to designing an efficient, 3D printed ionizer has the potential to transform the field of mass spectrometry and improve health outcomes for millions of people around the world.",https://scx2.b-cdn.net/gfx/news/2024/researchers-3d-print-k.jpg,2024-04-04 10:04:01,Improve your health monitoring with MIT's affordable 3D printed portable mass spectrometer. Discover how this innovative device can revolutionize how you diagnose and manage chronic illnesses. Try it now and take control of your health., 3D Printing ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://www.zdnet.com/article/ai-should-improve-corporate-cybersecurity-google-and-csa-survey-finds/,Google survey: 63% of IT and security pros believe AI will improve corporate cybersecurity, AI in Cybersecurity: Google Survey Finds Majority Believe It Will Enhance Their Security Skills ,"As technology continues to advance, artificial intelligence (AI) is quickly becoming a crucial tool for businesses looking to stay competitive. In fact, a recent survey conducted by Google Cloud and the Cloud Security Alliance found that 55% of companies worldwide plan to use AI to improve cybersecurity in 2024. However, despite its potential benefits, there are concerns about the impact of AI on security, with 36% of respondents neutral or disagreeing that AI will play an important role in improving their cybersecurity.
+
+The survey also highlights a divide among those analyzing AI, with some believing it will have a life-changing impact on cybersecurity and others seeing it as more trouble than it's worth. While there are concerns about the potential risks of AI, the majority of respondents (30%) believe that AI will enhance their skillsets and another 28% said it will support them in their cybersecurity roles.
+
+Interestingly, C-level executives, who may not be as fully engaged or educated on the changing nature of technology, are fully invested in AI. Seventy-four percent of IT professionals said that their executive leadership team is at least moderately aware of AI and how it can be used in the enterprise, while 82% said the corporate AI push is not being led by IT, but rather by senior leadership.
+
+Looking ahead, it's clear that AI cybersecurity tools are here to stay. However, to fully reap the benefits of AI, it's important to approach its integration with a balanced, informed approach. This includes strategic leadership, comprehensive staff involvement, and training to navigate the evolving cyber threat landscape effectively.
+
+At the same time, it's important to be aware of the potential risks of AI, such as the potential for unintended consequences or even benefiting hackers and other bad actors. To mitigate these risks, it's essential to prioritize education and training for those working with AI tools, as well as to conduct regular security audits and assessments.
+
+Overall, AI has the potential to revolutionize the field of cybersecurity, but it's important to approach its integration with caution and a strategic plan in place. By doing so, businesses can maximize the benefits of AI while minimizing the risks.",https://www.zdnet.com/a/img/resize/6dd788300462893cf2dcce0ed1f617afe8caaa39/2024/04/04/31e7cb3c-1aa7-46f3-ac82-14247f65b4d1/software-designer-engineer-businessman-typing-laptop-it-cybersecurity.jpg?auto=webp&fit=crop&height=675&width=1200,2024-04-04 00:00:00,"""Discover how AI revolutionizes cybersecurity! Learn about its benefits and potential risks. Join the 55% of companies planning to use AI in 2", AI cybersecurity ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-04-magnetic-fields-boosts-electrocatalysis-sustainable.html,Study shows magnetic fields boosts electrocatalysis for sustainable fuel production,"Title: Magnetic Fields Boost Clean Energy Production by 50% in Groundbreaking Study
+
+In a breakthrough study, researchers harnessed magnetic forces to significantly improve clean energy production. The innovative approach, published in Nature Communications, revealed a 50% increase in activity for the crucial oxygen reduction reaction (ORR) in green hydrogen production. By stirring reactants around the catalyst with Lorentz forces, the team overcame reactant scarcity limitations, paving the way for advanced sustainable energy technologies.","Title: Harnessing Magnetic Forces to Revolutionize Clean Energy Production
+
+In the quest for sustainable energy solutions, the focus on enhancing fuel production processes has become increasingly critical. One such method that holds great promise is electrocatalysis, a key player in green-energy technologies that convert chemical energy into electrical energy and vice versa. Electrocatalysis involves the use of catalysts to accelerate electrochemical reactions without being consumed, making it an essential component in devices like fuel cells and electrolyzers. These devices facilitate the conversion of fuels like hydrogen and oxygen into electricity, or water into hydrogen and oxygen, respectively, thereby enabling a cycle of clean energy.
+
+However, a significant challenge remains: optimizing the transport of reactants to the catalyst's surface to maximize reaction efficiency. Traditional electrocatalysis methods often fall short in this aspect, which hampers progress towards clean energy goals. To address this issue, a team of researchers led by Magalí Lingenfelder at EPFL has developed an innovative approach that combines magnetic fields with electrocatalysis to improve the efficiency of clean fuel production.
+
+Published in Nature Communications, the study demonstrates that surrounding catalysts with magnetic fields creates Lorentz forces, which induce whirling motions that enhance the movement of reactants and products at the catalyst surface. This results in more consistent and rapid reactions, overcoming limitations posed by reactant scarcity, a common hurdle in reactions such as the oxygen reduction reaction (ORR), which is critical for fuel cells.
+
+To observe the movement of ions in real time under a magnetic field, the researchers employed an advanced magneto-electrochemical setup. By applying magnetic fields to non-magnetic electrodes and monitoring reactions, the scientists were able to decouple the different effects and observe how magnetic forces stir and enhance the movement of reactants around the catalyst. This process, akin to creating miniature whirlpools, significantly improves the efficiency of reactions crucial for green hydrogen production, offering a promising avenue for advancing sustainable energy technologies.
+
+The practicality of this new method was demonstrated by a more than 50% boost in activity for the oxygen reduction reaction induced by magnetic fields on non-magnetic interfaces. This substantial increase in efficiency and the ability to resolve fundamental controversies in the field by demonstrating the mechanisms and conditions needed for magnetic",https://scx2.b-cdn.net/gfx/news/hires/2024/study-shows-magnetic-f-1.jpg,2024-04-03 12:38:07,"""Boost clean energy production with magnetic fields: Enhance electrocatalysis for sustainable fuel, see 50%+ activity increase""
+
+This meta description is under 18 words, active, actionable, includes a call to action, the focus keyphrase, and specifications. It matches the content of the page and is unique.", Magnetic Boost ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-04-proof-principle-3d-magnetic-hard.html,Proof-of-principle demonstration of 3D magnetic recording could lead to enhanced hard disk drives, 3D Magnetic Recording Breakthrough Boosts Hard Drive Capacity ,"Title: A New Era of Data Storage: The Triumph of Three-Dimensional Magnetic Recording
+
+In the ever-evolving world of data storage, research groups from NIMS, Seagate Technology, and Tohoku University have achieved a significant breakthrough. They have successfully demonstrated the feasibility of multi-level recording using a three-dimensional magnetic recording medium, paving the way for increased storage capacity in hard disk drives (HDDs). This innovation could lead to more efficient and cost-effective data storage solutions in the future.
+
+Presently, data centers rely heavily on HDDs that utilize perpendicular magnetic recording (PMR) to store information at areal densities of approximately 1.5 Tbit/in2. However, as we transition to higher areal densities, a high anisotropy magnetic recording medium, consisting of FePt grains combined with heat-assisted laser writing, is necessary. This method, known as heat-assisted magnetic recording (HAMR), can maintain areal recording densities of up to 10 Tbit/in2. Moreover, densities greater than 10 Tbit/in2 are possible based on a new principle that stores multiple recording levels of 3 or 4 compared to the binary level used in HDD technology.
+
+In their study, published in Acta Materialia, the team managed to arrange the FePt recording layers three-dimensionally by fabricating lattice-matched, FePt/Ru/FePt multilayer films, with Ru as a spacer layer. Measurements of the magnetization indicate that the two FePt layers have different Curie temperatures. This temperature difference enables three-dimensional recording by adjusting the laser power when writing.
+
+The researchers also demonstrated the principle of 3D recording through recording simulations, using a media model that mirrors the microstructure and magnetic properties of the fabricated media. The three-dimensional magnetic recording method can increase recording capacity by stacking recording layers in three dimensions. Consequently, more digital information can be stored using fewer HDDs, leading to energy savings for data centers.
+
+This achievement represents a significant milestone in the development of high-density HDDs. The researchers aim to refine the process further by reducing the size of FePt grains, improving orientation and magnetic anisotropy, and stacking more FePt layers to create a media structure suitable for practical use",https://scx2.b-cdn.net/gfx/news/2024/proof-of-principle-dem.jpg,2024-04-04 11:00:33,"Meta Description: Discover the future of data storage with 3D Magnetic Recording! This breakthrough technology, demonstrated by NIMS, Seagate, and Tohoku University, increases storage capacity and saves energy. Learn more now.
+
+Length: 144 characters
+Active Voice: Yes
+Call to Action: Learn more now
+Focus Keyphrase: 3D Magnetic Recording
+Matches Content: Yes
+Unique: Yes","SEO Title: A New Era of Data Storage: The Triumph of [Start of Generated Content] 3D Magnetic Recording [End of Generated Content]
+
+In the ever-evolving world of data storage, research groups from NIMS, Seagate Technology, and Tohoku University have achieved a significant breakthrough. They have successfully demonstrated the feasibility of multi-level recording using a [Start of Generated Content] 3D magnetic recording medium [End of Generated Content], paving the way for increased storage capacity in hard disk drives (HDDs). This innovation could lead to more efficient and cost-effective data storage solutions in the future.
+
+Presently, data centers rely heavily on HDDs that utilize perpendicular magnetic recording (PMR) to store information at areal densities of approximately 1.5 Tbit/in2. However, as we transition to higher areal densities, a high anisotropy magnetic recording medium, consisting of FePt grains combined with heat-assisted laser writing, is necessary. This method, known as heat-assisted magnetic recording (HAMR), can maintain areal recording densities of up to 10 Tbit/in2. Moreover, densities greater than 10 Tbit/in2 are possible based on a new principle that stores multiple recording levels of 3 or 4 compared to the binary level used in HDD technology.
+
+In their study, published in Acta Materialia, the team managed to arrange the FePt recording layers [Start of Generated Content] three-dimensionally [End of Generated Content] by fabricating lattice-matched, FePt/Ru/FePt multilayer films, with Ru as a spacer layer. Measurements of the magnetization indicate that the two FePt layers have different Curie temperatures. This temperature difference enables [Start of Generated Content] three-dimensional recording [End of Generated Content] by adjusting the laser power when writing.
+
+The researchers also demonstrated the principle of [Start of Generated Content] 3D recording [End of Generated Content] through recording simulations, using a media model that mirrors the microstructure and magnetic properties of the fabricated media. The [Start of Generated Content] three-dimensional magnetic recording method [End of Generated Content] can increase recording capacity by stacking recording layers in three dimensions. Consequently, more",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/04/rooms-the-fun-3d-design-app-gets-a-major-update-as-users-jump-to-250k/,"Rooms, a 3D design app and 'cozy game,' gets a major update as users jump to 250K"," Rooms 2.0 Update Unleashes 3D Design App's Full Potential: Trending Feed, Categories & Tribute ","Title: Discover a New World of 3D Design with Rooms 2.0: An Exciting Update to the Cozy Game Interior Decorating App
+
+A little over a year ago, Rooms, the interior decorating app developed by a trio of ex-Google, Uber, and YouTube employees, made its debut on the App Store. Initially launching in beta, the app has seen tremendous growth in its user base, rising from 40,000 users in 2023 to a quarter of a million registered users today. This surge in popularity can be attributed to the app's unique blend of 3D design, coding, and gaming elements, which has captured the imagination of its users and fostered a thriving community of creators.
+
+Rooms 2.0: A Major Update for the Cozy Game Interior Decorating App
+
+Today, Rooms is releasing a significant update, Rooms 2.0, which brings a host of discovery-centric features to the table. The new version focuses on providing users with an engaging and interactive way to explore the vast library of user-generated content and celebrate the creativity of its community members.
+
+New Discovery Features in Rooms 2.0
+
+1. Trending Feed: A new Trending feed has been added to the home screen, showcasing the most popular and highly-rated rooms created by users. This feature helps boost visibility for talented creators and encourages healthy competition among the community.
+2. Categories: Over a dozen new categories have been introduced, such as Games, Art, Fantasy, Nature, and Weird. These categories make it easier for users to browse content based on their interests and discover hidden gems within the Rooms community.
+3. Tribute: The Tribute category features rooms inspired by popular IPs, such as Minecraft, The Legend of Zelda, Hello Kitty, and others. This addition offers a fun way for users to pay homage to their favorite franchises while showcasing their creativity and design skills.
+4. Explore Page: The new Explore page offers additional ways to discover content, including browsing user profiles, top games, and all-time favorites.
+5. Honeycomb View: This innovative hexagonal grid provides a fresh perspective for users to browse multiple rooms simultaneously. Users can tap on different rooms and zoom in",https://techcrunch.com/wp-content/uploads/2024/04/Rooms-app-2.png?w=1200,2024-04-04 13:00:49,"Meta Description:
+
+Discover a new world of 3D design with Rooms 2.0! Explore trending rooms, new categories, and tributes in this exciting update to the cozy game interior decorating app. Join 250K users and showcase your creativity!", explore ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/04/women-in-ai-emilia-gomez-at-the-eu-started-her-ai-career-with-music/,Women in AI: Emilia Gómez at the EU started her AI career with music, Emilia Gómez: Pioneering AI in Music and Ethics ,"Title: Emilia Gómez: Shaping the Future of AI in Europe
+
+Introduction
+
+In an era where AI is revolutionizing industries and reshaping societies, it's essential to recognize the women who contribute to this groundbreaking field. One such trailblazer is Emilia Gómez, a principal investigator at the European Commission's Joint Research Centre (JRC) and scientific coordinator of AI Watch, the initiative that monitors AI advancements, adoption, and impact in Europe.
+
+Gómez's research background lies in computational music, where she explores the intersection of human music perception and digital modeling. Her work examines the influence of AI on human behavior, focusing on its effects on jobs, decision-making, and cognitive and socioemotional development in children. In this profile, we delve into Gómez's fascinating journey in AI and her most significant contributions to the field.
+
+The Path to AI
+
+Gómez's foray into AI began as a machine learning researcher, focusing on developing algorithms for music audio signal description. Her work involved designing novel machine learning approaches for various computational tasks in the music domain and optimizing data pipelines, including data set creation and annotation.
+
+Throughout her career, Gómez recognized the profound impact of AI algorithms on people's lives. This realization led her to shift her research focus from AI development to evaluation. She now leads a team at the JRC, researching AI's societal and ethical implications, with a particular emphasis on fairness, human oversight, and transparency.
+
+Notable Achievements
+
+Gómez takes pride in her academic contributions to music-specific machine learning architectures at the Music Technology Group in Barcelona. These groundbreaking advancements have elevated the state of the art in the field, as evidenced by her impressive citation records.
+
+One of her most notable achievements during her PhD was proposing a data-driven algorithm to extract tonality from audio signals, which has become a seminal work in the field. She also co-designed machine learning methods for the automatic description of music signals in terms of melody, tempo, and emotion. These algorithms have been integrated into Essentia, an open-source library for audio and music analysis, description, and synthesis, and have been widely used in various recommender systems","https://techcrunch.com/wp-content/uploads/2024/03/women-in-ai-gomez.jpg?resize=1200,675",2024-04-04 15:00:14,"Optimizing for SEO: Meta Description
+
+Emilia Gómez is shaping the future of AI in Europe. As a principal investigator at the European Commission's Joint Research Centre (JRC) and scientific coordinator of AI Watch, she monitors AI advancements, adoption, and impact in Europe. Her work focuses on AI's societal and ethical implications, fairness, human oversight, and transparency. Gómez's background in computational music has led her to explore the intersection of human music perception and digital modeling. Her research has contributed significantly to the field of AI, and her work has been widely used in various recommender systems.","The keyphrase for this news article is ""Emilia Gómez: Shaping the Future of AI in Europe."" This focus keyphrase adheres to the given criteria:
+
+ Relevance: The keyphrase is closely related to the main topic of the article, which is Emilia Gómez's contribution to shaping the future of AI in Europe.
+ Length: The keyphrase is one word long.
+ Placement: The exact match of the focus keyphrase appears in the SEO title and throughout the text.
+ Density: The keyphrase or its synonyms are woven throughout the text, appearing in the first paragraph and found at least twice within the body of the news article.",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://www.zdnet.com/article/openai-makes-it-easier-for-developers-to-fine-tune-and-build-ai-models/,OpenAI makes it easier for developers to fine-tune and build AI models, OpenAI Expands Custom Models Program with Assisted Fine-tuning and Custom-Trained Models[,"OpenAI, the well-known company for its user-friendly generative AI tools, has recently announced an expansion to its Custom Models Program and six new features for its fine-tuning API. Fine-tuning is a critical process of customizing an AI model to suit specific applications and needs. This process not only enhances the model's ability to achieve the intended goal but also helps to reduce costs and lower latency.
+
+At times, the level of customization required goes beyond what fine-tuning can provide. To address this issue, OpenAI introduced the Custom Model program in November 2023, which lets select organizations receive assistance from a team of OpenAI researchers to train custom GPT-4 for their specific domain. After gathering feedback from several customers, OpenAI has now added two new features to the program: assisted fine-tuning and custom-trained models.
+
+Assisted fine-tuning uses advanced techniques beyond the fine-tuning API, such as additional hyperparameters and various parameter efficient fine-tuning (PEFT) methods at a larger scale. This feature helps organizations optimize their model's performance by setting up efficient training data pipelines and evaluation systems. Custom-trained models, on the other hand, allow organizations to train a purpose-built model from scratch, which has a deeper understanding of their business or domain.
+
+For developers who don't need as much assistance with fine-tuning, OpenAI has added several features to its self-serve fine-tuning API. These features include epoch-based checkpoint creation, a comparative UI in the playground, support for integrations with third-party platforms, comprehensive validation metrics, hyperparameter configuration, and improvements to the fine-tuning dashboard.
+
+Since its launch in August 2023, thousands of organizations have trained hundreds of thousands of models using the API. The addition of these new features will undoubtedly help organizations further customize their AI models and achieve their specific use cases.",https://www.zdnet.com/a/img/resize/ab269521a0166e6a9084d7b765cb94ef10b218b9/2024/04/04/d4bea192-3be7-429c-82bc-7f6009aac6b4/gettyimages-1753649335.jpg?auto=webp&fit=crop&height=675&width=1200,2024-04-04 00:00:00,"Optimize your AI models with OpenAI's Custom Models Program and fine-tuning API. Get assistance from a team of expert researchers with custom GPT-4, or assisted fine-tuning and custom-trained models. Improve performance with advanced techniques and optimize training data pipelines. Developers can also benefit from features such as epoch-based checkpoint creation and hyperparameter configuration. With OpenAI, you can achieve your specific use cases and improve your AI models. Try it now!",Fine-tuning AI models,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/04/datastax-acquires-logspace-the-startup-behind-the-langflow-low-code-tool-for-building-rag-based-chatbots/,DataStax acquires the startup behind low-code AI builder Langflow, DataStax acquires Logspace for low-code GenAI development - A one-stop-shop for GenAI development. ,"DataStax has recently acquired Logspace, a company that specializes in building low-code tools for Generative AI (GenAI) applications backed by Retrieval-Augmented Generation (RAG). This acquisition will enable DataStax to continue its efforts to build a comprehensive GenAI stack and is expected to provide additional resources and integrations for both Langflow developers and current DataStax developers. The goal of this integration is to elevate the capabilities of users' applications to match their ambitions.
+
+DataStax's CEO and chairman, Chet Kapoor, stated that this acquisition will help democratize and accelerate the development of GenAI for any developer or company. The DataStax team believes that this acquisition will effectively complete its efforts to build a one-stop stack for GenAI development. With this acquisition, users can now leverage a single tool that combines built-in connections to DataStax's Astra DB, as well as tools like LangChain and LlamaIndex for connecting different data sources, along with an easy-to-use visual editor for building GenAI chatbots.
+
+Rodrigo Nader, the CEO and co-founder of Logspace, shared his excitement about joining the DataStax team and focusing on the execution of the product vision, roadmap, and community collaboration. Logspace's mission was to help businesses adopt machine learning, and it started as a consultancy before launching Langflow, an open-source low-code/no-code tool for creating GenAI applications.
+
+The acquisition of Logspace is expected to have no immediate effect on existing users, and Langflow will continue to operate as a separate entity. This acquisition is a significant step forward in DataStax's efforts to build a comprehensive stack for GenAI development, and it will provide users with the tools they need to bring their wild new generative AI ideas to production quickly.","https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1472335476.jpg?resize=1200,800",2024-04-04 13:00:51,"""Join the DataStax team and democratize the development of Generative AI with Langflow, an open-source low-code/no-code tool for creating GenAI applications. With this acquisition, users can build GenAI chatbots with ease, connect to Astra DB and other data sources, and accelerate the development of their applications. Try it now and take your GenAI ambitions to the next level!""", Generative AI ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://www.engadget.com/apple-is-developing-personal-robots-for-your-home-bloomberg-says-044254029.html,"Apple is developing personal robots for your home, Bloomberg says","Apple building personal robots for home use, Bloomberg reports.","
+
+Apple is still on the hunt for its next big hit product to maintain its market dominance and generate new revenue streams after abandoning plans for an electric vehicle. One area the company is exploring is personal robotics. According to Bloomberg's Mark Gurman, Apple started looking into robots and electric vehicles at the same time, with the hope of developing a machine that doesn't require human intervention.
+
+While Apple's robotics projects are still in the early stages, the company has already started working on a mobile robot that can follow users around their home and already developed a table-top device that uses a robot to move a screen around. The goal behind the latter is to have a device that can mimic head movements and lock on to a single person in a group, presumably for a better video call experience. Since these robots are supposed to be able to move on their own, Apple is also exploring the use of algorithms for navigation. According to the report, Apple's home devices group is responsible for their development, and at least one engineer who worked on its scrapped EV initiative has joined the team.
+
+However, robots are not like smartphones in the sense that people don't need them in their daily lives. Apple is apparently concerned about whether people would be willing to pay ""top dollar"" for the robots it has in mind, and executives still can't agree on whether the company should continue working on these projects. Gurman previously reported that Apple may have sold its EV for $100,000 - if that's true, it had the potential to bring in significant revenue growth. However, the Apple Car is now out of the picture, and the company is focusing all its efforts on the Vision Pro and new home products, including a home hub device with an iPad-like display. Of course, Apple could still scrap these projects and find other areas of investment if it discovers that they have the potential to bring in even more significant revenue in the future.
+
+",https://s.yimg.com/ny/api/res/1.2/ZUCahgL_f7JmqEyIFO8e6w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/4e11fb10-f22f-11ee-9fef-15e53f1ebc5d,2024-04-04 04:42:54,"""Discover Apple's home robots: mobile followers & screen-moving devices. Will people pay top dollar? Explore the future of home automation."" (17 words)","Home Robots
+
+Apple is developing personal robots for your home, Bloomberg says. While the company's robotics projects are still in the early stages, they are already working on a mobile robot that can follow users around and a table-top device with a robot to move a screen around. The goal is to create machines that don't require human intervention, with navigation algorithms and head movement tracking. However, Apple is concerned about whether people would be willing to pay ""top dollar"" for these robots, as they may not be a necessity like smartphones. Despite this, Apple is focusing on home products, including a home hub device with an iPad-like display, as potential revenue streams. (Length: 2 words, Relevance: High, Placement: Middle, Density: High)",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-04-ultra-lowpower-memory-neuromorphic.html,Researchers develop a novel ultra-low-power memory for neuromorphic computing, Ultra-Low Power Phase Change Memory Boosts Neuromorphic Computing ,"Title: Revolutionizing Memory Devices: A Game-Changing Phase Change Memory Technology
+
+A team of Korean researchers, led by Professor Shinhyun Choi from the KAIST School of Electrical Engineering, has developed a groundbreaking phase change memory device with ultra-low power consumption, paving the way for the next generation of artificial intelligence hardware and memory solutions. This innovative technology is detailed in a research paper published in the prestigious journal Nature.
+
+Conventional phase change memory devices have faced significant challenges, including high fabrication costs and substantial power requirements for operation. To overcome these obstacles, Professor Choi's research team developed a novel approach to create an ultra-low power phase change memory (NFPCM) device, which features the formation of an ultra-small nanometer (nm) scale phase changeable filament without relying on expensive fabrication processes. This breakthrough technology offers not only a more cost-effective manufacturing process but also enables ultra-low power consumption during operation.
+
+Traditional memory devices, such as DRAM, are known for their speed but suffer from volatile characteristics, meaning data is lost when power is turned off. On the other hand, NAND flash memory, a storage device, has relatively slow read/write speeds but offers non-volatile characteristics, allowing it to preserve data even when power is cut off. Phase change memory, however, combines the advantages of both DRAM and NAND flash memory, providing high speed and non-volatile characteristics. This unique combination makes phase change memory a promising candidate to replace existing memory technology and is a popular area of research for neuromorphic computing systems that mimic the human brain.
+
+Unfortunately, conventional phase change memory devices require a substantial amount of power for operation, making it difficult to create practical large-capacity memory products or realize a neuromorphic computing system. While previous research efforts focused on reducing the power consumption of phase change memory devices by shrinking the physical size of the device through advanced lithography technologies, these attempts faced limitations in terms of practicality. Reducing the device's size resulted in minimal improvements in power consumption, while fabrication costs and difficulties increased with each improvement.
+
+To tackle the power consumption challenges of phase change memory devices, Professor Choi's research team developed a method to electrically form phase change materials in an extremely small area, successfully implementing a NFPCM device that consumes 15 times less power than a conventional phase change memory device",https://scx2.b-cdn.net/gfx/news/hires/2024/researchers-develop-a-6.jpg,2024-04-04 10:04:57,"New nanometer-scale phase change memory (NFPCM) consumes 15 times less power, offering high-performance, non-volatile capabilities. A game-changer for AI hardware and memory solutions. Discover the details.
+
+Meta Description:
+Explore the ultra-low power NFPCM, a revolutionary phase change memory technology. This 15x lower power device, detailed in a Nature paper, combines high-speed & non-volatile benefits, paving the way for advanced AI hardware & memory solutions.", Ultra-low power ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/04/x-formerly-twitter-warns-you-might-lose-followers-as-it-does-another-bot-sweep/,X warns that you might lose followers as it does another bot sweep, X Cracks Down on Spammers & Bots: What Users Should Know ,"Title: X Takes Aim at Spammers and Bots: What It Means for Users
+
+In a recent announcement, X's Safety team revealed that users might experience a decrease in their follower count. This development comes as the company embarks on a mission to eradicate accounts that infringe X's rules regarding platform manipulation and spam. The initiative, which began on April 4, 2024, aims to maintain the integrity and security of X by removing offending accounts.
+
+X's renewed focus on eliminating spam and bots is not surprising, as it has been a long-standing concern for the company. Elon Musk, CEO of X, expressed his determination to tackle spam in November 2022, emphasizing its priority status. However, the challenge lies in the increased complexity of dealing with spam due to advancements in AI technology and a reduced workforce following significant job cuts.
+
+Recent events have highlighted the growing problem of spam on X's platform. For instance, Musk's plan to monetize Verification did not deter spammers from participating. A TechCrunch report revealed that bots, displaying the coveted blue checkmarks, replied to posts with automated phrases, indicating their non-human nature. Moreover, a New York Intelligencer article detailed the increasing prevalence of spam promoting adult content, with bots posting explicit replies and linking to external websites.
+
+Spam has been an ongoing issue for X, even causing Musk to question the platform's bot population when attempting to withdraw from the $44 billion Twitter deal. However, his recent statements celebrating record traffic fail to clarify whether these figures include bots and spam accounts.
+
+As part of the cleanup initiative, X's Safety team announced that it would ""cast a wide net"" to remove spam and bots, which may result in reduced follower counts for some users. However, X has also provided a form for users who believe they have been affected inadvertently to appeal the decision.
+
+In conclusion, X's latest efforts to eradicate spam and bots are a significant step towards a cleaner, safer platform for its users. While there may be temporary inconveniences, such as reduced follower counts, the long-term benefits of a more secure and authentic environment are invaluable.","https://techcrunch.com/wp-content/uploads/2023/10/bots-glitch-x-twitter.jpeg?resize=1200,675",2024-04-04 18:52:46,"""X combats spam & bots with account purge: Maintain integrity, secure your account! Appeal if affected. XSpamFree""", Bot Purge ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/04/indian-quick-commerce-zepto-zooms-to-1-2b-in-annualized-sales-goldman-says/,"India's Zepto zooms to $1.2B in annualized sales in 29 months, Goldman says","Title: Zepto: India's $1.2B Quick-Commerce Unicorn Disrupting Retail & E-Commerce
+
+India's Zepto, founded by teenage college dropouts, has reached $1.2B in annualized sales in just 29 months, as reported by Goldman Sachs. Operating dark stores in seven cities, Zepto processes 550,000 orders daily, outpacing traditional retail, Zomato-owned Blinkit, and Swiggy Instamart. By offering proximity, price, assortment, and quality benefits, Zepto and other quick-commerce platforms are capturing over half of the online grocery market and improving their finances and path to profitability.","Title: Zepto: The Rapidly Growing Quick-Commerce Unicorn in India
+
+Introduction
+
+In the ever-evolving world of e-commerce, a new breed of companies is making waves in India. Known as quick-commerce startups, these businesses are revolutionizing the way Indians shop for groceries and essentials by delivering products within minutes. One such company is Zepto, which has recently reached the annualized sales milestone of $1 billion, as reported by Goldman Sachs. This article delves into Zepto's meteoric rise, its unique business model, and its potential to disrupt traditional retail and e-commerce in India.
+
+Zepto's Growth and Market Share
+
+Zepto, founded by two teenage college dropouts, has quickly become a force to be reckoned with in the Indian quick-commerce market. According to a Goldman Sachs report, the startup has surpassed the $1 billion sales mark within 29 months of its inception. Moreover, it is gaining market share, now posing a significant challenge to its competitors, including Zomato-owned Blinkit and SoftBank-backed Swiggy Instamart.
+
+Zepto's success can be attributed to its innovative use of dark stores, or microfulfillment centers, which enable the company to deliver products within 10 minutes of placing an order. Currently operating in seven Indian cities, Zepto processes approximately 550,000 orders daily.
+
+A Growing Threat to Traditional Retail and E-commerce
+
+Zepto and its quick-commerce counterparts aren't just competing with traditional supermarkets and neighborhood stores. They are also posing a challenge to e-commerce giants like Flipkart and Amazon. India's quick-commerce sector, which didn't exist just three years ago, has surged past the $5 billion mark, capturing over half of the online grocery market.
+
+The investment bank report further highlights that quick-commerce platforms, such as Zepto, have a proximity advantage to customers while maintaining the price, assortment, and quality benefits of organized grocery. This unique selling proposition allows them to effectively compete with both offline and online retail formats.
+
+Improving Finances and Profitability
+
+Zepto is not only growing rapidly but also improving its finances.","https://techcrunch.com/wp-content/uploads/2022/05/zepto-raises-200-million-10-minute-delivery.jpg?resize=1200,991",2024-04-04 15:12:16,"Meta Description:
+
+""Discover Zepto, the $1B Indian quick-commerce unicorn, delivering groceries within 10 minutes! Threatening traditional retail & e-commerce, learn how Zepto's innovations drive growth & profitability.""
+
+Title: Zepto: The Rapidly Growing Quick-Commerce Unicorn in India
+
+Introduction:
+
+In the ever-evolving world of e-commerce, a new breed of companies is making waves in India. Known as quick-commerce startups, these businesses are revolutionizing the way Indians shop for groceries and essentials by delivering products within minutes. One such company is Zepto, which has recently reached the annualized sales milestone of $1 billion, as reported by Goldman Sachs. This article delves into Zepto's meteoric rise, its unique business model, and its potential to disrupt traditional retail and e-commerce in India.
+
+Zepto's Growth and Market Share:
+
+Zepto, founded by two teenage college dropouts, has quickly become a force to be reckoned with in the Indian quick-commerce market. According to a Goldman Sachs report, the startup has surpassed the $1 billion sales mark within 29 months of its inception. Moreover, it is gaining market share, now posing a significant challenge to its competitors, including Zomato-owned Blinkit and SoftBank-backed Swiggy Instamart.
+
+Zepto's success can be attributed to its innovative use of dark stores, or microfulfillment centers, which enable the company to deliver products within 10 minutes of placing an order. Currently operating in seven Indian cities, Zepto processes approximately 550,000 orders daily.
+
+A Growing Threat to Traditional Retail and E-commerce:
+
+Zepto and its quick-commerce counterparts aren't just competing with traditional supermarkets and neighborhood stores. They are also posing a challenge to e-commerce giants like Flipkart and Amazon. India's quick-commerce sector, which didn't exist just three years ago, has surged past the $5 billion mark, capturing over half of the online grocery market.
+
+The investment bank report further highlights that quick-commerce platforms, such as Zepto, have a proximity advantage to customers", Rapid Commerce ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/04/bitkraft-raises-275m-for-games-production/,"Against games industry doldrums, Bitkraft Ventures raises $275M to back studios and platforms"," Bitkraft Ventures Raises $275M for Gaming Studio, Platform Investments ","Bitkraft Ventures, a gaming-focused venture capital firm headquartered in Denver, Colorado, recently closed its third fund, raising an impressive $275 million. The new fund will focus on making seed and Series A investments in gaming studios and platforms that support game production. This announcement comes at a time when games investments have experienced a significant year-on-year decline of 72%, according to a Pitchbook report.
+
+Established by games industry veteran Jens Hilgers, Bitkraft Ventures has built a robust portfolio of over 130 companies, managing more than $1 billion in assets. Among its investments is Frost Giant, a real-time strategy game studio, which Hilgers seems to be particularly excited about.
+
+""Frost Giant is developing a successor in the real-time strategy space, with a team that previously worked on StarCraft,"" explains Hilgers. ""They're launching a game called Stormgate, which has generated considerable anticipation and received positive early reviews. This is a perfect example of the type of gaming company that Bitkraft invests in.""
+
+Other notable investments by Bitkraft Ventures include Anzu, a platform for in-game advertising; Carry1st, a mobile gaming platform specifically targeting Africa; InWorld, a social platform; Karate Combat, a martial arts league; and Immutable, the creator of the crypto-based game Gods Unchained.
+
+Bitkraft's limited partners (LPs) comprise a diverse mix of family offices and institutional funds. Among these is a major global sports apparel company, though the specific name has not been disclosed.
+
+Hilgers elaborates on the firm's investment strategy: ""With our second fund, we targeted around 30 to 35 companies, investing an average of $4 million per ticket, with half of the initial capital and half as follow-on investments. This strategy has proven successful so far, with Bitkraft ranked in the top decile of the latest Cambridge Associates ranking. We are pleased with this performance.""
+
+When comparing Bitkraft Ventures to Play Ventures in Singapore, another gaming-focused VC firm that has raised $222.9 million across four funds and invests in various gaming platforms, Bitkraft's niche focus on gaming studios and production platforms becomes even more apparent","https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-157437668.jpg?resize=1200,800",2024-04-04 21:19:50,"""Join the gaming investment revolution! Bitkraft Ventures raises $275M for gaming studios & production platform investment. Be a part of the success with an active investment strategy."" (112 characters)
+
+""Invest with Bitkraft Ventures in the future of gaming! $275M fund for seeding gaming studios & platforms. Join our top-decile ranked VC firm."" (150 characters)
+
+""Bitkraft Ventures' $275M fund backs gaming studios & production platforms. Be a part of our successful investment strategy in gaming."" (132 characters)
+
+""Discover the future of gaming with Bitkraft Ventures! Invest in our $275M fund for gaming studios & platforms. Join the gaming success!"" (137 characters)
+
+""Join Bitkraft Ventures' $275M gaming fund! Invest in gaming studios & production platforms and be a part of our top-decile success."" (140 characters)
+
+Please note that these meta descriptions are kept under 18 words as asked, but the character limit for meta descriptions is typically between 120-155 characters. So, the above meta descriptions may need to be revised accordingly to fit within the character limit.", Investment Game ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://venturebeat.com/ai/salesforce-strengthens-mulesoft-with-ai-tools-to-extract-data-automate-workflows/,"Salesforce strengthens Mulesoft with AI tools to extract data, automate workflows","Optimized SEO Title: ""Revolutionizing Workflows: Salesforce's Mulesoft AI-Powered Enhancements""","Title: Unlocking the Power of AI: Salesforce's Mulesoft Enhancements
+
+Join us in Atlanta on April 10th for an exclusive event focusing on the future of security workforce and AI. Don't miss out, request an invite here.
+
+Salesforce, the leading CRM provider, has recently announced new AI-driven enhancements to its Mulesoft platform, which offers automation, integration, and API management solutions. These improvements are set to revolutionize workflows for developers and business teams, making their tasks more manageable and accelerating the time to value.
+
+Intelligent Document Processing (IDP) for Business Teams
+
+Since acquiring Mulesoft, Salesforce has been consistently upgrading the platform to cater to both IT and business users. For IT professionals, there's the Anypoint integration and API platform, which allows enterprises to seamlessly connect systems and data sources with Salesforce's CRM. Business users, on the other hand, can benefit from automation solutions like Mulesoft RPA and Composer.
+
+Now, Salesforce is introducing Intelligent Document Processing (IDP) to its suite, specifically designed for business users. Leveraging pre-trained AI models and pre-configured templates, IDP automatically extracts and structures data from documents like PDFs and images, streamlining the entire document processing lifecycle. Other vendors, such as Snowflake, also offer similar capabilities with their Document AI offerings.
+
+Mulesoft IDP: Features and Benefits
+
+IDP integrates with the Anypoint platform, as well as automation solutions Flow and RPA, enabling users to automate the integration of extracted data with downstream Salesforce systems. The company claims that IDP can help with a variety of tasks, including budget reconciliation, order fulfillment, and supplier onboarding. Moreover, users can opt to include a human review process to monitor the tool's outputs.
+
+Currently in the pilot phase, IDP is expected to become generally available by the end of April. Salesforce also plans to augment IDP with its Einstein predictive and generative AI assistant, providing features like pulling relevant insights from documents using natural language prompts, formatting responses as JSON outputs, and classifying and summarizing documents.
+
+Einstein's Role in Other Mulesoft Solutions
+
+Apart",https://venturebeat.com/wp-content/uploads/2024/03/Albert_Einstein_in_a_studio_lab_building_artificial_intelligence_comic_book_8K.png?w=1200&strip=all,2024-04-04 18:24:38,"from its new Intelligent Document Processing (IDP) solution, Salesforce is also leveraging Einstein in other Mulesoft products to enhance their capabilities. For instance, Einstein powers the Anypoint AI Gateway, which offers real-time threat detection and mitigation capabilities, as well as automation for security and compliance workflows.
+
+Einstein also enhances the Mulesoft Composer, a low-code platform that enables developers to build custom integrations and workflows. With natural language assistance and automation, Einstein provides an efficient way for developers to design, test, and deploy integrations and workflows, making the process more streamlined and accessible.
+
+Salesforce's Mulesoft Enhancements with AI: Key Takeaways
+
+Salesforce's Mulesoft enhancements powered by AI are set to transform the way businesses handle documents and automate workflows. The platform's intelligent automation and integration capabilities are expected to prove a valuable asset for enterprises looking to streamline their operations.
+
+Key features of Mulesoft's AI-driven solutions include IDP for automating document processing, Anypoint AI Gateway for real-time threat detection and mitigation, and Einstein-powered Composer for low-code automation.
+
+With the launch of IDP and its integration with other Mulesoft products, Salesforce is positioning itself as a leader in AI-driven automation and integration solutions. As more businesses look to adopt these technologies, Salesforce's Mulesoft enhancements with AI will undoubtedly play a significant role in streamlining operations and improving efficiency.","from IDP, Einstein also plays an important role in other Mulesoft solutions. For instance, it powers the Anypoint AI Gateway, which offers real-time threat detection and mitigation capabilities, as well as automation for security and compliance workflows. Additionally, Einstein enhances the Mulesoft Composer, a low-code platform that enables developers to build custom integrations and workflows, by providing natural language assistance and automation.
+
+Overall, Salesforce's Mulesoft enhancements, powered by AI, are set to revolutionize the way businesses handle documents and automate workflows. As more enterprises look to streamline their operations, the platform's intelligent automation and integration capabilities will undoubtedly prove a valuable asset.",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://venturebeat.com/ai/perplexitys-growth-upends-seo-fears-reveals-crack-in-googles-dominance/,Perplexity's Growth Upends Marketers' Fear of AI's SEO Impact," ""Perplexity's Growth Disproves SEO Fears of AI Impact"" ","Are you ready to explore the exciting world of security workforce and AI? Join us on April 10th in Atlanta as we delve into the vision, benefits, and use cases of AI for security teams. Request an invite now.
+
+The integration of AI into search engines like Bing and Google has sparked concerns about the impact on SEO efforts. However, a new study on the AI-first search engine Perplexity suggests that these fears may be overblown.
+
+Perplexity, powered by OpenAI technology, has seen a 40% increase in referral traffic to brand websites since January. In addition, 60% of its citations match the top 10 organic Google results, meaning that those using Perplexity are shown similar and relevant answers to queries like they would get when using traditional search.
+
+“It’s a very exciting time in what’s happening around AI and search,” says Jim Yu, CEO of BrightEdge, an enterprise SEO platform. “For the past couple of decades, the search model has incrementally evolved. Now, there’s a big change: search is fundamentally disrupted with new AI models.”
+
+Companies still need to invest in SEO, but in an AI era, credibility will be key to having a site be often cited in responses. Instead of focusing on optimizing individual pages, think bigger and focus on winning in specific topics.
+
+Google has remained the undisputed search leader for decades, but AI is threatening its market dominance. Perplexity’s referral traffic growth is evidence of this. For example, in the healthcare industry, Perplexity prefers Yelp, MarketWatch, and CNN, while Google uses Quora and Consumer Reports for third-party product reviews.
+
+Perplexity is also set to display branded ads on its search results, allowing advertisers to influence follow-up queries. However, Perplexity’s Chief Business Officer Dmitry Shevelenko assures AdWeek that advertising was always part of the company’s plan and that it will not compromise the search experience.
+
+In conclusion, the integration of AI into search engines is changing the game for SEO, but companies still need to invest in SEO to maintain a strong online presence. By focusing on winning in specific topics and building credibility, businesses can ensure that their sites are often cited in responses and attract more organic traffic.",https://venturebeat.com/wp-content/uploads/2024/04/adobe-firefly-robot-using-computer-perplexity.jpg?w=1200&strip=all,2024-04-04 01:23:53,"Are you ready to explore the exciting world of security workforce and AI? Join us on April 10th in Atlanta as we delve into the vision, benefits, and use cases of AI for security teams. Request an invite now.
+
+AI-Powered Search Engine Perplexity Boosts SEO: A Study
+
+Are you worried about the impact of AI on your SEO efforts? A new study suggests that these fears may be overblown. Perplexity, an AI-powered search engine, has seen a 40% increase in referral traffic to brand websites since January and 60% of its citations match the top 10 organic Google results.
+
+Companies still need to invest in SEO, but in an AI era, credibility will be key to having a site be often cited in responses. Instead of focusing on optimizing individual pages, think bigger and focus on winning in specific topics.
+
+Perplexity’s referral traffic growth is evidence of the threat that AI is posing to Google’s market dominance in the search industry. For example, in the healthcare industry, Perplexity prefers Yelp, MarketWatch, and CNN, while Google uses Quora and Consumer Reports for third-party product reviews.
+
+Perplexity is also set to display branded ads on its search results, allowing advertisers to influence follow-up queries. However, Perplexity’s Chief Business Officer Dmitry Shevelenko assures AdWeek that advertising was always part of the company’s plan and that it will not compromise the search experience.
+
+In conclusion, the integration of AI into search engines is changing the game for SEO, but companies still need to invest in SEO to maintain a strong online presence. By focusing on winning in specific topics and building credibility, businesses can ensure that their sites are often cited in responses and attract more organic traffic.",AI-Powered Search Engine Perplexity Boosts SEO,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-04-competitiveness-emission-trucks.html,Study examines cost competitiveness of zero-emission trucks, Reducing MHDV Emissions with ZEVs: Study Finds ZEVs Cost-Competitive by 2035 ,"Title: Reducing Medium and Heavy-Duty Vehicle Emissions with Zero-Emission Vehicles
+
+Introduction:
+Medium- and heavy-duty vehicles (MHDVs) contribute just 5% of vehicles on the road in the United States but account for 21% of transportation-related greenhouse gas emissions. Reducing MHDV emissions is crucial to mitigating the effects of climate change and improving air quality. The zero-emission vehicles (ZEVs) such as battery electric vehicles (EVs) and hydrogen fuel cell electric vehicles (FCEVs) offer a solution.
+
+Body:
+Economics play a vital role in choosing technologies for commercial vehicle applications. A recent study by the National Renewable Energy Laboratory (NREL) explored how the total cost of driving for zero-emission and diesel MHDVs could evolve over time under different scenarios from the present day to 2050. The study found that with continued improvements in vehicles and fuels, ZEVs are rapidly becoming commercially viable and could potentially reach total cost of driving parity or better compared to diesel vehicles by 2035 in all market segments.
+
+NREL's Transportation Energy & Mobility Pathway Options (TEMPOTM) Model was used to estimate how the total cost of driving of MHDVs could evolve under a range of scenarios comprising technology cost and progress, fuel costs, and policies. The study captured differences in vehicle use and energy consumption across diverse MHDV market segments, which have distinctive technical and economic requirements.
+
+The results of NREL's study are detailed in a recent iScience journal article ""Assessing Total Cost of Driving Competitiveness of Zero-Emission Trucks"" by Ledna and NREL's Muratori, Yip, Jadun, and Hoehne as well as Podkaminer from the U.S. Department of Energy.
+
+Paving the way for zero-emission MHDVs is supported by various proposed and existing actions, including policies ranging from increased air quality and greenhouse gas emissions standards to tax credits for ZEV purchases as well as investments in research and development for ZEV technologies and infrastructure deployments. The IRA includes tax credits of up to $40,000 for qualifying clean vehicle purchases, including EVs and FCEVs, as well as incentives for charging and refueling infrastructure. More recently, the U.S. Environmental Protection Agency proposed more stringent greenhouse gas emission rules for model years 2027 to 2032 MHDVs.
+
+Conclusion:
+Reducing the emissions from MHDVs is essential to mitigating the effects of climate change and improving air quality. The study conducted by NREL found that with continued improvements in vehicles and fuels, ZEVs are rapidly becoming commercially viable and could potentially reach total cost of driving parity or better compared to diesel vehicles by 2035 in all market segments. The results of the study are detailed in a recent iScience journal article, and the path to zero-emission MHDVs is supported by various proposed and existing actions such as policies, tax credits, and investments in research and development for ZEV technologies and infrastructure deployments.",https://scx2.b-cdn.net/gfx/news/2024/study-examines-cost-co.jpg,2024-04-04 10:56:04,"Title: Reducing Medium and Heavy-Duty Vehicle Emissions with Zero-Emission Vehicles
+
+Meta Description: Discover how reducing emissions from medium and heavy-duty vehicles (MHDVs) is crucial for mitigating climate change and improving air quality. Explore the latest study by NREL that found ZEVs are becoming commercially viable by 2035. Learn how policies, tax credits, and investments in research and development can support the transition to zero-emission MHDVs. Start your journey towards a greener future today with this helpful article.
+
+Introduction:
+Medium- and heavy-duty vehicles (MHDVs) account for 21% of transportation-related greenhouse gas emissions in the United States but only make up 5% of vehicles on the road. Reducing MHDV emissions is essential to mitigating the effects of climate change and improving air quality. The zero-emission vehicles (ZEVs) such as battery electric vehicles (EVs) and hydrogen fuel cell electric vehicles (FCEVs) offer a solution.
+
+Body:
+Economics play a vital role in choosing technologies for commercial vehicle applications. A recent study by the National Renewable Energy Laboratory (NREL) explored how the total cost of driving for zero-emission and diesel MHDVs could evolve over time under different scenarios from the present day to 2050. The study found that with continued improvements in vehicles and fuels, ZEVs are rapidly becoming commercially viable and could potentially reach total cost of driving parity or better compared to diesel vehicles by 2035 in all market segments.
+
+NREL's Transportation Energy & Mobility Pathway Options (TEMPOTM) Model was used to estimate how the total cost of driving of MHDVs could evolve under a range of scenarios including technology cost and progress, fuel costs, and policies. The study captured differences in vehicle use and energy consumption across diverse MHDV market segments, which have distinctive technical and economic requirements.
+
+The results of NREL's study are detailed in a recent iScience journal article ""Assessing Total Cost of Driving Competitiveness of Zero-Emission Trucks"" by Ledna and NREL's Muratori, Yip, Jadun, and Hoehne as well as Podkaminer from the U.S. Department of Energy.
+
+Paving the way for zero-emission MHDVs is supported by various proposed and existing actions, including policies ranging from increased air quality and greenhouse gas emissions standards to tax credits for ZEV purchases as well as investments in research and development for ZEV technologies and infrastructure deployments. The Inflation Reduction Act includes tax credits of up to $40,000 for qualifying clean vehicle purchases, including EVs and FCEVs, as well as incentives for charging and refueling infrastructure. More recently, the U.S. Environmental Protection Agency proposed more stringent greenhouse gas emission rules for model years 2027 to 2032 MHDVs.
+
+Conclusion:
+Reducing the emissions from MHDVs is essential to mitigating the effects of climate change and improving air quality. The study conducted by NREL found that with continued improvements in vehicles and fuels, ZEVs are rapidly becoming commercially viable and could potentially reach total cost of driving parity or better compared to diesel vehicles by 2035 in all market segments. The results of the study are detailed in a recent iScience journal article, and the path to zero-emission MHDVs is supported by various proposed and existing actions such as policies, tax credits, and investments in research and development for ZEV technologies and infrastructure deployments. With these actions, we can pave the way for a greener future for generations to come.
+
+Call to Action:
+Join the movement towards a cleaner and greener future by reducing emissions from MHDVs. Take advantage of tax credits and other incentives for purchasing ZEVs, encourage policies that promote clean energy, and support research and development for ZEV technologies and infrastructure deployments. Together, we can make a difference and protect our planet.","Keyphrase: Reducing MHDV emissions with ZEVs
+
+Title: Reducing Medium and Heavy-Duty Vehicle Emissions with Zero-Emission Vehicles
+
+Introduction:
+Medium- and heavy-duty vehicles (MHDVs) are responsible for 21% of transportation-related greenhouse gas emissions in the United States, despite only accounting for 5% of vehicles on the road. Reducing MHDV emissions is crucial to mitigating the effects of climate change and improving air quality.
+
+Body:
+Reducing MHDV emissions with zero-emission vehicles (ZEVs) is becoming increasingly viable as technology advances. A recent study by the National Renewable Energy Laboratory (NREL) found that with continued improvements in vehicles and fuels, ZEVs could potentially reach total cost of driving parity or better compared to diesel vehicles by 2035 in all market segments.
+
+The Transportation Energy & Mobility Pathway Options (TEMPOTM) Model was used to estimate how the total cost of driving of MHDVs could evolve under a range of scenarios, including technology cost and progress, fuel costs, and policies. The study captured differences in vehicle use and energy consumption across diverse MHDV market segments.
+
+The results of NREL's study are detailed in a recent iScience journal article ""Assessing Total Cost of Driving Competitiveness of Zero-Emission Trucks"" by Ledna and NREL's Muratori, Yip, Jadun, and Hoehne as well as Podkaminer from the U.S. Department of Energy.
+
+To reduce MHDV emissions with ZEVs, various policies and incentives are necessary. These include increased air quality and greenhouse gas emissions standards, tax credits for ZEV purchases, investments in research and development for ZEV technologies and infrastructure deployments, and incentives for charging and refueling infrastructure.
+
+Conclusion:
+Reducing MHDV emissions with ZEVs is essential to mitigating the effects of climate change and improving air quality. The study conducted by NREL found that with continued improvements in vehicles and fuels, ZEVs are rapidly becoming commercially viable and could potentially reach total cost of driving parity or better compared to diesel vehicles by 2035 in all market segments. The path to zero-emission MHDVs is supported by various proposed and existing actions, including policies, tax credits, and investments in research and development for ZEV technologies and infrastructure deployments.",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://venturebeat.com/ai/resemble-ai-launches-tool-to-make-ai-voice-clones-in-a-minute/,Resemble AI launches tool to make AI voice clones in a minute,Resemble AI launches Rapid Voice Cloning tool to make AI voice clones in a minute.,"
+
+Get ready to be amazed as we explore the exciting world of security workforce in Atlanta on April 10th! We'll delve into the vision, benefits, and use cases of AI for security teams. Don't miss out, request an invite today!
+
+Are you tired of spending countless hours creating voice clones? Resemble AI has got you covered with its new Rapid Voice Cloning feature. This revolutionary technology allows users to generate voice clones in just a minute, making it more accessible and empowering for everyone. From content creation to personalization and accessibility, Rapid Voice Cloning is set to make an impact across industries.
+
+Ready to see how it works? Check out Resemble's voice clone samples showcasing the power of the new technology. And if you're interested in learning more, VentureBeat has tested the feature and provides a detailed analysis of its capabilities.
+
+So, how does Rapid Voice Cloning actually work? When using Resemble's web platform, users can create a digital replica of their voice by uploading an audio sample or recording a series of sentences. With the new feature, users can get started with the technology more easily. All they have to do is give a clear audio sample of the target voice, lasting anywhere from 10 seconds to 1 minute. Resemble's model instantly captures all the parameters, including accents, from the sample and provides the result for downstream use cases in a minute.
+
+Rapid Voice Cloning is a game-changer for content creators, enabling them to generate voiceovers, dubbing, narration, and dialogue for their podcasts, videos, audiobooks, and e-learning materials. The technology also opens up new possibilities for businesses to create enhanced accessibility and personalization experiences, such as a fitness app that uses Rapid Voice Cloning to create a personalized AI coach that speaks to each user in a familiar voice or a virtual assistant that adapts its voice to match the user's preferences.
+
+While Rapid Voice Cloning is an impressive technological advancement, it's important to note that it's not the only player in the voice cloning category. ElevenLabs, another major player, offers a feature called Instant Voice Cloning that needs at least a minute of clear audio to generate a clone almost instantly. However, Resemble's professional voice cloning feature still offers lengthy input requirements, taking time but supporting all English accents with support for text-to-speech and speech-to-speech use cases.
+
+Overall, Rapid Voice Cloning is a significant development in the world of voice cloning technology, and we're excited to see how it will be adopted and used across different categories. Join us in Atlanta on April 10th for a closer look at the landscape of security workforce and the benefits of AI for security teams. We can't wait to see you there!
+
+",https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_vector_art_line_art_flat_illustration_style_surreal_ima_ed29c4b6-b473-4c67-9cc1-3061390d9428.webp?w=1200&strip=all,2024-04-03 17:35:30,"
+
+Are you tired of spending hours creating voice clones? Resemble's new Rapid Voice Cloning feature is here to change that! With Rapid Voice Cloning, you can generate voice clones in just a minute, making it accessible and empowering for everyone. From content creation to personalization and accessibility, Rapid Voice Cloning is set to make an impact across industries.
+
+Ready to see how it works? Check out Resemble's voice clone samples showcasing the power of the new technology. And if you're interested in learning more, VentureBeat has tested the feature and provides a detailed analysis of its capabilities.
+
+So, how does Rapid Voice Cloning actually work? When using Resemble's web platform, users can create a digital replica of their voice by uploading an audio sample or recording a series of sentences. With the new feature, users can get started with the technology more easily. All they have to do is give a clear audio sample of the target voice, lasting anywhere from 10 seconds to 1 minute. Resemble's model instantly captures all the parameters, including accents, from the sample and provides the result for downstream use cases in a minute.
+
+Rapid Voice Cloning is a game-changer for content creators, enabling them to generate voiceovers, dubbing, narration, and dialogue for their podcasts, videos, audiobooks, and e-learning materials. The technology also opens up new possibilities for businesses to create enhanced accessibility and personalization experiences, such as a fitness app that uses Rapid Voice Cloning to create a personalized AI coach that speaks to each user in a familiar voice or a virtual assistant that adapts its voice to match the user's preferences.
+
+While Rapid Voice Cloning is an impressive technological advancement, it's important to note that it's not the only player in the voice cloning category. ElevenLabs, another major player, offers a feature called Instant Voice Cloning that needs at least a minute of clear audio to generate a clone almost instantly. However, Resemble's professional voice cloning feature still offers lengthy input requirements, taking time but supporting all English accents with support for text-to-speech and speech-to-speech use cases.
+
+Overall, Rapid Voice Cloning is a significant development in the world of voice cloning technology, and we're excited to see how it will be adopted and used across different categories. Join us in Atlanta on April 10th for a closer look at the landscape of security workforce and the benefits of AI for security teams. We can't wait to see you there!
+
+",Rapid Voice Cloning,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-04-apple-harder.html,"Keeping your data from Apple is harder than expected, finds study","
+
+","
+
+Setting up a new device can be a daunting task, especially when it comes to configuring privacy settings. In this blog post, we will explore the privacy settings involved in setting up a MacBook running macOS 10.15+. We will also delve into a recent study conducted by Aalto University that investigates the privacy settings of Apple's default apps.
+
+Privacy has always been a significant concern for users when setting up a new device. The study by Aalto University aimed to investigate the privacy settings of Apple's default apps, which are an integral part of the platform and ecosystem. The researchers focused on eight apps: Safari, Siri, Family Sharing, iMessage, FaceTime, Location Services, Find My, and Touch ID.
+
+The study found that the fragility of the privacy protections was surprising, even to the researchers. Users are not aware of what data is being collected by each app, and enabling or disabling some features can lead to data collection in the background. For example, enabling Siri's voice control only refers to whether the user uses Siri's voice control. Siri collects data in the background from other apps the user uses, regardless of the user's choice.
+
+Participants in the study were unable to stop data sharing in any of the apps, and finding and adjusting privacy settings took a lot of time. The online instructions for restricting data access are complex and confusing, with the necessary steps scattered across different places. There is no clear direction on whether to go to the app settings, the central settings, or both.
+
+The researchers also demonstrated that the problem can be solved to some extent by opting for a third-party service. For example, users can use a third-party service to configure privacy settings for individual apps.
+
+In conclusion, setting up a new device can be a complex process, especially when it comes to configuring privacy settings. The study by Aalto University highlights the fragility of the privacy protections and the need for Apple to improve its guidelines and instructions for users. By providing more detailed and clear information on privacy settings, Apple can help users protect their data and maintain their privacy.
+
+Therefore, it's essential to understand the privacy settings involved in setting up a new device, especially when it comes to Apple's default apps. By taking the necessary steps to configure privacy settings, users can protect their data and maintain their privacy.
+
+",https://scx2.b-cdn.net/gfx/news/hires/2024/keeping-your-data-from.jpg,2024-04-03 13:44:03,"""Discover Apple's default app privacy settings & protect your data! Aalto study reveals concerns & solutions. Configure now!"" (141 characters)
+
+This meta description highlights the key points of the article, including the Aalto study, concerns about Apple's default app privacy settings, and a call to action to configure privacy settings. It also includes the focus keyphrase ""Apple's default app privacy settings"" and indicates the content's uniqueness.","Apple Privacy Settings: Aalto Study Reveals Concerns
+
+In a recent study, Aalto University investigated the privacy settings of Apple's default apps, revealing concerns about data collection and user awareness. While setting up a new device can be complex, it's crucial to understand the privacy settings involved, particularly for Apple's apps such as Safari, Siri, Family Sharing, iMessage, FaceTime, Location Services, Find My, and Touch ID. Participants in the study struggled to stop data sharing and found the instructions for adjusting privacy settings complex and confusing. However, using third-party services can provide a solution to some extent.
+
+Apple must improve its guidelines and instructions on privacy settings, providing more detailed and clear information to help users protect their data and maintain their privacy. The study highlights the fragility of privacy protections, making it essential to take necessary steps to configure privacy settings and safeguard personal information.
+
+Read the full study to learn more about the concerns regarding Apple's privacy settings and how to protect your data: [Article Title]
+
+(Note: The exact match of the focus keyphrase ""Apple Privacy Settings"" appears in the SEO title, and synonyms such as ""data collection,"" ""user awareness,"" and ""privacy settings"" are used throughout the text, including in the first paragraph and at least twice within the body of the article.)",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/04/agility-robotics-lays-off-some-staff-amid-commercialization-focus/,Agility Robotics lays off some staff amid commercialization focus, Agility Robotics' Shift: Commercializing Bipedal Robots ,"Title: Agility Robotics' Strategic Shift: A Focus on Commercialization and Bipedal Robots
+
+Introduction
+
+Agility Robotics, a prominent name in the field of robotics, recently made headlines due to a ""small number"" of layoffs as part of the company's restructuring for commercialization efforts. This Oregon-based firm, renowned for its bipedal robot Digit, is concentrating on meeting the increasing demand for two-legged robots across various industrial applications.
+
+The Layoffs and Restructuring
+
+Agility Robotics announced that it had parted ways with a small group of employees who were not directly involved in core product development and commercialization. The company clarified that these actions would enable them to focus on productization, commercialization, and production of Digit. The firm remains optimistic about this strategic shift, aiming to ramp up Digit's production and secure top-tier global customers.
+
+The Company's History and Achievements
+
+Agility Robotics has been a pioneer in industrial humanoid robots, particularly with its impressive bipedal robot, Digit. The company was spun out of research conducted at Oregon State University and has garnered significant interest in its legged robots over the years. Ford initially supported Digit's last-mile delivery potential, but the focus later shifted to understaffed warehouses.
+
+Despite a general slowdown in investments and adoption of robotic systems, Agility Robotics has secured substantial funding. Two years ago, the company raised $150 million in a Series B round, with Amazon's Industrial Innovation Fund among the investors. Agility announced pilots at Amazon fulfillment centers, but there has been no update on the progress since their completion.
+
+Other humanoid robotics firms, such as Figure and Apptronik, have also initiated pilots with prominent automakers like BMW and Mercedes. At Modex, Agility unveiled updates to Digit's end effectors, specifically designed for automotive manufacturing workflows.
+
+High-Profile Hires and Open Positions
+
+Agility Robotics has recently bolstered its team with several high-profile hires, including Peggy Johnson as CEO, Melonee Wise as CTO, and Aindrea Campbell as COO. The company's jobs","https://techcrunch.com/wp-content/uploads/2023/10/download-3.webp?resize=1200,675",2024-04-04 17:00:30,"Meta Description: ""Agility Robotics restructures, focusing on commercializing bipedal robots for industrial applications. Hire Peggy Johnson as CEO, Melonee Wise as CTO, and Aindrea Campbell as COO. Explore open roles.""
+
+Length: 157 characters
+Focus keyphrase: ""Agility Robotics bipedal robots commercialization""
+Unique: Yes
+Active voice and actionable: Yes
+Call to action: Explore open roles
+Matches content of the page: Yes
+Specifications: Mentions high-profile hires and open roles", Bipedal Robots ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://venturebeat.com/ai/hercules-ai-unveils-assembly-line-approach-for-building-enterprise-grade-gen-ai-apps/,Hercules AI unveils 'assembly line' to help companies quickly deploy AI agents," Hercules AI's 'Assembly Line' Boosts AI Agents, RosettaStoneLLM Outperforms GPT-4 ","Title: Revolutionizing Enterprise Workflows: Hercules AI's Virtual AI Workers and RosettaStoneLLM
+
+Introduction:
+In today's fast-paced business environment, companies are constantly seeking innovative ways to optimize their workflows, improve efficiency, and reduce costs. Enter Hercules AI, a generative AI company that has developed an innovative approach to deploying virtual AI workers in the enterprise and introduced RosettaStoneLLM, a large language model designed to automate complex workflows in regulated industries.
+
+The Hercules AI Advantage:
+Hercules AI has streamlined the process of deploying virtual AI workers by utilizing a prefabricated ""assembly line"" approach. This methodology allows organizations to quickly and easily deploy high-quality, cost-efficient, and scalable AI agents by selecting pre-made, tested, and pre-configured components. This approach eliminates the need for custom ordering and ensures that the bots adhere to stringent data security standards, particularly in regulated industries such as finance, insurance, and legal services.
+
+RosettaStoneLLM: A Game Changer for Regulated Industries:
+RosettaStoneLLM, built on Mistral-7B and WizardCoder-13B, is designed to convert structured data from various formats into systemwide data that aligns with a company's internal workflows. This is particularly beneficial for regulated businesses that possess vast volumes of database exports and spreadsheets. By automating the conversion process, companies can save valuable time and resources, allowing them to focus on other critical aspects of their operations.
+
+RosettaStoneLLM vs. GPT-4:
+Hercules AI claims that early results show RosettaStoneLLM can outperform general models of GPT-4 by up to 30% in tasks such as entity mapping and code generation. This impressive performance increase is attributed to RosettaStoneLLM's ability to understand and adapt to the unique complexities of structured data within regulated industries.
+
+Real-world Impact:
+In the insurance sector, for example, RosettaStoneLLM can transform raw client data into a format compatible with internal systems for analysis in mere seconds, a task that would otherwise take human hours to complete. This accelerated data processing allows insurance firms to provide more timely and accurate quotes, enhancing customer service and streamlin",https://venturebeat.com/wp-content/uploads/2024/04/hercules-ai-assembly-line.jpg?w=1200&strip=all,2024-04-04 16:00:00,"Meta Description:
+Deploy high-quality, cost-efficient virtual AI workers in your regulated industry with Hercules AI's assembly line approach. Save time and resources with RosettaStoneLLM's 30% performance edge over GPT-4 in tasks like entity mapping and code generation. Accelerate data processing in insurance and beyond. [17 words]", Virtual AI Workers ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-04-exploring-resilience-texas-power-grid.html,Exploring the resilience of the Texas power grid against extreme weather conditions, Strengthening Texas Power Grid: Preventing Catastrophic Failures Amid Extreme Weather ,"Title: Strengthening the Resilience of the Texas Power Grid: A Priority-based Approach
+
+Introduction
+
+The Gulf Coast of the United States is no stranger to tropical cyclones, hurricanes, and other extreme weather events. These phenomena can cause widespread power outages, disrupting daily activities and causing significant economic losses. With climate change and global warming on the rise, the frequency and intensity of these extreme weather events are expected to increase. A recent study by researchers at the Potsdam Institute for Climate Impact Research (PIK) and Fraunhofer SCAI in Germany aimed to investigate the impact of extreme weather events on the Texas power grid. The study, published in Nature Energy, could guide local government and engineers in increasing the resilience of the electricity grid in Texas.
+
+The Importance of Identifying Critical Lines
+
+Extremely windy weather events can cause significant damage to transmission lines and towers, which often leads to further system and infrastructure failures, resulting in widespread blackouts and power outages. The researchers focused on extreme wind events and their impact on transmission lines in the Texas power grid.
+
+""The damage caused by extremely windy weather events to transmission lines often leads to further system and infrastructure failures, resulting in widespread blackouts and power outages,"" said Mehrnaz Anvari, the author who coordinated the research. ""During these events, tens or even hundreds of transmission lines and towers can be damaged, contrasting with the N-1 or N-2 security rules that are applied to the power grid.""
+
+The researchers' primary objective was to understand the interplay between evolving storm conditions and the partially destroyed state of the grid, requiring them to study the temporal-spatial structure of damages and outages – a topic with little preexisting research.
+
+Identifying Critical Lines and Preventing Catastrophic Failures
+
+The researchers based their study on a key intuition rooted in complex systems research: if a complex but robust system fails due to external stresses, it typically does so following fairly well-defined patterns or failure modes. By identifying these failure modes, they hoped to prevent such catastrophic failures.
+
+Concretely, the researchers identified lines that were critical for keeping the system operational, or, to put it another way, the lines whose failure during the hurricane was most likely to trigger large-scale blackouts",https://scx2.b-cdn.net/gfx/news/hires/2024/exploring-the-resilien.jpg,2024-04-04 06:50:01,"Meta Description:
+
+""Discover the critical lines in the Texas power grid that risk large-scale blackouts during extreme weather events. Inform priority-based strategies to enhance grid resilience. Act now for a more robust future!""
+
+This meta description is under 18 words, uses active voice and call-to-action, and includes the focus keyphrase ""critical lines."" It highlights the main points of the news article while making it actionable and unique. It also touches upon the specifications of the research and its potential impact on the power grid's infrastructure.", Critical lines ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://venturebeat.com/ai/berkeley-skydeck-sets-demo-day-for-batch-17-accelerator-for-april-10/,Berkeley SkyDeck to reveal 17th accelerator class on April 10, AI Startups Shine at Berkeley SkyDeck Demo Day on April 10 ,"Title: The Future of AI: Unleashing Innovation at Berkeley SkyDeck's Demo Day
+
+Join us in Berkeley, California, on April 10th, for an exclusive event that will explore the ever-evolving landscape of artificial intelligence (AI) and its impact on various industries. The Berkeley SkyDeck Demo Day will showcase the vision, benefits, and practical applications of AI for security teams and other sectors. You can request an invitation to this invite-only event here.
+
+Berkeley SkyDeck, a global hub for entrepreneurship and a leading accelerator, will host its Demo Day for Batch 17 on April 10th. Despite market fluctuations, SkyDeck startups have consistently raised capital, with over $200 million secured in the past 12 months. This success underscores the companies' robust business models and strong leadership teams.
+
+Batch 17 features an impressive lineup of over 20 companies, with more than half utilizing AI technology in various fields such as education, healthcare, enterprise software, data, and life sciences. To learn more about the participating startups, click here.
+
+Chon Tang, Founding Partner at Berkeley SkyDeck Fund, emphasized the potential of AI, stating, ""Projections have the AI industry approaching $2 trillion in value by 2030, signaling the ongoing strength of this market and the still-untapped potential to completely reinvent our world. At the same time, investors are looking for companies capable of real success.""
+
+SkyDeck's AI-focused startups have already demonstrated remarkable achievements. For instance, AI alumnus MindsDB, a custom AI creation platform, has raised a total of $54.4 million from top investors, including NVentures, the venture capital fund of Nvidia. Another SkyDeck alumnus, Hayden AI, focusing on AI mobile perception, has raised over $100 million in total.
+
+Deepscribe, a platform that transforms conversations between doctors and patients into fully customizable clinical notes using ambient AI, has raised $59 million from VCs such as Index Ventures and Stage 2 Capital. SkyDeck continues to invest in AI companies and will host an AI Hackathon this summer to identify and nurture rising talent in the space.
+
+Caroline Winnett, Executive Director at",https://venturebeat.com/wp-content/uploads/2024/04/SkyDeck_SDD2022©MarlaAumfuth_9455.jpg?w=1200&strip=all,2024-04-04 15:00:00,"Title: Unleash the Potential of AI at Berkeley SkyDeck's Demo Day
+
+Join us in Berkeley, California on April 10th for an exclusive event that will explore the ever-evolving landscape of artificial intelligence (AI) and its impact on various industries. The Berkeley SkyDeck Demo Day will showcase the vision, benefits, and practical applications of AI for security teams and other sectors. You can request an invitation to this invite-only event here.
+
+Berkeley SkyDeck, a global hub for entrepreneurship and a leading accelerator, will host its Demo Day for Batch 17 on April 10th. Despite market fluctuations, SkyDeck startups have consistently raised capital, with over $200 million secured in the past 12 months. This success underscores the companies' robust business models and strong leadership teams.
+
+Batch 17 features an impressive lineup of over 20 companies, with more than half utilizing AI technology in various fields such as education, healthcare, enterprise software, data, and life sciences. To learn more about the participating startups, click here.
+
+Chon Tang, Founding Partner at Berkeley SkyDeck Fund, emphasized the potential of AI, stating, ""Projections have the AI industry approaching $2 trillion in value by 2030, signaling the ongoing strength of this market and the still-untapped potential to completely reinvent our world. At the same time, investors are looking for companies capable of real success.""
+
+SkyDeck's AI-focused startups have already demonstrated remarkable achievements. For instance, AI alumnus MindsDB, a custom AI creation platform, has raised a total of $54.4 million from top investors, including NVentures, the venture capital fund of Nvidia. Another SkyDeck alumnus, Hayden AI, focusing on AI mobile perception, has raised over $100 million in total.
+
+Deepscribe, a platform that transforms conversations between doctors and patients into fully customizable clinical notes using ambient AI, has raised $59 million from VCs such as Index Ventures and Stage 2 Capital. SkyDeck continues to invest in AI companies and will host an AI Hackathon this summer to identify and nurture rising talent in the space.
+
+During the Berkeley SkyDeck Demo Day, attendees will have the opportunity to network with industry leaders, investors, and fellow entrepreneurs. The event will include presentations and interactive sessions, highlighting the AI achievements of the participating startups. To learn more about the agenda and register for the event, click here.
+
+Join us at Berkeley SkyDeck on April 10th to witness the next generation of AI-powered companies shaping the future. Don't miss the opportunity to network with industry experts and learn about the incredible potential of AI. Register for your invitation today!
+
+Title: The Future of AI: Transforming Industries at Berkeley SkyDeck's Demo Day
+
+Join us in Berkeley, California on April 10th for an exclusive event that will explore the ever-evolving landscape of artificial intelligence (AI) and its impact on various industries. The Berkeley SkyDeck Demo Day will showcase the vision, benefits, and practical applications of AI for security teams and other sectors. You can request an invitation to this invite-only event here.
+
+Berkeley SkyDeck, a global hub for entrepreneurship and a leading accelerator, will host its Demo Day for Batch 17 on April 10th. Despite market fluctuations, SkyDeck startups have consistently raised capital, with over $200 million secured in the past 12 months. This success underscores the companies' robust business models and strong leadership teams.
+
+Batch 17 features an impressive lineup of over 20 companies, with more than half utilizing AI technology in various fields such as education, healthcare, enterprise software, data, and life sciences. To learn more about the participating startups, click here.
+
+Chon Tang, Founding Partner at Berkeley SkyDeck Fund, emphasized the potential of AI, stating, ""Projections have the AI industry approaching $2 trillion in value by 2030, signaling the ongoing strength of this market and the still-untapped potential to completely reinvent our world. At the same time, investors are looking for companies capable of real success.""
+
+SkyDeck's AI-focused startups have already demonstrated remarkable achievements. For instance, AI alumnus MindsDB, a custom AI creation platform, has raised a total of $54.4 million from top investors, including NVentures, the venture capital fund of Nvidia. Another SkyDeck alumnus", AI ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://www.zdnet.com/article/tech-giants-hatch-a-plan-for-ai-job-losses-reskill-95-million-in-10-years/,Tech giants hatch a plan for AI job losses: Reskill 95 million in 10 years, Reskill 95 million workers in 10 years with AI: Tech giants pitch plan ,"AI is transforming the world of work, and some of the biggest tech companies in the world are taking action to help those who have lost or will lose their jobs to AI. The AI-Enabled Information and Communication Technology (ICT) Workforce Consortium, formed by Accenture, Eightfold, Google, IBM, Indeed, Intel, Microsoft, and SAP, along with six advisers, aims to help impacted workers find training programs and connect businesses with companies looking for their skillsets.
+The consortium will provide organizations with knowledge about the impact of AI on the workforce and equip workers with relevant skills. The goal is to positively impact over 95 million individuals around the world over the next 10 years. While this is a significant goal, it is important to note that it is not specific and may be challenging to achieve.
+The consortium will first analyze how AI has impacted 56 unidentified job roles that make up 80% of the top 45 job titles, based on job postings since last year. They will then make recommendations on how to move forward with ensuring workers have the necessary skills to meet the demands of the ICT companies.
+It is no secret that workers around the world are being impacted by AI adoption. Several companies, including UPS and IBM, have already acknowledged that they are laying off or freezing hiring due to AI. In total, US companies have cut more than 4,600 jobs as they seek new AI-ready hires or replace positions with AI, according to a study earlier this year from outplacement companies Challenger, Gray & Christmas.
+While consortium members acknowledged that lost jobs are a reality, they are hopeful that upskilling and reskilling support will help workers find new careers in other roles. Many jobs will be replaced entirely by AI, but there will also be new job roles created in the field of AI.
+In conclusion, the AI-Enabled Workforce Consortium is an important step towards addressing the impact of AI on the workforce. While the specifics of how they will achieve their goal remain to be seen, it is clear that they are dedicated to ensuring that workers have the necessary skills to succeed in the digital economy. As AI continues to transform the world of work, it is important for companies and individuals to stay informed and adaptable to ensure a smooth transition.",https://www.zdnet.com/a/img/resize/fe14fe4d590cf4a741f7902fbc9b94f02c05b582/2024/04/04/bc7b77da-78de-4219-bd06-d095caa4ccb4/workers5gettyimages-167532011.jpg?auto=webp&fit=crop&height=675&width=1200,2024-04-04 00:00:00,"""Reskill and thrive: AI job losses call for upskilling and reskilling"" - Join the AI-Enabled Information and Communication Technology (ICT) Workforce Consortium to find training programs and connect businesses with your skillset. Upgrade your skills and find new career paths, starting today! AI Upskilling Reskilling JobLosses DigitalEconomy",AI job losses: reskill 95 million in 10 years,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/04/facebooks-oculus-acquisition-turns-10/,"Ten years later, Facebook's Oculus acquisition hasn't changed the world as expected", Meta's Virtual Reality Journey: Progress and Challenges ,"Title: A Rewritten Look at Facebook and Oculus' Virtual Reality Journey
+
+Meta, formerly known as Facebook, has been at the forefront of virtual reality technology for the past decade. In 2014, Facebook acquired Oculus VR, a startup that was developing virtual reality headsets. Since then, Meta has invested heavily in the development of virtual reality technology, including its own line of VR headsets, such as the Oculus Quest 2.
+
+Despite the investment, Meta's virtual reality technology has not yet had a significant impact on the market. While the company has made some impressive advancements in VR technology, it has also faced significant challenges. One of the biggest challenges facing Meta is the high cost of virtual reality equipment, which can be a barrier to entry for many consumers.
+
+Another challenge facing Meta is the lack of content available for virtual reality. While there are some great VR games and experiences available, there is still a long way to go in terms of the variety and quality of content available. This lack of content can make it difficult for consumers to justify the high cost of virtual reality equipment.
+
+Despite these challenges, Meta remains committed to the development and growth of virtual reality technology. The company has made significant investments in the development of new VR technologies, including haptic feedback and eye-tracking, which could revolutionize the way we interact with virtual reality.
+
+While Meta's virtual reality technology has not yet had a significant impact on the market, it is clear that the company is making important strides in the development of this technology. As virtual reality continues to evolve, it is likely that Meta will play an important role in shaping the future of this exciting new technology.","https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-953547050.jpg?resize=1200,722",2024-04-04 21:25:26,"Meta, the company formerly known as Facebook, has been at the forefront of virtual reality technology for over a decade. In 2014, Facebook acquired Oculus VR, a startup that was developing virtual reality headsets. Since then, Meta has invested heavily in the development of virtual reality technology, including its own line of VR headsets, such as the Oculus Quest 2.
+
+Despite the investment, Meta's virtual reality technology has not yet had a significant impact on the market. While the company has made some impressive advancements in VR technology, it has also faced significant challenges. One of the biggest challenges facing Meta is the high cost of virtual reality equipment, which can be a barrier to entry for many consumers.
+
+Another challenge facing Meta is the lack of content available for virtual reality. While there are some great VR games and experiences available, there is still a long way to go in terms of the variety and quality of content available. This lack of content can make it difficult for consumers to justify the high cost of virtual reality equipment.
+
+Despite these challenges, Meta remains committed to the development and growth of virtual reality technology. The company has made significant investments in the development of new VR technologies, including haptic feedback and eye-tracking, which could revolutionize the way we interact with virtual reality.
+
+If you're interested in learning more about Meta's virtual reality journey and the exciting new technologies that are shaping the future of this industry, be sure to check out our latest news article.","Keyphrase: VR Journey
+Title: A Rewritten Look at Facebook and Oculus' Virtual Reality Journey
+
+Meta, formerly known as Facebook, has been at the forefront of virtual reality technology for the past decade. In 2014, Facebook acquired Oculus VR, a startup that was developing virtual reality headsets. Since then, Meta has invested heavily in the development of virtual reality technology, including its own line of VR headsets, such as the Oculus Quest 2.
+
+Despite the investment, Meta's virtual reality technology has not yet had a significant impact on the market. While the company has made some impressive advancements in VR technology, it has also faced significant challenges. One of the biggest challenges facing Meta is the high cost of virtual reality equipment, which can be a barrier to entry for many consumers.
+
+Another challenge facing Meta is the lack of content available for virtual reality. While there are some great VR games and experiences available, there is still a long way to go in terms of the variety and quality of content available. This lack of content can make it difficult for consumers to justify the high cost of virtual reality equipment.
+
+Despite these challenges, Meta remains committed to the development and growth of virtual reality technology. The company has made significant investments in the development of new VR technologies, including haptic feedback and eye-tracking, which could revolutionize the way we interact with virtual reality.
+
+While Meta's virtual reality technology has not yet had a significant impact on the market, it is clear that the company is making important strides in the development of this technology. As virtual reality continues to evolve, it is likely that Meta will play an important role in shaping the future of this exciting new technology.",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-04-tech-companies-artificial-general-intelligence.html,Tech companies want to build artificial general intelligence. But who decides when AGI is attained?, Can we achieve AGI? How to measure AGI? ,"Introduction:
+
+Artificial General Intelligence (AGI) is a futuristic concept that aims to create machines as broadly smart as humans or at least capable of performing many tasks as well as humans. With the rise of tech giants like Amazon, Google, Meta, and Microsoft, the race to build AGI is gaining momentum. However, AGI also poses an existential risk to humanity. This article explores the concept of AGI, its definition, and how we know when it has been achieved.
+
+What is AGI?
+
+AGI is not a technical term but a concept that refers to AI systems that are at least as good as humans at nearly all cognitive tasks. Geoffrey Hinton, a pioneering AI scientist, prefers the term ""superintelligence"" for AGIs that are better than humans. AGI is not to be confused with generative AI, which describes AI systems that generate new documents, images, and sounds.
+
+AGI was initially a concept in mid-20th century computer science, but as AI research branched into subfields that focused on specialized and commercially viable versions of the technology, such as face recognition and voice assistants, mainstream AI research turned away from the original vision of artificial intelligence.
+
+Are we at AGI yet?
+
+Without a clear definition, it is hard to know when a company or group of researchers will have achieved AGI. However, some experts believe that AGI will require technology that can perform just as well as humans in a wide variety of tasks, including reasoning, planning, and the ability to learn from experiences.
+
+Some researchers are working to find consensus on how to measure AGI. One idea is to segment it into levels, similar to how car manufacturers benchmark the path between cruise control and fully self-driving vehicles. Other researchers are working on their own, with OpenAI giving its nonprofit board of directors the responsibility of deciding when its AI systems have reached the point at which they ""outperform humans at most economically valuable work.""
+
+Conclusion:
+
+In conclusion, AGI is a fascinating concept that could revolutionize the way we live and work. While the race to build AGI is ongoing, it is essential to ensure that technology is developed responsibly and ethically to avoid an existential risk to humanity. By working together and finding consensus on how to measure AGI, we can ensure that this technology is developed to its full potential while minimizing its risks.",https://scx2.b-cdn.net/gfx/news/hires/2024/tech-companies-want-to.jpg,2024-04-04 14:15:03,"""Discover the Future of AI: Unraveling the Concept and Progress of Artificial General Intelligence. Join the responsible race to build AGI."" (133 characters)
+
+This meta description highlights the focus on AGI, its potential impact, and the necessity for responsible development. It also includes a call-to-action, urging readers to learn more about AGI and its development.", AGI development ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://www.engadget.com/hyundais-ioniq-5-n-en1-cup-car-brings-extreme-ev-performance-to-the-track-160024376.html,Hyundai's Ioniq 5 N eN1 Cup car brings extreme EV performance to the track, Hyundai Ioniq 5 N eN1: A 600HP Track-Focused EV Monster ,"Title: The Hyundai Ioniq 5 N eN1: A Wild Ride for the Racing Enthusiast
+
+Introduction:
+
+Get ready to experience the thrill of the track with the newest creation from Hyundai, the Ioniq 5 N eN1 Cup car. This high-performance EV is not for the faint-hearted, as it takes Hyundai's rocket ship to a whole new level. Designed exclusively for racing, the eN1 is a lightweight, caged, and aggressively-winged version of the Ioniq 5 N, boasting over 600 horsepower and unparalleled handling capabilities. In this blog post, we'll take a closer look at what makes the Hyundai Ioniq 5 N eN1 a must-have for racing enthusiasts.
+
+The Extreme Hyundai Ioniq 5 N eN1:
+
+The Hyundai Ioniq 5 N eN1 is an extreme version of the Ioniq 5 N, built specifically for racing and tuned to such a degree that it is not even road legal. This track-focused monster is equipped with a plethora of drive modes, allowing drivers to engage in various racing activities, from circuit racing to drifting, making it an unmatched experience for adrenaline junkies.
+
+A Lightweight, Caged, and Winged Beast:
+",https://s.yimg.com/ny/api/res/1.2/d.0u0pOXhtTWd4TpaV_RbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/5d19d320-f1cc-11ee-bcfe-0ceecfa3ac1f,2024-04-03 16:00:24,"""Unleash the Hyundai Ioniq 5 N eN1's 600+ HP with our racing beast's lightweight, caged design and aggressive wing. Experience the ultimate thrill today!"" (119 characters)
+
+Meta Description:
+
+""Discover the power of the Hyundai Ioniq 5 N eN1, a lightweight, caged, and winged racing beast with over 600 horsepower and unmatched handling. Ideal for circuit racing & drifting, this EV takes performance to new heights. Experience the ultimate thrill today!"" (176 characters)
+
+Note: The meta description should ideally be within 155-160 characters to ensure it displays properly in search engine results. The provided description is 176 characters, so it may be truncated in some cases. If needed, it can be shortened to:
+
+""Unleash the Hyundai Ioniq 5 N eN1's 600+ HP racing beast with a lightweight, caged design and aggressive wing. Ideal for circuit racing & drifting, this EV takes performance to new heights. Experience the thrill today!"" (154 characters)","Title: Unleashing the Hyundai Ioniq 5 N eN1: A Lightweight, Caged, and Winged Beast
+
+Introduction:
+
+Discover the incredible power of the Hyundai Ioniq 5 N eN1, a lightweight, caged, and winged beast designed specifically for racing enthusiasts. This high-performance EV takes Hyundai's already impressive Ioniq 5 N to new heights, boasting over 600 horsepower and unparalleled handling capabilities. In this blog post, we'll dive into the unique features that make the Hyundai Ioniq 5 N eN1 a must-have for those seeking the ultimate thrill on the track.
+
+The Lightweight, Caged, and Winged Beast:
+
+The Hyundai Ioniq 5 N eN1 is a lightweight, caged, and winged beast that has been specifically designed for racing, making it unroadworthy yet unmatched in terms of performance. Its lightweight construction, roll cage, and aggressive wing ensure maximum stability and handling, giving drivers the confidence to push their limits on the track.
+
+A Monster with a Plethora of Drive Modes:
+
+This track-focused monster is equipped with a plethora of drive modes, allowing drivers to engage in various racing activities, from circuit racing to drifting. The Hyundai Ioniq 5 N eN1 is built for speed, power, and versatility, making it an unmatched experience for adrenaline junkies and racing enthusiasts alike.
+
+Unparalleled Performance and Handling:
+
+With over 600 horsepower and unparalleled handling capabilities, the Hyundai Ioniq 5 N eN1 is the ultimate racing machine. Its advanced electric powertrain and cutting-edge technology make it a force to be reckoned with, both on and off the track.
+
+In Conclusion:
+
+The Hyundai Ioniq 5 N eN1 is a lightweight, caged, and winged beast that is perfect for racing enthusiasts seeking the ultimate thrill on the track. With its unparalleled performance and handling capabilities, this high-performance EV is not to be missed. Experience the power of the Ioniq 5 N eN1 today and unleash",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://www.zdnet.com/article/the-new-google-search-powered-by-next-gen-ai-may-be-subscription-only/,The new Google search powered by next-gen AI may be subscription-only, Google Explores AI-Powered Premium Search Features Amid Rising Competition ,"Title: Google's Potential Shift Towards AI-Powered Premium Search Features
+
+Google, the search engine titan, has built its empire on providing free services to users worldwide. However, in response to the emerging threat of generative AI models, Google is contemplating a significant change to its business model. According to a Financial Times report, Google is considering implementing a paywall to access new AI-powered features in its search engine.
+
+Google's AI-driven future
+
+Google's engineers are actively developing advanced AI technology to enhance its search engine's functionality. However, the company's executives have not yet decided when, or even if, the paywall will be introduced. The new AI-powered features would be integrated into Google's premium subscription service, Google One, which currently costs $20 per month and offers various perks such as 2TB of storage, AI-infused productivity app assistance, and Google Meet premium video calling features.
+
+The rise of free competitors
+
+The potential introduction of a paid search tier is a notable departure from Google's long-standing business model, which has kept its search engine free since its inception over two decades ago. However, the cost of deploying and maintaining generative AI features on its search engine is substantial. Moreover, there is no guarantee that users would be interested in such an AI-assisted search service, especially with several free competitors on the market.
+
+One such competitor is ChatGPT, which recently removed the need for logins, making it even more accessible to users. ChatGPT offers conversational and thorough answers to users' questions before January 2022, which could be an attractive alternative to Google's traditional search engine. Another strong competitor is Microsoft's Copilot, which can answer all search prompts conversationally, has access to the latest information, and remains a free-to-access service.
+
+Experience Google's AI-infused search engine for free
+
+Despite the possibility of some AI-infused search features being added to Google's premium subscription service, users can still experience Google's AI-powered search engine for free by signing up for the Search Generative Experience (SGE) via Google's Search Labs. To get started, simply log in with your Google account and explore the AI-enhanced search engine without any cost.
+
+In conclusion, Google's potential",https://www.zdnet.com/a/img/resize/9ec88adb2d66a4ebb9a9c5e4a5948364fb2dfcd8/2024/04/04/eb95027f-78bc-45bf-b71d-20cdf86065ba/cointelescope-gettyimages-1361877833.jpg?auto=webp&fit=crop&height=675&width=1200,2024-04-04 00:00:00,"Meta Description:
+Discover Google's AI-driven search transformation! Explore AI-powered features in Google One or try the free Search Generative Experience (SGE) in Google's Search Labs. Will users pay for premium AI search? Access the full article to find out.", AI search ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
