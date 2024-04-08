@@ -1,0 +1,230 @@
+Link,post_title,title,post_content,featured_image,Date-Publish,meta_desc,focuskeywords,post_category,Post_tag
+https://techxplore.com/news/2024-04-nuclear-industry-upbeat-small-reactors.html,"US nuclear industry upbeat on small reactors, despite setback", US Nuclear Industry's Hope in Small Modular Reactors Amid Setbacks ,"Title: The Revival of Small Modular Reactors: A Clean Energy Solution
+
+Introduction
+
+In the face of growing climate concerns and the phase-out of nuclear plants, small modular reactors (SMRs) have emerged as a potential solution to meet clean energy demands. Although the US has seen setbacks, such as NuScale's abandoned project in Idaho, the nuclear industry remains optimistic. This article explores the current state of SMRs, ongoing projects, and the potential for nuclear power to address increasing energy needs.
+
+The State of Small Modular Reactors
+
+Despite the collapse of NuScale's Idaho project, which faced escalating costs from $5.3 billion to $9.3 billion, proponents of carbon-free power remain hopeful. Mason Lester, an analyst at S&P Global Commodity Insights, pointed to several positive developments in the US nuclear sector. One such project is GE Hitachi's BWRX-300 SMR design, which is expected to begin producing power in Darlington, Ontario, Canada, by 2029, pending regulatory approval.
+
+In the United States, the Tennessee Valley Authority has also invested in the BWRX-300. John Kotek of the Nuclear Energy Institute emphasized that NuScale's project was an isolated incident and that improving risk-sharing mechanisms is crucial for the industry to build new models with repeatability.
+
+TerraPower, a nuclear company backed by Bill Gates, is focusing on a novel ""molten chloride"" technology, which can operate at higher temperatures than conventional reactors, resulting in greater efficiency. TerraPower plans to begin construction on a nuclear reactor in Kemmerer, Wyoming, in June, at a retired coal plant.
+
+Challenges and Opportunities
+
+While some of the cost increases are not exclusive to nuclear power, the industry recognizes the need to standardize processes across multiple projects to lower costs. Marcia Burkey, TerraPower's CFO, highlighted the potential of innovation to address common infrastructure challenges.
+
+Another US-based company, Ultra Safe Nuclear Corporation, has selected Gadsden, Alabama, for its Micro-Modular Reactor (MMR) assembly plant, set to begin operations in 2027. China and Russia have already deployed operational small reactors",https://scx2.b-cdn.net/gfx/news/2024/several-nations-have-m.jpg,2024-04-07 13:36:00,"Meta Description:
+Uncover the potential of Small Modular Reactors (SMRs) in addressing clean energy demands. Despite setbacks, US nuclear industry remains optimistic with projects like GE Hitachi's BWRX-300, TerraPower's molten chloride technology, and Ultra Safe Nuclear's MMR plant. (138 characters)", Clean Energy ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-04-scalable-learningbased-framework-teleoperation-humanoid.html,A scalable reinforcement learning-based framework to facilitate the teleoperation of humanoid robots, Teleoperate Humanoid Robots with Human2HumanOid: A Scalable Reinforcement Learning-Based Framework ,"Title: Teleoperating Humanoid Robots with Human2HumanOid: A Game Changer in Robotics
+
+Introduction
+
+The world of robotics is on the cusp of a significant breakthrough as researchers from Carnegie Mellon University develop Human2HumanOid (H 2 O), a groundbreaking method for real-time whole-body teleoperation of human-sized humanoid robots. This innovation brings us one step closer to integrating human cognitive skills with the versatile capabilities of humanoid robots, paving the way for exciting new applications in various fields.
+
+The Challenge of Teleoperation
+
+Teleoperation of humanoid robots presents unique challenges, primarily due to the differences in body structure and movement capabilities between humans and robots. Traditional methods often rely on complex setups, including multiple cameras and sensors, making them less accessible and more challenging to scale. H 2 O addresses these challenges by using a single RGB camera, making it a scalable and efficient solution for teleoperating humanoid robots.
+
+How H 2 O Works
+
+H 2 O is a reinforcement learning (RL)-based framework that facilitates real-time whole-body teleoperation of humanoid robots using just an RGB camera. The process involves retargeting human motions to humanoid capabilities through a novel 'sim-to-data' methodology, ensuring the motions are feasible for the humanoid's physical constraints. The refined motion dataset then trains an RL-based motion imitator in simulation, which is subsequently transferred to the real robot without further adjustment.
+
+Advantages of H 2 O
+
+H 2 O offers numerous advantages over existing teleoperation methods. Despite its minimal hardware requirements, it allows robots to perform a wide array of dynamic whole-body motions in real time. The system's other components include a retargeting algorithm and a method to clean human motion data in simulations, ensuring that motions can be effectively replicated in robots.
+
+Real-World Applications
+
+The H 2 O framework opens new avenues for humanoid robot applications in various industries, such as manufacturing, healthcare, and emergency response. For instance, it could enable medical professionals to perform remote surgeries using humanoid robots, or allow first responders to navigate dangerous environments without putting themselves at risk.
+
+Moreover, H ",https://scx2.b-cdn.net/gfx/news/hires/2024/a-scalable-reinforceme.jpg,2024-04-06 08:30:01,"""Discover Human2HumanOid: Teleoperate humanoid robots with an RGB camera! A game-changer for space exploration & more. Explore applications now.""","2 O's scalability and efficiency make it an ideal solution for teleoperating humanoid robots in space exploration, enabling astronauts to perform complex tasks in extraterrestrial environments with precision and safety.
+
+In conclusion, Carnegie Mellon University's Human2HumanOid (H 2 O) is a game-changing reinforcement learning-based framework for teleoperating humanoid robots. Its ability to facilitate real-time whole-body teleoperation using minimal hardware sets it apart from traditional methods, making it a scalable and efficient solution for various industries. By integrating human cognitive skills with the versatile capabilities of humanoid robots, H 2 O fosters a new generation of robotics applications, revolutionizing the way we interact with and control robots in our daily lives and beyond.",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/07/fintech-representation-in-y-combinators-demo-days-is-definitely-shrinking/,Fintech representation in YC's Demo Days is definitely shrinking," Fintech Representation in YC's Demo Days Drops to 8%, Q1 Funding Down 16% ","Title: The Shrinking Fintech Representation and a New Green Bank: This Week in Fintech
+
+Welcome to this week's fintech roundup, where we delve into the changing landscape of fintech, the latest funding trends, and exciting industry developments.
+
+The big story
+
+Y Combinator's Winter 2024 cohort saw a significant decline in fintech participation. With only 8% of the 260 companies falling under the fintech category, down from 24% in the winter of 2022, the representation has noticeably dwindled. Among the fintech companies that made the cut, cross-border fintech is gaining popularity.
+
+Analysis of the week
+
+Fintech funding experienced a 16% quarter-over-quarter decrease in Q1 2","https://techcrunch.com/wp-content/uploads/2022/09/yc-2022-fall-3.jpg?resize=1200,675",2024-04-07 14:30:32,"Meta Description:
+
+Discover the shrinking fintech representation in Y Combinator's W24 and the rise of cross-border fintech. Stay updated on Q1 '24 fintech funding trends and industry news. Click to learn more!
+
+---
+
+The Shrinking Fintech Representation and a New Green Bank: This Week in Fintech
+
+Welcome to this week's fintech roundup, where we delve into the changing landscape of fintech, the latest funding trends, and exciting industry developments.
+
+The big story
+
+Y Combinator's Winter 2024 cohort saw a significant decline in fintech participation. With only 8% of the 260 companies falling under the fintech category, down from 24% in the winter of 2022, the representation has noticeably dwindled. Among the fintech companies that made the cut, cross-border fintech is gaining popularity.
+
+Analysis of the week
+
+Fintech funding experienced a 16% quarter-over-quarter decrease in Q1 2024, with $12.3 billion invested across 870 deals. As fintech funding cools, green banks and climate fintech are heating up, with investments in sustainable fintech tripling in Q1 2024 compared to Q4 2023.
+
+Moreover, the rise of cross-border fintech is a trend to watch. With a growing number of fintech companies expanding their services beyond borders, the global fintech landscape is becoming increasingly interconnected.
+
+This week in fintech also saw the launch of the first green bank focused on investing in sustainable projects and businesses. This new player in the fintech space is set to accelerate the transition to a low-carbon economy.
+
+Stay tuned for our next fintech roundup as we continue to track the industry's evolution and uncover the most significant stories and trends.
+
+(Word count: 179)","Of Women's Impact in [AI Revolution](https://techcrunch.com/2023/04/10/of-womens-impact-in-ai-revolution/)
+
+---
+
+In this article, we've explored the importance of acknowledging and celebrating women's contributions to the AI sector. By featuring interviews with accomplished women in AI, Davis and Wiggers help to diversify the conversation and promote inclusivity within the industry. Their efforts, as highlighted in the TechCrunch series and the Equity podcast, emphasize the value of women's unique insights and experiences in AI development. Ultimately, fostering a more diverse and inclusive AI landscape will lead to more innovative, equitable, and unbiased technological advancements.",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/05/x-makes-grok-chatbot-available-to-premium-subscribers/,X makes Grok chatbot available to premium subscribers," Social Network X's Grok Chatbot: Premium Access, News Summarization, Rivaling ChatGPT & Gemini ","Title: Grok Chatbot Now Available to Social Network X's Premium Users: A Rival to ChatGPT, Gemini, and Claude
+
+Introduction
+
+Social network X is expanding access to its xAI-powered Grok chatbot to Premium tier subscribers. This move follows Elon Musk's announcement last month, allowing more paid users to interact with the chatbot in select regions. This article will discuss the updates, features, and the potential rivalry between Grok and other large language model (LLM) products.
+
+From Premium+ to Premium
+
+Previously, Grok was available exclusively to Premium+ users, who paid a $16 monthly or $168 yearly subscription fee. With the recent update, Social network X now allows users with an $8 per month subscription to access the chatbot. Users can engage with Grok in either ""Regular mode"" or ""Fun mode,"" with cautionary labels indicating that the chatbot might return inaccurate answers.
+
+Grok's News Summarization and Headline Writing
+
+Earlier this week, Social network X introduced a new explore view inside Grok, which summarizes trending news stories. While this feature is similar to those offered by competitors like Jeff Bezos' and NVIDIA-backed Perplexity AI, Grok takes it a step further by generating headlines. However, there have been instances where Grok produced misleading headlines. For example, it wrote a fake headline stating ""Iran Strikes Tel Aviv with Heavy Missiles,"" causing concerns about the chatbot's credibility.
+
+Musk's Motivation and Rivalry
+
+Elon Musk's push for more people to use Grok is likely driven by his desire to compete with other LLM products such as OpenAI's ChatGPT, Google's Gemini, and Anthropic's Claude. Musk has been openly critical of OpenAI's operations in recent months, even filing a lawsuit in March over the alleged ""betrayal"" of its non-profit goal. In response, OpenAI sought the dismissal of all of Musk's claims and released email exchanges between the Tesla CEO and the company.
+
+Open-Sourcing Grok: Questions Remain
+
+In March, xAI open-sourced Grok without providing training data details.","https://techcrunch.com/wp-content/uploads/2023/11/xAI-Grok-GettyImages-1765893916.jpeg?resize=1200,800",2024-04-06 05:55:24,"Meta Description:
+
+Discover Grok, Social network X's xAI chatbot now accessible to Premium users! Compete with ChatGPT, Gemini, and Claude. Engage in ""Regular"" or ""Fun"" modes, and explore trending news summaries with generated headlines. Available for $8/month. But, beware of occasional inaccuracies.", xAI chatbot ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/06/when-it-comes-to-building-startups-in-boston-success-begets-success/,"When it comes to building startups in Boston, success begets success", Boston's Thriving Startup Ecosystem: A Haven for Innovation & Talent ,"Title: The Thriving Startup Ecosystem of Boston: A Haven for Innovation and Entrepreneurship
+
+Introduction
+
+Boston, a city renowned for its rich history and prestigious educational institutions, has emerged as a formidable player in the startup scene. Its success stories, such as Hubspot and Klaviyo, have paved the way for a new generation of entrepreneurs, fostering a virtuous cycle of wealth generation and nurturing a vibrant and thriving startup ecosystem. Let's delve into the reasons that make Boston a prime destination for startups and what aspiring founders can expect from the city's unique environment.
+
+The Power of Education and Research
+
+At the heart of Boston's startup success is its exceptional educational landscape, with renowned institutions such as MIT, Harvard, and Tufts. These universities serve as fertile breeding grounds for innovative ideas, constantly producing a steady stream of talented graduates ready to make their mark in the world. According to Emily Knight, president of The Engine Accelerator, an MIT spinoff, ""There is a lot of research and a lot of infant innovation being translated into companies coming out of these universities.""
+
+The abundance of STEM students and AI/ML talent in the region is a significant draw for investment firms like Glasswing Ventures, as stated by Rudina Seseri, the managing director: ""The raw talent, and then you look at where the AI and ML talent is coming from, there is an incredible pool of talent, which matches up nicely with my firm’s investments in enterprise and cybersecurity.""
+
+Investment and Support
+
+Boston's startup ecosystem benefits from a robust investment landscape, with the city ranking fourth nationally in Q4 2023 for venture investment dollars. The region's strong investor presence, coupled with the wealth generated by successful startup exits, creates an angel funding system that supports a new generation of founders.
+
+Lily Lyman, a partner at Underscore VC, emphasizes the role of the university system and the wealth of opportunities it provides: ""It’s a huge piece of the puzzle and honestly, it’s a big reason why we are here in Boston and why we are bullish on Boston. About a third of our portfolio came straight out of the university system in the area, with a big emphasis on Harvard, MIT, and Northeastern.""
+
+","https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-173866054.jpg?resize=1200,800",2024-04-06 17:07:34,"Meta Description:
+
+Uncover the thriving startup ecosystem in Boston, fostering innovation and entrepreneurship through education, research, and a supportive community. Discover why this city is a prime destination for successful new ventures. (100 characters)", Startup Ecosystem ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/06/price-of-zero-day-exploits-rises-as-companies-harden-products-against-hackers/,Price of zero-day exploits rises as companies harden products against hackers,"Title: Soaring Zero-Day Exploit Prices: Hackers Face Growing Challenges
+
+The price of zero-day exploits has surged, reaching up to $7M for iOS and $5M for Android, as tech giants like Apple, Google, and Microsoft fortify their products. With hacking devices becoming increasingly difficult, the zero-day market faces growing complexity, driving costs higher.","Title: The Soaring Price of Zero-Day Exploits: A Hacker's Challenge
+
+In the world of cybersecurity, the worth of zero-day exploits has skyrocketed, reaching multi-million-dollar figures. These coveted digital weapons, unknown vulnerabilities in popular software and hardware, are now being sold for anywhere between $5 to $7 million for iOS zero-days and up to $5 million for Android zero-days. This increase is primarily driven by the growing difficulty in hacking devices and applications from tech giants such as Apple, Google, and Microsoft.
+
+Crowdfense, a startup that buys and sells zero-day exploits, recently published its updated price list. Comparing it to their 2019 list, the highest payouts have more than doubled, from $3 million for Android and iOS zero-days to the current rates. Chrome, Safari, WhatsApp, and iMessage zero-days also saw a significant hike in their value. This surge in prices can be attributed to the relentless efforts of tech companies to improve their security features and make devices harder to penetrate.
+
+Dustin Childs, the head of threat awareness at Trend Micro ZDI, explains that it should be increasingly difficult to exploit software and devices every year. Google's Threat Analysis Group also reported that hackers used 97 zero-day vulnerabilities in the wild in 2023, with spyware vendors accounting for 75% of the zero-days targeting Google products and Android.
+
+The zero-day market is becoming more complicated and time-consuming, driving the overall cost up. According to Paolo Stagno, the director of research at Crowdfense, it is now nearly impossible for a single researcher to find and develop zero-days into full-fledged exploits targeting iPhones or Androids. Instead, it requires a team of several researchers, causing an escalation in prices.
+
+Although Crowdfense offers some of the highest publicly known prices outside of Russia, governments and companies may be paying even more for these valuable exploits. The challenge for hackers lies in staying ahead of the game and finding new ways to breach security, all while the stakes get higher and the odds grow longer.
+
+In conclusion, the price of zero-day exploits is on a steep upward","https://techcrunch.com/wp-content/uploads/2021/09/android-spyware-malloc.jpg?resize=1200,751",2024-04-06 15:00:51,"Meta Description: Discover the skyrocketing value of zero-day exploits, now worth up to $7M for iOS & $5M for Android. Hacking tech giants grows tougher; learn why.
+
+In the ever-evolving cybersecurity landscape, zero-day exploits' worth has soared, reaching multi-million-dollar figures. As hacking popular software and hardware becomes increasingly difficult, the challenge for hackers intensifies. Explore the reasons behind this surge, the role of tech giants, and the future of the zero-day market.","trajectory as companies strengthen their products against hackers. With the increasing difficulty in discovering and exploiting vulnerabilities, hackers face a tougher battle in the ever-evolving landscape of cybersecurity.",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/06/deal-dive-earlitec-diagnostics-raises-21-5m-to-help-diagnose-autism-earlier/,EarliTec Diagnostics raises $21.5M to help diagnose autism earlier, Early Autism Diagnosis Revolution: EarliTec Diagnostics Secures $21.5M for AI-Driven System ,"Title: Revolutionizing Autism Diagnosis: EarliTec Diagnostics and the Future of Early Intervention
+
+Introduction
+
+Autism affects 1 in 36 children in the United States, according to the CDC. Early diagnosis is crucial for better developmental outcomes, and EarliTec Diagnostics is leading the charge in revolutionizing the autism diagnosis process. The Atlanta-based startup recently raised $21.5 million in a Series B round to expand its AI-driven system that helps clinicians diagnose children as young as 16 months old. This article will delve into the innovative approach of EarliTec Diagnostics, its impact on the autism diagnosis landscape, and the growing interest in autism-focused healthcare from venture capitalists.
+
+The EarliTec Diagnostics System
+
+EarliTec Diagnostics has developed an FDA-authorized system that uses artificial intelligence to track a child's eye movements during a 12-minute video session. The child watches short videos and social interactions on a screen, and the device analyzes how the child focuses on the content. According to EarliTec, children with autism will not focus on the video in the same way that neurotypical children do.
+
+Traditional autism diagnoses often involve three- to four-hour assessments with potentially long waitlists. EarliTec's system aims to expedite the diagnosis process, allowing clinicians to work with more children and providing parents with quicker results. The system is currently used by eight clinicians across six states, and EarliTec plans to allocate some of its new funding to expand commercialization, research, and age group eligibility.
+
+Growing Interest in Autism-Focused Healthcare
+
+The recent fundraising efforts of EarliTec Diagnostics and other companies in the autism healthcare space have attracted significant venture capital interest. Nexus NeuroTech Ventures, a venture firm focused on brain disorders, and Venture Investors, a Midwestern healthcare-focused venture fund, co-led EarliTec's Series B round.
+
+Additionally, the Autism Impact Fund closed a $60 million fund this week, 20% higher than its initial $50 million target. Divergent Ventures raised a $10 million fund in 2021","https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1323131683.jpg?resize=1200,800",2024-04-06 16:00:15,"""Revolutionize autism diagnosis with EarliTec's AI-driven system. Get faster, more accurate results for better developmental outcomes. $21.5M Series B funding."" (149 characters)","trajectory as companies strengthen their products against hackers. With the increasing difficulty in discovering and exploiting vulnerabilities, hackers face a tougher battle in the ever-evolving landscape of cybersecurity.",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/07/magnets-are-switching-up-the-keyboard-game/,Magnets are switching up the keyboard game, Magnetic Switches Revolutionize Mechanical Keyboards: Wooting's Innovative Design ,"The Future of Mechanical Keyboards: Introducing Magnetic Switches
+
+Mechanical keyboards have experienced a surge in popularity, evolving from a niche product to a mainstream favorite during the pandemic. Brands like Akko, Drop, Ducky, Epomaker, and Keychron have become popular choices for enthusiasts who appreciate the variety of layouts and customization options available.
+
+However, as high-end features become more common, the market has become somewhat stagnant, with many keyboards sharing similar characteristics and features. Enter magnetic switches, an exciting innovation that promises to revolutionize the mechanical keyboard scene.
+
+How Do Standard Mechanical Keyboard Switches Work?
+
+A standard mechanical keyboard switch works by physically closing an electrical circuit when you press a key. The two legs on the stem—the part with the keycap attached—push against two metal leaves, which then close the circuit. The shape of the stem and its legs determine whether a switch has a linear, tactile, or clicky feel.
+
+In a linear switch, the stem moves smoothly, while tactile switches feature a slight bump that provides resistance as you press down. The overall design of the stem, spring, and switch housing can significantly impact the feel and sound of a switch, as well as the actuation point—the moment the keypress is registered.
+
+What Makes Magnetic Switches Different?
+
+Magnetic switches, as popularized by Dutch keyboard startup Wooting, rely on magnets and springs instead of a physical electrical circuit. These switches utilize the Hall Effect, a principle discovered in the 1800s, allowing them to sense changes in the magnetic field.
+
+In a magnetic switch, there's a permanent magnet in the stem, and a sensor on the keyboard's PCB detects the switch's position as you press down. This sensor technology enables you to change the actuation point, or how far you need to press down to register a keystroke.
+
+The Advantages of Magnetic Switches
+
+1. Customizable actuation points: With magnetic switches, you can easily adjust the actuation point to suit your specific needs. Gamers, for example, might prefer a lower actuation point for faster response times, while typists might prefer a higher actuation point to reduce unintended keystrokes.
+2. Temperature compensation: The sensors in","https://techcrunch.com/wp-content/uploads/2024/04/IMG_4330.jpg?resize=1200,900",2024-04-07 16:30:40," Meta Description:
+Discover magnetic switches, the innovative technology transforming mechanical keyboards. Customizable actuation points, temperature compensation, and increased durability make them the future of typing. Click to learn more.
+
+Headline:
+The Future of Mechanical Keyboards: Introducing Magnetic Switches
+
+Focus Keyphrase: Magnetic Switches
+
+Word Count: 446
+
+Length: 2,900 characters
+
+Keywords: magnetic switches, mechanical keyboards
+
+Intent: Informational, SEO
+
+CTA: Click to learn more
+
+Target Audience: Mechanical keyboard enthusiasts, gamers, typists, and general consumers interested in technology and innovation.
+
+Tone: Engaging, educational, and future-focused
+
+Sentiment: Positive
+
+Entity: Wooting (brand), Akko, Drop, Ducky, Epomaker, Keychron
+
+Concepts: Hall Effect, actuation point, linear switches, tactile switches, clicky switches, spring, stem, leaves, keyboard PCB, magnetic field, sensor
+
+", magnetic switches ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/07/techcrunch-mobility-an-ev-price-reckoning-av-startup-ghost-autonomy-ghosts-and/,"TechCrunch Mobility: Apple layoffs, an EV price reckoning and another Tesla robotaxi promise", EVs & Autonomous Delivery: Bridging the Gap in Affordability ,"Title: Navigating the Charging Gap: A Look at EV Affordability and Autonomous Delivery Innovations
+
+Welcome to this week’s edition of Mobility Digest, your go-to source for insightful news and analysis on the future of transportation. Let’s dive into the latest developments and trends shaping the industry.
+
+Electric Vehicles: Pricing and Affordability
+
+The first quarter auto sales report revealed that pricing plays a crucial role in the sales of Electric Vehicles (EVs). A recent Edmunds survey highlights the discrepancy between consumer preferences and the current market offerings. According to the survey, 47% of consumers seek EVs priced below $40,000, while 22% aim for EVs priced below $30,000. However, there are currently no new EVs available below $30,000 and only four models below the $40,000 threshold.
+
+This mismatch between consumer expectations and market realities has resulted in inventory clearance sales and price reductions. Automakers like Ford have delayed future EV launches and shifted resources to hybrid vehicles, while Tesla, a prominent player in the EV market, saw its deliveries drop by 20% in Q4 2023.
+
+Tesla’s approach to addressing this issue includes further price reductions and revenue generation through the sales of its Full Self-Driving software, currently available for $12,000 with a free one-month trial for all customers.
+
+Industry Developments and Funding
+
+- Ghost Autonomy, an autonomous driving technology startup, has reportedly closed its operations. The company, which had raised over $220 million, had been pivoting its focus several times since its inception in 2017. Ultimately, the years required to bring the product to market could not be financed.
+- Maniv, an early-stage venture capital firm, has successfully raised a $140 million fund to invest in startups at the intersection of mobility, transportation, and energy. Maniv III aims to focus on deep tech, decarbonization, and digitization of the transportation sector.
+- Alsym Energy, a Massachusetts-based startup working on nonflammable battery chemistry, secured $78 million","https://techcrunch.com/wp-content/uploads/2024/04/tesla-model-y.jpg?resize=1200,781",2024-04-07 19:00:30, Meta Description under 20 word , Autonomous Delivery ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
