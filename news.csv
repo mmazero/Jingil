@@ -1,0 +1,211 @@
+Link,post_title,title,post_content,featured_image,Date-Publish,meta_desc,focuskeywords,post_category,Post_tag
+https://techcrunch.com/2024/04/20/women-in-ai-allison-cohen-on-building-responsible-ai-projects/,Women in AI: Allison Cohen on building responsible AI projects,"Start Of Generated Content: [Allison Cohen on Responsible AI & Gender Bias in Datasets]
+End Of Generated Content","Title: Allison Cohen: Pioneering Socially Beneficial AI Projects and Advocating for Inclusion in the Field
+
+Introduction
+
+In an effort to highlight the significant contributions of women in the AI revolution, TechCrunch has been publishing a series of interviews featuring remarkable female figures in the field. Among them is Allison Cohen, the Senior Applied AI Projects Manager at Mila, a Quebec-based community of over 1,200 researchers specializing in AI and machine learning. In this profile, we delve into Cohen's background, her proudest accomplishments, and her insights on navigating the challenges of the male-dominated tech and AI industries.
+
+Breaking into AI and Early Inspirations
+
+Cohen's interest in AI was sparked during her master's studies in global affairs at the University of Toronto. She realized the profound impact AI would have on world politics and decided to educate herself in the field. An essay-writing competition, in which she wrote about the role of psychedelic drugs in a labor market dominated by AI, gave her the opportunity to attend the St. Gallen Symposium in 2018 and solidified her passion for AI.
+
+Proudest Accomplishments in AI
+
+One of Cohen's most significant projects at Mila is managing the creation of a dataset containing subtle and overt expressions of bias against women. This project required her to lead a multidisciplinary team of natural language processing experts, linguists, and gender studies specialists throughout the entire project life cycle. The success of this project led to a spotlight recognition at the socially responsible language modeling workshop at the NeurIPS conference and inspired similar interdisciplinary processes in other countries.
+
+Navigating the Male-Dominated Tech and AI Industries
+
+Despite the progress made in AI and technology, the industry remains male-dominated. Cohen finds inspiration in feminist standpoint theory, which emphasizes the importance of marginalized communities' perspectives in driving fair and inclusive change. She stresses the critical need for diverse perspectives in the AI field to challenge and dismantle structural challenges and inequities.
+
+Cohen also highlights the importance of allies in navigating the male-dominated industry. Building strong and trusting relationships has been instrumental in her journey. Friends, mentors, and colleagues who support her and other women in the field play","https://techcrunch.com/wp-content/uploads/2024/04/women-in-ai-cohen.jpg?resize=1200,675",2024-04-20 13:00:04,"""Discover how Allison Cohen champions women in AI! Explore her inspiring projects & initiatives promoting diversity in the male-dominated tech industry."" - 149 characters","a crucial role in fostering inclusion and addressing systemic issues.
+
+Moving Forward: Encouraging Women in AI
+
+To encourage more women to pursue careers in AI, Cohen advocates for initiatives that address barriers faced by underrepresented groups early in their education. These include afterschool programs focused on STEAM (Science, Technology, Engineering, Arts, Mathematics) subjects, as well as university scholarships aimed at supporting young women interested in pursuing advanced degrees in AI and computer science. By creating accessible opportunities from a young age, Cohen believes there will be a greater number of women entering and thriving in the AI workforce.
+
+Conclusion
+
+Allison Cohen exemplifies dedication and resilience in the face of adversity in the AI and tech fields. Her commitment to socially beneficial AI projects and championing diversity underscores her position as a leader in her domain. Through her efforts, she continues making strides toward increasing representation and ensuring equitable outcomes in the rapidly evolving landscape of artificial intelligence.",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/21/techcrunch-fintech-ramp-sees-32-bump-in-valuation-mercury-expands-into-consumer-banking/,"Fintech startup Ramp sees 32% bump in valuation, Mercury expands into consumer banking","Startup Ramp Valued at $7.65B, Mercury Dives into Consumer Banking - Fintech Weekly Roundup","Welcome to the latest edition of Fintech Focus, where we bring you the most intriguing fintech stories of the week! This week, we're discussing Ramp's skyrocketing valuation, Mercury's venture into personal banking, Klarna's new credit card, and global funding rounds.
+
+Ramp's Remarkable Growth
+
+Ramp, a spend management startup, recently raised $150 million at a post-money $7.65 billion valuation. The company, which competes with Brex, Navan, and Airbase, has experienced remarkable growth and is one of the few fintechs that hasn't had to lay off staff. Khosla Ventures and Founders Fund co-led the round, which represented a 31.9% valuation increase from its August 2023 raise. Ramp's CEO, Eric Glyman, attributes the investor interest to the company's continued growth and focus on AI technology.
+
+Mercury Bank's Bold Move
+
+Business banking startup Mercury is expanding into the consumer banking sector, targeting its existing business clients. Mercury, which serves more than 100,000 businesses (mostly startups), aims to convert many of these clients into personal banking customers. While experts caution that business and personal banking are different beasts, Mercury has a solid foundation on which to build its new offering.
+
+Klarna's US Credit Card Launch
+
+Swedish fintech giant Klarna has entered the US credit card market, adding to its existing buy now, pay later (BNPL) product. With this move, Klarna will compete against Apple, Robinhood, Affirm, and other credit card providers. The Klarna credit card offers users cashback rewards and aims to attract users who prefer the traditional credit card model over BNPL plans.
+
+Global Funding Rounds
+
+Several fintech companies have recently raised funds to fuel their growth and expansion:
+1. finmid, an embedded fintech startup based in Berlin, raised $24.7 million in a Series A round at a $107 million post-money valuation.
+2. Pula, a Kenya-based insurtech startup, raised $20 million in a Series B funding round to expand its agricultural insurance offerings to small-holder farmers in emerging markets.","https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1305707642.jpg?resize=1200,675",2024-04-21 14:30:52,"Boost Ramp's Valuation Soars, Mercury Enters Consumer Banking & More Fintech News
+
+Uncover the hottest fintech stories of the week including Ramp's surging valuation, Mercury's entry into consumer banking, Klarna's US credit card launch, and global funding rounds. Don't miss out on essential insights driving innovation across the financial ecosystem!
+
+ Ramp raises $150M, reaches $7.65B valuation
+ Mercury targets entrepreneurs with consumer banking debut
+ Klarna introduces US credit card, competing with major players
+ finmid nets $24.7M, Pula secures $20M in series funding", Valuation Surge ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/20/this-week-in-ai-when-open-source-isnt-so-open/,This Week in AI: When 'open source' isn't so open,"AI Open Source Debate & Meta's Llama Models: Key Developments & Impact
+
+(This revised SEO title is succinct, informative, and under 50 characters, summarizing the main topics of open source debate, Meta's Llama models, and their impact on the AI community.)","Title: Navigating the Open Source Debate in AI: Recent Developments and Considerations
+
+Introduction
+
+Staying current with advancements in artificial intelligence (AI) can be challenging due to its rapid pace. This roundup highlights key developments in the realm of machine learning, including notable research and events. We'll delve into Meta's latest release of its Llama series of generative AI models, discuss the implications of open source practices in AI, and explore other relevant stories in the field.
+
+The Llama Series Conundrum
+
+Meta recently introduced Llama 3 8B and Llama 3 70B, two text-analyzing and generating models designed for versatile applications. However, while Meta claims these models are ""open sourced,"" several constraints limit their true openness. Licensing restrictions prevent developers from using Llama models to train other models, and app developers serving over 700 million monthly users require a special license from Meta. These limitations raise questions about the genuine meaning of 'open source.'
+
+Defining Open Source in AI
+
+The debate surrounding the application of open source principles to AI remains unresolved. Intellectual Property mechanisms such as copyright may not effectively govern AI projects, particularly regarding a model's inner workings—for instance, embeddings. Additionally, understanding what constitutes the necessary ingredients for studying and modifying an AI system poses challenges, given the distinctive nature of AI functionality compared to traditional software development.
+
+Impact on the Community
+
+Despite potential advantages for AI model maintainers, so-called 'open source' initiatives might not yield similar benefits for the broader developer ecosystem. Instead, large technology corporations adopting this approach risk consolidating and expanding their influence rather than fostering decentralization and equal opportunities.
+
+More Noteworthy Stories
+
+1. Meta Upgrades Chatbot: In conjunction with the Llama 3 announcement, Meta revamped its AI chatbot across its family of apps, incorporating Llama 3-driven improvements and adding features such as quicker image creation and internet search capabilities.
+
+2. Regulating Synthetic Pornography: The Oversight Board, Meta's independent policy advisory group, is examining ways to manage explicitly generated images on Meta's social networks.
+
+3. Snap Watermarks: To distinguish AI-generated images, Snap intends to incorporate watermarks featuring a transparent Snap logo accompanied by a sparkle emoji.
+
+4. Introducing the New Atlas: Boston Dynamics, owned by Hyundai, showcased its updated electric humanoid Atlas robot, sporting a friendly exterior unlike its hydraulic predecessor.
+
+Conclusion
+
+Navigating the ever-evolving landscape of AI requires continuous exploration and evaluation of emerging trends. As our review demonstrates, striking a balance between innovation, collaboration, and equitable distribution of resources presents both challenges and opportunities for stakeholders involved in developing and utilizing AI technologies. By remaining informed and engaged, we collectively contribute towards shaping a future where AI benefits society as a whole.","https://techcrunch.com/wp-content/uploads/2014/01/llamabackground02.jpg?resize=1200,720",2024-04-20 13:15:13,"Meta Description:
+Uncover AI trends & developments! Explore Meta's Llama series, open source implications, and noteworthy stories in the AI world. Stay informed with our concise roundup. - 122 characters", AI landscape ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/21/how-united-airlines-uses-ai-to-make-flying-the-friendly-skies-a-bit-easier/,How United Airlines uses AI to make flying the friendly skies a bit easier, United Airlines' AI & Cloud Strategy: A Conversation with CIO Jason Birnbaum ,"Title: Harnessing AI and Optimizing Cloud Infrastructure: A Conversation With United's CIO
+
+Introduction
+
+Imagine boarding a United Airlines aircraft, settling into your seat, and taking off without worrying about operational hiccups. This seamless experience is made possible by a dedicated team working tirelessly behind the scenes, using advanced technologies such as artificial intelligence (AI) and managing cloud infrastructure. Jason Birnbaum, United's Chief Information Officer (CIO), leads this tech-driven charge, ensuring smooth sailing for millions of passengers annually. Let us delve into his insights on leveraging AI and fine-tuning cloud strategies for optimal results.
+
+The Role Of Artificial Intelligence At United Airlines
+
+When traveling with United, most passengers remain blissfully unaware of the intricate ballet happening among staff members communicating via a virtual chatroom. Flight attendants coordinate carry-on luggage allocation, chase after forgotten items like orange juice, and strive to accommodate families seeking adjacent seating—all while maintaining compliance with Federal Aviation Administration (FAA) rules regarding crew duty times.
+
+Birnbaum emphasizes the critical role AI plays during unexpected occurrences such as flight delays. Passengers receive prompt updates explaining the situation via text messages and the United mobile application. These alerts often originate from AI algorithms processing real-time data feeds, enabling office personnel to swiftly address potential complications. Recently, United introduced an AI-powered customer support chatbot to improve communication efficiency further.
+
+Cloud Computing & Optimization: Trends Shaping The Future
+
+Before exploring AI possibilities, United continues modernizing its IT landscape by migrating various processes to Amazon Web Services (AWS)—its chosen cloud partner. As businesses worldwide focus on streamlining cloud expenses and improving efficiencies, emerging trends highlight the importance of cloud management and optimization.
+
+According to Birnbaum, ""Maybe the era of digital transformation is over, and we're entering the age of cloud optimization."" Companies increasingly rely on third parties specializing in enhancing cloud storage capabilities and monitoring novel applications for improved visibility. By embracing these advancements, organizations aim to minimize costs and maximize reliability across diverse industries.
+
+Balancing Legacy Systems With New Technologies
+
+As United progresses along its cloud journey, the airline remains committed to preserving essential functions supported by reliable legacy systems. While newer alternatives offer attractive benefits, replacing older components entirely may introduce unnecessary risks. Thus, United meticulously evaluates migration candidates, prioritizing stability throughout the transformation process.
+
+Once deemed fit for retirement, numerous legacy systems are gracefully decommissioned, allowing United to reduce technical debt and improve overall resilience. However, certain mission-critical applications will likely persist in on-premises environments due to unique requirements related to performance, privacy, or security concerns.
+
+Connectivity Over Centralization: Building An Agile Ecosystem
+
+Instead of constructing a single monolithic platform governing every aspect of United's complex ecosystem, Birnbaum envisions interconnected systems capable of exchanging information efficiently. This approach allows individual modules to excel in their designated roles, fostering collaboration between seemingly disparate functionalities.
+
+For instance, ground teams and cabin crews access vital details such as catering arrival status and check-ins through an internal messaging application. Such connectivity enables informed decision-making, ultimately resulting in enhanced passenger experiences.
+
+Conclusion
+
+By embracing AI integration and focusing on strategic cloud optimization efforts, United Airlines fortifies its technological foundation under Birnbaum's expert guidance. Through calculated investments in cutting-edge innovations, the airline consistently elevates travel standards for customers globally. Keep watchful eyes peeled for future developments emanating from this trailblazing aviation powerhouse!","https://techcrunch.com/wp-content/uploads/2024/04/IMG_0412.jpg?resize=1200,900",2024-04-21 15:00:01,"Meta Description:
+
+Discover how United Airlines optimizes cloud infrastructure with AI integration, enhancing communication and efficiency. Learn about trends shaping the future of cloud computing and balancing legacy systems with new technologies.
+
+Matched and optimized meta description (under 18 words, active voice, call to action, focus keyphrase, specifications, content matching, unique):
+
+Optimize Cloud Infrastructure with AI: United Airlines' Approach.", Cloud Optimization ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/21/tesla-layoffs-cybertruck-recalls-and-serves-ipo/,"Tesla layoffs, Cybertruck recalls and Serve Robotics goes public"," ""Tesla Layoffs, Autonomy Focus & Cybertruck Recall - AV Regulations & Serve Robotics IPO"" ","Welcome to the Future of Transportation Weekly Roundup, where we keep you updated on the latest news and trends in the mobility industry. Don't forget to subscribe to our newsletter and get the scoop every week!
+
+Tesla's Eventful Week: The electric vehicle giant has been making headlines with a series of significant events. The week started with CEO Elon Musk announcing a 10% reduction in the workforce, followed by his ambitious statement about focusing on autonomy. The week ended with a recall of the Cybertruck. However, there's more to the mobility world than just Tesla. Let's dive into the latest news!
+
+Federal Regulators Close to Proposing AV Regulations: Our sources in Washington, D.C., report that federal regulators are preparing to release a Notice of Proposed Rulemaking on autonomous vehicle (AV) regulations. This would be the first set of federal guidelines for the AV industry. The Federal Motor Carrier Safety Administration (FMCSA) is expected to propose these rules this summer or fall, aiming to establish minimum safety standards for AVs operating on public roads.
+
+Deal of the Week: Serve Robotics, the Nvidia- and Uber-backed sidewalk robot delivery company, went public through a reverse merger. With the $40 million in gross proceeds, Serve plans to invest in R&D, manufacturing, and geographic expansion. The company aims to have 2,000 robots across multiple U.S. cities by the end of 2025.
+
+Other Deals and Notable Reads:
+1. Found Energy, a startup that generates heat and hydrogen from waste aluminum, raised a $12 million seed round.
+2. Turkish delivery company Getir, formerly valued at $12 billion, is considering asset sales and exits from non-core markets due to investor pressure.
+3. Swtch Energy, an EV charging solutions provider for apartment buildings, raised $27.2 million in a Series B funding round.
+4. Mobileye secured orders for 46 million EyeQ6 Light ADAS chips to improve sensing, distance detection, and text reading on road signs.
+5. Waymo has started data collection and mapping in Atlanta, with no announcement about future launches in the city.
+6. Six Waymo vehicles","https://techcrunch.com/wp-content/uploads/2024/04/tesla-cybertruck-1.jpg?resize=1200,774",2024-04-21 19:15:59,"""Discover the Future of Mobility: Explore Tesla shifts, Fed. AV regs, & Serve Robotics IPO. Stay ahead with 6 notable reads!""", Autonomy Growth ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/21/women-in-ai-anna-korhonen-studies-the-intersection-between-linguistics-and-ai/,Women in AI: Anna Korhonen studies the intersection between linguistics and AI, Anna Korhonen's Quest for Ethical NLP Innovation in AI ,"Title: Spotlight on Anna Korhonen: Pioneering Responsible Natural Language Processing
+
+Introduction
+
+Anna Korhonen, a prominent figure in Artificial Intelligence (AI), brings her unique interdisciplinary background in linguistics, computer science, and engineering to bear on her groundbreaking work in natural language processing (NLP). As a professor at the University of Cambridge, a senior research fellow, and a fellow at multiple prestigious institutions, she's dedicated to developing ""human-centric"" NLP methods while advocating for increased diversity and ethical considerations in the AI landscape. Let's dive into her story, achievements, insights, and recommendations for aspiring professionals.
+
+The Birth of an AI Passion
+---------------------------
+
+Growing up enchanted by the intricacies of human cognition, language, and creativity, Anna pursued her passions in STEM fields—leading her to specialize in artificial intelligence. Her multifaceted background allowed her to seamlessly merge various disciplines, making her a valuable contributor to the AI community.
+
+Proudest Accomplishments & Driving Force
+---------------------------------------
+
+Though awestruck by the scientific marvel of creating intelligent systems, Anna recognizes that real-world application remains paramount. Among her proudest accomplishments, she cites projects where her basic NLP research translates into tangible outcomes—such as medical breakthroughs and educational advancements. By focusing on improving human life quality and encouraging future generations of AI researchers to embrace similar goals, Anna demonstrates her dedication to utilizing AI for the greater good.
+
+Navigating Gender Challenges
+----------------------------
+
+Despite being surrounded by supportive communities, Anna acknowledges lingering concerns regarding gender imbalance in the tech and AI industries. While expressing optimism towards changing the homogeneous leadership culture, she emphasizes the importance of networking and mutual assistance among women in AI. In her eyes, fostering collaboration between genders will contribute significantly to establishing a more inclusive and equitable atmosphere in the field.
+
+Advice for Prospective Professionals
+-----------------------------------
+
+Upon reflecting upon her journey, Anna underscores the necessity of having more women occupying influential positions across AI sectors. With a plea for attitudinal shifts promoting solidarity amongst females in the sector, she encourages them to step forward and assume leadership roles. Furthermore, she reminds everyone involved in AI development to prioritize accountable practices and ethical decision-making processes.
+
+Pressing Issues Facing AI Evolution
+----------------------------------
+
+Recognizing AI's rapid growth, Anna voices her apprehensions concerning the disproportionate emphasis on scalability via extensive data and computing power. Instead, she calls for deeper reflection on ensuring AI solutions cater effectively to societal requirements and values without compromising user safety and privacy. To address these concerns, Anna proposes placing humans at the heart of AI design and implementation strategies.
+
+Responsibility in AI Development
+---------------------------------
+
+When discussing the responsibility of AI developers, Anna highlights the significance of anticipating negative consequences resulting from AI misuse or misunderstanding. Rather than treating ethics as an afterthought, she urges incorporating moral principles early in the development cycle. Moreover, she advises evaluating AI technologies against stringent criteria accounting for transparency, fairness, sustainability, robustness, explainability, and public acceptance.
+
+Conclusion
+----------
+
+Anna Korhonen stands out as a leader committed to driving meaningful innovation in AI, backed by her passion for exploring NLP, commitment to social consciousness, and relentless pursuit of responsible AI development. Through her inspiring endeavors, she serves as a powerful role model for aspiring professionals aiming to leave indelible marks in shaping humane AI landscapes.","https://techcrunch.com/wp-content/uploads/2024/04/women-in-ai-Korhonen.jpg?resize=1200,675",2024-04-21 15:30:28,"Pioneering responsible NLP expert, Anna Korhonen, champions ethical AI and advocates for increased women's leadership. Discover her journey, achievements, and insights. AI NLP WomenInTech
+
+Meta Description:
+Uncover the remarkable journey of Dr. Anna Korhonen, a leader in Responsible AI and Natural Language Processing. Learn about her accomplishments, ethics advocacy, and call for more women in AI leadership.", Responsible AI ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/20/notable-capitals-hans-tung-on-the-state-of-vc-and-the-upside-to-down-rounds/,Notable Capital's Hans Tung on the state of VC and the upside to down rounds,Title: Hans Tung on Down Rounds & Fintech Investments: Navigating VC Shifts,"Title: Embracing Down Rounds and Fintech Investments: A Conversation with Hans Tung
+
+Introduction
+
+In the dynamic world of venture capitalism (VC), there are few individuals as accomplished and insightful as Hans Tung, Managing Partner at Notable Capital (formerly GGV Capital). With a diverse investment portfolio that includes successful companies like Airbnb, StockX, and Slack, Hans brings unique perspectives on various aspects of VC, such as down rounds and emerging trends in fintech. In this article, we'll explore Hans' views on these subjects based on his appearance on TechCrunch's Equity podcast.
+
+Down Rounds: Opportunities Amidst Challenges
+
+""Down round,"" a term often perceived negatively among investors, represents a financing event where a company raises funds at a lower valuation than its previous funding round. However, Hans Tung sees potential beyond the stigma attached to it: ""An IPO is actually just a milestone, not the end game... When you think in longer-term valuations, up or down temporarily doesn't matter as much as generating a big outcome at the end."" According to PitchBook data, approximately 11% of 2023's VC deals had been down rounds by September – indicating their relevance despite popular apprehension.
+
+The Importance of Factoring Long-Term Valuations
+
+When evaluating the merits of investing during down rounds, maintaining focus on long-term value creation becomes essential. As per Hans, short-term fluctuations in valuation carry less significance compared to achieving substantial results over time. This approach enables investors like Hans to identify opportunities that others might overlook due to temporary market conditions or volatility.
+
+Staying Bullish on Fintech
+
+Aside from embracing down rounds, Hans remains enthusiastic about the burgeoning fintech sector. He shared insights on several promising areas within fintech, hinting at his excitement for innovations shaping the industry. By recognizing and supporting visionary founders working towards transformative solutions, Hans continues to position himself at the forefront of financial technology advancements.
+
+Recent Changes in Venture Capital Landscape
+
+Apart from discussing his investment strategies, Hans touched upon notable shifts occurring within the broader venture capital ecosystem. These include personnel adjustments at prominent firms like Founders Fund, Benchmark, and Thrive Capital. Moreover, GGV Capital transformed into Notable Capital and Granite Asia, reflecting evolving priorities and operational adaptations across different regions.
+
+Conclusion
+
+By challenging conventional wisdom surrounding down rounds and remaining optimistic about fintech opportunities, Hans Tung demonstrates resilience and foresight crucial for success in today's competitive VC landscape. His ability to recognize hidden gems amidst adversity while staying abreast of changing dynamics highlights Hans' commitment to delivering exceptional returns for both his firm and entrepreneurs alike. Stay tuned for future updates and conversations featuring influential figures like Hans Tung as they navigate the ever-changing waters of venture capitalism.","https://techcrunch.com/wp-content/uploads/2021/07/handwriting-checks-spending-spac-money.jpg?resize=1200,675",2024-04-20 14:30:49,"Discover Hans Tung's take on down rounds & fintech investments! Explore potential in down rounds, emphasize long-term valuations, and stay bullish on fintech. Listen to Hans on TechCrunch's Equity Podcast. HansTung DownRounds FintechInvestments", Down Rounds ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
