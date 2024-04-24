@@ -1,0 +1,178 @@
+Link,post_title,title,post_content,featured_image,Date-Publish,meta_desc,focuskeywords,post_category,Post_tag
+https://techxplore.com/news/2024-04-simple-fuel-generation.html,A simple 'twist' improves the engine of clean fuel generation, Clean Fuel: 70% Efficiency Boost in Hydrogen Production Using Copper Oxide Semiconductors ,"Title: Supercharging Sustainable Fuel Generation: A Twist in the Tale
+
+Researchers have discovered a groundbreaking method to significantly enhance the efficiency of sustainable fuel production, paving the way for a cleaner and more eco-friendly future. A team led by the University of Cambridge is developing cost-effective light-harvesting semiconductors that use sunlight to convert water into hydrogen fuel. The material of choice, copper oxides, is abundant, non-toxic, and cheap but has traditionally lagged behind silicon in terms of performance.
+
+By growing copper oxide crystals in a specific orientation, the team has managed to increase the distance and speed at which electrical charges move through the crystals, leading to a 70% improvement in performance compared to existing state-of-the-art oxide photocathodes. This innovative approach also resulted in improved stability, making copper oxides a promising contender in the race to replace fossil fuels with clean, sustainable energy sources.
+
+The Challenge of Oxide Semiconductors
+
+Copper (I) oxide, or cuprous oxide, has been recognized as a potential low-cost alternative to silicon for years due to its ability to capture sunlight and convert it into electrical charge. However, much of this charge tends to be lost, limiting the material's overall efficiency. The challenge lies in optimizing the material to efficiently generate and move electric charges when exposed to sunlight.
+
+Single-crystal thin films are one potential solution, as they have a highly-ordered crystal structure that facilitates charge movement. However, creating these films is often a complex and time-consuming process. The Cambridge-led team, however, found a way to grow high-quality cuprous oxide films at room temperature using thin film deposition techniques. By controlling growth and flow rates, they were able to manipulate the crystals' orientation, leading to a significant improvement in performance.
+
+The Magic of Diagonal Movement
+
+Through high temporal resolution spectroscopic techniques, the researchers found that electric charges moved an order of magnitude further when traveling diagonally through the crystal. This diagonal movement, dubbed the 'magic direction,' resulted in a 70% increase in performance compared to existing state-of-the-art electrodeposited oxide photocathodes.
+
+Beyond Performance: Stability Matters",https://scx2.b-cdn.net/gfx/news/hires/2024/a-simple-twist-improve.jpg,2024-04-24 11:00:01,"Boost Clean Fuel Generation: A Diagonal Twist
+
+A team from the University of Cambridge has developed cost-effective light-harvesting semiconductors that use sunlight to convert water into hydrogen fuel, significantly enhancing the efficiency of sustainable fuel production. Copper oxides, abundant, non-toxic, and inexpensive, have historically underperformed compared to silicon. The Cambridge-led team grew copper oxide crystals in a specific orientation, leading to a 70% improvement in performance compared to existing state-of-the-art oxide photocathodes. The magic of diagonal movement results in an order of magnitude further electric charges, maximizing efficiency and stability. Call to action: Learn more about the potential of copper oxides in clean energy production and how you can contribute to this game-changing innovation.","Title: Boosting Clean Fuel Generation: A Diagonal Twist
+
+Researchers have unveiled a game-changing method to significantly enhance the efficiency of sustainable fuel production, bringing us closer to a cleaner and more eco-friendly future. A team from the University of Cambridge is developing cost-effective light-harvesting semiconductors that use sunlight to convert water into hydrogen fuel. The secret ingredient, copper oxides, is abundant, non-toxic, and inexpensive but has historically underperformed compared to silicon.
+
+By growing copper oxide crystals in a specific orientation, the team has managed to increase the distance and speed at which electrical charges move through the crystals, leading to a 70% improvement in performance compared to existing state-of-the-art oxide photocathodes. This innovative approach also resulted in improved stability, making copper oxides a promising contender in the race to replace fossil fuels with clean, sustainable energy sources.
+
+Manipulating Crystal Orientation
+
+Copper (I) oxide, or cuprous oxide, has been recognized as a potential low-cost alternative to silicon for years due to its ability to capture sunlight and convert it into electrical charge. However, much of this charge tends to be lost, limiting the material's overall efficiency. The challenge lies in optimizing the material to efficiently generate and move electric charges when exposed to sunlight.
+
+Single-crystal thin films are one potential solution, as they have a highly-ordered crystal structure that facilitates charge movement. However, creating these films is often a complex and time-consuming process. The Cambridge-led team, however, found a way to grow high-quality cuprous oxide films at room temperature using thin film deposition techniques. By controlling growth and flow rates, they were able to manipulate the crystals' orientation, leading to a significant improvement in performance.
+
+The Magic of Diagonal Movement
+
+Through high temporal resolution spectroscopic techniques, the researchers found that electric charges moved an order of magnitude further when traveling diagonally through the crystal. This diagonal movement, dubbed the 'magic direction,' resulted in a 70% increase in performance compared to existing state-of-the-art electrodeposited oxide photocathodes.
+
+Beyond Performance: Stability Matters
+
+Stability",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/24/why-code-testing-startup-nova-ai-uses-open-source-llms-more-than-openai/,Why code-testing startup Nova AI uses open source LLMs more than OpenAI,"Nova AI: Open Source LLMs Outshine OpenAITitle: Nova AI's Open Source LLMs Revolutionize Code Testing
+
+Nova AI, with its data privacy focus, uses open-source LLMs more than OpenAI, setting it apart in the code testing market.","Title: The Rise of Generative AI Startups in Code Testing: A Look at Nova AI
+
+In the world of software development, it's a well-known fact that the individuals who write the code should not be the ones testing it. This fundamental principle has given rise to a new generation of AI startups, all vying for a piece of the growing code testing market. Companies like Antithesis, CodiumAI, and QA Wolf, along with newcomers such as Momentic and Nova AI, are harnessing the power of generative AI to revolutionize code testing.
+
+Nova AI, a year-old startup and Unusual Academy accelerator graduate, is making waves in the industry by targeting mid-size to large enterprises with complex codebases. Founder and CEO Zach Smith explain that, unlike many of its competitors, Nova AI is focusing on end-to-end testing tools designed specifically for continuous integration and continuous delivery/deployment (CI/CD) environments.
+
+The idea for Nova AI emerged from the personal experiences of Smith and his co-founder Jeffrey Shih, who worked as engineers in big tech companies. They were inspired to create a solution that would automate the testing process, making it more efficient and less prone to human error.
+
+One key differentiator for Nova AI is its approach to data privacy. While many AI startups are building on top of OpenAI's industry-leading GPT, Nova AI is using OpenAI's ChatGPT-4 sparingly and not feeding any customer data to OpenAI. This decision is driven by the fact that many large enterprises are hesitant to share their data with OpenAI due to trust and privacy concerns.
+
+Instead, Nova AI is relying heavily on open-source models like Meta's Llama and StarCoder, as well as building its own models. This approach has several benefits, including lower costs and better targeting of specific tasks, such as writing tests.
+
+Smith notes that open-source models are progressing rapidly and are often more than sufficient for targeted tasks. In the case of Nova AI, open-source models are used to deploy their own embedding models, ensuring that customer data remains private and secure.
+
+In conclusion, the rise of generative AI startups in code testing is a testament to the growing demand for automated and efficient testing solutions. Companies like","https://techcrunch.com/wp-content/uploads/2024/04/NovaAITeam.jpg?resize=1200,1134",2024-04-24 18:08:34, Nova AI , Nova AI ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://www.engadget.com/the-white-house-wants-a-zero-emission-freight-industry-by-2040-180401537.html,The White House wants a zero-emission freight industry by 2040,"Biden's Green Freight: 30% Zero-Emission Trucks by 2030, 100% by 2","Title: Biden's Ambitious Plan to Green the US Industrial Freight System
+
+The Biden administration has set its sights on transforming America's industrial freight system into a more eco-friendly powerhouse. In a recent announcement, the White House revealed its intentions to have 30% of industrial truck sales produce zero emissions by 2030 and 100% by 2040. These goals, while not legally binding, demonstrate a strong commitment to environmental stewardship in the freight sector.
+
+The US freight industry is a significant contributor to the nation's greenhouse gas emissions, accounting for approximately 10% of the country's carbon footprint. The transportation sector, as a whole, emits around 29% of US greenhouse gas emissions, with freight (including shipping, trucking, and trains) making up about one-third of that figure. As a result, addressing the environmental impact of freight transportation is a critical step in reducing the nation's overall carbon emissions.
+
+A crucial aspect of this plan involves the establishment of universally agreed-upon standards for heavy-duty vehicle charging infrastructure. To avoid fragmentation, the Biden Administration is considering public feedback on this issue. Currently, the industry appears to have coalesced around Tesla's NACS as the preferred choice for the lightweight consumer sector.
+
+In addition to these ambitious goals, the Biden Administration's Environmental Protection Agency (EPA) has earmarked $1 billion in Inflation Reduction Act (IRA) funding to replace Class 6 and 7 vehicles (such as school buses, garbage trucks, and delivery trucks) with electric counterparts. Of this, at least $400 million will be allocated to communities disproportionately affected by industrial pollution. With an estimated 72 million Americans living near truck freight routes, it's clear that environmental justice is an integral part of this plan.
+
+Unfortunately, these goals face a significant hurdle: they are voluntary, non-binding resolutions subject to change by future administrations. The outcome of the upcoming US elections will play a critical role in determining the future of this plan and the nation's environmental trajectory.
+
+In conclusion, the Biden administration's ambitious plan to green the US industrial freight system is a commendable effort in the fight against climate change. By",https://s.yimg.com/os/creatr-uploaded-images/2024-04/6b041e50-0261-11ef-a5fb-c34fd3c7fd67,2024-04-24 18:04:01,"Discover how Nova AI leads in code testing tools with open-source language models for CI/CD environments and data privacy. Explore Biden's plan for a greener US industrial freight system with 100% zero-emission truck sales by 2040. Act now!
+
+Meta Description:
+
+Explore Nova AI's innovative code testing tools prioritizing data privacy & open-source language models. Delve into Biden's plan for a greener US industrial freight system with 100% zero-emission truck sales by 2040. Act now! (92 characters)", Nova AI ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-04-holographic-displays-glimpse-immersive-future.html,Holographic displays offer a glimpse into an immersive future, Holographic Displays: A Leap Towards Immersive Virtual-Real World Integration ,"Title: A Giant Leap Towards Seamless Integration of Holographic Imagery in Our Daily Lives
+
+In an exciting development for the future of immersive displays, researchers from Princeton University are paving the way for a revolutionary blend of the real and virtual worlds using high-definition 3D holographic images (1). Holographic images, being truly three-dimensional, can be integrated seamlessly into our natural view of the real world, creating a captivating and immersive experience.
+
+Unlike conventional monitors that simulate depth on a two-dimensional screen, holographic images possess real depth, making them appear as if they truly belong in the user's environment. This innovation promises a virtual and augmented reality display that remains consistent and in view, even with normal head movements. According to Felix Heide, assistant professor of computer science and senior author of the study, ""Holography could make virtual and augmented reality displays easily usable, wearable, and ultrathin"" (1).
+
+The potential applications for this technology are vast, ranging from providing driving directions, monitoring patients during surgery, to guiding users through home repairs. However, one significant challenge lies in maintaining image quality across a wide field of view. Holographic images are typically created using spatial light modulators, which, until now, could only produce images that were either small and clear or large and fuzzy. This tradeoff has resulted in a narrow field of view, which fails to provide an immersive experience for the user.
+
+Heide, along with Nathan Matsuda, research scientist at Meta, and Ethan Tseng, doctoral student in computer science, have developed a device to enhance image quality and expand the field of view. By adding a custom-built optical element that works in tandem with the spatial light modulator, they have created a system that filters light to expand the field of view while preserving image stability and fidelity (1).
+
+The new optical element scatters light in a precise manner, pushing some elements of an image into frequency bands that are less perceptible to the human eye. This innovative approach improves the overall quality of the holographic image and expands the field of view, bringing holographic technology one step closer to practical applications.
+
+Despite the promising results, some challenges remain. Image quality is",https://scx2.b-cdn.net/gfx/news/hires/2024/holographic-displays-o-1.jpg,2024-04-23 12:23:16,"Discover how Nova AI leads in code testing tools with open-source language models for CI/CD environments and data privacy. Explore Biden's plan for a greener US industrial freight system with 100% zero-emission truck sales by 2040. Act now!
+
+Meta Description:
+
+Explore Nova AI's innovative code testing tools prioritizing data privacy & open-source language models. Delve into Biden's plan for a greener US industrial freight system with 100% zero-emission truck sales by 2040. Act now! (92 characters)", Nova AI ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-04-trail-deepfakes-fingerprints-ai-generated.html,"On the trail of deepfakes, researchers identify 'fingerprints' of AI-generated video","Title: Top 5 Firefox Extensions for Security, Privacy, & Tab Management
+
+Introduction:
+Discover 5 top-notch Firefox extensions that elevate your browsing experience, focusing on security, privacy, and efficient tab management.
+
+1. uBlock Origin - Comprehensive Content Blocker
+2. Privacy Badger - Learned Tracker Blocker
+3. Bitwarden Password Manager - Secure Password Management
+4. Sideberry - Enhanced Tab Management
+5. ClearURLs - Cleaner, Shareable Links","
+
+The Evolution of AI: From Deepfakes to Detectives
+
+In the ever-evolving landscape of artificial intelligence, the recent advancements have been nothing short of cinematic. February marked a milestone with OpenAI's unveiling of Sora, a generative AI program capable of crafting videos so lifelike they could easily be mistaken for reality. This leap forward in AI capabilities has sparked a dual-edged conversation: the excitement of technological progress versus the fear of its misuse.
+
+As AI-generated content becomes increasingly indistinguishable from authentic media, the race to develop effective detection methods is on. Drexel University's latest research suggests that traditional digital media detectors fall short when faced with AI-generated videos. However, hope lies in a machine-learning solution that could potentially reveal the digital ""fingerprints"" left behind by AI video generators.
+
+At the IEEE Computer Vision and Pattern Recognition Conference, Drexel's Multimedia and Information Security Lab presented their findings. They've made headway with a machine learning algorithm adept at identifying the unique traits of various video generators, including Stable Video Diffusion, Video-Crafter, and Cog-Video. Remarkably, this algorithm can adapt to recognize new AI generators with minimal exposure to their output.
+
+Matthew Stamm, Ph.D., an associate professor at Drexel's College of Engineering and director of the MISL, voices a common concern: the release of such technology without a robust fake detection system in place. While responsible entities may embed identifiers and watermarks, the risk of misuse by deceptive actors remains high. Thus, the lab's focus is on staying one step ahead by developing technology that can pinpoint synthetic videos through inherent patterns and traits.
+
+For over a decade, Stamm's lab has been at the forefront of identifying digital manipulation. The editing technologies of yesteryears, which relied on pixel alteration or frame manipulation, left digital trails that were traceable. The lab's suite of tools, powered by a sophisticated machine learning program known as a constrained neural network, has been successful in tracking these trails. This program, learning much like the human brain, discerns ""normal"" from ""unusual"" at a granular level, enabling it to detect deepfakes from both known and unknown sources.
+
+The challenge intensifies with the advent of text-to-video generators like Sora, which bypass traditional camera or photoshop processes. The absence of standard editing clues necessitates a new approach to detection. Stamm's team has tested various synthetic image detectors against AI-generated videos, revealing the need for a detection program capable of recognizing the unique construction methods of generative AI programs.
+
+As we navigate this new era, the question remains: how can we harness the full potential of AI while safeguarding against its darker applications? The answer may lie in the continuous innovation and vigilance of AI detectives like those in Stamm's lab, who are dedicated to ensuring that the digital world remains a realm of truth.
+
+",https://scx2.b-cdn.net/gfx/news/hires/2024/deepfake-1.jpg,2024-04-24 16:09:12,"Discover how Nova AI leads in code testing tools with open-source language models for CI/CD environments and data privacy. Explore Biden's plan for a greener US industrial freight system with 100% zero-emission truck sales by 2040. Act now!
+
+Meta Description:
+
+Explore Nova AI's innovative code testing tools prioritizing data privacy & open-source language models. Delve into Biden's plan for a greener US industrial freight system with 100% zero-emission truck sales by 2040. Act now! (92 characters)","Title: Unlock Firefox's Potential: Top Extensions for Security, Privacy, and Tab Management
+
+Introduction:
+Discover five powerful Firefox extensions to elevate your browsing experience. Focusing on security, privacy, and efficient tab management, these tools will significantly transform your Firefox performance.
+
+1. uBlock Origin - Comprehensive Content Blocker:
+Utilizing various threat and issue lists, uBlock Origin offers robust ad-blocking capabilities and more. With over 7 million downloads, it effectively maintains security and privacy through blocking ads, trackers, coin miners, popups, prefetching, hyperlink auditing, and more.
+
+2. Privacy Badger - Intelligent Tracker Blocker:
+Designed to detect and block invisible trackers based on behavior, Privacy Badger automatically opts you out of data sharing, selling, and tracking. It learns during usage, adding an extra layer of privacy to your browsing.
+
+3. Bitwarden - Secure Password Management:
+With end-to-end encrypted vaults and apps for various platforms, Bitwarden ensures secure password management. The Firefox extension integrates seamlessly, providing the best of password management convenience and security.
+
+4. Sidebery - Efficient Tab Management:
+Although Firefox's tab management lacks advanced features, Sidebery offers a sidebar for enhanced tab management with flat list, tree view, grouped tabs (folders), colorizations, automatic unloading, and custom tab titles.
+
+5. ClearURLs - Cleaner Links:
+ClearURLs offers a simple solution for cleaner, shareable links by removing tracking parameters and other unnecessary elements. This extension helps maintain privacy and streamline the appearance of URLs in your browser.
+
+By integrating these five Firefox extensions, you can enjoy an optimized browsing experience that prioritizes security, privacy, and efficient tab management.",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://www.zdnet.com/home-and-office/kitchen-household/samsung-bespoke-refrigerator-deal/,"I love my Samsung Bespoke refrigerator, and you can buy one for $900 off right now","Title: Top 5 Firefox Extensions for Security, Privacy, & Tab Management
+
+Introduction:
+Discover 5 top-notch Firefox extensions that elevate your browsing experience, focusing on security, privacy, and efficient tab management.
+
+1. uBlock Origin - Comprehensive Content Blocker
+2. Privacy Badger - Learned Tracker Blocker
+3. Bitwarden Password Manager - Secure Password Management
+4. Sideberry - Enhanced Tab Management
+5. ClearURLs - Cleaner, Shareable Links","ZDNET's ""Recommends"" Section: What It Tells You
+ZDNET's recommendations are the result of extensive research, testing, and comparison shopping. We gather data from a variety of sources, including vendor and retailer listings, independent reviews sites, and customer reviews to give you the most accurate and knowledgeable advice possible.
+When you click through from our site to a retailer and buy a product or service, we may earn affiliate commissions. However, this does not affect our editorial content or the price you pay. ZDNET follows strict guidelines to ensure that our editorial content is never influenced by advertisers.
+Our goal is to deliver the most reliable information to help you make smart buying decisions on a wide range of tech gear and products and services. Our editors carefully review and fact-check every article to ensure that our content meets the highest standards. If we make an error or publish misleading information, we will correct or clarify the article. If you notice inaccuracies in our content, please report them via this form.",https://www.zdnet.com/a/img/resize/ee7e5897cba5f51cad8cbb84c44a184cea27f0f5/2024/04/24/9cc44157-4ad0-4f6d-8630-41b6f28555b0/img-5344.jpg?auto=webp&fit=crop&height=675&width=1200,2024-04-24 00:00:00,"Discover how Nova AI leads in code testing tools with open-source language models for CI/CD environments and data privacy. Explore Biden's plan for a greener US industrial freight system with 100% zero-emission truck sales by 2040. Act now!
+
+Meta Description:
+
+Explore Nova AI's innovative code testing tools prioritizing data privacy & open-source language models. Delve into Biden's plan for a greener US industrial freight system with 100% zero-emission truck sales by 2040. Act now! (92 characters)","Title: Unlock Firefox's Potential: Top Extensions for Security, Privacy, and Tab Management
+
+Introduction:
+Discover five powerful Firefox extensions to elevate your browsing experience. Focusing on security, privacy, and efficient tab management, these tools will significantly transform your Firefox performance.
+
+1. uBlock Origin - Comprehensive Content Blocker:
+Utilizing various threat and issue lists, uBlock Origin offers robust ad-blocking capabilities and more. With over 7 million downloads, it effectively maintains security and privacy through blocking ads, trackers, coin miners, popups, prefetching, hyperlink auditing, and more.
+
+2. Privacy Badger - Intelligent Tracker Blocker:
+Designed to detect and block invisible trackers based on behavior, Privacy Badger automatically opts you out of data sharing, selling, and tracking. It learns during usage, adding an extra layer of privacy to your browsing.
+
+3. Bitwarden - Secure Password Management:
+With end-to-end encrypted vaults and apps for various platforms, Bitwarden ensures secure password management. The Firefox extension integrates seamlessly, providing the best of password management convenience and security.
+
+4. Sidebery - Efficient Tab Management:
+Although Firefox's tab management lacks advanced features, Sidebery offers a sidebar for enhanced tab management with flat list, tree view, grouped tabs (folders), colorizations, automatic unloading, and custom tab titles.
+
+5. ClearURLs - Cleaner Links:
+ClearURLs offers a simple solution for cleaner, shareable links by removing tracking parameters and other unnecessary elements. This extension helps maintain privacy and streamline the appearance of URLs in your browser.
+
+By integrating these five Firefox extensions, you can enjoy an optimized browsing experience that prioritizes security, privacy, and efficient tab management.",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
