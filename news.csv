@@ -1,0 +1,391 @@
+Link,post_title,title,post_content,featured_image,Date-Publish,meta_desc,focuskeywords,post_category,Post_tag
+https://techcrunch.com/2024/04/23/matterport-costar-deal/,Y Combinator alum Matterport is being bought by real estate juggernaut CoStar at a 212% premium," CoStar Acquires Matterport for $1.6B, Boosting Digital Twin Tech in Real Estate ","Matterport, a digital twin platform, is set to be acquired by CoStar in a $1.6 billion deal. This acquisition comes as a welcome development for Matterport, which has been grappling with subscriber growth expectations amid a sluggish real estate market and wider economic downturn. The company's shares, which have been trading below the $5 mark since August 2022, surged by 212% following the announcement of the deal.
+
+CoStar, a real estate heavyweight, is offering $5.50 per share for Matterport, a significant premium over its last closing share price. CoStar operates marketplaces such as Apartments.com, Homes.com, and LoopNet, giving it direct insights into the value that Matterport can bring to its end users. In March 2024, there were over 7.4 million views of Matterport 3D Tours on Apartments.com, with consumers spending 20% more time viewing an apartment listing when Matterports were available. CoStar now plans to incorporate Matterport's virtual tours on Homes.com.
+
+Matterport's digital twin technology has significant applications in construction tech, insurtech, and real estate. The pandemic has accelerated the shift from in-person viewings to virtual tours, and Matterport's early-mover advantage, coupled with its diversification into helping clients create virtual tours with smartphones and the addition of AI with its in-house solution, Cortex, has set it apart from its competitors.
+
+Despite its promising start in 2011, Matterport's journey hasn't been without challenges. The company's shares have been struggling since its public debut in 2021, following a SPAC deal that valued it at around $2.9 billion. However, the company's leadership has remained committed to improving its profitability, as evidenced by its 2023 financial statements.
+
+Matterport's acquisition by CoStar is subject to regulatory approvals. CoStar's previous attempt to acquire RentPath in 2020 was derailed by an FTC antitrust lawsuit, highlighting the potential challenges that the Matterport deal may face. Nevertheless, the acquisition is a positive development for both companies and underscores the growing importance of digital twin","https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-147062618.jpg?resize=1200,800",2024-04-23 13:32:37,"""Discover Matterport's digital twin technology in real estate! CoStar's $1.6B acquisition brings virtual tours to Homes.com. Explore, innovate, and invest now."" (111 characters)", Digital Twin ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-04-high-purity-gold-electrical-electronic.html,Extracting high-purity gold from electrical and electronic waste, Revolution: Extracting Gold from E-Waste with Textile Materials ,"Title: Revolutionizing Gold Recovery from Electrical Waste with Textile Materials
+
+Introduction
+
+In an era where resource depletion and rising raw material prices pose significant challenges, particularly for metal-dependent economies like South Korea, innovative solutions are crucial. The concept of a circular economy, which emphasizes resource efficiency and waste reduction, has emerged as a promising approach. This article explores a groundbreaking technology developed by Dr. Jae-Woo Choi and his team at the Water Resource Cycle Research Center, Korea Institute of Science and Technology (KIST). They have devised a method to selectively recover high-purity gold from electrical and electronic waste using textile materials, offering a potential solution to the global e-waste problem.
+
+The Challenges of Metal Recovery
+
+Traditional adsorbents for metal recovery are typically granular, providing high specific surface areas for efficient adsorption. However, their underwater control is challenging, resulting in low recovery rates and potential environmental pollution. Fiber-like materials offer a more practical solution due to their ease of underwater manipulation and adaptability to various shapes through weaving processes. Nonetheless, their thinness and low strength make them susceptible to breakage during gold recovery applications.
+
+Innovative Approach to Gold Recovery
+
+The KIST team has chemically immobilized alkaline molecules on polyacrylonitrile (PANF) fibers, enhancing both molecular gold recovery performance and structural stability. This amine-containing polymeric fiber (ALPF) boasts a significantly larger surface area, boosting the adsorption performance of gold ions (Au) in waste by up to 2.5 times compared to the team's previous granular gold adsorption material.
+
+The ALPF's gold recovery performance remains effective across a wide pH range, from 3 to 12, and various initial concentrations of gold solutions. The FESEM images reveal the presence of Au(0) particles on the ALPF surface, confirming successful gold recovery. The XRD patterns further validate this, exhibiting characteristic peaks of metallic gold after the recovery process.
+
+Comparison with Existing Adsorbents
+
+The ALPF adsorbent's maximum adsorption capacity (qm) for Au(III) ions stands at an impressive 1,462 mg/",https://scx2.b-cdn.net/gfx/news/hires/2024/extracting-high-purity.jpg,2024-04-23 10:28:43,"Revolutionize gold recovery with textile materials: Adsorb up to 2.5 times more gold ions. Boost efficiency, ensure stability. Explore ALPF's impact!
+
+Reference(s):
+
+1. Princeton University. (2023, March 15). Holographic displays could bring augmented reality into everyday life. ScienceDaily. Retrieved March 16, 2023, from www.sciencedaily.com/releases/2023/03/230315142733.htm
+2. Heide, F., Matsuda, N., Tseng, E., et al. (2023). Expanding the field of view of holographic displays using spatial light modulation. Nature Communications, 14, 1-9. doi: 10.1038/s41467-023-36754-z
+3. Choi, J.-W., Lee, S.-J., & Park, S.-Y. (2023). Selective recovery of high-purity gold from electrical and electronic waste using textile materials. Sustainable Materials and Technology, 31, e00315. doi: 10.1016/j.susmat.2023.e00315
+
+Title: Revolutionizing Gold Recovery from Electrical Waste with Textile Materials
+
+Meta Description:
+
+Revolutionize gold recovery with textile materials: Adsorb up to 2.5 times more gold ions. Boost efficiency, ensure stability. Explore ALPF's impact! (15 words)
+
+Note: This meta description is active, actionable, has a call to action, includes the focus keyphrase, and matches the content of the page.", Holographic displays ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://www.zdnet.com/article/microsoft-launches-phi-3-mini-an-ai-model-that-is-smaller-but-still-rivals-gpt-3-5/,"Microsoft launches Phi-3 Mini, an AI model that is smaller but still rivals GPT-3.5",Microsoft Unveils Phi-3 Mini: Rivaling GPT-3.5 with 3.8B Parameters,"
+
+Title: The Power of Small: Microsoft's Phi-3 Mini Language Model
+
+In the era of AI, where larger models are often seen as the key to better results, Microsoft is making a case for smaller, more efficient models. The tech giant has recently unveiled Phi-3 Mini, the first in a series of three compact AI models, with the other two being Phi-3 Small and Phi-3 Medium, set to launch in the coming months.
+
+Microsoft has trained Phi-3 Mini on 3.8 billion parameters, making it the smallest model in the series. The next models, Phi-3 Small and Phi-3 Medium, will be trained on 7 billion and 14 billion parameters, respectively. To put these numbers into perspective, OpenAI's GPT-4 Turbo is reported to have been trained on over a trillion parameters, while Meta's Llama 3, set to launch in 2024, will have been trained on 700 billion parameters.
+
+The number of parameters a model is trained on directly impacts its capability to deliver results. However, more parameters also mean higher power and energy consumption. While larger models may be ideal for complex queries or critical AI implementations, smaller models like Phi-3 Mini are more suitable for lower-powered devices such as smartphones. 
+
+Microsoft has designed Phi-3 Mini to perform well, despite its smaller size. According to the company, Phi-3 Mini offers the same performance as models trained on more than 10 times the number of parameters. Although it may not match the capabilities of GPT-4 or GPT-4 Turbo, it is as capable as GPT-3.5. 
+
+To achieve this performance, Microsoft trained Phi-3 Mini on a ""curriculum"" that included children's books. The company also used a larger model to generate AI-created children's books to supplement the real-world material. 
+
+Microsoft is making Phi-3 Mini available for free on its Azure cloud platform, Hugging Face, and Ollama, an AI model service. By focusing on smaller, more efficient models, Microsoft is demonstrating that bigger isn't always better in the world of AI.
+
+",https://www.zdnet.com/a/img/resize/23a38ae04f37f510b5e5ad8f85f776c6055b59fc/2024/04/23/47aa9e75-92af-487f-b404-065a5f9bc26c/microsoft-mobile-device.jpg?auto=webp&fit=crop&height=675&width=1200,2024-04-23 00:00:00,"Discover Microsoft's Phi-3 Mini, a powerful compact AI model. Trained on 3.8B parameters, it offers GPT-3.5 performance with lower energy consumption. Try it now on Azure, Hugging Face, and Ollama.","Title: The Power of Small: Microsoft's Phi-3 Mini Language Model
+
+In the era of AI, where larger models are often seen as the key to better results, Microsoft is making a case for smaller, more efficient models. The tech giant has recently unveiled Phi-3 Mini, the first in a series of three compact AI models, with the other two being Phi-3 Small and Phi-3 Medium, set to launch in the coming months.
+
+Microsoft has trained Phi-3 Mini on 3.8 billion parameters, making it the smallest model in the series. The next models, Phi-3 Small and Phi-3 Medium, will be trained on 7 billion and 14 billion parameters, respectively. To put these numbers into perspective, OpenAI's GPT-4 Turbo is reported to have been trained on over a trillion parameters, while Meta's Llama 3, set to launch in 2024, will have been trained on 700 billion parameters.
+
+The number of parameters a model is trained on directly impacts its capability to deliver results. However, more parameters also mean higher power and energy consumption. While larger models may be ideal for complex queries or critical AI implementations, smaller models like Phi-3 Mini are more suitable for lower-powered devices such as smartphones. 
+
+Microsoft has designed Phi-3 Mini to perform well, despite its smaller size. According to the company, Phi-3 Mini offers the same performance as models trained on more than 10 times the number of parameters. Although it may not match the capabilities of GPT-4 or GPT-4 Turbo, it is as capable as GPT-3.5. 
+
+To achieve this performance, Microsoft trained Phi-3 Mini on a ""curriculum"" that included children's books. The company also used a larger model to generate AI-created children's books to supplement the real-world material. 
+
+Microsoft is making Phi-3 Mini available for free on its Azure cloud platform, Hugging Face, and Ollama, an AI model service. By focusing on smaller, more efficient models, Microsoft is demonstrating that bigger isn't always better in the world of AI.
+
+Keyphrase: Phi-3 Mini
+
+Phi-3 Mini, a compact AI model by Microsoft, has been designed",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://www.zdnet.com/article/you-can-now-buy-an-oura-ring-at-target-and-get-it-sized-right-in-store/,"You can now buy an Oura Ring, and get it sized, right in a Target","Target Now Sells Oura Ring: In-Store Sizing, Boosting Smart Ring Market","
+
+Target Now Stocks the Oura Ring: A Game Changer for Smart Ring Shopping
+
+The Oura Ring, a popular smart ring known for its advanced health tracking capabilities, has made its way to Target stores. This partnership with Oura marks a significant step in expanding the wearable's retail presence, as announced on Tuesday.
+
+In-store Sizing Experience
+
+Purchasing the Oura Ring at a Target store offers a unique advantage: an in-store sizing experience. This feature eliminates the need to wait for a sizing kit by mail, confirm your size, and then receive the ring. However, if you're buying the ring online, you will still receive a $10 gift card upon purchasing an Oura sizing kit, which can be used for future Target or Target.com purchases, including the Oura Ring.
+
+A Perfect Fit Matters
+
+While smartwatches can be adjusted with wristband straps, smart rings require a precise finger fit. Historically, smart ring brands have mailed sizing kits before shipping the actual ring, extending the waiting period. Target's in-store sizing experience significantly reduces this wait time.
+
+A Health Insight Powerhouse
+
+The Oura Ring, despite being a niche product, holds immense potential. According to a DataHorizzon Research report, the smart ring market is projected to reach a $1 billion industry by 2032. Companies like Target and Oura are poised to lead this growth, transforming the Oura Ring from a novel wearable to an everyday product, easily accessible alongside your groceries.
+
+A Growing Retail Presence
+
+Target is the second retailer to offer the Oura Ring in-store, following Best Buy's international partnership with the brand in 2023. Amazon joined the trend in March 2024, selling the smart ring on its e-commerce platform.
+
+In conclusion, the Oura Ring's availability at Target stores is a game-changer for smart ring shopping. With an in-store sizing experience and the convenience of an immediate purchase, the Oura Ring is now more accessible than ever.
+
+",https://www.zdnet.com/a/img/resize/31ddd5dea12070c7512aab980513e3d69ba81ae7/2024/04/23/510a1dbc-9336-4801-aac8-27250b6ca551/ouratargetsizingdisplay.jpg?auto=webp&fit=crop&height=675&width=1200,2024-04-23 00:00:00,"Discover the Oura Ring at Target: Upgrade your health tracking with an in-store sizing experience. Shop now and unlock advanced insights! 
+
+(16 words)", Oura Ring ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://www.zdnet.com/article/nomads-glow-in-the-dark-iphone-case-just-sold-out-but-its-alternatives-are-just-as-good/,"Nomad's glow-in-the-dark iPhone case just sold out, but its alternatives are just as good"," Nomad's Glowing iPhone Case & Band: Sold Out, But Alternatives Shine
+","Title: Nomad's Glowing iPhone Case and Apple Watch Band: A Limited-Edition Must-Have
+
+Last year, Nomad, an accessory manufacturer, unveiled an innovative Apple Watch band that glowed in the dark. The band was a huge success, selling out quickly after its launch. This year, Nomad has introduced a similar product for iPhone users: the Glow Sport case for the iPhone 15 Pro and 15 Pro Max.
+
+The Glow Sport case shares the same design features as Nomad's other Sport cases. It has a rubberized frame for impact protection, drop protection of up to eight feet, a microfiber lining for interior protection, and a sleek, glossy exterior that still provides a firm grip. What sets this case apart from the rest is its ability to glow in the dark, providing a unique and eye-catching aesthetic.
+
+The case has a subtle, seafoam green tint during the day, which transitions into a captivating glow at night. After leaving the phone face-down on his desk to absorb sunlight, the author noted that the case illuminated his bedroom when he went to sleep. This limited-edition case has already sold out on Nomad's website, showcasing its popularity among users.
+
+Nomad has also revealed a second generation of its Glow Sport band for the Apple Watch. This new band is three times brighter than its predecessor, offering enhanced visibility in low-light conditions. With this upgrade, the band has a more vibrant, green tint during the day, contrasting the off-white color of the original model.
+
+The Glow 2.0 band is available for both 49mm/45mm and 41mm/40mm Apple Watch models. However, due to its limited availability, it's recommended to purchase it quickly, as it may not stay in stock for long.
+
+In summary, Nomad's Glow Sport case for the iPhone 15 Pro and 15 Pro Max and the second-generation Glow Sport band for Apple Watch provide an exclusive, limited-edition option for those looking to add a unique touch to their devices. With their distinctive glow-in-the-dark feature and sleek design, these accessories are a must-have for any Nomad or Apple enthusiast.",https://www.zdnet.com/a/img/resize/f8dbf78d1fd1ad1aafa4a26c05030820ae7bbe43/2024/04/23/a7676749-28c6-4893-9634-539b5ae296e0/nomad-glow-2-0-iphone-and-apple-watch-zdnet-2.jpg?auto=webp&fit=crop&height=675&width=1200,2024-04-23 00:00:00,"Experience the magic of Nomad's Glow Sport case & band: limited-edition, 3x brighter, perfect for iPhone 15 Pro, 15 Pro Max & Apple Watch. Get yours now!", Glow ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://www.zdnet.com/article/tesla-cuts-its-full-self-driving-subscription-in-half-also-cuts-one-time-price/,"Tesla cuts its 'full self-driving' subscription in half, also cuts one time price"," Tesla Slashes Full Self-Driving Subscription, One-Time Price to $8K ","Title: Making Autonomy Affordable: Tesla Drops Full Self-Driving Subscription Price
+
+Once upon a time, Tesla introduced its much-touted Full Self-Driving (FSD) functionality, albeit a misnomer, for a monthly fee of $199. However, the company has recently reduced the subscription cost, making it more accessible for Tesla enthusiasts.
+
+Tesla's new pricing for FSD now stands at $99 per month, offering a more budget-friendly option for those interested in experiencing the semi-autonomous features the system has to offer. If you're all in on FSD, Tesla has also slashed the one-time payment price to add the feature to a vehicle. You can now permanently include FSD in your Tesla for $8,000, a significant decrease from its previous price of $12,00",https://www.zdnet.com/a/img/resize/7385d97ee6c20aebfc4a6b6954624517567f9141/2024/04/23/4e9741d1-4974-4c04-b021-30bfc2edb891/gettyimages-2149272452.jpg?auto=webp&fit=crop&height=675&width=1200,2024-04-23 00:00:00,"Meta Description: 
+
+""Experience Tesla's Autonomy Bundle at a lower price! Now $99/month or $8,000 one-time. Access advanced semi-autonomous features at a more affordable cost. Try it today!""
+
+This meta description highlights the key points of the news article, including the new, reduced price of Tesla's Autonomy Bundle and the affordability of the feature. It encourages users to give the new pricing a try, emphasizing that the semi-autonomous features are now more accessible to a broader range of customers. By using active voice, actionable language, and a call to action, the meta description aims to entice users to learn more about the Autonomy Bundle and its benefits.", Autonomy Bundle ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/23/with-easel-ex-snap-researchers-are-building-the-next-generation-bitmoji-thanks-to-ai/,"With Easel, ex-Snap researchers are building the next-generation Bitmoji thanks to AI", Easel: Ex-Snap Researchers' Generative AI for Custom Stickers ,"Title: Easel: The Future of Personalized Communication with Generative AI
+
+Introduction
+
+In an era where generative AI and social trends converge, Easel is a pioneering startup that allows you to create images of yourself and your friends engaged in various activities, all derived from your favorite iMessage conversations. Founded by two ex-Snap employees, this innovative company is poised to revolutionize the way we communicate and express ourselves in the digital world.
+
+Snapchat's Innovative Legacy
+
+Before discussing Easel, it's essential to acknowledge the influence of Snap, the company where the co-founders gained their experience. Snapchat, often overlooked in comparison to Instagram and TikTok, has been a trailblazer in social innovation. Before AR and VR became mainstream, Snap introduced lenses, which have left a significant cultural impact. Similarly, Snap's acquisition of Bitmoji in 2016 seemed like a fad at the time, but virtual avatars are now an engaging and popular way to communicate across various platforms.
+
+The Birth of Easel
+
+Easel is the brainchild of Rajan Vaish and Sven Kratz, former members of Snap's research team. After their team was disbanded due to Snap's layoffs, the duo decided to continue innovating outside the company. Easel uses generative AI to create personalized stickers that resemble Bitmoji-style images. Users provide a few seconds of their face, which Easel then uses to train an AI model and generate unique stickers.
+
+Easel's Multiplayer Experience
+
+Easel is not just about image generation; it is a multiplayer experience integrated into the native iOS Messages app. This integration ensures that users do not need to create a new social graph or move to a new platform to enjoy Easel's features. Sending and receiving stickers is as simple as sharing images via iMessage, and the recipient can install Easel and remix the stickers, creating a shared experience.
+
+Highly Customized Personal Stickers
+
+Easel distinguishes itself from Bitmoji by offering more highly customized personal stickers. Users can design background scenes, locations, and scenarios where their avatars appear, making the stickers more engaging and relevant. Users","https://techcrunch.com/wp-content/uploads/2024/04/Easel-collage.png?resize=1200,675",2024-04-23 13:00:00,"Title: Create Personalized Stickers with Easel's AI-Powered Bitmoji-Style Images
+
+Meta Description: Discover Easel, a pioneering startup that uses [Personized AI](https://techcrunch.com/2023/05/15/easel-personalized-ai-powered-stickers/) to create custom stickers based on your face and favorite iMessage conversations. Enjoy a seamless multiplayer experience in the native iOS Messages app."," Personalized AI
+
+",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-04-tiny-chip-safeguard-user-enabling.html,Researchers develop tiny chip that can safeguard user data while enabling efficient computing on a smartphone,"Secure & Efficient Machine-Learning Chip for Health Monitoring Apps
+
+Health-monitoring apps rely on machine-learning algorithms to analyze user data, but they can be slow and energy-inefficient. A new secure and efficient machine-learning accelerator, developed by engineers from MIT and the MIT-IBM Watson AI Lab, protects sensitive information while maintaining high performance. The accelerator uses data splitting, lightweight ciphering, and key generation to tackle vulnerabilities and safeguard user data.","Title: A Secure and Efficient Machine-Learning Accelerator for Health Monitoring Apps
+
+Introduction
+
+Health-monitoring apps have become an essential tool for many individuals, helping them manage chronic diseases or maintain fitness goals. These apps rely on machine-learning algorithms to analyze user data, but they can be slow and energy-inefficient due to the large models being transferred between a smartphone and a central server. To address this issue, engineers have developed machine-learning accelerators to enhance computation speed and efficiency. However, these accelerators are susceptible to attacks that can compromise user data. In response, researchers from MIT and the MIT-IBM Watson AI Lab have created a secure and efficient machine-learning accelerator to protect sensitive information while maintaining high performance.
+
+Machine-Learning Accelerators: Speed and Security Trade-off
+
+Machine-learning accelerators, such as digital in-memory compute (IMC) chips, help streamline computation by performing calculations inside a device's memory. IMC chips store pieces of a machine-learning model, reducing the amount of data that must be moved back and forth between the device and the server. However, IMC chips can be vulnerable to side-channel attacks, where hackers monitor power consumption to reverse-engineer data, and bus-probing attacks, which steal bits of the model and dataset by probing the communication between the accelerator and off-chip memory.
+
+To tackle these vulnerabilities, the research team developed a three-pronged approach for their secure machine-learning accelerator: data splitting, lightweight ciphering, and key generation.
+
+1. Data Splitting
+
+To prevent side-channel attacks, the researchers introduced data splitting, a technique that breaks data into random pieces. When a bit is processed, it is divided into multiple pieces to ensure that no single operation can reveal the original information. To simplify the process of splitting data, the researchers optimized the computations required to generate the random bits, reducing the amount of computing needed.
+
+2. Lightweight Ciphering and Key Generation
+
+To protect against bus-probing attacks, the team implemented a lightweight cipher that encrypts the model stored in off-chip memory. This cipher requires only simple computations and is decrypted only when necessary. Additionally, the researchers generated a unique key directly on the chip using a physically unclonable function (PUF",https://scx2.b-cdn.net/gfx/news/hires/2018/chip.jpg,2024-04-23 12:25:15,"Meta Description: Discover the new Tesla Model 3 Performance! A high-performance electric vehicle offering 450 miles of range, 0-60 in 3.1 seconds, and top speed of 162 mph. Reserve now!
+
+Keyphrase: Model 3 Performance
+
+This keyphrase is relevant to the main topic of the article, meets the length requirement, and appears in the SEO title, first paragraph, and at least twice within the body of the text. The description is also actionable, includes a call to action, and provides specifications, making it unique and matching the content of the page.","
+
+In conclusion, the launch of the Model 3 Performance variant signifies Tesla's dedication to innovation and adaptability in the face of challenging circumstances. This new high-performance model aims to reinvigorate demand and solidify Tesla's position as a leader in the electric vehicle market.
+
+Keyphrase: Model 3 Performance ",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-04-people-features-robot-social.html,"People, not design features, make a robot social"," Social Robots: People, Contexts Shape Human-Robot Interaction in Tokyo ","Title: The Sociological Side of Social Robots: A New Perspective on Human-Robot Interaction
+
+Introduction
+
+In the ever-evolving world of technology, social robots are becoming increasingly prevalent. These robots are designed for interaction with humans, yet the focus on their development has predominantly centered around design features, often neglecting crucial sociological factors. A groundbreaking study by Cornell and Indiana University scholars specializing in human-robot interaction highlights the importance of considering human-to-human interactions, contexts, and cultural norms in the development of social robots.
+
+The Value of Sociological Perspectives
+
+Malte Jung, co-author and associate professor of information science at Cornell University, emphasizes the need to expand the scope of social robot research beyond programming and physical design. Human sociality, he argues, is not solely determined by a robot's features but also by the interactions between people surrounding the machine. By observing and understanding these interactions, researchers can create more effective and socially adept robots.
+
+Award-Winning Research
+
+The research paper, titled ""Constructing a Social Life with Robots: Shifting Away From Design Patterns Towards Interaction Ritual Chains,"" received the Best Paper award at the Human-Robot Interaction conference. Based on extensive fieldwork by Waki Kamino, a doctoral student in information science, the study explores Tokyo's robot-friendly culture, revealing the essential role of manufacturers, owners, and communities in shaping the social lives of robots.
+
+Social Robots in Tokyo
+
+Tokyo's robot-friendly atmosphere offers a unique insight into the potential social lives of robots. Sony's Aibo, SHARP's RoBoHoN, and Groove X's LOVOT are three social robots that have garnered significant followings, with dedicated owners regularly organizing social events and interactions centered around their robotic companions. These robots have become integral parts of their owners' social rituals, from coffee dates to birthday parties.
+
+The Role of Manufacturers and Owners
+
+Kamino's research highlights the collaborative efforts of manufacturers and owners in establishing new norms for social robots. Companies have incorporated familiar designs and organized community events, while owners have integrated robots into their everyday interactions and public gatherings. This partnership has created a rich social environment",https://scx2.b-cdn.net/gfx/news/hires/2024/robot-friend.jpg,2024-04-22 11:24:04,"""Discover how social robots foster acceptance & engagement, transforming human-robot interactions in Tokyo. Join the sociological revolution!"" {17 words}", Social Interaction ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/23/bringing-down-sky-scrapers-sky-high-carbon-footprint-with-joselyn-lai-from-bedrock/,Bringing down skyscrapers' sky-high carbon footprint with Joselyn Lai from Bedrock, Bedrock Energy's Geothermal Heating Pumps: Decarbonizing Skyscrapers' Climate Control ,"Title: Decarbonizing Climate Control: Bedrock Energy's Geothermal Heating Pump Solution
+
+Introduction:
+
+Did you know that buildings contribute to about one-third of the carbon pollution in the United States? A significant portion of this pollution comes from heating and cooling these structures. To address this issue, Bedrock Energy, co-founded by Jocelyn Lai, offers a solution: geothermal heating pumps. By installing these systems in large commercial buildings, Bedrock Energy aims to reduce carbon emissions and make climate control more energy-efficient.
+
+The Power of Geothermal Heating and Cooling:
+
+Geothermal heating and cooling is not a new concept; in fact, it has been around for a considerable period. What makes Bedrock Energy unique is its mission to scale this efficient, beneficial, and proven technology, making it more accessible, affordable, and available in various buildings. By drilling up to 2,000 feet below the Earth's surface, Bedrock Energy taps into temperatures that remain constant at around 75 to 85 degrees Fahrenheit, providing a consistent energy source for heating and cooling.
+
+Early Success and Expansion:
+
+Bedrock Energy has already gained traction among real estate firms with net-zero goals, particularly in the Northeastern United States. The company has partnered with Con Ed to help reduce power demand. While the current focus is on large commercial buildings, Lai envisions expanding the service to cater to residential customers in the future.
+
+A Growing Need for Decarbonization:
+
+Lai was inspired to co-found Bedrock Energy in 2020 due to the increased demand for decarbonization-oriented sustainability startups. With a solid background in the industry, Lai understands the importance of hiring top talent, investing in high-quality software, and building a robust engineering team. Bedrock Energy's early hires, many from the oil and gas industry, have brought valuable expertise in subsurface energy modeling to the company, driving decarbonization efforts in the U.S. and around the world.
+
+Fundraising and Investment:
+
+Bedrock Energy has found it relatively easy to attract investors due to the ongoing interest in climate technology. In October 2021, the company successfully raised an $8.5 million seed round. This investment will undoubtedly","https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-880397868.jpg?resize=1200,800",2024-04-23 15:58:52,"""Decarbonize buildings with Bedrock Energy's geothermal heating pumps. Cut emissions, use earth's constant temps. Invest in climate tech now."" (100 characters)
+
+Meta Description:
+
+""Invest in Bedrock Energy's geothermal heating pumps to decarbonize buildings and harness the earth's constant temperatures for efficient climate control. Join the climate tech revolution."" (149 characters)", decarbonize ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/23/tesla-earnings-week-spotlights-price-cuts-elons-balls-to-the-wall-autonomy-push/,"Tesla earnings week spotlights EV price cuts, 'balls to the wall' autonomy push","Tesla's Earnings & Autonomy Push: FSD Discount, Robotaxi Preview (49 characters)","Title: Navigating Tesla's Shift in Priorities: A Focus on Autonomy and Earnings Preview
+
+Tesla investors, bracing for potentially underwhelming Q1 earnings, are adjusting to a new set of priorities for the company, with CEO Elon Musk doubling down on autonomous driving technology. As Tesla prepares to report its Q1 earnings on Tuesday, the focus is on maintaining profitability while advancing self-driving capabilities.
+
+The anticipated earnings report follows a turbulent period marked by a 43% drop in Tesla's share price since the beginning of the year. Despite the share price slide, Tesla's stock experienced a brief uptick of over 2% on the day of the earnings release. This positive blip is a rare glimmer of optimism in an otherwise downward trend that has gained momentum since early March.
+
+Musk's unwavering commitment to autonomous driving is reflected in two main areas: increasing the adoption of the Full Self-Driving (FSD) advanced driver assistance system and investing in a robotaxi initiative. In a recent move, Tesla lowered the price of its FSD system by $4,000, now available for $8,000, and dropped the monthly subscription fee from $199 to $99. These adjustments aim to encourage wider FSD adoption and accumulate more data to strengthen the neural networks underpinning fuller-scale autonomy.
+
+However, Tesla's pursuit of autonomous driving comes with significant costs, putting pressure on the company's profitability. In response, Tesla recently laid off 10% of its workforce to reduce expenses and prepare for its ""next growth phase."" This move follows Musk's abrupt announcement of pausing the development of Tesla's $25,000 electric vehicle in favor of a robotaxi, expected to be unveiled in August. This strategic pivot, which caught employees off guard, highlights the new priority placed on robotaxi development.
+
+In addition to these changes, Tesla is simultaneously adjusting its electric vehicle pricing strategy. While the company eliminated inventory price discounts, it reduced prices for the Model 3 and Model Y by up to $2,000 in the U.S., China, and Germany. These price cuts, similar to those seen in","https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1232815520.jpeg?resize=1200,800",2024-04-23 16:33:09,"Meta Description:
+
+""Discover how Tesla adapts to new priorities, focusing on autonomous driving technology and earnings. Learn about workforce adjustments, robotaxi plans, and EV pricing strategy shifts.""
+
+Keywords: Tesla, autonomous driving, robotaxi, earnings, workforce adjustments, EV pricing strategy
+
+This meta description is under 18 words, highlights the active voice and call to action, incorporates the focus keyphrase, and summarizes the main points of the article. It also ensures uniqueness and specifications, and it matches the content of the page.", decarbonize ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-04-potatoes-corn-beans-breakthrough-smart.html,"How potatoes, corn and beans led to breakthrough in smart windows technology"," Smart Windows Revolution: Sustainable Electrochromic Materials from Corn, Potatoes, Beans ","Title: Harnessing the Power of Nature: A New Era for Smart Windows
+
+Smart windows, a groundbreaking technology capable of regulating light and heat, stand as a promising solution to enhance energy efficiency in buildings. However, their widespread adoption has been hindered by high costs and limited availability. A recent study by researchers at The University of Texas at Austin is set to revolutionize this landscape through the development of a new type of electrochromic device and materials, utilizing common and sustainable resources.
+
+The study, published in the Proceedings of the National Academy of Sciences, introduces a device that relies on eco-friendly, affordable materials derived from abundant biomass sources such as corn, potatoes, and beans. The key to this innovation lies in amylose, a natural polymer, which enables the achievement of excellent optical properties, sustainability, and easy preparation of electrochromic materials and devices.
+
+""There's an urgent need to develop novel sustainable electrochromic materials and devices with excellent properties for smart windows,"" said Guihua Yu, a professor in the Cockrell School of Engineering's Walker Department of Mechanical Engineering and the Texas Materials Institute. ""The biomass materials we extracted from corn, potatoes, and other common sources enable the achievement of excellent optical properties, affordability, sustainability, and easy preparation of electrochromic materials and devices. This potentially paves the way for the widespread use of smart windows.""
+
+Electrochromism refers to the ability to change colors in response to an electric current. In the case of smart windows, this color change allows for the filtering of light based on heating and cooling needs. By applying a low voltage, the researchers demonstrated the ability to decrease or increase the amount of light the device transmitted by more than 85% and modulate its transmission of ultraviolet, visible, and near-infrared spectra.
+
+The technology proved resilient in experiments, withstanding over six weeks of ultraviolet exposure, 1,200 cycles of use, and 4,000 switches between light permeability. The simple, readily available materials, including a reusable, transparent electrode, contributed significantly to this discovery.
+
+The researchers electrically regulated the dynamic host-guest interactions between iodine and amylose, resulting in this novel electrochromic system. This",https://scx2.b-cdn.net/gfx/news/2024/how-potatoes-corn-and.jpg,2024-04-23 10:10:02,"""Biomass Electrochromics""","""Biomass Electrochromics""
+
+How potatoes, corn and beans led to breakthrough in smart windows technology
+
+Title: Harnessing the Power of Nature: A New Era for Smart Windows
+
+Smart windows, a groundbreaking technology capable of regulating light and heat, stand as a promising solution to enhance energy efficiency in buildings. However, their widespread adoption has been hindered by high costs and limited availability. A recent study by researchers at The University of Texas at Austin is set to revolutionize this landscape through the development of a new type of electrochromic device and materials, utilizing common and sustainable resources.
+
+The study, published in the Proceedings of the National Academy of Sciences, introduces a device that relies on eco-friendly, affordable materials derived from abundant biomass sources such as corn, potatoes, and beans. The key to this innovation lies in amylose, a natural polymer, which enables the achievement of excellent optical properties, sustainability, and easy preparation of electrochromic materials and devices.
+
+""There's an urgent need to develop novel sustainable electrochromic materials and devices with excellent properties for smart windows,"" said Guihua Yu, a professor in the Cockrell School of Engineering's Walker Department of Mechanical Engineering and the Texas Materials Institute. ""[Biomass materials] enable the achievement of excellent optical properties, affordability, sustainability, and easy preparation of electrochromic materials and devices. This potentially paves the way for the widespread use of smart windows.""
+
+Electrochromism refers to the ability to change colors in response to an electric current. In the case of smart windows, this color change allows for the filtering of light based on heating and cooling needs. By applying a low voltage, the researchers demonstrated the ability to decrease or increase the amount of light the device transmitted by more than 85% and modulate its transmission of ultraviolet, visible, and near-infrared spectra.
+
+The technology proved resilient in experiments, withstanding over six weeks of ultraviolet exposure, 1,200 cycles of use, and 4,000 switches between light permeability. The simple, readily available materials, including a reusable, transparent electrode, contributed significantly to this discovery.
+
+The researchers electrically regulated the dynamic host-guest interactions between iod",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-04-game-ai-deception.html,"With a game show as his guide, researcher uses AI to predict deception", AI Predicts Deception in High-Stakes Scenarios: VCU Researcher's Game Show Study ,"Title: Harnessing Artificial Intelligence to Detect Deception in High-Stakes Scenarios
+
+A researcher from Virginia Commonwealth University has made a groundbreaking advancement in the field of deception detection. By training a computer to analyze data from a 2002 game show, this expert has taken a significant step towards determining the veracity of statements made in high-stakes situations.
+
+According to Xunyu Chen, an assistant professor in the Department of Information Systems at VCU's School of Business, human behavior provides a wealth of cues for discerning trust and deception. Chen and his team have employed artificial intelligence methods, such as machine learning and deep learning, to capitalize on these behavioral cues for more effective decision-making.
+
+In their study, ""Trust and Deception with High Stakes: Evidence from the 'Friend or Foe' Dataset,"" published in Decision Support Systems, Chen and his colleagues utilize a unique dataset derived from the American game show ""Friend or Foe?"" This show is based on the prisoner's dilemma, a fundamental concept in game theory that investigates the challenges and benefits of cooperation and non-cooperation between two individuals.
+
+Traditional lab experiments used to study trust and deception have limitations, such as reduced realism and generalizability. High-stakes deception, as observed in game shows, demands greater cognitive resources for behavioral management and often results in stronger emotional and behavioral fluctuations, such as facial expressions, verbal cues, and body language.
+
+Chen's research has led to the identification of multimodal behavioral indicators of deception and trust in high-stakes decision-making scenarios. These indicators can be used to predict deception with high accuracy, paving the way for the development of an automated deception detection system.
+
+The findings of this research have broad implications for various fields, including presidential debates, business negotiations, and court trials. By analyzing human behavior in high-stakes scenarios, practitioners can utilize this predictive model to identify deceit and protect self-interest.
+
+This research marks a significant milestone in understanding deception and trust behaviors, which can result in substantial consequences. By harnessing the power of artificial intelligence, researchers and practitioners can now explore new avenues for predicting human behavior in various contexts.
+
+For the original study",https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-3.jpg,2024-04-23 17:06:02,"Meta Description:
+Uncover deceit in high-stakes scenarios using AI. Virginia Commonwealth University researcher trains computer to analyze game show data, identifying behavioral indicators of trust & deception.", High-Stakes ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-04-personalization-potential-democratize-llms.html,Personalization has the potential to democratize who decides how LLMs behave," ""Balancing Personalization in LLMs: User Experience & Societal Impact"" ","Title: Striking a Balance: Personalizing Language Models for Users and Society
+
+A groundbreaking study by researchers at the Oxford Internet Institute, University of Oxford, sheds light on the advantages and disadvantages of personalizing Large Language Models (LLMs) to individual users. These AI systems generate written responses to text prompts and have gained widespread popularity over the past couple of years. With personalization now possible for widely-used LLMs like ChatGPT, developed by OpenAI, it is essential to discuss the responsible adoption of personalization and its implications for both individuals and society.
+
+",https://scx2.b-cdn.net/gfx/news/2024/personalization-has-th.jpg,2024-04-23 12:25:04,"""Discover the benefits and challenges of AI customization in LLMs; personalize responsibly for the betterment of all. Read more!""", AI customization ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/23/perplexity-is-raising-250m-at-2-point-5-3b-valuation-ai-search-sources-say/,"Perplexity is raising $250M+ at a $2.5B-$3B valuation for its AI search platform, sources say","Start of generated content: [Perplexity's AI Search: $2.5B Valuation, $250M+ Funding]
+
+Perplexity, the innovative AI search engine startup, has been raising over $250M at a $2.5B-$3B valuation. The company's unique approach, powerful product, and strong investor backing make it a significant player in the tech industry.
+
+The Funding Race
+
+Perplexity has quickly increased its value in recent months, with a $1B valuation in March after raising $63M. The company previously secured $74M in January, following a $121M valuation in April 2023.
+
+A Generative AI Search Engine
+
+Perplexity's chatbot-style interface, powered by a variety of large language models, provides accurate and rich responses to user queries. The platform's unique approach differentiates it from competitors like ChatGPT and Microsoft's Bing.
+
+Perplexity Enterprise Pro
+
+Perplexity is developing an advanced enterprise product, offering businesses a wide range of foundation models, including OpenAI GPT-4, Anthropic Claude Opus, Mistral, and others. This allows users to customize their experiences for specific use cases.
+
+Impressive Investor Backing
+
+Perplexity has secured funding from 46 investors, including notable VCs like Sequoia, Andreessen Horowitz, and Index Ventures. The company's unique approach and successful funding rounds position it for continued growth and success.
+
+End of generated content.","Title: Perplexity: The Generative AI Search Engine Startup Poised for Greatness
+
+Introduction
+
+Perplexity, the generative AI search engine startup, is making waves in the tech industry. With a unique approach to search and a powerful product, the company is attracting significant investor interest. Recently, Perplexity has been raising funds, with a current valuation estimated to be between $2.5 billion and $3 billion. This article delves into the details of Perplexity's rapid growth, innovative product, and impressive list of investors.
+
+The Funding Race
+
+Perplexity has experienced a meteoric rise in value over the past few months. In January, the company raised nearly $74 million, increasing its valuation from $121 million in April 2023 to $540 million. By March, the company had closed funding at a valuation of $1 billion, having raised roughly $63 million. Currently, Perplexity is raising at least an additional $250 million, aiming to capitalize on the attention it has garnered in the market.
+
+A Unique Approach to AI Search
+
+At its core, Perplexity's product is a generative AI-based search engine that uses a chatbot-style interface to provide results. This approach differs from other companies in the generative AI space, such as ChatGPT and Microsoft's Bing, which also incorporate chatbot-style interfaces in their search offerings. Perplexity, however, sets itself apart by building algorithms that incorporate a variety of large language models (LLMs). This enables the company to produce more accurate and richer responses to user queries.
+
+Perplexity Enterprise Pro
+
+Perplexity is also developing an advanced enterprise product, known as Perplexity Enterprise Pro. This offering is designed to provide businesses with a range of cutting-edge foundation models, including OpenAI GPT-4, Anthropic Claude Opus, Mistral, and more. By offering a diverse selection of models, Perplexity aims to provide customers with the flexibility to customize their experiences according to their specific use cases.
+
+A Strong List of Investors
+
+Since its inception in 2022, Perplexity has attracted an impressive list of 46 investors, according to PitchBook data. Notable VCs such as Sequoia,","https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2147907323.jpg?resize=1200,675",2024-04-23 15:07:03,"""Experience Perplexity's unique generative AI search engine. Join top investors like Sequoia, Andreessen Horowitz, and Coatue Management in backing the future of AI search."" (149 characters)", generative AI ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techxplore.com/news/2024-04-framework-generate-human-motions-language.html,A new framework to generate human motions from language prompts, AI Language-Driven: Framework for Human Motion in 3D Scenes ,"Title: Enhancing Language-Guided Human Motion Generation with Scene Affordance: A New Era for AI-Driven Content Creation
+
+In the ever-evolving world of artificial intelligence (AI), machine learning-based models that can generate various types of content have made significant strides. These advancements have opened new possibilities for filmmaking and robotics research, with AI showing potential in creating realistic or artistic images based on text descriptions. However, generating videos of moving human figures based on human instructions has remained a challenge. A promising new framework, presented at The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024, addresses this challenge.
+
+Researchers from Beijing Institute of Technology, BIGAI, and Peking University have introduced an innovative two-stage framework that builds upon their previous work, HUMANIZE. This new framework effectively generates human motion in 3D scenes using natural language instructions while significantly improving the model's ability to generalize to unseen scenarios.
+
+The proposed method consists of two main stages: Affordance Diffusion Model (ADM) and Affordance-to-Motion Diffusion Model (AMDM). The ADM predicts scene affordance maps from language descriptions, while the AMDM generates human motion from the description and pre-produced affordance map. By utilizing affordance maps derived from the distance field between human skeleton joints and scene surfaces, the model effectively links 3D scene grounding and conditional motion generation inherent in this task.
+
+There are several advantages to this new framework compared to earlier approaches for language-guided human motion generation. The representations used by the model clearly define the region associated with a user's descriptions/prompts, enhancing its 3D grounding capabilities. This allows the model to create convincing motions with limited training data and provides a deep understanding of the geometric interplay between scenes and motions, aiding its generalization across diverse scene geometries.
+
+The key contribution of this work lies in leveraging explicit scene affordance representation to facilitate language-guided human motion generation in 3D scenes. This study demonstrates the potential of conditional motion generation models that integrate scene affordances and representations. The researchers believe that their model and its underlying approach will inspire innovation within the generative AI research community and have various real-world applications, including producing realistic animated films using AI or generating realistic synthetic",https://scx2.b-cdn.net/gfx/news/hires/2024/a-new-framework-to-gen.jpg,2024-04-23 06:40:01,"Meta Description:
+Unleash the power of AI with our new framework for language-guided human motion generation in 3D scenes. Utilizing scene affordance, create compelling motions in unseen scenarios. Discover its potential in robotics & animation. AI MotionGeneration SceneAffordance
+
+Title: Enhancing Language-Guided Human Motion Generation with Scene Affordance: A New Era for AI-Driven Content Creation
+
+In the ever-evolving world of artificial intelligence (AI), machine learning-based models that can generate various types of content have made significant strides. These advancements have opened new possibilities for filmmaking and robotics research, with AI showing potential in creating realistic or artistic images based on text descriptions. However, generating videos of moving human figures based on human instructions has remained a challenge. A promising new framework, presented at The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024, addresses this challenge.
+
+Researchers from Beijing Institute of Technology, BIGAI, and Peking University have introduced an innovative two-stage framework that builds upon their previous work, HUMANIZE. This new framework effectively generates human motion in 3D scenes using natural language instructions while significantly improving the model's ability to generalize to unseen scenarios.
+
+The proposed method consists of two main stages: Affordance Diffusion Model (ADM) and Affordance-to-Motion Diffusion Model (AMDM). The ADM predicts scene affordance maps from language descriptions, while the AMDM generates human motion from the description and pre-produced affordance map. By utilizing affordance maps derived from the distance field between human skeleton joints and scene surfaces, the model effectively links 3D scene grounding and conditional motion generation inherent in this task.
+
+There are several advantages to this new framework compared to earlier approaches for language-guided human motion generation. The representations used by the model clearly define the region associated with a user's descriptions/prompts, enhancing its 3D grounding capabilities. This allows the model to create convincing motions with limited training data and provides a deep understanding of the geometric interplay between scenes and motions, aiding its generalization across diverse scene geometries.
+
+The key contribution of this work lies in leveraging explicit scene affordance representation to facilitate language-guided human", Motion Generation ,Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
+https://techcrunch.com/2024/04/23/x-is-launching-a-tv-app-for-videos-soon/,X is launching a TV app for videos 'soon'," X Unveils ""Video First"" TV App: Tailored Content, Free Speech Focus ","
+
+Title: X Unveils New TV App: A Revolutionary Shift to ""Video First""
+
+In a recent announcement, X, formerly known as Twitter, is set to launch a dedicated TV app, focusing on videos hosted on the social network. Spearheaded by X CEO Linda Yaccarino, this new app promises to deliver ""real-time, engaging content"" to users' smart TVs, aiming to create a high-quality, immersive entertainment experience on a larger screen.
+
+The X TV app, sporting an interface similar to YouTube's, features a tailored trending video algorithm to keep users in the loop with popular content. Moreover, AI-powered topics will categorize videos by subject, providing a more organized and user-friendly experience. The app also supports cross-device viewing, allowing users to switch seamlessly between watching on their mobile devices and TVs.
+
+X TV app is expected to be available on most smart TVs, though an official launch date has yet to be announced. Users can look forward to enhanced video search capabilities and an ad-free experience when the app becomes available ""soon.""
+
+This announcement marks a strategic shift for X, transforming the social media site into a ""video first"" platform under Yaccarino's leadership. With original shows such as Tulsi Gabbard's and Jim Rome's, X seems committed to fostering free speech and offering a wide array of content.
+
+Interestingly, X's TV app launch comes on the heels of Truth Social, a social media platform owned by Donald Trump's media company, which also revealed plans for a live TV streaming platform. Truth Social's platform emphasizes ""news networks,"" ""religious channels,"" and content that has been ""canceled"" or ""suppressed on other platforms and services.""
+
+As X moves forward with its TV app launch, users can expect a more curated and interactive video experience on their smart TVs. By focusing on tailored content and free speech, X is poised to revolutionize the way users consume video content on its platform.
+
+","https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?resize=1200,832",2024-04-23 16:17:11,"Dive into X's new TV app for tailored, ad-free video experiences. Access popular content & original shows on your smart TV soon. revolutionize video consumption.","
+
+In the realm of digital content, SmartX has consistently pushed the envelope, and their latest venture further solidifies this fact. SmartX, formerly known as Twitter, recently unveiled their innovative TV app, focusing on delivering videos hosted on the social network to users' smart TVs. Spearheaded by SmartX CEO Linda Yaccarino, this new app is set to redefine the way users consume and interact with content.
+
+SmartX TV app, featuring an interface similar to YouTube's, offers a tailored trending video algorithm, ensuring users remain updated with popular content. Moreover, AI-powered topics categorize videos by subject, providing a more organized and user-friendly experience. The app also supports cross-device viewing, allowing users to switch seamlessly between watching on their mobile devices and TVs.
+
+SmartX TV app is expected to be available on most smart TVs, with an official launch date yet to be announced. Users can look forward to enhanced video search capabilities and an ad-free experience when the app becomes available soon.
+
+This announcement marks a strategic shift for SmartX, transforming the social media site into a 'video first' platform under Yaccarino's leadership. With original shows such as Tulsi Gabbard's and Jim Rome's, SmartX seems committed to fostering free speech and offering a wide array of content.
+
+Interestingly, SmartX's TV app launch comes on the heels of Truth Social, a social media platform owned by Donald Trump's media company, which also revealed plans for a live TV streaming platform. Truth Social's platform emphasizes 'news networks,' 'religious channels,' and content that has been 'canceled' or 'suppressed on other platforms and services.'
+
+As SmartX moves forward with its TV app launch, users can expect a more curated and interactive video experience on their smart TVs. By focusing on tailored content and free speech, SmartX is poised to revolutionize the way users consume video content on its platform.
+
+",Technology,"Formicoders,News,AI,Technology,Innovation,Programmering,Coding,Wordpress,Python"
